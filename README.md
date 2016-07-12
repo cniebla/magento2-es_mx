@@ -1,8 +1,8 @@
 # magento2-es_mx
 
-Status: 0%
-***NO INSTALAR
-***NOT READY
+Status: 2%
+#NO INSTALAR
+#NOT READY
 
 Spanish:
 --------
