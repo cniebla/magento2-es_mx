@@ -1,4 +1,4 @@
-"Send Test Email","Send Test Email",module,MagePal_GmailSmtpApp
+"Send Test Email","Enviar Email de Prueba",module,MagePal_GmailSmtpApp
 "Please enter a valid username/password","Please enter a valid username/password",module,MagePal_GmailSmtpApp
 "Sent... Please check your email","Sent... Please check your email",module,MagePal_GmailSmtpApp
 "Read Details","Read Details",module,Magento_AdminNotification
