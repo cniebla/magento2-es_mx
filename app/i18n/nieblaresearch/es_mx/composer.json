@@ -1,0 +1,17 @@
+{
+  "name": "nieblaresearch/es_mx",
+  "description": "Spanish (español mexico) language",
+  "version": "100.0.1",
+  "license": [
+    "LGPLv3"
+  ],
+  "require": {
+    "magento/framework": "100.0.*"
+  },
+  "type": "magento2-language",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Translation by: Carlos Alberto Niebla Becerra
+ * cniebla@niebla.com.mx cniebla@gmail.com
+ * Niebla Research, México
+ * Copyright © 2016 Carlos Alberto Niebla Becerra. All rights reserved.
+ * See LICENCE.txt for details
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>es_MX</code>
+    <vendor>nieblaresearch</vendor>
+    <package>es_mx</package>
+</language>
