@@ -134,358 +134,358 @@ Email,Email,module,Magento_Backend
 "User Email","Email del Usuario",module,Magento_Backend
 "New Password","Nueva Contraseña",module,Magento_Backend
 "Password Confirmation","Confirmación de Contraseña",module,Magento_Backend
-"Interface Locale","Interface Locale",module,Magento_Backend
-"Current User Identity Verification","Current User Identity Verification",module,Magento_Backend
-"Your Password","Your Password",module,Magento_Backend
-"Save Cache Settings","Save Cache Settings",module,Magento_Backend
-"Catalog Rewrites","Catalog Rewrites",module,Magento_Backend
-Refresh,Refresh,module,Magento_Backend
-"Images Cache","Images Cache",module,Magento_Backend
-Clear,Clear,module,Magento_Backend
-"Search Index","Search Index",module,Magento_Backend
-Rebuild,Rebuild,module,Magento_Backend
-"Inventory Stock Status","Inventory Stock Status",module,Magento_Backend
-"Rebuild Catalog Index","Rebuild Catalog Index",module,Magento_Backend
-"Rebuild Flat Catalog Category","Rebuild Flat Catalog Category",module,Magento_Backend
-"Rebuild Flat Catalog Product","Rebuild Flat Catalog Product",module,Magento_Backend
-"Cache Control","Cache Control",module,Magento_Backend
-"All Cache","All Cache",module,Magento_Backend
-"No change","No change",module,Magento_Backend
-Disable,Disable,module,Magento_Backend
-Enable,Enable,module,Magento_Backend
-"Add Design Change","Add Design Change",module,Magento_Backend
-Back,Back,module,Magento_Backend
-Delete,Delete,module,Magento_Backend
-"Are you sure?","Are you sure?",module,Magento_Backend
-Save,Save,module,Magento_Backend
-"Edit Design Change","Edit Design Change",module,Magento_Backend
-"New Store Design Change","New Store Design Change",module,Magento_Backend
-"General Settings","General Settings",module,Magento_Backend
-Store,Store,module,Magento_Backend
-"-- Please Select --","-- Please Select --",module,Magento_Backend
-"Custom Design","Custom Design",module,Magento_Backend
-"Date From","Date From",module,Magento_Backend
-"Date To","Date To",module,Magento_Backend
-"Design Change","Design Change",module,Magento_Backend
+"Interface Locale","Localización de Interfaz",module,Magento_Backend
+"Current User Identity Verification","Verificación de Identidad del Usuario Actual",module,Magento_Backend
+"Your Password","Su Contraseña",module,Magento_Backend
+"Save Cache Settings","Guardar Configuración de Caché",module,Magento_Backend
+"Catalog Rewrites","Reescrituras de Catálogo",module,Magento_Backend
+Refresh,Refrescar,module,Magento_Backend
+"Images Cache","Caché de Imágenes",module,Magento_Backend
+Clear,Limpiar,module,Magento_Backend
+"Search Index","Índice de Búsqueda",module,Magento_Backend
+Rebuild,Reconstruir,module,Magento_Backend
+"Inventory Stock Status","Estado de Existencias en Inventario",module,Magento_Backend
+"Rebuild Catalog Index","Reconstruir Índice de Catálogo",module,Magento_Backend
+"Rebuild Flat Catalog Category","Reconstruir Categoría de Catálogo Plano",module,Magento_Backend
+"Rebuild Flat Catalog Product","Reconstruir Producto de Catálogo Plano",module,Magento_Backend
+"Cache Control","Control de Caché",module,Magento_Backend
+"All Cache","Todo el Caché",module,Magento_Backend
+"No change","Sin cambio",module,Magento_Backend
+Disable,Desactivar,module,Magento_Backend
+Enable,Activar,module,Magento_Backend
+"Add Design Change","Añadir Cambio de Diseño",module,Magento_Backend
+Back,Atrás,module,Magento_Backend
+Delete,Borrar,module,Magento_Backend
+"Are you sure?","¿Está seguro?",module,Magento_Backend
+Save,Guardar,module,Magento_Backend
+"Edit Design Change","Editar Cambio de Diseño",module,Magento_Backend
+"New Store Design Change","Nuevo Cambio de Diseño de Tienda",module,Magento_Backend
+"General Settings","Configuración General",module,Magento_Backend
+Store,Tienda,module,Magento_Backend
+"-- Please Select --","-- Por Favor Seleccione --",module,Magento_Backend
+"Custom Design","Diseño Personalizado",module,Magento_Backend
+"Date From","Desde Fecha",module,Magento_Backend
+"Date To","Hasta Fecha",module,Magento_Backend
+"Design Change","Cambio de Diseño",module,Magento_Backend
 General,General,module,Magento_Backend
-Cancel,Cancel,module,Magento_Backend
-"Delete %1 '%2'","Delete %1 '%2'",module,Magento_Backend
-"Delete %1","Delete %1",module,Magento_Backend
-"Block Information","Block Information",module,Magento_Backend
-"Backup Options","Backup Options",module,Magento_Backend
-"Create DB Backup","Create DB Backup",module,Magento_Backend
-Yes,Yes,module,Magento_Backend
+Cancel,Cancelar,module,Magento_Backend
+"Delete %1 '%2'","Borrar %1 '%2'",module,Magento_Backend
+"Delete %1","Borrar %1",module,Magento_Backend
+"Block Information","Información de Bloque",module,Magento_Backend
+"Backup Options","Opciones de Respaldo",module,Magento_Backend
+"Create DB Backup","Crear Respaldo de Base de Datos",module,Magento_Backend
+Yes,Sí,module,Magento_Backend
 No,No,module,Magento_Backend
-"Delete Store","Delete Store",module,Magento_Backend
-"Delete Web Site","Delete Web Site",module,Magento_Backend
-"Save Web Site","Save Web Site",module,Magento_Backend
-"Save Store","Save Store",module,Magento_Backend
-"Save Store View","Save Store View",module,Magento_Backend
-"Delete Store View","Delete Store View",module,Magento_Backend
-"Edit Web Site","Edit Web Site",module,Magento_Backend
-"New Web Site","New Web Site",module,Magento_Backend
-"Edit Store","Edit Store",module,Magento_Backend
-"New Store","New Store",module,Magento_Backend
-"Edit Store View","Edit Store View",module,Magento_Backend
-"New Store View","New Store View",module,Magento_Backend
-"Store Information","Store Information",module,Magento_Backend
-"Web Site","Web Site",module,Magento_Backend
-Name,Name,module,Magento_Backend
-"Root Category","Root Category",module,Magento_Backend
-"Default Store View","Default Store View",module,Magento_Backend
-"Store View Information","Store View Information",module,Magento_Backend
-Code,Code,module,Magento_Backend
-Status,Status,module,Magento_Backend
-Disabled,Disabled,module,Magento_Backend
-Enabled,Enabled,module,Magento_Backend
-"Sort Order","Sort Order",module,Magento_Backend
-"Web Site Information","Web Site Information",module,Magento_Backend
-"Default Store","Default Store",module,Magento_Backend
-"Set as Default","Set as Default",module,Magento_Backend
-Stores,Stores,module,Magento_Backend
-"Create Website","Create Website",module,Magento_Backend
-"Create Store","Create Store",module,Magento_Backend
-"Create Store View","Create Store View",module,Magento_Backend
-Home,Home,module,Magento_Backend
-Reset,Reset,module,Magento_Backend
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Backend
-"Add New Image","Add New Image",module,Magento_Backend
-"Export block for grid %1 is not defined","Export block for grid %1 is not defined",module,Magento_Backend
-"Reset Filter","Reset Filter",module,Magento_Backend
-Search,Search,module,Magento_Backend
-Any,Any,module,Magento_Backend
-"All Countries","All Countries",module,Magento_Backend
-From,From,module,Magento_Backend
-To,To,module,Magento_Backend
-"Date selector","Date selector",module,Magento_Backend
-"[ deleted ]","[ deleted ]",module,Magento_Backend
-"Select All","Select All",module,Magento_Backend
-" [deleted]"," [deleted]",module,Magento_Backend
-"We couldn't find any records.","We couldn't find any records.",module,Magento_Backend
-"Add New","Add New",module,Magento_Backend
-"Invalid export type supplied for grid export block","Invalid export type supplied for grid export block",module,Magento_Backend
-Export,Export,module,Magento_Backend
-"Please correct the column format and try again.","Please correct the column format and try again.",module,Magento_Backend
-"Please select items.","Please select items.",module,Magento_Backend
-Submit,Submit,module,Magento_Backend
-"Unknown block type","Unknown block type",module,Magento_Backend
-"Please correct the tab configuration and try again. Tab Id should be not empty","Please correct the tab configuration and try again. Tab Id should be not empty",module,Magento_Backend
-"Please correct the tab configuration and try again.","Please correct the tab configuration and try again.",module,Magento_Backend
-"You have logged out.","You have logged out.",module,Magento_Backend
-"Specified cache type(s) don't exist: %1","Specified cache type(s) don't exist: %1",module,Magento_Backend
-"The image cache was cleaned.","The image cache was cleaned.",module,Magento_Backend
-"An error occurred while clearing the image cache.","An error occurred while clearing the image cache.",module,Magento_Backend
-"The JavaScript/CSS cache has been cleaned.","The JavaScript/CSS cache has been cleaned.",module,Magento_Backend
-"An error occurred while clearing the JavaScript/CSS cache.","An error occurred while clearing the JavaScript/CSS cache.",module,Magento_Backend
-"The static files cache has been cleaned.","The static files cache has been cleaned.",module,Magento_Backend
-"You flushed the cache storage.","You flushed the cache storage.",module,Magento_Backend
-"The Magento cache storage has been flushed.","The Magento cache storage has been flushed.",module,Magento_Backend
-"Cache Management","Cache Management",module,Magento_Backend
+"Delete Store","Borrar Tienda",module,Magento_Backend
+"Delete Web Site","Borrar Sitio Web",module,Magento_Backend
+"Save Web Site","Guardar Sitio Web",module,Magento_Backend
+"Save Store","Guardar Tienda",module,Magento_Backend
+"Save Store View","Guardar Vista de Tienda",module,Magento_Backend
+"Delete Store View","Borrar Vista de Tienda",module,Magento_Backend
+"Edit Web Site","Editar Sitio Web",module,Magento_Backend
+"New Web Site","Nuevo Sitio Web",module,Magento_Backend
+"Edit Store","Editar Tienda",module,Magento_Backend
+"New Store","Nueva Tienda",module,Magento_Backend
+"Edit Store View","Editar Vista de Tienda",module,Magento_Backend
+"New Store View","Nueva Vista de Tienda",module,Magento_Backend
+"Store Information","Información de Tienda",module,Magento_Backend
+"Web Site","Sitio Web",module,Magento_Backend
+Name,Nombre,module,Magento_Backend
+"Root Category","Categoría Raíz",module,Magento_Backend
+"Default Store View","Vista de Tienda por Defecto",module,Magento_Backend
+"Store View Information","Información de Vista de Tienda",module,Magento_Backend
+Code,Código,module,Magento_Backend
+Status,Estado,module,Magento_Backend
+Disabled,Desactivado,module,Magento_Backend
+Enabled,Activado,module,Magento_Backend
+"Sort Order","Órden de Clasificación",module,Magento_Backend
+"Web Site Information","Información de Sitio Web",module,Magento_Backend
+"Default Store","Tienda por Defecto",module,Magento_Backend
+"Set as Default","Marcar por Defecto",module,Magento_Backend
+Stores,Tiendas,module,Magento_Backend
+"Create Website","Crear Sitio Web",module,Magento_Backend
+"Create Store","Crear Tienda",module,Magento_Backend
+"Create Store View","Crear Vista de Tienda",module,Magento_Backend
+Home,Inicio,module,Magento_Backend
+Reset,Reiniciar,module,Magento_Backend
+"Are you sure you want to do this?","¿Está seguro de hacer esto?",module,Magento_Backend
+"Add New Image","Añadir Nueva Imagen",module,Magento_Backend
+"Export block for grid %1 is not defined","No está definida la exportación del bloque para la cuadrícula %1",module,Magento_Backend
+"Reset Filter","Reiniciar Filtro",module,Magento_Backend
+Search,Búsqueda,module,Magento_Backend
+Any,Cualquiera,module,Magento_Backend
+"All Countries","Todos los Países",module,Magento_Backend
+From,Desde,module,Magento_Backend
+To,Hasta,module,Magento_Backend
+"Date selector","Seleccionador de Fecha",module,Magento_Backend
+"[ deleted ]","[ borrado ]",module,Magento_Backend
+"Select All","Selecionar Todo",module,Magento_Backend
+" [deleted]"," [borrado]",module,Magento_Backend
+"We couldn't find any records.","No pudimos encontrar ningún dato.",module,Magento_Backend
+"Add New","Añadir Nuevo",module,Magento_Backend
+"Invalid export type supplied for grid export block","Se ha suministrado un tipo inválido para la exportación del bloque en cuadrícula",module,Magento_Backend
+Export,Exportar,module,Magento_Backend
+"Please correct the column format and try again.","Por favor corrija el formato de columna e intente de nuevo.",module,Magento_Backend
+"Please select items.","Por favor seleccione ítems.",module,Magento_Backend
+Submit,Enviar,module,Magento_Backend
+"Unknown block type","Tipo de bloque desconocido",module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","Por favor corrija la configuración de la pestaña e intente de nuevo. El identificador de la pestaña no puede estar vacío",module,Magento_Backend
+"Please correct the tab configuration and try again.","Por favor corrija la confuguración de la pestaña e intente de nuevo.",module,Magento_Backend
+"You have logged out.","Ha salido del sistema.",module,Magento_Backend
+"Specified cache type(s) don't exist: %1","La especificación de caché(s) no existe: %1",module,Magento_Backend
+"The image cache was cleaned.","Se ha limpiado el caché de imágenes.",module,Magento_Backend
+"An error occurred while clearing the image cache.","Ha ocurrido un error al limpiar el caché de imágenes.",module,Magento_Backend
+"The JavaScript/CSS cache has been cleaned.","El caché de JavaScript/CSS se ha limpiado.",module,Magento_Backend
+"An error occurred while clearing the JavaScript/CSS cache.","Ha ocurrido un error limpiando el caché de JavaScript/CSS.",module,Magento_Backend
+"The static files cache has been cleaned.","El caché de archivos estáticos se ha limpiado.",module,Magento_Backend
+"You flushed the cache storage.","Ha vaciado el almacenamiendo de caché.",module,Magento_Backend
+"The Magento cache storage has been flushed.","El almacenamiento de caché de Magendo se ha vaciado.",module,Magento_Backend
+"Cache Management","Administración de Caché",module,Magento_Backend
 "%1 cache type(s) disabled.","%1 cache type(s) disabled.",module,Magento_Backend
-"An error occurred while disabling cache.","An error occurred while disabling cache.",module,Magento_Backend
-"%1 cache type(s) enabled.","%1 cache type(s) enabled.",module,Magento_Backend
-"An error occurred while enabling cache.","An error occurred while enabling cache.",module,Magento_Backend
-"%1 cache type(s) refreshed.","%1 cache type(s) refreshed.",module,Magento_Backend
-"An error occurred while refreshing cache.","An error occurred while refreshing cache.",module,Magento_Backend
-Dashboard,Dashboard,module,Magento_Backend
-"We updated lifetime statistic.","We updated lifetime statistic.",module,Magento_Backend
-"We can't refresh lifetime statistics.","We can't refresh lifetime statistics.",module,Magento_Backend
-"invalid request","invalid request",module,Magento_Backend
-"see error log for details","see error log for details",module,Magento_Backend
-"Service unavailable: %1","Service unavailable: %1",module,Magento_Backend
+"An error occurred while disabling cache.","Ha ocurrido un error al desactivar el caché.",module,Magento_Backend
+"%1 cache type(s) enabled.","%1 tipo(s) de caché activado(s).",module,Magento_Backend
+"An error occurred while enabling cache.","Ocurrió un error al activar el caché.",module,Magento_Backend
+"%1 cache type(s) refreshed.","%1 tipo(s) de caché refrescados.",module,Magento_Backend
+"An error occurred while refreshing cache.","Ocurrió un error al refrescar el caché.",module,Magento_Backend
+Dashboard,Tablero,module,Magento_Backend
+"We updated lifetime statistic.","Actualizamos las estadísticas.",module,Magento_Backend
+"We can't refresh lifetime statistics.","No podemos refrescar las estadísticas.",module,Magento_Backend
+"invalid request","solicitud inválida",module,Magento_Backend
+"see error log for details","vea la botácora de errores para ver los detalles",module,Magento_Backend
+"Service unavailable: %1","Servicio no disponible: %1",module,Magento_Backend
 Error,Error,module,Magento_Backend
-"Access Denied.","Access Denied.",module,Magento_Backend
-"You need more permissions to do this.","You need more permissions to do this.",module,Magento_Backend
-"No search modules were registered","No search modules were registered",module,Magento_Backend
-"Please make sure that all global admin search modules are installed and activated.","Please make sure that all global admin search modules are installed and activated.",module,Magento_Backend
-"You saved the account.","You saved the account.",module,Magento_Backend
-"An error occurred while saving account.","An error occurred while saving account.",module,Magento_Backend
-"You deleted the design change.","You deleted the design change.",module,Magento_Backend
-"You can't delete the design change.","You can't delete the design change.",module,Magento_Backend
-"Store Design","Store Design",module,Magento_Backend
-"Edit Store Design Change","Edit Store Design Change",module,Magento_Backend
-"You saved the design change.","You saved the design change.",module,Magento_Backend
-System,System,module,Magento_Backend
-"Manage Stores","Manage Stores",module,Magento_Backend
-"The database was backed up.","The database was backed up.",module,Magento_Backend
-"We can't create a backup right now. Please try again later.","We can't create a backup right now. Please try again later.",module,Magento_Backend
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.",module,Magento_Backend
-"Something went wrong. Please try again.","Something went wrong. Please try again.",module,Magento_Backend
-"This store cannot be deleted.","This store cannot be deleted.",module,Magento_Backend
-"You deleted the store.","You deleted the store.",module,Magento_Backend
-"Unable to delete the store. Please try again later.","Unable to delete the store. Please try again later.",module,Magento_Backend
-"This store view cannot be deleted.","This store view cannot be deleted.",module,Magento_Backend
-"Store View","Store View",module,Magento_Backend
-"You deleted the store view.","You deleted the store view.",module,Magento_Backend
-"Unable to delete the store view. Please try again later.","Unable to delete the store view. Please try again later.",module,Magento_Backend
-"This website cannot be deleted.","This website cannot be deleted.",module,Magento_Backend
-"You deleted the website.","You deleted the website.",module,Magento_Backend
-"Unable to delete the website. Please try again later.","Unable to delete the website. Please try again later.",module,Magento_Backend
-"The website does not exist.","The website does not exist.",module,Magento_Backend
-"Before modifying the website code please make sure it is not used in index.php.","Before modifying the website code please make sure it is not used in index.php.",module,Magento_Backend
-"The store does not exist","The store does not exist",module,Magento_Backend
-"Store view doesn't exist","Store view doesn't exist",module,Magento_Backend
-"Before modifying the store view code please make sure it is not used in index.php.","Before modifying the store view code please make sure it is not used in index.php.",module,Magento_Backend
-"New ","New ",module,Magento_Backend
-"You saved the website.","You saved the website.",module,Magento_Backend
-"An inactive store view cannot be saved as default store view","An inactive store view cannot be saved as default store view",module,Magento_Backend
-"You saved the store.","You saved the store.",module,Magento_Backend
-"The default store cannot be disabled","The default store cannot be disabled",module,Magento_Backend
-"You saved the store view.","You saved the store view.",module,Magento_Backend
-"Something went wrong while saving. Please review the error log.","Something went wrong while saving. Please review the error log.",module,Magento_Backend
-"Last 24 Hours","Last 24 Hours",module,Magento_Backend
-"Last 7 Days","Last 7 Days",module,Magento_Backend
-"Current Month","Current Month",module,Magento_Backend
+"Access Denied.","Acceso Denegado.",module,Magento_Backend
+"You need more permissions to do this.","Necesita más permisos para hacer esto.",module,Magento_Backend
+"No search modules were registered","No se registraron módulos de búsqueda",module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.","Por favor asegúrese de que todos los módulos globales administrativos están instalados y activados.",module,Magento_Backend
+"You saved the account.","Ha guardado la cuenta.",module,Magento_Backend
+"An error occurred while saving account.","Ocurrió un error al guardar la cuenta.",module,Magento_Backend
+"You deleted the design change.","Borró el cambio de diseño.",module,Magento_Backend
+"You can't delete the design change.","No puede borrar el cambio de diseño.",module,Magento_Backend
+"Store Design","Diseño de Tienda",module,Magento_Backend
+"Edit Store Design Change","Editar el Cambio de Diseño de Tienda",module,Magento_Backend
+"You saved the design change.","Ha guardado el cambio de diseño.",module,Magento_Backend
+System,Sistema,module,Magento_Backend
+"Manage Stores","Administrar Tiendas",module,Magento_Backend
+"The database was backed up.","Se ha respaldado la base de datos.",module,Magento_Backend
+"We can't create a backup right now. Please try again later.","No podemos crear un respaldo ahora mismo. Por favor intente más tarde.",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Borrar un %1 no borrará la información asociada con el %1 (por ejemplo categorías, productos, etc.), pero el %1 no se podrá restaurar. Se sugiere que primero haga un respaldo de la base de datos antes de borrar el %1.",module,Magento_Backend
+"Something went wrong. Please try again.","Algo no funcionó. Por favor intente de nuevo.",module,Magento_Backend
+"This store cannot be deleted.","No se puede borrar esta tienda.",module,Magento_Backend
+"You deleted the store.","Ha borrado la tienda.",module,Magento_Backend
+"Unable to delete the store. Please try again later.","No se ha podido borrar la tienda. Por favor intente de nuevo más tarde.",module,Magento_Backend
+"This store view cannot be deleted.","Esta vista de tienda no puede borrarse.",module,Magento_Backend
+"Store View","Vista de Tienda",module,Magento_Backend
+"You deleted the store view.","Ha borrado la vista de tienda.",module,Magento_Backend
+"Unable to delete the store view. Please try again later.","No se ha podido borrar la vista de tienda. Por favor intente más tarde.",module,Magento_Backend
+"This website cannot be deleted.","No se puede borrar este sitio web.",module,Magento_Backend
+"You deleted the website.","Ha borrado el sitio web.",module,Magento_Backend
+"Unable to delete the website. Please try again later.","No se ha podido borrar el sitio web. Por favor intente más tarde.",module,Magento_Backend
+"The website does not exist.","No existe el sitio web.",module,Magento_Backend
+"Before modifying the website code please make sure it is not used in index.php.","Antes de modificar el código del sitio web por favor asegúrese de que no se usa en index.php.",module,Magento_Backend
+"The store does not exist","La tienda no existe",module,Magento_Backend
+"Store view doesn't exist","La vista de la tienda no existe",module,Magento_Backend
+"Before modifying the store view code please make sure it is not used in index.php.","Antes de modificar la vista de tienda por favor asegúrese de que no se usa en index.php.",module,Magento_Backend
+"New ","Nuevo ",module,Magento_Backend
+"You saved the website.","Ha guardado el sitio web.",module,Magento_Backend
+"An inactive store view cannot be saved as default store view","No se puede guardar por defecto una vista de tienda inactiva",module,Magento_Backend
+"You saved the store.","Ha guardado la tienda.",module,Magento_Backend
+"The default store cannot be disabled","La tienda por defecto no puede desactivarse",module,Magento_Backend
+"You saved the store view.","Ha guardado la vista de tienda.",module,Magento_Backend
+"Something went wrong while saving. Please review the error log.","Algo no funcionó al guardar. Por favor revise la bitácora de error.",module,Magento_Backend
+"Last 24 Hours","Últimas 24 Horas",module,Magento_Backend
+"Last 7 Days","Últimos 7 Días",module,Magento_Backend
+"Current Month","Mes Actual",module,Magento_Backend
 YTD,YTD,module,Magento_Backend
 2YTD,2YTD,module,Magento_Backend
-"Authentication storage is incorrect.","Authentication storage is incorrect.",module,Magento_Backend
-"You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_Backend
-"Authentication error occurred.","Authentication error occurred.",module,Magento_Backend
-"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Admin session lifetime must be less than or equal to 31536000 seconds (one year)",module,Magento_Backend
-"Admin session lifetime must be greater than or equal to 60 seconds","Admin session lifetime must be greater than or equal to 60 seconds",module,Magento_Backend
-Order,Order,module,Magento_Backend
-"Order #%1","Order #%1",module,Magento_Backend
-"Access denied","Access denied",module,Magento_Backend
-"Please try to sign out and sign in again.","Please try to sign out and sign in again.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","If you continue to receive this message, please contact the store owner.",module,Magento_Backend
-"You need more permissions to access this.","You need more permissions to access this.",module,Magento_Backend
-"Welcome, please sign in","Welcome, please sign in",module,Magento_Backend
-Username,Username,module,Magento_Backend
-"user name","user name",module,Magento_Backend
-Password,Password,module,Magento_Backend
-password,password,module,Magento_Backend
-"Sign in","Sign in",module,Magento_Backend
-"Select Range:","Select Range:",module,Magento_Backend
-"No Data Found","No Data Found",module,Magento_Backend
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.",module,Magento_Backend
-"Last Orders","Last Orders",module,Magento_Backend
-"Last Search Terms","Last Search Terms",module,Magento_Backend
-"Top Search Terms","Top Search Terms",module,Magento_Backend
-"There are no search keywords.","There are no search keywords.",module,Magento_Backend
-"View Statistics For:","View Statistics For:",module,Magento_Backend
-"All Websites","All Websites",module,Magento_Backend
-"Reload Data","Reload Data",module,Magento_Backend
-"Browse Files...","Browse Files...",module,Magento_Backend
+"Authentication storage is incorrect.","La autenticación de almacenamiento es incorrecta.",module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.","No ingresado correctamente o su cuenta está temporalmente desactivada.",module,Magento_Backend
+"Authentication error occurred.","Ocurrió un error de auntenticación.",module,Magento_Backend
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","El tiempo de sesión de la cuenta de administración debe ser menor o igual a 31536000 segundos (un año)",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","El tiempo de sesión de la cuenta de administración debe ser mayor o igual a 60 segundos",module,Magento_Backend
+Order,Orden,module,Magento_Backend
+"Order #%1","Orden #%1",module,Magento_Backend
+"Access denied","Acceso denegado",module,Magento_Backend
+"Please try to sign out and sign in again.","Por favor intente salir y entrar de nuevo.",module,Magento_Backend
+"If you continue to receive this message, please contact the store owner.","Si continúa recibiendo este mensaje, por favor contacte al dueño de la tienda.",module,Magento_Backend
+"You need more permissions to access this.","Necesita más permisos para acceder a esto.",module,Magento_Backend
+"Welcome, please sign in","Bienvenido, por favor ingrese",module,Magento_Backend
+Username,"Nombre de usuario",module,Magento_Backend
+"user name","nombre de usuario",module,Magento_Backend
+Password,Contraseña,module,Magento_Backend
+password,contraseña,module,Magento_Backend
+"Sign in","Ingrese",module,Magento_Backend
+"Select Range:","Seleccione el Rango:",module,Magento_Backend
+"No Data Found","No se encontraron datos",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Gráfica desactivada. Para activar la gráfica, haga click <a href=""%1"">aquí</a>.",module,Magento_Backend
+"Last Orders","Órdenes recientes",module,Magento_Backend
+"Last Search Terms","Términos de Búsqueda Recientes",module,Magento_Backend
+"Top Search Terms","Términos de Búsqueda Más Usados",module,Magento_Backend
+"There are no search keywords.","No hay términos de búsqueda.",module,Magento_Backend
+"View Statistics For:","Ver Estadísticas de:",module,Magento_Backend
+"All Websites","Todos los Sitios Web",module,Magento_Backend
+"Reload Data","Recargar Datos",module,Magento_Backend
+"Browse Files...","Ver Archivos...",module,Magento_Backend
 Magento,Magento,module,Magento_Backend
-"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. All rights reserved.",module,Magento_Backend
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Todos los derechos reservados.",module,Magento_Backend
 "ver. %1","ver. %1",module,Magento_Backend
-"Magento Admin Panel","Magento Admin Panel",module,Magento_Backend
-"Account Setting","Account Setting",module,Magento_Backend
-"Customer View","Customer View",module,Magento_Backend
-"Sign Out","Sign Out",module,Magento_Backend
-"About the calendar","About the calendar",module,Magento_Backend
-Close,Close,module,Magento_Backend
-"Go Today","Go Today",module,Magento_Backend
-Previous,Previous,module,Magento_Backend
-Next,Next,module,Magento_Backend
+"Magento Admin Panel","Panel de Administración de Magento",module,Magento_Backend
+"Account Setting","Configuración de Cuenta",module,Magento_Backend
+"Customer View","Vista de Cliente",module,Magento_Backend
+"Sign Out","Salir",module,Magento_Backend
+"About the calendar","Acerca del calendario",module,Magento_Backend
+Close,Cerrar,module,Magento_Backend
+"Go Today","Ir hacia Hoy",module,Magento_Backend
+Previous,Anterior,module,Magento_Backend
+Next,Siguiente,module,Magento_Backend
 WK,WK,module,Magento_Backend
-Time,Time,module,Magento_Backend
-Hour,Hour,module,Magento_Backend
-Minute,Minute,module,Magento_Backend
-"JavaScript may be disabled in your browser.","JavaScript may be disabled in your browser.",module,Magento_Backend
-"To use this website you must first enable JavaScript in your browser.","To use this website you must first enable JavaScript in your browser.",module,Magento_Backend
-"This is only a demo store. You can browse and place orders, but nothing will be processed.","This is only a demo store. You can browse and place orders, but nothing will be processed.",module,Magento_Backend
-"Report Bugs","Report Bugs",module,Magento_Backend
-"Store View:","Store View:",module,Magento_Backend
-"Stores Configuration","Stores Configuration",module,Magento_Backend
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost.",module,Magento_Backend
-"Additional Cache Management","Additional Cache Management",module,Magento_Backend
-"Flush Catalog Images Cache","Flush Catalog Images Cache",module,Magento_Backend
-"Pregenerated product images files","Pregenerated product images files",module,Magento_Backend
-"Flush JavaScript/CSS Cache","Flush JavaScript/CSS Cache",module,Magento_Backend
-"Themes JavaScript and CSS files combined to one file","Themes JavaScript and CSS files combined to one file",module,Magento_Backend
-"Flush Static Files Cache","Flush Static Files Cache",module,Magento_Backend
-"Preprocessed view files and static files","Preprocessed view files and static files",module,Magento_Backend
-Catalog,Catalog,module,Magento_Backend
+Time,Tiempo,module,Magento_Backend
+Hour,Hora,module,Magento_Backend
+Minute,Minuto,module,Magento_Backend
+"JavaScript may be disabled in your browser.","Su navegador puede tener desactivado JavaScript.",module,Magento_Backend
+"To use this website you must first enable JavaScript in your browser.","Para usar este sitio web primero debe activar JavaScript en su navegador.",module,Magento_Backend
+"This is only a demo store. You can browse and place orders, but nothing will be processed.","Esta es sólo una tienda de muestra. Puede ver y hacer órdenes, pero nada será procesado.",module,Magento_Backend
+"Report Bugs","Reporte Errores",module,Magento_Backend
+"Store View:","Vista de Tienda:",module,Magento_Backend
+"Stores Configuration","Configuración de Tiendas",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Por favor confirme el cambio del alcance. Todos los datos que no se han guardado se perderán.",module,Magento_Backend
+"Additional Cache Management","Administración Adicional de Caché",module,Magento_Backend
+"Flush Catalog Images Cache","Limpiar el Caché de Imágenes de Catálogo",module,Magento_Backend
+"Pregenerated product images files","Archivos de imágenes de producto pre-generados",module,Magento_Backend
+"Flush JavaScript/CSS Cache","Limpiar el caché de JavaScript/CSS",module,Magento_Backend
+"Themes JavaScript and CSS files combined to one file","El código JavaScript de los temas y los archivos de CSS combinados en un archivo",module,Magento_Backend
+"Flush Static Files Cache","Limpiar el Caché de Archivos Estáticos",module,Magento_Backend
+"Preprocessed view files and static files","Archivos de vista y archivos estáticos pre-procesados",module,Magento_Backend
+Catalog,Catálogo,module,Magento_Backend
 JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
-"JavaScript/CSS Cache","JavaScript/CSS Cache",module,Magento_Backend
-"No records found.","No records found.",module,Magento_Backend
-Images,Images,module,Magento_Backend
-"Big Image","Big Image",module,Magento_Backend
-Thumbnail,Thumbnail,module,Magento_Backend
-"Additional Settings","Additional Settings",module,Magento_Backend
-"records found","records found",module,Magento_Backend
-selected,selected,module,Magento_Backend
-"per page","per page",module,Magento_Backend
-"Previous page","Previous page",module,Magento_Backend
-"of %1","of %1",module,Magento_Backend
-"Next page","Next page",module,Magento_Backend
-"Export to:","Export to:",module,Magento_Backend
-Actions,Actions,module,Magento_Backend
-"Mass Actions","Mass Actions",module,Magento_Backend
-"Unselect All","Unselect All",module,Magento_Backend
-"Select Visible","Select Visible",module,Magento_Backend
-"Unselect Visible","Unselect Visible",module,Magento_Backend
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Backend
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Backend
-"The information in this tab has been changed.","The information in this tab has been changed.",module,Magento_Backend
-Loading...,Loading...,module,Magento_Backend
-"System Backup","System Backup",module,Magento_Backup
-"Database and Media Backup","Database and Media Backup",module,Magento_Backup
-"Database Backup","Database Backup",module,Magento_Backup
-"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.",module,Magento_Backup
-"You need more permissions to activate maintenance mode right now.","You need more permissions to activate maintenance mode right now.",module,Magento_Backup
-"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
-"Something went wrong while putting your store into maintenance mode.","Something went wrong while putting your store into maintenance mode.",module,Magento_Backup
-"You need more free space to create a backup.","You need more free space to create a backup.",module,Magento_Backup
-"You need more permissions to create a backup.","You need more permissions to create a backup.",module,Magento_Backup
-"We can't create the backup right now.","We can't create the backup right now.",module,Magento_Backup
-Backups,Backups,module,Magento_Backup
-System,System,module,Magento_Backup
-Tools,Tools,module,Magento_Backup
-Backup,Backup,module,Magento_Backup
-"We can't delete one or more backups.","We can't delete one or more backups.",module,Magento_Backup
-failed,failed,module,Magento_Backup
-successful,successful,module,Magento_Backup
-"You deleted the selected backup(s).","You deleted the selected backup(s).",module,Magento_Backup
-"Can't load snapshot archive","Can't load snapshot archive",module,Magento_Backup
-"Please correct the password.","Please correct the password.",module,Magento_Backup
-"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
-"We can't find the backup file.","We can't find the backup file.",module,Magento_Backup
-"We can't connect to the FTP right now.","We can't connect to the FTP right now.",module,Magento_Backup
-"Failed to validate FTP.","Failed to validate FTP.",module,Magento_Backup
-"You need more permissions to perform a rollback.","You need more permissions to perform a rollback.",module,Magento_Backup
-"Failed to rollback.","Failed to rollback.",module,Magento_Backup
-Database,Database,module,Magento_Backup
-"Database and Media","Database and Media",module,Magento_Backup
-"System (excluding Media)","System (excluding Media)",module,Magento_Backup
-"You created the system backup.","You created the system backup.",module,Magento_Backup
-"You created the system backup (excluding media).","You created the system backup (excluding media).",module,Magento_Backup
-"You created the database and media backup.","You created the database and media backup.",module,Magento_Backup
-"You created the database backup.","You created the database backup.",module,Magento_Backup
-"Please correct the order of creation for a new backup.","Please correct the order of creation for a new backup.",module,Magento_Backup
-"The backup file does not exist.","The backup file does not exist.",module,Magento_Backup
-"The backup file path was not specified.","The backup file path was not specified.",module,Magento_Backup
-"The backup file ""%1"" does not exist.","The backup file ""%1"" does not exist.",module,Magento_Backup
-"Sorry, but we cannot read from or write to backup file ""%1"".","Sorry, but we cannot read from or write to backup file ""%1"".",module,Magento_Backup
-"The backup file handler was unspecified.","The backup file handler was unspecified.",module,Magento_Backup
-"Something went wrong while writing to the backup file ""%1"".","Something went wrong while writing to the backup file ""%1"".",module,Magento_Backup
-"We can't save the Cron expression.","We can't save the Cron expression.",module,Magento_Backup
-"You will lose any data created since the backup was made, including admin users, customers and orders.","You will lose any data created since the backup was made, including admin users, customers and orders.",module,Magento_Backup
-"Are you sure you want to continue?","Are you sure you want to continue?",module,Magento_Backup
-"This may take a few moments.","This may take a few moments.",module,Magento_Backup
-"Be sure your store is in maintenance mode during backup.","Be sure your store is in maintenance mode during backup.",module,Magento_Backup
-"Backup Name","Backup Name",module,Magento_Backup
-"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.",module,Magento_Backup
-"Maintenance mode","Maintenance mode",module,Magento_Backup
-"Please put your store into maintenance mode during backup.","Please put your store into maintenance mode during backup.",module,Magento_Backup
-Exclude,Exclude,module,Magento_Backup
-"Exclude media folder from backup","Exclude media folder from backup",module,Magento_Backup
-"Please enter the password to confirm rollback.","Please enter the password to confirm rollback.",module,Magento_Backup
+"JavaScript/CSS Cache","Caché JavaScript/CSS",module,Magento_Backend
+"No records found.","No se encontraron datos.",module,Magento_Backend
+Images,Imágenes,module,Magento_Backend
+"Big Image","Imagen Grande",module,Magento_Backend
+Thumbnail,"Imagen Miniatura",module,Magento_Backend
+"Additional Settings","Configuraciones Adicionales",module,Magento_Backend
+"records found","datos encontrados",module,Magento_Backend
+selected,seleccionado,module,Magento_Backend
+"per page","por página",module,Magento_Backend
+"Previous page","Página Anterior",module,Magento_Backend
+"of %1","de %1",module,Magento_Backend
+"Next page","Página Siguiente",module,Magento_Backend
+"Export to:","Exportar a:",module,Magento_Backend
+Actions,Acciones,module,Magento_Backend
+"Mass Actions","Acciones Masivas",module,Magento_Backend
+"Unselect All","Des-seleccionar Todo",module,Magento_Backend
+"Select Visible","Seleccionar Visibles",module,Magento_Backend
+"Unselect Visible","Des-seleccionar Visibles",module,Magento_Backend
+"Changes have been made to this section that have not been saved.","Los cambios realizados a esta sección no han sido guardados.",module,Magento_Backend
+"This tab contains invalid data. Please resolve this before saving.","Esta pestaña contiene datos inválidos. Por favor resuélvalo antes de guardar.",module,Magento_Backend
+"The information in this tab has been changed.","La información de esta pestaña ha cambiado.",module,Magento_Backend
+Loading...,Cargando...,module,Magento_Backend
+"System Backup","Respaldo de Sistema",module,Magento_Backup
+"Database and Media Backup","Respaldo de Base de Datos y Medios",module,Magento_Backup
+"Database Backup","Respaldo de Base de Datos",module,Magento_Backup
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","El archivo puede descomprimirse con <a href=""%1"">%2</a> en Windows.",module,Magento_Backup
+"You need more permissions to activate maintenance mode right now.","Necesita más permisos para activar el modo de mantenimiento ahora.",module,Magento_Backup
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","Para crear el respaldo, por favor des-seleccione ""Poner la tienda en modo de mantenimiento"" o actualice los permisos.",module,Magento_Backup
+"Something went wrong while putting your store into maintenance mode.","Algo no funcionó al poner su tienda en modo de mantenimiento.",module,Magento_Backup
+"You need more free space to create a backup.","Necesita más espacio libre para crear un respaldo.",module,Magento_Backup
+"You need more permissions to create a backup.","Necesita más permisos para crear un respaldo.",module,Magento_Backup
+"We can't create the backup right now.","No podemos crear un respaldo ahora mismo.",module,Magento_Backup
+Backups,Respaldos,module,Magento_Backup
+System,Sistema,module,Magento_Backup
+Tools,Herramientas,module,Magento_Backup
+Backup,Respaldos,module,Magento_Backup
+"We can't delete one or more backups.","No podemos borrar uno o más respaldos.",module,Magento_Backup
+failed,falló,module,Magento_Backup
+successful,exitoso,module,Magento_Backup
+"You deleted the selected backup(s).","Ha borrado el/los respaldo(s) seleccionado(s).",module,Magento_Backup
+"Can't load snapshot archive","No se puede cargar el archivo instantáneo",module,Magento_Backup
+"Please correct the password.","Por favor corrija la contraseña.",module,Magento_Backup
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","Para completar la revocación, por favor des-seleccione ""Poner la tienda en modo de mantenimiento"" o actualice los permisos.",module,Magento_Backup
+"We can't find the backup file.","No podemos encontrar el archivo de respaldo.",module,Magento_Backup
+"We can't connect to the FTP right now.","No podemos conectar al FTP en este momento.",module,Magento_Backup
+"Failed to validate FTP.","Falla al validar el FTP.",module,Magento_Backup
+"You need more permissions to perform a rollback.","Necesita más permisos para ejecutar una revocación.",module,Magento_Backup
+"Failed to rollback.","Falló la revocación.",module,Magento_Backup
+Database,"Base de Datos",module,Magento_Backup
+"Database and Media","Base de Datos y Medios",module,Magento_Backup
+"System (excluding Media)","Sistema (excluyendo Medios)",module,Magento_Backup
+"You created the system backup.","Ha creado el respaldo de sistema.",module,Magento_Backup
+"You created the system backup (excluding media).","Ha creado el respaldo de sistema (excluyendo medios).",module,Magento_Backup
+"You created the database and media backup.","Ha creado el respaldo de base de datos y medios.",module,Magento_Backup
+"You created the database backup.","Ha creado el respaldo de base de datos.",module,Magento_Backup
+"Please correct the order of creation for a new backup.","Por favor corrija el orden de creación del nuevo respaldo.",module,Magento_Backup
+"The backup file does not exist.","El archivo de respaldo no existe.",module,Magento_Backup
+"The backup file path was not specified.","No se ha especificado la ruta de archivo del respaldo.",module,Magento_Backup
+"The backup file ""%1"" does not exist.","El archivo de respaldo ""%1"" no existe.",module,Magento_Backup
+"Sorry, but we cannot read from or write to backup file ""%1"".","Lo sentimos, pero no podemos leer o escribir al archivo de respaldo ""%1"".",module,Magento_Backup
+"The backup file handler was unspecified.","No se especificó el nombre del archivo de respaldo.",module,Magento_Backup
+"Something went wrong while writing to the backup file ""%1"".","Algo no funcionó al escribir el archivo de respaldo ""%1"".",module,Magento_Backup
+"We can't save the Cron expression.","No podemos guardar la expresión de Cron.",module,Magento_Backup
+"You will lose any data created since the backup was made, including admin users, customers and orders.","Perderá todos los datos que se crearon desde que se hizo el respaldo, incluyendo usuarios administrativos, clientes y órdenes.",module,Magento_Backup
+"Are you sure you want to continue?","¿Está seguro de continuar?",module,Magento_Backup
+"This may take a few moments.","Esto puede tardar unos instantes.",module,Magento_Backup
+"Be sure your store is in maintenance mode during backup.","Asegúrese de que su tienda se encuentre en modo de mantenimiento mientras se respalda.",module,Magento_Backup
+"Backup Name","Nombre del Respaldo",module,Magento_Backup
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","Por favor use sólo letras (a-z or A-Z), números (0-9) o espacios en este campo.",module,Magento_Backup
+"Maintenance mode","Modo de mantenimiento",module,Magento_Backup
+"Please put your store into maintenance mode during backup.","Por favor ponga su tienda en modo de mantemiento mientras se respalda.",module,Magento_Backup
+Exclude,Excluir,module,Magento_Backup
+"Exclude media folder from backup","Excluir carpeta de medios del respaldo",module,Magento_Backup
+"Please enter the password to confirm rollback.","Por favor ingrese la contraseña para confirmar la revocación.",module,Magento_Backup
 "This action cannot be undone.","This action cannot be undone.",module,Magento_Backup
-"User Password","User Password",module,Magento_Backup
-"Please put your store into maintenance mode during rollback processing.","Please put your store into maintenance mode during rollback processing.",module,Magento_Backup
+"User Password","Contraseña de Usuario",module,Magento_Backup
+"Please put your store into maintenance mode during rollback processing.","Por favor ponga su tienda en modo de mantenimiento mientras se procesa la revocación.",module,Magento_Backup
 FTP,FTP,module,Magento_Backup
-"Use FTP Connection","Use FTP Connection",module,Magento_Backup
-"FTP credentials","FTP credentials",module,Magento_Backup
-"FTP Host","FTP Host",module,Magento_Backup
-"FTP Login","FTP Login",module,Magento_Backup
-"FTP Password","FTP Password",module,Magento_Backup
-"Magento root directory","Magento root directory",module,Magento_Backup
-"Create Backup","Create Backup",module,Magento_Backup
-Country,Country,module,Magento_Braintree
-"Allowed Credit Card Types","Allowed Credit Card Types",module,Magento_Braintree
-"Add Rule","Add Rule",module,Magento_Braintree
-"Braintree Settlement Report","Braintree Settlement Report",module,Magento_Braintree
-"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Braintree
-"We can't initialize checkout.","We can't initialize checkout.",module,Magento_Braintree
-"No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_Braintree
-"Braintree error response.","Braintree error response.",module,Magento_Braintree
-"Payment method nonce can't be retrieved.","Payment method nonce can't be retrieved.",module,Magento_Braintree
-"Wrong transaction status","Wrong transaction status",module,Magento_Braintree
-Authorize,Authorize,module,Magento_Braintree
-"Authorize and Capture","Authorize and Capture",module,Magento_Braintree
-"--Please Select--","--Please Select--",module,Magento_Braintree
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Braintree
-"Paypal account","Paypal account",module,Magento_Braintree
-"Coinbase account","Coinbase account",module,Magento_Braintree
-"Europe bank account","Europe bank account",module,Magento_Braintree
-"Credit card","Credit card",module,Magento_Braintree
-"Apple pay card","Apple pay card",module,Magento_Braintree
-"Android pay card","Android pay card",module,Magento_Braintree
-"Authorization expired","Authorization expired",module,Magento_Braintree
-Authorizing,Authorizing,module,Magento_Braintree
+"Use FTP Connection","Usar conexión FTP",module,Magento_Backup
+"FTP credentials","Credenciales de FTP",module,Magento_Backup
+"FTP Host","Servidor FTP",module,Magento_Backup
+"FTP Login","Acceso FTP",module,Magento_Backup
+"FTP Password","Contraseña FTP",module,Magento_Backup
+"Magento root directory","Directorio raíz de Magento",module,Magento_Backup
+"Create Backup","Crear Respaldo",module,Magento_Backup
+Country,País,module,Magento_Braintree
+"Allowed Credit Card Types","Tipos de Tarjeta de Crédito Permitidos",module,Magento_Braintree
+"Add Rule","Añadir Regla",module,Magento_Braintree
+"Braintree Settlement Report","Reporte de Pagos de Braintree",module,Magento_Braintree
+"Sorry, but something went wrong","Lo sentimos, algo no funcionó",module,Magento_Braintree
+"We can't initialize checkout.","No podemos inicializar el pedido.",module,Magento_Braintree
+"No authorization transaction to proceed capture.","No hay una transacción de autorización para proceder a la captura.",module,Magento_Braintree
+"Braintree error response.","Respuesta de error de Braintree.",module,Magento_Braintree
+"Payment method nonce can't be retrieved.","No se puede obtener el método de pago.",module,Magento_Braintree
+"Wrong transaction status","Estado erróneo de transacción",module,Magento_Braintree
+Authorize,Autorizar,module,Magento_Braintree
+"Authorize and Capture","Autorizar y Capturar",module,Magento_Braintree
+"--Please Select--","--Por Favor Seleccione --",module,Magento_Braintree
+"Please agree to all the terms and conditions before placing the order.","Por favor concuerde en todos los términos y condiciones antes de colocar la orden.",module,Magento_Braintree
+"Paypal account","Cuenta Paypal",module,Magento_Braintree
+"Coinbase account","Cuenta Coinbase",module,Magento_Braintree
+"Europe bank account","Cuenta de Banco Europero",module,Magento_Braintree
+"Credit card","Tarjeta de Crédito",module,Magento_Braintree
+"Apple pay card","Tarjeta de Pagos Apple",module,Magento_Braintree
+"Android pay card","Tarjeta de Pagos Android",module,Magento_Braintree
+"Authorization expired","Expiró la Autorización",module,Magento_Braintree
+Authorizing,Autorizando,module,Magento_Braintree
 Authorized,Authorized,module,Magento_Braintree
-"Gateway rejected","Gateway rejected",module,Magento_Braintree
-Failed,Failed,module,Magento_Braintree
-"Processor declined","Processor declined",module,Magento_Braintree
-Settled,Settled,module,Magento_Braintree
-Settling,Settling,module,Magento_Braintree
-"Submitted for settlement","Submitted for settlement",module,Magento_Braintree
-Voided,Voided,module,Magento_Braintree
-Unrecognized,Unrecognized,module,Magento_Braintree
-"Settlement declined","Settlement declined",module,Magento_Braintree
-"Settlement pending","Settlement pending",module,Magento_Braintree
-"Settlement confirmed","Settlement confirmed",module,Magento_Braintree
-Sale,Sale,module,Magento_Braintree
-Credit,Credit,module,Magento_Braintree
-"Credit Card Type","Credit Card Type",module,Magento_Braintree
-"Credit Card Number","Credit Card Number",module,Magento_Braintree
-"Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_Braintree
-"Expiration Date","Expiration Date",module,Magento_Braintree
-"Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_Braintree
-"Card Verification Number","Card Verification Number",module,Magento_Braintree
-"Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_Braintree
+"Gateway rejected","Puerta de Enlace rechazada",module,Magento_Braintree
+Failed,Falló,module,Magento_Braintree
+"Processor declined","Declinó el procesador",module,Magento_Braintree
+Settled,Colocada,module,Magento_Braintree
+Settling,Colocando,module,Magento_Braintree
+"Submitted for settlement","Enviado para colocar",module,Magento_Braintree
+Voided,Invalidado,module,Magento_Braintree
+Unrecognized,"No reconocido",module,Magento_Braintree
+"Settlement declined","Colocación declinada",module,Magento_Braintree
+"Settlement pending","Pendiente de colocación",module,Magento_Braintree
+"Settlement confirmed","Colocación confirmada",module,Magento_Braintree
+Sale,Venta,module,Magento_Braintree
+Credit,Crédito,module,Magento_Braintree
+"Credit Card Type","Tipo de Tarjeta de Crédito",module,Magento_Braintree
+"Credit Card Number","Número de Tarjeta de Crédito",module,Magento_Braintree
+"Please, enter valid Credit Card Number","Por favor, ingrese un Número válido de Tarjeta de Crédito",module,Magento_Braintree
+"Expiration Date","Fecha de Expiración",module,Magento_Braintree
+"Please, enter valid Expiration Date","Por favor, ingrese una Fecha de Expiración Válida",module,Magento_Braintree
+"Card Verification Number","Número de Verificación de Tarjeta",module,Magento_Braintree
+"Please, enter valid Card Verification Number","Por favor, ingrese un Número de Verificación de Tarjeta Válido",module,Magento_Braintree
 ending,ending,module,Magento_Braintree
 expires,expires,module,Magento_Braintree
 "Percent Discount","Percent Discount",module,Magento_Bundle
