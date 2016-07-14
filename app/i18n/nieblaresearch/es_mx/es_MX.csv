@@ -929,192 +929,192 @@ N/A,N/D,module,Magento_Catalog
 AM,AM,module,Magento_Catalog
 PM,PM,module,Magento_Catalog
 "-- Please Select --","-- Por favor Seleccione --",module,Magento_Catalog
-None,None,module,Magento_Catalog
-"New Products from %1","New Products from %1",module,Magento_Catalog
-"New Products","New Products",module,Magento_Catalog
-"%1 - Special Products","%1 - Special Products",module,Magento_Catalog
-"Click for price","Click for price",module,Magento_Catalog
-"Special Expires On: %1","Special Expires On: %1",module,Magento_Catalog
-"Price: %1","Price: %1",module,Magento_Catalog
-"Special Price: %1","Special Price: %1",module,Magento_Catalog
-"Special Products","Special Products",module,Magento_Catalog
-"Manage Catalog Categories","Manage Catalog Categories",module,Magento_Catalog
-"Manage Categories","Manage Categories",module,Magento_Catalog
-"You deleted the category.","You deleted the category.",module,Magento_Catalog
-"Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category.",module,Magento_Catalog
-Categories,Categories,module,Magento_Catalog
-"Category is not available for requested store.","Category is not available for requested store.",module,Magento_Catalog
-"There was a category move error. %1","There was a category move error. %1",module,Magento_Catalog
-"There was a category move error.","There was a category move error.",module,Magento_Catalog
-"You moved the category","You moved the category",module,Magento_Catalog
-"Attribute ""%1"" is required.","Attribute ""%1"" is required.",module,Magento_Catalog
-"You saved the category.","You saved the category.",module,Magento_Catalog
-"Something went wrong while saving the category.","Something went wrong while saving the category.",module,Magento_Catalog
-"Please select products for attributes update.","Please select products for attributes update.",module,Magento_Catalog
-"Please make sure to define SKU values for all processed products.","Please make sure to define SKU values for all processed products.",module,Magento_Catalog
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Catalog
-"Something went wrong while updating the product(s) attributes.","Something went wrong while updating the product(s) attributes.",module,Magento_Catalog
-"Unable to add attribute","Unable to add attribute",module,Magento_Catalog
-"Please, specify attributes","Please, specify attributes",module,Magento_Catalog
-Catalog,Catalog,module,Magento_Catalog
-"Manage Product Attributes","Manage Product Attributes",module,Magento_Catalog
-"We can't delete the attribute.","We can't delete the attribute.",module,Magento_Catalog
-"You deleted the product attribute.","You deleted the product attribute.",module,Magento_Catalog
-"We can't find an attribute to delete.","We can't find an attribute to delete.",module,Magento_Catalog
-"This attribute no longer exists.","This attribute no longer exists.",module,Magento_Catalog
-"This attribute cannot be edited.","This attribute cannot be edited.",module,Magento_Catalog
-"Edit Product Attribute","Edit Product Attribute",module,Magento_Catalog
-"An attribute set named '%1' already exists.","An attribute set named '%1' already exists.",module,Magento_Catalog
-"Something went wrong while saving the attribute.","Something went wrong while saving the attribute.",module,Magento_Catalog
-"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Catalog
-"We can't update the attribute.","We can't update the attribute.",module,Magento_Catalog
-"You saved the product attribute.","You saved the product attribute.",module,Magento_Catalog
-"An attribute with this code already exists.","An attribute with this code already exists.",module,Magento_Catalog
-"An attribute with the same code (%1) already exists.","An attribute with the same code (%1) already exists.",module,Magento_Catalog
-"You duplicated the product.","You duplicated the product.",module,Magento_Catalog
-"This product doesn't exist.","This product doesn't exist.",module,Magento_Catalog
-"Invalid product id. Should be numeric value greater than 0","Invalid product id. Should be numeric value greater than 0",module,Magento_Catalog
-Products,Products,module,Magento_Catalog
-"A group with the same name already exists.","A group with the same name already exists.",module,Magento_Catalog
-"Something went wrong while saving this group.","Something went wrong while saving this group.",module,Magento_Catalog
-"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Catalog
-"A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Catalog
-"Something went wrong while updating the product(s) status.","Something went wrong while updating the product(s) status.",module,Magento_Catalog
-"Unable to save product","Unable to save product",module,Magento_Catalog
-"You saved the product.","You saved the product.",module,Magento_Catalog
-"SKU for product %1 has been changed to %2.","SKU for product %1 has been changed to %2.",module,Magento_Catalog
-"The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_Catalog
-"New Attribute Set","New Attribute Set",module,Magento_Catalog
-"The attribute set has been removed.","The attribute set has been removed.",module,Magento_Catalog
-"We can't delete this set right now.","We can't delete this set right now.",module,Magento_Catalog
-"New Set","New Set",module,Magento_Catalog
-"Manage Product Sets","Manage Product Sets",module,Magento_Catalog
-"Manage Attribute Sets","Manage Attribute Sets",module,Magento_Catalog
-"This attribute set no longer exists.","This attribute set no longer exists.",module,Magento_Catalog
-"You saved the attribute set.","You saved the attribute set.",module,Magento_Catalog
-"Something went wrong while saving the attribute set.","Something went wrong while saving the attribute set.",module,Magento_Catalog
-"You added product %1 to the comparison list.","You added product %1 to the comparison list.",module,Magento_Catalog
-"You cleared the comparison list.","You cleared the comparison list.",module,Magento_Catalog
-"Something went wrong  clearing the comparison list.","Something went wrong  clearing the comparison list.",module,Magento_Catalog
-"You removed product %1 from the comparison list.","You removed product %1 from the comparison list.",module,Magento_Catalog
-"1 item","1 item",module,Magento_Catalog
-"%1 items","%1 items",module,Magento_Catalog
-"Invalid attribute %1","Invalid attribute %1",module,Magento_Catalog
-Grid,Grid,module,Magento_Catalog
-List,List,module,Magento_Catalog
-All,All,module,Magento_Catalog
-"Bad controller interface for showing product","Bad controller interface for showing product",module,Magento_Catalog
-"Product is not loaded","Product is not loaded",module,Magento_Catalog
-"Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date.",module,Magento_Catalog
-"Sorry, but we can't find the new parent category you selected.","Sorry, but we can't find the new parent category you selected.",module,Magento_Catalog
-"Sorry, but we can't find the new category you selected.","Sorry, but we can't find the new category you selected.",module,Magento_Catalog
-"We can't move the category because the parent category name matches the child category name.","We can't move the category because the parent category name matches the child category name.",module,Magento_Catalog
-"Something went wrong while getting the image url.","Something went wrong while getting the image url.",module,Magento_Catalog
-"Can't delete root category.","Can't delete root category.",module,Magento_Catalog
-"The value of attribute ""%1"" must be unique.","The value of attribute ""%1"" must be unique.",module,Magento_Catalog
-"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Default Product Listing Sort by does not exist in Available Product Listing Sort By.",module,Magento_Catalog
-"No layout updates","No layout updates",module,Magento_Catalog
-"Products only","Products only",module,Magento_Catalog
-"Static block only","Static block only",module,Magento_Catalog
-"Static block and products","Static block and products",module,Magento_Catalog
-"Please select a static block.","Please select a static block.",module,Magento_Catalog
-frontend_label,frontend_label,module,Magento_Catalog
-"Could not save product ""%1"" with position %2 to category %3","Could not save product ""%1"" with position %2 to category %3",module,Magento_Catalog
-"Category does not contain specified product","Category does not contain specified product",module,Magento_Catalog
-"Could not save product ""%product"" with position %position to category %category","Could not save product ""%product"" with position %position to category %category",module,Magento_Catalog
-"Operation do not allow to move a parent category to any of children category","Operation do not allow to move a parent category to any of children category",module,Magento_Catalog
-"Could not move category","Could not move category",module,Magento_Catalog
-"Could not save category: %1","Could not save category: %1",module,Magento_Catalog
-"Cannot delete category with id %1","Cannot delete category with id %1",module,Magento_Catalog
-"-- Please Select a Category --","-- Please Select a Category --",module,Magento_Catalog
-"Grid Only","Grid Only",module,Magento_Catalog
-"List Only","List Only",module,Magento_Catalog
-"Grid (default) / List","Grid (default) / List",module,Magento_Catalog
-"List (default) / Grid","List (default) / Grid",module,Magento_Catalog
-"Automatic (equalize price ranges)","Automatic (equalize price ranges)",module,Magento_Catalog
-"Automatic (equalize product counts)","Automatic (equalize product counts)",module,Magento_Catalog
+None,Ninguno,module,Magento_Catalog
+"New Products from %1","Nuevos Productos desde %1",module,Magento_Catalog
+"New Products","Nuevos Productos",module,Magento_Catalog
+"%1 - Special Products","%1 - Productos Especiales",module,Magento_Catalog
+"Click for price","Haga click para ver precio",module,Magento_Catalog
+"Special Expires On: %1","Especial Expira En: %1",module,Magento_Catalog
+"Price: %1","Precio: %1",module,Magento_Catalog
+"Special Price: %1","Precio Especial: %1",module,Magento_Catalog
+"Special Products","Productos Especiales",module,Magento_Catalog
+"Manage Catalog Categories","Administrar Categorías de Catálogo",module,Magento_Catalog
+"Manage Categories","Administrar Categorías",module,Magento_Catalog
+"You deleted the category.","Ha borrado la categoría.",module,Magento_Catalog
+"Something went wrong while trying to delete the category.","Algo pasó mientras se intentó borrar la categoría.",module,Magento_Catalog
+Categories,Categorías,module,Magento_Catalog
+"Category is not available for requested store.","La Categoría no está disponible en la tienda solicitada.",module,Magento_Catalog
+"There was a category move error. %1","Hubo un error al mover la categoría. %1",module,Magento_Catalog
+"There was a category move error.","Hubo un error al mover la categoría.",module,Magento_Catalog
+"You moved the category","Movió la categoría",module,Magento_Catalog
+"Attribute ""%1"" is required.","Se requiere el atributo ""%1"".",module,Magento_Catalog
+"You saved the category.","Guardó la categoría.",module,Magento_Catalog
+"Something went wrong while saving the category.","Algo ocurrió al intentar guardar la categoría.",module,Magento_Catalog
+"Please select products for attributes update.","Poir favor seleccione productos para actualizar los atributos.",module,Magento_Catalog
+"Please make sure to define SKU values for all processed products.","Por favor asegúrese de definir valores SKU para todos los productos procesados.",module,Magento_Catalog
+"A total of %1 record(s) were updated.","Un total de %1 registro(s) fue(ron) actualizado(s).",module,Magento_Catalog
+"Something went wrong while updating the product(s) attributes.","Algo ocurrió al intentar actualizar los atributos de/los producto(s).",module,Magento_Catalog
+"Unable to add attribute","No se puede añadir el atributo",module,Magento_Catalog
+"Please, specify attributes","Por favor, especifique atributos",module,Magento_Catalog
+Catalog,Catálogo,module,Magento_Catalog
+"Manage Product Attributes","Administrar Atributos de Producto",module,Magento_Catalog
+"We can't delete the attribute.","No podemos borrar el atributo.",module,Magento_Catalog
+"You deleted the product attribute.","Borró el atributo de producto.",module,Magento_Catalog
+"We can't find an attribute to delete.","No podemos encontrar el atributo a borrar.",module,Magento_Catalog
+"This attribute no longer exists.","Este atributo ya no existe.",module,Magento_Catalog
+"This attribute cannot be edited.","Este atributo no puede editarse.",module,Magento_Catalog
+"Edit Product Attribute","Editar el Atributo de Producto",module,Magento_Catalog
+"An attribute set named '%1' already exists.","El conjunto de atributos con el nombre '%1' ya existe.",module,Magento_Catalog
+"Something went wrong while saving the attribute.","Algo ocurrió mientras se intentaba guardar el atributo.",module,Magento_Catalog
+"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","El código de atributo ""%1"" no es válido. Por favor sólo use letras (a-z), números (0-9)  bajo guión (_) en este campo, el primer caracter debe ser una letra.",module,Magento_Catalog
+"We can't update the attribute.","No podemos actualizar el atributo.",module,Magento_Catalog
+"You saved the product attribute.","Guardó el atributo de producto.",module,Magento_Catalog
+"An attribute with this code already exists.","Ya existe un atributo con este código.",module,Magento_Catalog
+"An attribute with the same code (%1) already exists.","Ya existe un atributo con el mismo código (%1).",module,Magento_Catalog
+"You duplicated the product.","Duplicó el producto.",module,Magento_Catalog
+"This product doesn't exist.","Este producto no existe.",module,Magento_Catalog
+"Invalid product id. Should be numeric value greater than 0","ID de producto inválido. Debe ser un valor numérico mayor que 0",module,Magento_Catalog
+Products,Productos,module,Magento_Catalog
+"A group with the same name already exists.","Ya existe un conjunto con el mismo nombre.",module,Magento_Catalog
+"Something went wrong while saving this group.","Algo ocurrió al intentar guardar este conjunto.",module,Magento_Catalog
+"A total of %1 record(s) have been deleted.","Un total de %1 registro(s) ha(n) sido borrado(s).",module,Magento_Catalog
+"A total of %1 record(s) have been updated.","Un total de %1 registro(s) ha(n) sido actualizado(s).",module,Magento_Catalog
+"Something went wrong while updating the product(s) status.","Algo ocurrió al intentar actualizar el estado de el/los producto(s).",module,Magento_Catalog
+"Unable to save product","No se puede guardar el producto",module,Magento_Catalog
+"You saved the product.","Guardó el producto.",module,Magento_Catalog
+"SKU for product %1 has been changed to %2.","El SKU del producto %1 ha cambiado a %2.",module,Magento_Catalog
+"The image cannot be removed as it has been assigned to the other image role","No es posible borrar la imagen porque ha sido asignada al rol de otra imágen",module,Magento_Catalog
+"New Attribute Set","Nuevo conjunto de Atributo",module,Magento_Catalog
+"The attribute set has been removed.","El conjunto de atributo ha sido borrado.",module,Magento_Catalog
+"We can't delete this set right now.","No podemos borrar este conjunto ahora.",module,Magento_Catalog
+"New Set","Nuevo Conjunto",module,Magento_Catalog
+"Manage Product Sets","Administrar los Conjuntos de Producto",module,Magento_Catalog
+"Manage Attribute Sets","Administrar los Conjuntos de Atributo",module,Magento_Catalog
+"This attribute set no longer exists.","Este conjunto de atributo ya no existe.",module,Magento_Catalog
+"You saved the attribute set.","Ha guardado el conjunto de atributo.",module,Magento_Catalog
+"Something went wrong while saving the attribute set.","Algo ocurrio mientras se intentaba guardar el conjunto de atributo.",module,Magento_Catalog
+"You added product %1 to the comparison list.","Añadió el producto %1 al conjunto de comparación.",module,Magento_Catalog
+"You cleared the comparison list.","Ha limpiado la lista de comparación.",module,Magento_Catalog
+"Something went wrong  clearing the comparison list.","Algo ocurrió al intentar limpiar la lista de comparación.",module,Magento_Catalog
+"You removed product %1 from the comparison list.","Quitó el producto %1 se la lista de comparación.",module,Magento_Catalog
+"1 item","1 producto",module,Magento_Catalog
+"%1 items","%1 ítems",module,Magento_Catalog
+"Invalid attribute %1","Atributo inválido %1",module,Magento_Catalog
+Grid,Cuadrícula,module,Magento_Catalog
+List,Lista,module,Magento_Catalog
+All,Todos,module,Magento_Catalog
+"Bad controller interface for showing product","Controlador de interfaz incorrecto para mostrar el producto",module,Magento_Catalog
+"Product is not loaded","El producto no ha sido cargado",module,Magento_Catalog
+"Make sure the To Date is later than or the same as the From Date.","Asegúrese de que Hasta Fecha sea posterior o la misma que Desde Fecha.",module,Magento_Catalog
+"Sorry, but we can't find the new parent category you selected.","Lo sentimos, pero no podemos encontrar la nueva categoría de la que depende que ha seleccionado.",module,Magento_Catalog
+"Sorry, but we can't find the new category you selected.","Lo sentimos, pero no podemos encontrar la nueva categoría que ha seleccionado.",module,Magento_Catalog
+"We can't move the category because the parent category name matches the child category name.","No podemos mover la cateforía porque el nombre de la categoría superior es el mismo que el de la categoría inferior.",module,Magento_Catalog
+"Something went wrong while getting the image url.","Algo ocurrió al intentar obtener el URL de la imagen.",module,Magento_Catalog
+"Can't delete root category.","No se puede borrar la categoría raíz.",module,Magento_Catalog
+"The value of attribute ""%1"" must be unique.","El valor del atributo ""%1"" debe ser único.",module,Magento_Catalog
+"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","El Órden de Listado de Productos Por Defecto no existe en los Órdenes de Listado de Productos Disponibles.",module,Magento_Catalog
+"No layout updates","No hay actualizaciones de diseño",module,Magento_Catalog
+"Products only","Sólo Productos",module,Magento_Catalog
+"Static block only","Bloque estático only",module,Magento_Catalog
+"Static block and products","Bloque estático y productos",module,Magento_Catalog
+"Please select a static block.","Por favor seleccione un bloque estático.",module,Magento_Catalog
+frontend_label,etiqueta_interfaz,module,Magento_Catalog
+"Could not save product ""%1"" with position %2 to category %3","No se puede guardar el producto ""%1"" con la posición %2 en la categoría %3",module,Magento_Catalog
+"Category does not contain specified product","La categoría no contiene el producto especificado",module,Magento_Catalog
+"Could not save product ""%product"" with position %position to category %category","No se puede guardar el producto ""%product"" con la posición %position en la categoría %category",module,Magento_Catalog
+"Operation do not allow to move a parent category to any of children category","La operación no permite mover una categoría superior a cualquiera de las categorías inferiores",module,Magento_Catalog
+"Could not move category","No se puede mover la categoría",module,Magento_Catalog
+"Could not save category: %1","No se puede guardar la categoría: %1",module,Magento_Catalog
+"Cannot delete category with id %1","No se puede borrar la categoría con el ID %1",module,Magento_Catalog
+"-- Please Select a Category --","-- Por Favor Seleccione una Categoría --",module,Magento_Catalog
+"Grid Only","Sólo Cuadrícula",module,Magento_Catalog
+"List Only","Sólo Lista",module,Magento_Catalog
+"Grid (default) / List","Cuadrícula (por defecto) / Lista",module,Magento_Catalog
+"List (default) / Grid","Lista (por defecto) / Cuadrícula",module,Magento_Catalog
+"Automatic (equalize price ranges)","Automático (ecualizar rangos de precio)",module,Magento_Catalog
+"Automatic (equalize product counts)","Automático (ecualizar contador de producto)",module,Magento_Catalog
 Manual,Manual,module,Magento_Catalog
-Fixed,Fixed,module,Magento_Catalog
-Percent,Percent,module,Magento_Catalog
-"-- Please select --","-- Please select --",module,Magento_Catalog
-"Product Thumbnail Itself","Product Thumbnail Itself",module,Magento_Catalog
-"Parent Product Thumbnail","Parent Product Thumbnail",module,Magento_Catalog
+Fixed,Fijo,module,Magento_Catalog
+Percent,Porcentaje,module,Magento_Catalog
+"-- Please select --","-- Please seleccione --",module,Magento_Catalog
+"Product Thumbnail Itself","Miniatura del Producto Mismo",module,Magento_Catalog
+"Parent Product Thumbnail","Miniatura del Producto Superior",module,Magento_Catalog
 "12h AM/PM","12h AM/PM",module,Magento_Catalog
 24h,24h,module,Magento_Catalog
-Stretch,Stretch,module,Magento_Catalog
-Tile,Tile,module,Magento_Catalog
-Top/Left,Top/Left,module,Magento_Catalog
-Top/Right,Top/Right,module,Magento_Catalog
-Bottom/Left,Bottom/Left,module,Magento_Catalog
-Bottom/Right,Bottom/Right,module,Magento_Catalog
-Center,Center,module,Magento_Catalog
-"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extends \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
-"Something went wrong while saving the file(s).","Something went wrong while saving the file(s).",module,Magento_Catalog
-"File can not be saved to the destination folder.","File can not be saved to the destination folder.",module,Magento_Catalog
-"Unknown EAV indexer type ""%1"".","Unknown EAV indexer type ""%1"".",module,Magento_Catalog
-"We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_Catalog
-"Bad value was supplied.","Bad value was supplied.",module,Magento_Catalog
-"The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module",module,Magento_Catalog
-"Unsupported product type ""%1"".","Unsupported product type ""%1"".",module,Magento_Catalog
-"Please correct the category.","Please correct the category.",module,Magento_Catalog
-"Must be category model instance or its id.","Must be category model instance or its id.",module,Magento_Catalog
-"The attribute model is not defined.","The attribute model is not defined.",module,Magento_Catalog
-Category,Category,module,Magento_Catalog
+Stretch,Ampliar,module,Magento_Catalog
+Tile,Título,module,Magento_Catalog
+Top/Left,Arriba/Izquierda,module,Magento_Catalog
+Top/Right,Arriba/Derecha,module,Magento_Catalog
+Bottom/Left,Abajo/Izquierda,module,Magento_Catalog
+Bottom/Right,Abajo/Derecha,module,Magento_Catalog
+Center,Centro,module,Magento_Catalog
+"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 no extiende \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
+"Something went wrong while saving the file(s).","Algo ocurrió al intentar guardar el/los archivo(s).",module,Magento_Catalog
+"File can not be saved to the destination folder.","El archivo no puede guardarse en la carpeta de destino.",module,Magento_Catalog
+"Unknown EAV indexer type ""%1"".","Tipo de indizador EAV desconocido ""%1"".",module,Magento_Catalog
+"We can't rebuild the index for an undefined product.","No podemos reconstruir el índice para un producto indefinido.",module,Magento_Catalog
+"Bad value was supplied.","Se suministró un valor incorrecto.",module,Magento_Catalog
+"The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","El módulo de Catálogo Plano tiene un límite de %2$d atributos filtrables/ordenables. Actualmente hay %1$d de ellos. Por favor reduzca el número de atributos filtrables/ordenables para poder usar este módulo",module,Magento_Catalog
+"Unsupported product type ""%1"".","No se puede soportar el tipo de producto ""%1"".",module,Magento_Catalog
+"Please correct the category.","Por favor corrija la categoría.",module,Magento_Catalog
+"Must be category model instance or its id.","Debe ser una instancia de modelo de categoría o su ID.",module,Magento_Catalog
+"The attribute model is not defined.","El modelo de atributo no está definido.",module,Magento_Catalog
+Category,Categoría,module,Magento_Catalog
 "%1 - %2","%1 - %2",module,Magento_Catalog
-"%1 was not found in algorithms","%1 was not found in algorithms",module,Magento_Catalog
-"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
-"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
-"The filter must be an object. Please set the correct filter.","The filter must be an object. Please set the correct filter.",module,Magento_Catalog
-"Clear Price","Clear Price",module,Magento_Catalog
-"%1 and above","%1 and above",module,Magento_Catalog
-"The filters must be an array.","The filters must be an array.",module,Magento_Catalog
-"Product was not registered","Product was not registered",module,Magento_Catalog
-"Store was not registered","Store was not registered",module,Magento_Catalog
-"Group price must be a number greater than 0.","Group price must be a number greater than 0.",module,Magento_Catalog
-"Media Gallery converter should be an instance of EntryConverterInterface.","Media Gallery converter should be an instance of EntryConverterInterface.",module,Magento_Catalog
-"There is no MediaGalleryEntryConverter for given type","There is no MediaGalleryEntryConverter for given type",module,Magento_Catalog
-"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field.",module,Magento_Catalog
-"The value of attribute ""%1"" must be set","The value of attribute ""%1"" must be set",module,Magento_Catalog
-"SKU length should be %1 characters maximum.","SKU length should be %1 characters maximum.",module,Magento_Catalog
-"Please enter a valid number in this field.","Please enter a valid number in this field.",module,Magento_Catalog
-"We found a duplicate website, tier price, customer group and quantity.","We found a duplicate website, tier price, customer group and quantity.",module,Magento_Catalog
-"Invalid option id %1","Invalid option id %1",module,Magento_Catalog
-"Can not create attribute set based on non product attribute set.","Can not create attribute set based on non product attribute set.",module,Magento_Catalog
-"Can not create attribute set based on not existing attribute set","Can not create attribute set based on not existing attribute set",module,Magento_Catalog
-"Provided Attribute set non product Attribute set.","Provided Attribute set non product Attribute set.",module,Magento_Catalog
-"Use config","Use config",module,Magento_Catalog
-Enabled,Enabled,module,Magento_Catalog
-Disabled,Disabled,module,Magento_Catalog
-"Attribute Set already exists.","Attribute Set already exists.",module,Magento_Catalog
-"We couldn't copy file %1. Please delete media with non-existing images and try again.","We couldn't copy file %1. Please delete media with non-existing images and try again.",module,Magento_Catalog
-"The image content is not valid.","The image content is not valid.",module,Magento_Catalog
-"Cannot save product.","Cannot save product.",module,Magento_Catalog
-"Failed to save new media gallery entry.","Failed to save new media gallery entry.",module,Magento_Catalog
-"There is no image with provided ID.","There is no image with provided ID.",module,Magento_Catalog
-"Such product doesn't exist","Such product doesn't exist",module,Magento_Catalog
-"Such image doesn't exist","Such image doesn't exist",module,Magento_Catalog
-"The image does not exist.","The image does not exist.",module,Magento_Catalog
-"Please correct the image file type.","Please correct the image file type.",module,Magento_Catalog
-"We couldn't move this file: %1.","We couldn't move this file: %1.",module,Magento_Catalog
-"We can't find the image file.","We can't find the image file.",module,Magento_Catalog
-"The option type to get group instance is incorrect.","The option type to get group instance is incorrect.",module,Magento_Catalog
-"Select type options required values rows.","Select type options required values rows.",module,Magento_Catalog
-"ProductSku should be specified","ProductSku should be specified",module,Magento_Catalog
-"Could not remove custom option","Could not remove custom option",module,Magento_Catalog
-"Please specify date required option(s).","Please specify date required option(s).",module,Magento_Catalog
-"Please specify time required option(s).","Please specify time required option(s).",module,Magento_Catalog
-"Please specify product's required option(s).","Please specify product's required option(s).",module,Magento_Catalog
-"The option instance type in options group is incorrect.","The option instance type in options group is incorrect.",module,Magento_Catalog
-"The product instance type in options group is incorrect.","The product instance type in options group is incorrect.",module,Magento_Catalog
-"The configuration item option instance in options group is incorrect.","The configuration item option instance in options group is incorrect.",module,Magento_Catalog
-"The configuration item instance in options group is incorrect.","The configuration item instance in options group is incorrect.",module,Magento_Catalog
-"The BuyRequest instance in options group is incorrect.","The BuyRequest instance in options group is incorrect.",module,Magento_Catalog
-"We can't add the product to the cart because of an option validation issue.","We can't add the product to the cart because of an option validation issue.",module,Magento_Catalog
-"%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
-"The file options format is not valid.","The file options format is not valid.",module,Magento_Catalog
+"%1 was not found in algorithms","%1 no se encontró en algoritmos",module,Magento_Catalog
+"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 no extiende \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 no extiende \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
+"The filter must be an object. Please set the correct filter.","El filtro debe ser un objeto. Please set the correct filter.",module,Magento_Catalog
+"Clear Price","Limpiar Precio",module,Magento_Catalog
+"%1 and above","%1 y superior",module,Magento_Catalog
+"The filters must be an array.","Los filtros deben ser un arreglo.",module,Magento_Catalog
+"Product was not registered","El producto no ha sido registrado",module,Magento_Catalog
+"Store was not registered","La tienda no ha sido registrada",module,Magento_Catalog
+"Group price must be a number greater than 0.","El precio del conjunto debe ser un número mayor que 0.",module,Magento_Catalog
+"Media Gallery converter should be an instance of EntryConverterInterface.","El convertidor de la Galería de Medios debe ser una instancia de EntryConverterInterface.",module,Magento_Catalog
+"There is no MediaGalleryEntryConverter for given type","No existe un MediaGalleryEntryConverter para el tipo dado",module,Magento_Catalog
+"Please enter a number 0 or greater in this field.","Por favor ingrese un número igual o mayor a 0 para este campo.",module,Magento_Catalog
+"The value of attribute ""%1"" must be set","Debe fijarse un valor para el atributo ""%1""",module,Magento_Catalog
+"SKU length should be %1 characters maximum.","La longitud del SKU debe de máximo %1 caracteres.",module,Magento_Catalog
+"Please enter a valid number in this field.","Por ingrese un número válido en este campo.",module,Magento_Catalog
+"We found a duplicate website, tier price, customer group and quantity.","Encontramos un sitio web duplicado, precio por niveles, conjunto de clientes y cantidad.",module,Magento_Catalog
+"Invalid option id %1","ID de opción inválido %1",module,Magento_Catalog
+"Can not create attribute set based on non product attribute set.","No podemos crear un conjunto de atributo con base en un conjunto de atributo sin producto.",module,Magento_Catalog
+"Can not create attribute set based on not existing attribute set","No podemos crear un conjunto de atributo con base en un conjunto de atributo inexistente",module,Magento_Catalog
+"Provided Attribute set non product Attribute set.","El conjunto de Atributo fija un conjunto de Atributo sin producto.",module,Magento_Catalog
+"Use config","Usar configuración",module,Magento_Catalog
+Enabled,Habilitado,module,Magento_Catalog
+Disabled,Deshabilitado,module,Magento_Catalog
+"Attribute Set already exists.","El Conjunto de Atributo ya existe.",module,Magento_Catalog
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","No podemos copiar el archivo %1. Por favor borre los medios con imágenes que no existen e intente de nuevo.",module,Magento_Catalog
+"The image content is not valid.","El contenido de la imagen no es válido.",module,Magento_Catalog
+"Cannot save product.","No se puede guardar el producto.",module,Magento_Catalog
+"Failed to save new media gallery entry.","No se pudo guardar la entrada de nuevos medios en la galería.",module,Magento_Catalog
+"There is no image with provided ID.","No existe una imagen con el ID suministrado.",module,Magento_Catalog
+"Such product doesn't exist","Ese producto no existe",module,Magento_Catalog
+"Such image doesn't exist","Esa imagen no existe",module,Magento_Catalog
+"The image does not exist.","La imagen no existe.",module,Magento_Catalog
+"Please correct the image file type.","Por favor corrija el tipo de la imagen.",module,Magento_Catalog
+"We couldn't move this file: %1.","No podemos mover este archivo: %1.",module,Magento_Catalog
+"We can't find the image file.","No podemos encontrar el archivo de imagen.",module,Magento_Catalog
+"The option type to get group instance is incorrect.","El tipo de opción para obtener la instancia de grupo es incorrecto.",module,Magento_Catalog
+"Select type options required values rows.","Seleccione el tipo de opciones requeridas en las filas.",module,Magento_Catalog
+"ProductSku should be specified","Debe especificarse el SKU",module,Magento_Catalog
+"Could not remove custom option","No se puede borrar la opción personalizada",module,Magento_Catalog
+"Please specify date required option(s).","Por favor especifique la(s) opción(es) de fecha.",module,Magento_Catalog
+"Please specify time required option(s).","Por favor especifique la(s) opción(es) de hora.",module,Magento_Catalog
+"Please specify product's required option(s).","Por favor especifique la(s) opción(es) de producto.",module,Magento_Catalog
+"The option instance type in options group is incorrect.","El tipo de instancia de opción en el conjunto de opciones es incorrecto.",module,Magento_Catalog
+"The product instance type in options group is incorrect.","El tipo de instancia de producto en el conjunto de opciones es incorrecto.",module,Magento_Catalog
+"The configuration item option instance in options group is incorrect.","La instancia de opción de configuración en el conjunto de opciones es incorrecta.",module,Magento_Catalog
+"The configuration item instance in options group is incorrect.","La instancia de configuración en el conjunto de opciones es incorrecta .",module,Magento_Catalog
+"The BuyRequest instance in options group is incorrect.","La instancia BuyRequest en el conjunto de opciones es incorrecta.",module,Magento_Catalog
+"We can't add the product to the cart because of an option validation issue.","No podemos añadir el producto al carrito por un problema de validación de opción.",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 no extiende \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
+"The file options format is not valid.","El formato del archivo de opciones no es válido.",module,Magento_Catalog
 px.,px.,module,Magento_Catalog
-"The file '%1' for '%2' has an invalid extension.","The file '%1' for '%2' has an invalid extension.",module,Magento_Catalog
-"The maximum allowed image size for '%1' is %2x%3 px.","The maximum allowed image size for '%1' is %2x%3 px.",module,Magento_Catalog
+"The file '%1' for '%2' has an invalid extension.","El archivo '%1' para '%2' tiene una extensión inválida.",module,Magento_Catalog
+"The maximum allowed image size for '%1' is %2x%3 px.","El tamaño máximo de imagen para '%1' es de %2x%3 px.",module,Magento_Catalog
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.",module,Magento_Catalog
 "The file '%1' is empty. Please choose another one","The file '%1' is empty. Please choose another one",module,Magento_Catalog
 "The file '%1' is invalid. Please choose another one","The file '%1' is invalid. Please choose another one",module,Magento_Catalog
