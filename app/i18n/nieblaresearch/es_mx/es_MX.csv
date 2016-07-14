@@ -876,59 +876,59 @@ Websites,"Sitios Web",module,Magento_Catalog
 "Price Alert Subscriptions","Suscripciones de Alertas de Precios",module,Magento_Catalog
 "Stock Alert Subscriptions","Suscripciones de Alertas de Inventario",module,Magento_Catalog
 "There are no customers for this alert.","No hay clientes para esta alerta.",module,Magento_Catalog
-"First Name","First Name",module,Magento_Catalog
-"Last Name","Last Name",module,Magento_Catalog
+"First Name","Nombre",module,Magento_Catalog
+"Last Name","Apellido",module,Magento_Catalog
 Email,Email,module,Magento_Catalog
-"Subscribe Date","Subscribe Date",module,Magento_Catalog
-"Last Notified","Last Notified",module,Magento_Catalog
-"Send Count","Send Count",module,Magento_Catalog
-"New Attribute","New Attribute",module,Magento_Catalog
-Type,Type,module,Magento_Catalog
-"Attribute Set","Attribute Set",module,Magento_Catalog
-Status,Status,module,Magento_Catalog
-Visibility,Visibility,module,Magento_Catalog
-"Add New Option","Add New Option",module,Magento_Catalog
-"Import Options","Import Options",module,Magento_Catalog
-"Use Default","Use Default",module,Magento_Catalog
-Import,Import,module,Magento_Catalog
-"Add New Row","Add New Row",module,Magento_Catalog
-"Delete Row","Delete Row",module,Magento_Catalog
-"Tier Pricing","Tier Pricing",module,Magento_Catalog
-"Default Price","Default Price",module,Magento_Catalog
-"All Websites","All Websites",module,Magento_Catalog
-"ALL GROUPS","ALL GROUPS",module,Magento_Catalog
-"Add Price","Add Price",module,Magento_Catalog
-"Default Values","Default Values",module,Magento_Catalog
-"Related Products","Related Products",module,Magento_Catalog
-Up-sells,Up-sells,module,Magento_Catalog
-Cross-sells,Cross-sells,module,Magento_Catalog
-"Size for %1","Size for %1",module,Magento_Catalog
-"Watermark File for %1","Watermark File for %1",module,Magento_Catalog
-"Position of Watermark for %1","Position of Watermark for %1",module,Magento_Catalog
-"Name in %1","Name in %1",module,Magento_Catalog
-Quantity,Quantity,module,Magento_Catalog
-Edit,Edit,module,Magento_Catalog
-"Are you sure?","Are you sure?",module,Magento_Catalog
-"Change Status","Change Status",module,Magento_Catalog
-"Update Attributes","Update Attributes",module,Magento_Catalog
-"start typing to search category","start typing to search category",module,Magento_Catalog
-"New Category","New Category",module,Magento_Catalog
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Catalog
-"Add New Images","Add New Images",module,Magento_Catalog
-"Inc. Tax","Inc. Tax",module,Magento_Catalog
-"Does this have a weight?","Does this have a weight?",module,Magento_Catalog
-Product,Product,module,Magento_Catalog
-"Notify Low Stock RSS","Notify Low Stock RSS",module,Magento_Catalog
-"Low Stock Products","Low Stock Products",module,Magento_Catalog
-"%1 has reached a quantity of %2.","%1 has reached a quantity of %2.",module,Magento_Catalog
-Home,Home,module,Magento_Catalog
-"Go to Home Page","Go to Home Page",module,Magento_Catalog
-"Subscribe to RSS Feed","Subscribe to RSS Feed",module,Magento_Catalog
-"Products Comparison List","Products Comparison List",module,Magento_Catalog
-N/A,N/A,module,Magento_Catalog
+"Subscribe Date","Fecha de Suscripción",module,Magento_Catalog
+"Last Notified","Notificado por última vez",module,Magento_Catalog
+"Send Count","Envíos",module,Magento_Catalog
+"New Attribute","Nuevo Atributo",module,Magento_Catalog
+Type,Tipo,module,Magento_Catalog
+"Attribute Set","Conjunto de Atributo",module,Magento_Catalog
+Status,Estado,module,Magento_Catalog
+Visibility,Visibilidad,module,Magento_Catalog
+"Add New Option","Añadir Nueva Opción",module,Magento_Catalog
+"Import Options","Importar Opciones",module,Magento_Catalog
+"Use Default","Usar por Defecto",module,Magento_Catalog
+Import,Importar,module,Magento_Catalog
+"Add New Row","Añadir Nueva Línea",module,Magento_Catalog
+"Delete Row","Borrar Línea",module,Magento_Catalog
+"Tier Pricing","Precio por Niveles",module,Magento_Catalog
+"Default Price","Precio por Defecto",module,Magento_Catalog
+"All Websites","Todos los Sitios Web",module,Magento_Catalog
+"ALL GROUPS","TODOS LOS GRUPOS",module,Magento_Catalog
+"Add Price","Añadir Precio",module,Magento_Catalog
+"Default Values","Valores por Defecto",module,Magento_Catalog
+"Related Products","Productos Relacionados",module,Magento_Catalog
+Up-sells,"Más Vendidos",module,Magento_Catalog
+Cross-sells,"Más Referenciados",module,Magento_Catalog
+"Size for %1","Tamaño para %1",module,Magento_Catalog
+"Watermark File for %1","Archivo de Marca de Agua para %1",module,Magento_Catalog
+"Position of Watermark for %1","Posición de Marca de Agua para %1",module,Magento_Catalog
+"Name in %1","Nombre en %1",module,Magento_Catalog
+Quantity,Cantidad,module,Magento_Catalog
+Edit,Editar,module,Magento_Catalog
+"Are you sure?","¿Está seguro?",module,Magento_Catalog
+"Change Status","Cambiar Estado",module,Magento_Catalog
+"Update Attributes","Actualizar Atributos",module,Magento_Catalog
+"start typing to search category","comienze a teclear para buscar categoría",module,Magento_Catalog
+"New Category","Nueva Categoría",module,Magento_Catalog
+"Images (.gif, .jpg, .png)","Imágenes (.gif, .jpg, .png)",module,Magento_Catalog
+"Add New Images","Añadir Nuevas Imágenes",module,Magento_Catalog
+"Inc. Tax","Impuesto incluído",module,Magento_Catalog
+"Does this have a weight?","¿Esto tiene un peso?",module,Magento_Catalog
+Product,Producto,module,Magento_Catalog
+"Notify Low Stock RSS","Notificar Bajas Existencias por RSS",module,Magento_Catalog
+"Low Stock Products","Productos con Baja Existencia",module,Magento_Catalog
+"%1 has reached a quantity of %2.","%1 ha alcanzado una cantidad de %2.",module,Magento_Catalog
+Home,Inicio,module,Magento_Catalog
+"Go to Home Page","Ir a la Página de Inicio",module,Magento_Catalog
+"Subscribe to RSS Feed","Suscribirse al RSS",module,Magento_Catalog
+"Products Comparison List","Listado de Comparación de Productos",module,Magento_Catalog
+N/A,N/D,module,Magento_Catalog
 AM,AM,module,Magento_Catalog
 PM,PM,module,Magento_Catalog
-"-- Please Select --","-- Please Select --",module,Magento_Catalog
+"-- Please Select --","-- Por favor Seleccione --",module,Magento_Catalog
 None,None,module,Magento_Catalog
 "New Products from %1","New Products from %1",module,Magento_Catalog
 "New Products","New Products",module,Magento_Catalog
