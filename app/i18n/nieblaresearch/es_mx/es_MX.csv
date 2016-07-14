@@ -1115,266 +1115,266 @@ Disabled,Deshabilitado,module,Magento_Catalog
 px.,px.,module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","El archivo '%1' para '%2' tiene una extensión inválida.",module,Magento_Catalog
 "The maximum allowed image size for '%1' is %2x%3 px.","El tamaño máximo de imagen para '%1' es de %2x%3 px.",module,Magento_Catalog
-"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.",module,Magento_Catalog
-"The file '%1' is empty. Please choose another one","The file '%1' is empty. Please choose another one",module,Magento_Catalog
-"The file '%1' is invalid. Please choose another one","The file '%1' is invalid. Please choose another one",module,Magento_Catalog
-"File '%1' is not an image.","File '%1' is not an image.",module,Magento_Catalog
-"Validation failed. Required options were not filled or the file was not uploaded.","Validation failed. Required options were not filled or the file was not uploaded.",module,Magento_Catalog
-"The file you uploaded is larger than %1 Megabytes allowed by server","The file you uploaded is larger than %1 Megabytes allowed by server",module,Magento_Catalog
-"Option required.","Option required.",module,Magento_Catalog
-"The file is empty. Please choose another one","The file is empty. Please choose another one",module,Magento_Catalog
-"Some of the selected item options are not currently available.","Some of the selected item options are not currently available.",module,Magento_Catalog
-"The text is too long.","The text is too long.",module,Magento_Catalog
-"This product doesn't have tier price","This product doesn't have tier price",module,Magento_Catalog
-"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
-"Invalid data provided for tier_price","Invalid data provided for tier_price",module,Magento_Catalog
-"Please provide valid data","Please provide valid data",module,Magento_Catalog
-"Values of following attributes are invalid: %1","Values of following attributes are invalid: %1",module,Magento_Catalog
+"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","El archivo que ha subido '%1' es más grande que el tamaño de %2 megabytes permitido en nuestro servidor.",module,Magento_Catalog
+"The file '%1' is empty. Please choose another one","El archivo '%1' está vacío. Por favor seleccione otro",module,Magento_Catalog
+"The file '%1' is invalid. Please choose another one","El archivo '%1' es inválido. Por favor seleccione otro",module,Magento_Catalog
+"File '%1' is not an image.","El archivo '%1' no es una imagen.",module,Magento_Catalog
+"Validation failed. Required options were not filled or the file was not uploaded.","Falló la validación. No fueron cubiertas las opciones o el archivo no fue enviado.",module,Magento_Catalog
+"The file you uploaded is larger than %1 Megabytes allowed by server","El archivo que ha subido es más grande que el tamaño de %1 Megabytes permitido por el servidor",module,Magento_Catalog
+"Option required.","Opción obligatoria.",module,Magento_Catalog
+"The file is empty. Please choose another one","El archivo está vacío. Por favor seleccione otro",module,Magento_Catalog
+"Some of the selected item options are not currently available.","Algunas de las opciones seleccionadas no están disponibles en este momento.",module,Magento_Catalog
+"The text is too long.","El texto es demasiado largo.",module,Magento_Catalog
+"This product doesn't have tier price","Este producto no tiene precio por niveles",module,Magento_Catalog
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","El producto no tiene grupo de precio con esos datos: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
+"Invalid data provided for tier_price","Datos inválidos proporcionados para tier_price",module,Magento_Catalog
+"Please provide valid data","Por favor proporcione datos válidos",module,Magento_Catalog
+"Values of following attributes are invalid: %1","Los valores para los siguientes atributos no son válidos: %1",module,Magento_Catalog
 "Could not save group price","Could not save group price",module,Magento_Catalog
-"We can't create writeable directory ""%1"".","We can't create writeable directory ""%1"".",module,Magento_Catalog
-"The file upload failed.","The file upload failed.",module,Magento_Catalog
-"The product has required options.","The product has required options.",module,Magento_Catalog
-"Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_Catalog
-"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
-"%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
-"Not Visible Individually","Not Visible Individually",module,Magento_Catalog
-Search,Search,module,Magento_Catalog
-"Catalog, Search","Catalog, Search",module,Magento_Catalog
-"Something went wrong while removing products from the websites.","Something went wrong while removing products from the websites.",module,Magento_Catalog
-"Something went wrong while adding products to websites.","Something went wrong while adding products to websites.",module,Magento_Catalog
-"Group with id ""%1"" does not exist.","Group with id ""%1"" does not exist.",module,Magento_Catalog
-"Attribute group that contains system attributes can not be deleted","Attribute group that contains system attributes can not be deleted",module,Magento_Catalog
-"Collection provider is not registered","Collection provider is not registered",module,Magento_Catalog
-"Unknown link type: %1","Unknown link type: %1",module,Magento_Catalog
-"Provided link type ""%1"" does not exist","Provided link type ""%1"" does not exist",module,Magento_Catalog
-"Invalid data provided for linked products","Invalid data provided for linked products",module,Magento_Catalog
-"Product with SKU '%1' is not linked to product with SKU '%2'","Product with SKU '%1' is not linked to product with SKU '%2'",module,Magento_Catalog
-"Product %1 doesn't have linked %2 as %3","Product %1 doesn't have linked %2 as %3",module,Magento_Catalog
-"Requested product doesn't exist","Requested product doesn't exist",module,Magento_Catalog
-"Requested product does not support images.","Requested product does not support images.",module,Magento_Catalog
-"Product with SKU ""%1"" does not exist","Product with SKU ""%1"" does not exist",module,Magento_Catalog
-"Invalid product data: %1","Invalid product data: %1",module,Magento_Catalog
-"Unable to remove product %1","Unable to remove product %1",module,Magento_Catalog
-"There are not websites for assign to product","There are not websites for assign to product",module,Magento_Catalog
-"Could not assign product ""%1"" to websites ""%2""","Could not assign product ""%1"" to websites ""%2""",module,Magento_Catalog
-"Could not save product ""%1"" with websites %2","Could not save product ""%1"" with websites %2",module,Magento_Catalog
-"We cannot determine the field name.","We cannot determine the field name.",module,Magento_Catalog
-"Attribute '%1' is locked. %2","Attribute '%1' is locked. %2",module,Magento_Catalog
-"Do not change the scope. %1","Do not change the scope. %1",module,Magento_Catalog
-"A product type is not defined for the indexer.","A product type is not defined for the indexer.",module,Magento_Catalog
-"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
-"Product with SKU %1 is not linked to product with SKU %2","Product with SKU %1 is not linked to product with SKU %2",module,Magento_Catalog
-"Multiple Select","Multiple Select",module,Magento_Catalog
-Dropdown,Dropdown,module,Magento_Catalog
-"%1 doesn't extend \Magento\Framework\Filter\Template","%1 doesn't extend \Magento\Framework\Filter\Template",module,Magento_Catalog
-"As low as","As low as",module,Magento_Catalog
-message,message,module,Magento_Catalog
+"We can't create writeable directory ""%1"".","No podemos crear la carpeta con permisos de escritura ""%1"".",module,Magento_Catalog
+"The file upload failed.","Falló la transmisión del archivo.",module,Magento_Catalog
+"The product has required options.","El producto tiene opciones obligatorias.",module,Magento_Catalog
+"Something went wrong while processing the request.","Algo ocurrió al intentar procesar la solicitud.",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 no extiende \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 no extiende \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
+"Not Visible Individually","No es Visible de Forma Individual",module,Magento_Catalog
+Search,Búsqueda,module,Magento_Catalog
+"Catalog, Search","Catálogo, Búsqueda",module,Magento_Catalog
+"Something went wrong while removing products from the websites.","Algo ocurrió al intentar borrar productos de los sitios web.",module,Magento_Catalog
+"Something went wrong while adding products to websites.","Algo ocurrió al intentar añadir productos a los sitios web.",module,Magento_Catalog
+"Group with id ""%1"" does not exist.","El grupo con el ID ""%1"" no existe.",module,Magento_Catalog
+"Attribute group that contains system attributes can not be deleted","El grupo de atributo que contiene atributos de sistema no puede borrarse",module,Magento_Catalog
+"Collection provider is not registered","El proveedor de colecciones no está registrado",module,Magento_Catalog
+"Unknown link type: %1","Tipo de liga desconocido: %1",module,Magento_Catalog
+"Provided link type ""%1"" does not exist","El tipo de liga ""%1"" no existe",module,Magento_Catalog
+"Invalid data provided for linked products","Datos no válidos proporcionados para productos ligados",module,Magento_Catalog
+"Product with SKU '%1' is not linked to product with SKU '%2'","El producto con el SKU '%1' no está ligado al producto con el SKU '%2'",module,Magento_Catalog
+"Product %1 doesn't have linked %2 as %3","El producto %1 no tiene ligado %2 como %3",module,Magento_Catalog
+"Requested product doesn't exist","El producto solicitado no existe",module,Magento_Catalog
+"Requested product does not support images.","El producto solicitado no soporta imágenes.",module,Magento_Catalog
+"Product with SKU ""%1"" does not exist","El producto con el SKU ""%1"" no existe",module,Magento_Catalog
+"Invalid product data: %1","Datos de producto no válidos: %1",module,Magento_Catalog
+"Unable to remove product %1","No se puede borrar el producto %1",module,Magento_Catalog
+"There are not websites for assign to product","No hay sitios web que se puedan asignar al producto",module,Magento_Catalog
+"Could not assign product ""%1"" to websites ""%2""","No se puede asignar el producto ""%1"" a los sitios web ""%2""",module,Magento_Catalog
+"Could not save product ""%1"" with websites %2","No podemos guardar el producto ""%1"" a los sitios web %2",module,Magento_Catalog
+"We cannot determine the field name.","No podemos determinar el nombre del campo.",module,Magento_Catalog
+"Attribute '%1' is locked. %2","El atributo '%1' está bloqueado. %2",module,Magento_Catalog
+"Do not change the scope. %1","No cambie el alcance. %1",module,Magento_Catalog
+"A product type is not defined for the indexer.","El tipo de producto no está definido para el indizador.",module,Magento_Catalog
+"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 no extiende \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
+"Product with SKU %1 is not linked to product with SKU %2","El producto con el SKU %1 no está ligado al producto con el SKU %2",module,Magento_Catalog
+"Multiple Select","Selección Múltiple",module,Magento_Catalog
+Dropdown,Desplegable,module,Magento_Catalog
+"%1 doesn't extend \Magento\Framework\Filter\Template","%1 no extiende \Magento\Framework\Filter\Template",module,Magento_Catalog
+"As low as","Tan barato como",module,Magento_Catalog
+message,mensaje,module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 123,123,module,Magento_Catalog
-Images,Images,module,Magento_Catalog
-Select...,Select...,module,Magento_Catalog
-"Advanced Pricing","Advanced Pricing",module,Magento_Catalog
-"Tier Price","Tier Price",module,Magento_Catalog
-"Customer Group","Customer Group",module,Magento_Catalog
-"Special Price From","Special Price From",module,Magento_Catalog
-To,To,module,Magento_Catalog
-Done,Done,module,Magento_Catalog
-"Add Selected","Add Selected",module,Magento_Catalog
-"Select Attribute","Select Attribute",module,Magento_Catalog
-"Create New Attribute","Create New Attribute",module,Magento_Catalog
-"Customizable Options","Customizable Options",module,Magento_Catalog
-"Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
-"Add Option","Add Option",module,Magento_Catalog
-"New Option","New Option",module,Magento_Catalog
-"Select Product","Select Product",module,Magento_Catalog
-"Option Title","Option Title",module,Magento_Catalog
-"Add Value","Add Value",module,Magento_Catalog
-Title,Title,module,Magento_Catalog
-"Option Type","Option Type",module,Magento_Catalog
-Required,Required,module,Magento_Catalog
-"Price Type","Price Type",module,Magento_Catalog
-"Max Characters","Max Characters",module,Magento_Catalog
-"Compatible File Extensions","Compatible File Extensions",module,Magento_Catalog
-"Maximum Image Size","Maximum Image Size",module,Magento_Catalog
-"Please leave blank if it is not an image.","Please leave blank if it is not an image.",module,Magento_Catalog
+Images,Imágenes,module,Magento_Catalog
+Select...,Seleccionar...,module,Magento_Catalog
+"Advanced Pricing","Precio Avanzado",module,Magento_Catalog
+"Tier Price","Precio por Niveles",module,Magento_Catalog
+"Customer Group","Conjunto de Clientes",module,Magento_Catalog
+"Special Price From","Precio Especial Desde",module,Magento_Catalog
+To,Para,module,Magento_Catalog
+Done,Hecho,module,Magento_Catalog
+"Add Selected","Añadir Selección",module,Magento_Catalog
+"Select Attribute","Seleccionar Atributo",module,Magento_Catalog
+"Create New Attribute","Crear Nuevo Atributo",module,Magento_Catalog
+"Customizable Options","Opciones Personalizables",module,Magento_Catalog
+"Custom options let customers choose the product variations they want.","Las opciones personalizables permiten a los clientes elejir las variaciones de producto que ellos quieran.",module,Magento_Catalog
+"Add Option","Añadir Opción",module,Magento_Catalog
+"New Option","Nueva Opción",module,Magento_Catalog
+"Select Product","Seleccionar Producto",module,Magento_Catalog
+"Option Title","Título de Opción",module,Magento_Catalog
+"Add Value","Añadir Valor",module,Magento_Catalog
+Title,Título,module,Magento_Catalog
+"Option Type","Tipo de Opción",module,Magento_Catalog
+Required,Obligatorio,module,Magento_Catalog
+"Price Type","Tipo de Precio",module,Magento_Catalog
+"Max Characters","Número Máximo de Caracteres",module,Magento_Catalog
+"Compatible File Extensions","Extensiones Compatibles Permitidas",module,Magento_Catalog
+"Maximum Image Size","Tamaño Máximo de Imagen",module,Magento_Catalog
+"Please leave blank if it is not an image.","Por favor déjelo en blanco si no es una imagen.",module,Magento_Catalog
 %1,%1,module,Magento_Catalog
-"This item has weight","This item has weight",module,Magento_Catalog
-"This item has no weight","This item has no weight",module,Magento_Catalog
-"Set Product as New From","Set Product as New From",module,Magento_Catalog
-"Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells",module,Magento_Catalog
-"Related products are shown to customers in addition to the item the customer is looking at.","Related products are shown to customers in addition to the item the customer is looking at.",module,Magento_Catalog
-"Add Related Products","Add Related Products",module,Magento_Catalog
-"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.",module,Magento_Catalog
-"Add Up-Sell Products","Add Up-Sell Products",module,Magento_Catalog
-"Up-Sell Products","Up-Sell Products",module,Magento_Catalog
-"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.",module,Magento_Catalog
-"Add Cross-Sell Products","Add Cross-Sell Products",module,Magento_Catalog
-"Cross-Sell Products","Cross-Sell Products",module,Magento_Catalog
-"Add Selected Products","Add Selected Products",module,Magento_Catalog
-Remove,Remove,module,Magento_Catalog
-Thumbnail,Thumbnail,module,Magento_Catalog
-Actions,Actions,module,Magento_Catalog
-"Schedule Update From","Schedule Update From",module,Magento_Catalog
-"Product in Websites","Product in Websites",module,Magento_Catalog
-"If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view.",module,Magento_Catalog
-name,name,module,Magento_Catalog
-"Copy Data from","Copy Data from",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.",module,Magento_Catalog
-"This operation can take a long time","This operation can take a long time",module,Magento_Catalog
-"Collapse All","Collapse All",module,Magento_Catalog
-"Expand All","Expand All",module,Magento_Catalog
-"Please confirm site switching. All data that hasn't been saved will be lost.","Please confirm site switching. All data that hasn't been saved will be lost.",module,Magento_Catalog
-"Use Default Value","Use Default Value",module,Magento_Catalog
-"Manage Titles (Size, Color, etc.)","Manage Titles (Size, Color, etc.)",module,Magento_Catalog
-"Manage Options (Values of Your Attribute)","Manage Options (Values of Your Attribute)",module,Magento_Catalog
-"Is Default","Is Default",module,Magento_Catalog
-"Sort Option","Sort Option",module,Magento_Catalog
-Groups,Groups,module,Magento_Catalog
-"Double click on a group to rename it.","Double click on a group to rename it.",module,Magento_Catalog
-"Unassigned Attributes","Unassigned Attributes",module,Magento_Catalog
-"A name is required.","A name is required.",module,Magento_Catalog
-"This group contains system attributes. Please move system attributes to another group and try again.","This group contains system attributes. Please move system attributes to another group and try again.",module,Magento_Catalog
-"Please enter a new group name.","Please enter a new group name.",module,Magento_Catalog
-"An attribute group named ""/name/"" already exists"".","An attribute group named ""/name/"" already exists"".",module,Magento_Catalog
-"Sorry, we're unable to complete this request.","Sorry, we're unable to complete this request.",module,Magento_Catalog
-"You can't remove attributes from this attribute set.","You can't remove attributes from this attribute set.",module,Magento_Catalog
-"Custom Options","Custom Options",module,Magento_Catalog
-"This is a required option.","This is a required option.",module,Magento_Catalog
-"The field isn't complete.","The field isn't complete.",module,Magento_Catalog
-"Compatible file extensions to upload","Compatible file extensions to upload",module,Magento_Catalog
-"Maximum image width","Maximum image width",module,Magento_Catalog
-"Maximum image height","Maximum image height",module,Magento_Catalog
-"Maximum number of characters:","Maximum number of characters:",module,Magento_Catalog
-"start typing to search template","start typing to search template",module,Magento_Catalog
-"Product online","Product online",module,Magento_Catalog
-"Product offline","Product offline",module,Magento_Catalog
-"Product online status","Product online status",module,Magento_Catalog
-"Manage Stock","Manage Stock",module,Magento_Catalog
-Qty,Qty,module,Magento_Catalog
-"Out-of-Stock Threshold","Out-of-Stock Threshold",module,Magento_Catalog
-"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart",module,Magento_Catalog
-"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart",module,Magento_Catalog
-"Qty Uses Decimals","Qty Uses Decimals",module,Magento_Catalog
-Backorders,Backorders,module,Magento_Catalog
-"Notify for Quantity Below","Notify for Quantity Below",module,Magento_Catalog
-"Enable Qty Increments","Enable Qty Increments",module,Magento_Catalog
-"Qty Increments","Qty Increments",module,Magento_Catalog
-"Stock Availability","Stock Availability",module,Magento_Catalog
-"In Stock","In Stock",module,Magento_Catalog
-"Out of Stock","Out of Stock",module,Magento_Catalog
-"Add Product To Websites","Add Product To Websites",module,Magento_Catalog
-"Remove Product From Websites","Remove Product From Websites",module,Magento_Catalog
-"To hide an item in catalog or search results, set the status to ""Disabled"".","To hide an item in catalog or search results, set the status to ""Disabled"".",module,Magento_Catalog
-"We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Catalog
-"Delete Custom Option","Delete Custom Option",module,Magento_Catalog
-"Sort Custom Options","Sort Custom Options",module,Magento_Catalog
-"Input Type","Input Type",module,Magento_Catalog
+"This item has weight","Este producto tiene peso",module,Magento_Catalog
+"This item has no weight","Este producto no tiene peso",module,Magento_Catalog
+"Set Product as New From","Fijar Producto como Nuevo Desde",module,Magento_Catalog
+"Related Products, Up-Sells, and Cross-Sells","Productos Relacionados, Más Vendidos, y Más Referenciados",module,Magento_Catalog
+"Related products are shown to customers in addition to the item the customer is looking at.","Los productos relacionados son mostrados a los clientes en adición al producto que está viendo.",module,Magento_Catalog
+"Add Related Products","Añadir Productos Relacionados",module,Magento_Catalog
+"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Los productos más vendidos son ofrecidos a los clientes como una alternativa más cara o con mejor calidad que el producto que está viendo.",module,Magento_Catalog
+"Add Up-Sell Products","Añadir Productos Más Vendidos",module,Magento_Catalog
+"Up-Sell Products","Productos Más Vendidos",module,Magento_Catalog
+"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Estos productos de ""compra impulsiva"" aparecen junto al carrito de compra como más referenciados a los productos que ya están en el carrito.",module,Magento_Catalog
+"Add Cross-Sell Products","Añadir Productos Más Referenciados",module,Magento_Catalog
+"Cross-Sell Products","Productos Más Referenciados",module,Magento_Catalog
+"Add Selected Products","Añadir Productos Seleccionados",module,Magento_Catalog
+Remove,Borrar,module,Magento_Catalog
+Thumbnail,Miniatura,module,Magento_Catalog
+Actions,Acciones,module,Magento_Catalog
+"Schedule Update From","Agendar Actualización Desde",module,Magento_Catalog
+"Product in Websites","Producto en Sitios Web",module,Magento_Catalog
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","Si su sitio Magento cuenta con múltiples vistas, puede fijar el alcance para aplicar a una vista específica.",module,Magento_Catalog
+name,nombre,module,Magento_Catalog
+"Copy Data from","Copiar Datos desde",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","Si no existen categorías personalizadas de las que depende, por favor use la categoría superior. Puede reasignar la categoría en cualquier momento en <a href=""%1"" target=""_blank"">Productios y Categorías</a>.",module,Magento_Catalog
+"This operation can take a long time","Esta operación puede llevar mucho tiempo",module,Magento_Catalog
+"Collapse All","Colapsar Todos",module,Magento_Catalog
+"Expand All","Expandir Todos",module,Magento_Catalog
+"Please confirm site switching. All data that hasn't been saved will be lost.","Por favor confirme el cambio. Todos los datos que no se han guardado se perderán.",module,Magento_Catalog
+"Use Default Value","Usar Valor por Defecto",module,Magento_Catalog
+"Manage Titles (Size, Color, etc.)","Administrar Títulos (Tamaño, Color, etc.)",module,Magento_Catalog
+"Manage Options (Values of Your Attribute)","Administrar Opciones (Valores de Su Atributo)",module,Magento_Catalog
+"Is Default","Es Por Defecto",module,Magento_Catalog
+"Sort Option","Opción de Ordenamiento",module,Magento_Catalog
+Groups,Conjuntos,module,Magento_Catalog
+"Double click on a group to rename it.","Haga doble click en un conjunto para renombrarlo.",module,Magento_Catalog
+"Unassigned Attributes","Atributos sin Asignar",module,Magento_Catalog
+"A name is required.","El nombre es obligatorio.",module,Magento_Catalog
+"This group contains system attributes. Please move system attributes to another group and try again.","Este conjunto tiene atributos de sistema. Por favor mueva los atributos de sistema a otro conjunto e inténtelo de nuevo.",module,Magento_Catalog
+"Please enter a new group name.","Por favor ingrese un nuevo nombre de conjunto.",module,Magento_Catalog
+"An attribute group named ""/name/"" already exists"".","Ya existe un atributo con el nombre ""/name/"" "".",module,Magento_Catalog
+"Sorry, we're unable to complete this request.","Lo sentimos, no se pudo completar la solicitud.",module,Magento_Catalog
+"You can't remove attributes from this attribute set.","No se pueden borrar atributos de este conjunto de atributos.",module,Magento_Catalog
+"Custom Options","Opciones Personalizadas",module,Magento_Catalog
+"This is a required option.","Esta es una opción obligatoria.",module,Magento_Catalog
+"The field isn't complete.","El campo no está completo.",module,Magento_Catalog
+"Compatible file extensions to upload","Extensiones de archivo compatibles para enviar",module,Magento_Catalog
+"Maximum image width","Ancho máximo de imagen",module,Magento_Catalog
+"Maximum image height","Altura máxima de imagen",module,Magento_Catalog
+"Maximum number of characters:","Número máximo de caracteres:",module,Magento_Catalog
+"start typing to search template","Empieze a teclear para buscar el modelo",module,Magento_Catalog
+"Product online","Producto publicado",module,Magento_Catalog
+"Product offline","Producto sin publicar,module,Magento_Catalog
+"Product online status","Estado de publicación",module,Magento_Catalog
+"Manage Stock","Administrar Inventario",module,Magento_Catalog
+Qty,Cantidad,module,Magento_Catalog
+"Out-of-Stock Threshold","Límite de Fuera-de-Inventario",module,Magento_Catalog
+"Minimum Qty Allowed in Shopping Cart","Cantidad Mínima Permitida en Carrito de Compras",module,Magento_Catalog
+"Maximum Qty Allowed in Shopping Cart","Cantidad Máxima Permitida en Carrito de Compras",module,Magento_Catalog
+"Qty Uses Decimals","La cantidad Usa Decimales",module,Magento_Catalog
+Backorders,"Pedidos Pendientes",module,Magento_Catalog
+"Notify for Quantity Below","Notificar para Cantidad Baja",module,Magento_Catalog
+"Enable Qty Increments","Habilitar Incrementos de Cantidad",module,Magento_Catalog
+"Qty Increments","Incrementos de Cantidad",module,Magento_Catalog
+"Stock Availability","Disponibilidad de Inventario",module,Magento_Catalog
+"In Stock","En Inventario",module,Magento_Catalog
+"Out of Stock","Fuera de Inventario",module,Magento_Catalog
+"Add Product To Websites","Añadir Producto a Sitios Web",module,Magento_Catalog
+"Remove Product From Websites","Borrar Producto de Sitios Web",module,Magento_Catalog
+"To hide an item in catalog or search results, set the status to ""Disabled"".","Para no mostrar un artículo en el catálogo, cambie el estado a  ""Deshabilitado"".",module,Magento_Catalog
+"We can't save custom-defined options for bundles with dynamic pricing.","No podemos guardar opciones personalizadas para conjuntos con precio dinámico.",module,Magento_Catalog
+"Delete Custom Option","Borrar Opción Personalizada",module,Magento_Catalog
+"Sort Custom Options","Ordenar Opciones Personalizadas",module,Magento_Catalog
+"Input Type","Tipo de Entrada",module,Magento_Catalog
 "%1 <span>x</span> %2 <span>px.</span>","%1 <span>x</span> %2 <span>px.</span>",module,Magento_Catalog
-"Sort Custom Option","Sort Custom Option",module,Magento_Catalog
-"Item Price","Item Price",module,Magento_Catalog
-Action,Action,module,Magento_Catalog
-"and above","and above",module,Magento_Catalog
-"Delete Tier","Delete Tier",module,Magento_Catalog
-"Product In Websites","Product In Websites",module,Magento_Catalog
-"(Copy data from: %1)","(Copy data from: %1)",module,Magento_Catalog
-"Browse to find or drag image here","Browse to find or drag image here",module,Magento_Catalog
-"Delete image","Delete image",module,Magento_Catalog
-Hidden,Hidden,module,Magento_Catalog
-"Alt Text","Alt Text",module,Magento_Catalog
-Role,Role,module,Magento_Catalog
-"Image Size","Image Size",module,Magento_Catalog
-{size},{size},module,Magento_Catalog
-"Image Resolution","Image Resolution",module,Magento_Catalog
-"{width}^{height} px","{width}^{height} px",module,Magento_Catalog
-"Hide from Product Page","Hide from Product Page",module,Magento_Catalog
-"Product Alerts","Product Alerts",module,Magento_Catalog
-"Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping",module,Magento_Catalog
-"start typing to search attribute","start typing to search attribute",module,Magento_Catalog
-"Basic Settings","Basic Settings",module,Magento_Catalog
-"Advanced Settings","Advanced Settings",module,Magento_Catalog
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Catalog
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Catalog
-"Mass Actions","Mass Actions",module,Magento_Catalog
-"Select All","Select All",module,Magento_Catalog
-"Unselect All","Unselect All",module,Magento_Catalog
-"Select Visible","Select Visible",module,Magento_Catalog
-"Unselect Visible","Unselect Visible",module,Magento_Catalog
-"Special Price","Special Price",module,Magento_Catalog
-"Regular Price","Regular Price",module,Magento_Catalog
-"Buy %1 for: ","Buy %1 for: ",module,Magento_Catalog
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
-"Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
-"Shop By","Shop By",module,Magento_Catalog
-"Shopping Options","Shopping Options",module,Magento_Catalog
-"Compare Products","Compare Products",module,Magento_Catalog
-"Print This Page","Print This Page",module,Magento_Catalog
-"Remove Product","Remove Product",module,Magento_Catalog
-"Add to Cart","Add to Cart",module,Magento_Catalog
-"In stock","In stock",module,Magento_Catalog
-"Out of stock","Out of stock",module,Magento_Catalog
-"Add to Wish List","Add to Wish List",module,Magento_Catalog
-"You have no items to compare.","You have no items to compare.",module,Magento_Catalog
-"Remove This Item","Remove This Item",module,Magento_Catalog
-Compare,Compare,module,Magento_Catalog
-"Clear All","Clear All",module,Magento_Catalog
-Prev,Prev,module,Magento_Catalog
-Next,Next,module,Magento_Catalog
-"We can't find products matching the selection.","We can't find products matching the selection.",module,Magento_Catalog
-"Add to Compare","Add to Compare",module,Magento_Catalog
-"Learn More","Learn More",module,Magento_Catalog
-"We found other products you might like!","We found other products you might like!",module,Magento_Catalog
-"More Choices:","More Choices:",module,Magento_Catalog
-"Check items to add to the cart or","Check items to add to the cart or",module,Magento_Catalog
-"select all","select all",module,Magento_Catalog
-"Items %1-%2 of %3","Items %1-%2 of %3",module,Magento_Catalog
-"%1 Item","%1 Item",module,Magento_Catalog
-"%1 Items","%1 Items",module,Magento_Catalog
-Show,Show,module,Magento_Catalog
-"per page","per page",module,Magento_Catalog
-"Sort By","Sort By",module,Magento_Catalog
-"Set Ascending Direction","Set Ascending Direction",module,Magento_Catalog
-"Set Descending Direction","Set Descending Direction",module,Magento_Catalog
-"View as","View as",module,Magento_Catalog
-"More Information","More Information",module,Magento_Catalog
-Loading...,Loading...,module,Magento_Catalog
-"* Required Fields","* Required Fields",module,Magento_Catalog
-Availability,Availability,module,Magento_Catalog
-"Terms and Conditions","Terms and Conditions",module,Magento_CheckoutAgreements
-"Add New Condition","Add New Condition",module,Magento_CheckoutAgreements
-"Save Condition","Save Condition",module,Magento_CheckoutAgreements
-"Delete Condition","Delete Condition",module,Magento_CheckoutAgreements
-"Edit Terms and Conditions","Edit Terms and Conditions",module,Magento_CheckoutAgreements
-"New Terms and Conditions","New Terms and Conditions",module,Magento_CheckoutAgreements
-"Terms and Conditions Information","Terms and Conditions Information",module,Magento_CheckoutAgreements
-"Condition Name","Condition Name",module,Magento_CheckoutAgreements
-Status,Status,module,Magento_CheckoutAgreements
-Enabled,Enabled,module,Magento_CheckoutAgreements
-Disabled,Disabled,module,Magento_CheckoutAgreements
-"Show Content as","Show Content as",module,Magento_CheckoutAgreements
-Text,Text,module,Magento_CheckoutAgreements
+"Sort Custom Option","Ordenar Opción Personalizada",module,Magento_Catalog
+"Item Price","Precio de Artículo",module,Magento_Catalog
+Action,Acción,module,Magento_Catalog
+"and above","y superior",module,Magento_Catalog
+"Delete Tier","Borrar Nivel",module,Magento_Catalog
+"Product In Websites","Producto en Sitios Web",module,Magento_Catalog
+"(Copy data from: %1)","(Copiar datos de: %1)",module,Magento_Catalog
+"Browse to find or drag image here","Explorar para encontrar o arrastrar una imagen aquí",module,Magento_Catalog
+"Delete image","Borrar imagen",module,Magento_Catalog
+Hidden,Oculto,module,Magento_Catalog
+"Alt Text","Texto Alterno",module,Magento_Catalog
+Role,Rol,module,Magento_Catalog
+"Image Size","Tamaño de Imagen",module,Magento_Catalog
+{size},{tamaño},module,Magento_Catalog
+"Image Resolution","Resolución de Imagen",module,Magento_Catalog
+"{width}^{height} px","{ancho}^{alto} px",module,Magento_Catalog
+"Hide from Product Page","Ocultar de la Página de Producto",module,Magento_Catalog
+"Product Alerts","Alertas de Producto",module,Magento_Catalog
+"Allow Multiple Boxes for Shipping","Permitir Múltiples Cajas para Enviar",module,Magento_Catalog
+"start typing to search attribute","comienze a teclear para buscar atributo",module,Magento_Catalog
+"Basic Settings","Configuración Básica",module,Magento_Catalog
+"Advanced Settings","Configuración Avanzada",module,Magento_Catalog
+"Changes have been made to this section that have not been saved.","Se han hecho cambios en esta sección que no se han guardado.",module,Magento_Catalog
+"This tab contains invalid data. Please resolve this before saving.","Esta pestaña contiene datos no válidos. Por favor resuélvalo antes de guardar.",module,Magento_Catalog
+"Mass Actions","Acciones Masivas",module,Magento_Catalog
+"Select All","Seleccionar Todos",module,Magento_Catalog
+"Unselect All","Deseleccionar Todos",module,Magento_Catalog
+"Select Visible","Seleccionar Visible",module,Magento_Catalog
+"Unselect Visible","Deseleccionar Visible",module,Magento_Catalog
+"Special Price","Precio Especial",module,Magento_Catalog
+"Regular Price","Precio Regular",module,Magento_Catalog
+"Buy %1 for: ","Compre %1 por: ",module,Magento_Catalog
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Compre %1 por %2 cada uno y <strong class=""benefit"">ahorre<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
+"Buy %1 for %2 each","Compre %1 por %2 cada uno",module,Magento_Catalog
+"Shop By","Compre Por",module,Magento_Catalog
+"Shopping Options","Opciones de Compra",module,Magento_Catalog
+"Compare Products","Compare Productos",module,Magento_Catalog
+"Print This Page","Imprima Esta Página",module,Magento_Catalog
+"Remove Product","Borre el Producto",module,Magento_Catalog
+"Add to Cart","Añadir al Carrito",module,Magento_Catalog
+"In stock","En inventario",module,Magento_Catalog
+"Out of stock","Fuera de Inventario",module,Magento_Catalog
+"Add to Wish List","Añadir a Lista de Deseos",module,Magento_Catalog
+"You have no items to compare.","No tiene artículos para comparar.",module,Magento_Catalog
+"Remove This Item","Borrar Este Artículo",module,Magento_Catalog
+Compare,Comparar,module,Magento_Catalog
+"Clear All","Limpar Todos",module,Magento_Catalog
+Prev,Anterior,module,Magento_Catalog
+Next,Siguiente,module,Magento_Catalog
+"We can't find products matching the selection.","No podemos encontrar productos que correspondan con la selección.",module,Magento_Catalog
+"Add to Compare","Añadir a Comparar",module,Magento_Catalog
+"Learn More","Entérese de Más",module,Magento_Catalog
+"We found other products you might like!","¡Encontramos otros productos que pueden interesarle!",module,Magento_Catalog
+"More Choices:","Más Opciones:",module,Magento_Catalog
+"Check items to add to the cart or","Revise los artículos para añadir al carrito o",module,Magento_Catalog
+"select all","seleccionar todo",module,Magento_Catalog
+"Items %1-%2 of %3","Artículos %1-%2 de %3",module,Magento_Catalog
+"%1 Item","%1 Artículo",module,Magento_Catalog
+"%1 Items","%1 Artículos",module,Magento_Catalog
+Show,Mostrar,module,Magento_Catalog
+"per page","por página",module,Magento_Catalog
+"Sort By","Ordenar Por",module,Magento_Catalog
+"Set Ascending Direction","Fijar Órden Ascendente",module,Magento_Catalog
+"Set Descending Direction","Fijar Órden Descendente",module,Magento_Catalog
+"View as","Ver como",module,Magento_Catalog
+"More Information","Más Información",module,Magento_Catalog
+Loading...,Cargando...,module,Magento_Catalog
+"* Required Fields","* Campos Obligatorios",module,Magento_Catalog
+Availability,Disponibilidad,module,Magento_Catalog
+"Terms and Conditions","Términos y Condiciones",module,Magento_CheckoutAgreements
+"Add New Condition","Añadir Nueva Condición",module,Magento_CheckoutAgreements
+"Save Condition","Guardar Condición",module,Magento_CheckoutAgreements
+"Delete Condition","Borrar Condición",module,Magento_CheckoutAgreements
+"Edit Terms and Conditions","Editar Términos y Condiciones",module,Magento_CheckoutAgreements
+"New Terms and Conditions","Nuevos Términos y Condiciones",module,Magento_CheckoutAgreements
+"Terms and Conditions Information","Información de Términos y Condiciones",module,Magento_CheckoutAgreements
+"Condition Name","Nombre de Condición",module,Magento_CheckoutAgreements
+Status,Estado,module,Magento_CheckoutAgreements
+Enabled,Habilitado,module,Magento_CheckoutAgreements
+Disabled,Deshabilitado,module,Magento_CheckoutAgreements
+"Show Content as","Mostrar Contenido como",module,Magento_CheckoutAgreements
+Text,Texto,module,Magento_CheckoutAgreements
 HTML,HTML,module,Magento_CheckoutAgreements
-Applied,Applied,module,Magento_CheckoutAgreements
-"Store View","Store View",module,Magento_CheckoutAgreements
-"Checkbox Text","Checkbox Text",module,Magento_CheckoutAgreements
-Content,Content,module,Magento_CheckoutAgreements
-"Content Height (css)","Content Height (css)",module,Magento_CheckoutAgreements
-"Content Height","Content Height",module,Magento_CheckoutAgreements
+Applied,Aplicado,module,Magento_CheckoutAgreements
+"Store View","Vista de Tienda",module,Magento_CheckoutAgreements
+"Checkbox Text","Texto de Casilla",module,Magento_CheckoutAgreements
+Content,Contenido,module,Magento_CheckoutAgreements
+"Content Height (css)","Altura de Contenido (css)",module,Magento_CheckoutAgreements
+"Content Height","Altura de Contenido",module,Magento_CheckoutAgreements
 ID,ID,module,Magento_CheckoutAgreements
-Condition,Condition,module,Magento_CheckoutAgreements
-Sales,Sales,module,Magento_CheckoutAgreements
-"Checkout Conditions","Checkout Conditions",module,Magento_CheckoutAgreements
-"Checkout Terms and Conditions","Checkout Terms and Conditions",module,Magento_CheckoutAgreements
-"This condition no longer exists.","This condition no longer exists.",module,Magento_CheckoutAgreements
-"You deleted the condition.","You deleted the condition.",module,Magento_CheckoutAgreements
-"Something went wrong  while deleting this condition.","Something went wrong  while deleting this condition.",module,Magento_CheckoutAgreements
-"Edit Condition","Edit Condition",module,Magento_CheckoutAgreements
-"New Condition","New Condition",module,Magento_CheckoutAgreements
-"You saved the condition.","You saved the condition.",module,Magento_CheckoutAgreements
-"Something went wrong while saving this condition.","Something went wrong while saving this condition.",module,Magento_CheckoutAgreements
-Automatically,Automatically,module,Magento_CheckoutAgreements
-Manually,Manually,module,Magento_CheckoutAgreements
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_CheckoutAgreements
-"Unable to save checkout agreement %1","Unable to save checkout agreement %1",module,Magento_CheckoutAgreements
+Condition,Condición,module,Magento_CheckoutAgreements
+Sales,Ventas,module,Magento_CheckoutAgreements
+"Checkout Conditions","Condiciones de Pedido",module,Magento_CheckoutAgreements
+"Checkout Terms and Conditions","Términos y Condiciones de Pedido",module,Magento_CheckoutAgreements
+"This condition no longer exists.","Esta condición ya no existe.",module,Magento_CheckoutAgreements
+"You deleted the condition.","Ha borrado la condición.",module,Magento_CheckoutAgreements
+"Something went wrong  while deleting this condition.","Algo ocurrió al intentar borrar esta condición.",module,Magento_CheckoutAgreements
+"Edit Condition","Editar Condición",module,Magento_CheckoutAgreements
+"New Condition","Nueva Condición",module,Magento_CheckoutAgreements
+"You saved the condition.","Ha guardado la condición.",module,Magento_CheckoutAgreements
+"Something went wrong while saving this condition.","Algo ocurrió al intentar guardar esta condición.",module,Magento_CheckoutAgreements
+Automatically,Automáticamente,module,Magento_CheckoutAgreements
+Manually,Manualmente,module,Magento_CheckoutAgreements
+"Please agree to all the terms and conditions before placing the order.","Por favor concuerde en todos los términos y condiciones antes de colocar la orden.",module,Magento_CheckoutAgreements
+"Unable to save checkout agreement %1","No es posible guardar el acuerdo de pedido %1",module,Magento_CheckoutAgreements
 "Unable to remove checkout agreement %1","Unable to remove checkout agreement %1",module,Magento_CheckoutAgreements
 "Checkout agreement with specified ID ""%1"" not found.","Checkout agreement with specified ID ""%1"" not found.",module,Magento_CheckoutAgreements
 "Shopping Cart","Shopping Cart",module,Magento_Checkout
