@@ -1728,273 +1728,272 @@ Options,Opciones,module,Magento_ConfigurableProduct
 "Create New Value","Crear Nuevo Valor",module,Magento_ConfigurableProduct
 "Step 3: Bulk Images, Price and Quantity","Paso 3: Imágenes juntas, Precio y Cantidad",module,Magento_ConfigurableProduct
 "Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.","Con base en sus selecciones %1 se crearán nuevos productos. Use este paso para personalizar las imágenes y el precio de sus nuevos productos.",module,Magento_ConfigurableProduct
-Images,Images,module,Magento_ConfigurableProduct
-"Apply single set of images to all SKUs","Apply single set of images to all SKUs",module,Magento_ConfigurableProduct
-"Apply unique images by attribute to each SKU","Apply unique images by attribute to each SKU",module,Magento_ConfigurableProduct
-"Skip image uploading at this time","Skip image uploading at this time",module,Magento_ConfigurableProduct
-"Browse Files...","Browse Files...",module,Magento_ConfigurableProduct
-"Browse to find or drag image here","Browse to find or drag image here",module,Magento_ConfigurableProduct
-"Remove image","Remove image",module,Magento_ConfigurableProduct
-Hidden,Hidden,module,Magento_ConfigurableProduct
-"Alt Text","Alt Text",module,Magento_ConfigurableProduct
-Role,Role,module,Magento_ConfigurableProduct
-"Image Size","Image Size",module,Magento_ConfigurableProduct
-{size},{size},module,Magento_ConfigurableProduct
-"Image Resolution","Image Resolution",module,Magento_ConfigurableProduct
-"{width}^{height} px","{width}^{height} px",module,Magento_ConfigurableProduct
-"Hide from Product Page","Hide from Product Page",module,Magento_ConfigurableProduct
-"Select attribute","Select attribute",module,Magento_ConfigurableProduct
-Select,Select,module,Magento_ConfigurableProduct
-"Apply single price to all SKUs","Apply single price to all SKUs",module,Magento_ConfigurableProduct
-"Apply unique prices by attribute to each SKU","Apply unique prices by attribute to each SKU",module,Magento_ConfigurableProduct
-"Skip price at this time","Skip price at this time",module,Magento_ConfigurableProduct
-"Apply single quantity to each SKUs","Apply single quantity to each SKUs",module,Magento_ConfigurableProduct
-"Apply unique quantity by attribute to each SKU","Apply unique quantity by attribute to each SKU",module,Magento_ConfigurableProduct
-"Skip quantity at this time","Skip quantity at this time",module,Magento_ConfigurableProduct
-"Step 1: Select Attributes","Step 1: Select Attributes",module,Magento_ConfigurableProduct
-"Selected Attributes:","Selected Attributes:",module,Magento_ConfigurableProduct
-"Step 4: Summary","Step 4: Summary",module,Magento_ConfigurableProduct
+Images,Imágenes,module,Magento_ConfigurableProduct
+"Apply single set of images to all SKUs","Aplicar un juego de imágenes a todos los SKUs",module,Magento_ConfigurableProduct
+"Apply unique images by attribute to each SKU","Aplicar un juego de imágenes por atributo a cada SKU",module,Magento_ConfigurableProduct
+"Skip image uploading at this time","Saltar enviar imágenes por lo pronto",module,Magento_ConfigurableProduct
+"Browse Files...","Esplorar Archivos...",module,Magento_ConfigurableProduct
+"Browse to find or drag image here","Esplorar para encontrar o arrastrar imagen aquí",module,Magento_ConfigurableProduct
+"Remove image","Borrar imagen",module,Magento_ConfigurableProduct
+Hidden,Oculto,module,Magento_ConfigurableProduct
+"Alt Text","Texto Alterno",module,Magento_ConfigurableProduct
+Role,Rol,module,Magento_ConfigurableProduct
+"Image Size","Tamaño de Imagen",module,Magento_ConfigurableProduct
+{size},{tamaño},module,Magento_ConfigurableProduct
+"Image Resolution","Resolución de Imagen",module,Magento_ConfigurableProduct
+"{width}^{height} px","{ancho}^{alto} px",module,Magento_ConfigurableProduct
+"Hide from Product Page","Ocultar en Página de Producto",module,Magento_ConfigurableProduct
+"Select attribute","Seleccionar atributo",module,Magento_ConfigurableProduct
+Select,Seleccionar,module,Magento_ConfigurableProduct
+"Apply single price to all SKUs","Aplicar el mismo precio a todos los SKUs",module,Magento_ConfigurableProduct
+"Apply unique prices by attribute to each SKU","Aplicar precios únicos por atributo a cada SKU",module,Magento_ConfigurableProduct
+"Skip price at this time","Saltar el precio por lo pronto",module,Magento_ConfigurableProduct
+"Apply single quantity to each SKUs","Aplicar una cantidad a cada SKUs",module,Magento_ConfigurableProduct
+"Apply unique quantity by attribute to each SKU","Aplicar cantidad única por atributo a cada SKU",module,Magento_ConfigurableProduct
+"Skip quantity at this time","Saltar la cantidad por lo pronto",module,Magento_ConfigurableProduct
+"Step 1: Select Attributes","Paso 1: Seleccionar Atributos",module,Magento_ConfigurableProduct
+"Selected Attributes:","Seleccionar Atributos:",module,Magento_ConfigurableProduct
+"Step 4: Summary","Paso 4: Resumen",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).
-            You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color).
-            You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_ConfigurableProduct
-"Edit Configurations","Edit Configurations",module,Magento_ConfigurableProduct
-"Upload Image","Upload Image",module,Magento_ConfigurableProduct
-"Upload image","Upload image",module,Magento_ConfigurableProduct
-"No Image","No Image",module,Magento_ConfigurableProduct
-"Choose a different Product","Choose a different Product",module,Magento_ConfigurableProduct
-"Remove Product","Remove Product",module,Magento_ConfigurableProduct
-"Create Product Configurations","Create Product Configurations",module,Magento_ConfigurableProduct
-Cancel,Cancel,module,Magento_ConfigurableProduct
-"Page not found.","Page not found.",module,Magento_Contact
-"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon.",module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know.",module,Magento_Contact
-"* Required Fields","* Required Fields",module,Magento_Contact
-"Write Us","Write Us",module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
-Name,Name,module,Magento_Contact
+            You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten a los clientes elejir opciones (Ej: color de camisa).
+            Necesita crear un producto simple para cada configuración (Ej: un producto para cada color).",module,Magento_ConfigurableProduct
+"Edit Configurations","Editar Configuraciones",module,Magento_ConfigurableProduct
+"Upload Image","Enviar Imagen",module,Magento_ConfigurableProduct
+"Upload image","Enviar Imagen",module,Magento_ConfigurableProduct
+"No Image","Sin Imagen",module,Magento_ConfigurableProduct
+"Choose a different Product","Elija un Producto diferente",module,Magento_ConfigurableProduct
+"Remove Product","Borrar Producto",module,Magento_ConfigurableProduct
+"Create Product Configurations","Crear Configuraciones de Producto",module,Magento_ConfigurableProduct
+Cancel,Cancelar,module,Magento_ConfigurableProduct
+"Page not found.","Página no encontrada.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Gracias por contactarnos con sus comentarios y preguntas. Le responderemos pronto.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","No podemos procesar su solicitud en este momento. Lo sentimos, es todo lo que sabemos.",module,Magento_Contact
+"* Required Fields","* Campos Obligatorios",module,Magento_Contact
+"Write Us",Escríbanos,module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","Escríbanos una nota y le responderemos tan pronto como sea posible.",module,Magento_Contact
+Name,Nombre,module,Magento_Contact
 Email,Email,module,Magento_Contact
-"Phone Number","Phone Number",module,Magento_Contact
-"What’s on your mind?","What’s on your mind?",module,Magento_Contact
-Submit,Submit,module,Magento_Contact
-"Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
-"Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
-"Invalid cookie path","Invalid cookie path",module,Magento_Cookie
-"We use cookies to make your experience better.","We use cookies to make your experience better.",module,Magento_Cookie
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.",module,Magento_Cookie
-"<a href=""%1"">Learn more</a>.","<a href=""%1"">Learn more</a>.",module,Magento_Cookie
-"Allow Cookies","Allow Cookies",module,Magento_Cookie
-"We can't save the cron expression.","We can't save the cron expression.",module,Magento_Cron
-Daily,Daily,module,Magento_Cron
-Weekly,Weekly,module,Magento_Cron
-Monthly,Monthly,module,Magento_Cron
-"Invalid cron expression: %1","Invalid cron expression: %1",module,Magento_Cron
-"Invalid cron expression, expecting 'match/modulus': %1","Invalid cron expression, expecting 'match/modulus': %1",module,Magento_Cron
-"Invalid cron expression, expecting numeric modulus: %1","Invalid cron expression, expecting numeric modulus: %1",module,Magento_Cron
-"Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1",module,Magento_Cron
-"Save Currency Rates","Save Currency Rates",module,Magento_CurrencySymbol
-Options,Options,module,Magento_CurrencySymbol
-Reset,Reset,module,Magento_CurrencySymbol
-Import,Import,module,Magento_CurrencySymbol
-"Manage Currency Rates","Manage Currency Rates",module,Magento_CurrencySymbol
-"Import Service","Import Service",module,Magento_CurrencySymbol
-"Save Currency Symbols","Save Currency Symbols",module,Magento_CurrencySymbol
-"Currency Symbols","Currency Symbols",module,Magento_CurrencySymbol
-"Use Standard","Use Standard",module,Magento_CurrencySymbol
-"Please specify a correct Import Service.","Please specify a correct Import Service.",module,Magento_CurrencySymbol
-"We can't initialize the import model.","We can't initialize the import model.",module,Magento_CurrencySymbol
-"Click ""Save"" to apply the rates we found.","Click ""Save"" to apply the rates we found.",module,Magento_CurrencySymbol
-"Currency Rates","Currency Rates",module,Magento_CurrencySymbol
-"Please correct the input data for ""%1 => %2"" rate.","Please correct the input data for ""%1 => %2"" rate.",module,Magento_CurrencySymbol
-"All valid rates have been saved.","All valid rates have been saved.",module,Magento_CurrencySymbol
-System,System,module,Magento_CurrencySymbol
-"You applied the custom currency symbols.","You applied the custom currency symbols.",module,Magento_CurrencySymbol
-"You must first configure currency options before being able to see currency rates.","You must first configure currency options before being able to see currency rates.",module,Magento_CurrencySymbol
-"Old rate:","Old rate:",module,Magento_CurrencySymbol
-"Please specify a website.","Please specify a website.",module,Magento_CustomerImportExport
-"Please specify an email.","Please specify an email.",module,Magento_CustomerImportExport
-"We found an invalid value in a website column.","We found an invalid value in a website column.",module,Magento_CustomerImportExport
-"Please enter a valid email.","Please enter a valid email.",module,Magento_CustomerImportExport
-"Please make sure attribute ""%s"" is not empty.","Please make sure attribute ""%s"" is not empty.",module,Magento_CustomerImportExport
-"We can't find a customer who matches this email and website code.","We can't find a customer who matches this email and website code.",module,Magento_CustomerImportExport
-"Customer address id column is not specified","Customer address id column is not specified",module,Magento_CustomerImportExport
-"We can't find that customer address.","We can't find that customer address.",module,Magento_CustomerImportExport
-"Please enter a valid region.","Please enter a valid region.",module,Magento_CustomerImportExport
-"We found another row with this email, website and address ID combination.","We found another row with this email, website and address ID combination.",module,Magento_CustomerImportExport
-"This email is found more than once in the import file.","This email is found more than once in the import file.",module,Magento_CustomerImportExport
-"Orphan rows that will be skipped due default row errors","Orphan rows that will be skipped due default row errors",module,Magento_CustomerImportExport
-"Invalid value in Store column (store does not exists?)","Invalid value in Store column (store does not exists?)",module,Magento_CustomerImportExport
-"We can't find that email and website combination.","We can't find that email and website combination.",module,Magento_CustomerImportExport
-"Please enter a password with a valid length.","Please enter a password with a valid length.",module,Magento_CustomerImportExport
-"Sign Out","Sign Out",module,Magento_Customer
-"Sign In","Sign In",module,Magento_Customer
-"You subscribe to our newsletter.","You subscribe to our newsletter.",module,Magento_Customer
-"You don't subscribe to our newsletter.","You don't subscribe to our newsletter.",module,Magento_Customer
-"You have not set a default shipping address.","You have not set a default shipping address.",module,Magento_Customer
-"You have not set a default billing address.","You have not set a default billing address.",module,Magento_Customer
-"Address Book","Address Book",module,Magento_Customer
-"Edit Address","Edit Address",module,Magento_Customer
-"Add New Address","Add New Address",module,Magento_Customer
-region,region,module,Magento_Customer
-"Create Order","Create Order",module,Magento_Customer
-"Save Customer","Save Customer",module,Magento_Customer
-"Delete Customer","Delete Customer",module,Magento_Customer
-"Reset Password","Reset Password",module,Magento_Customer
-"Are you sure you want to revoke the customer's tokens?","Are you sure you want to revoke the customer's tokens?",module,Magento_Customer
-"Force Sign-In","Force Sign-In",module,Magento_Customer
-"New Customer","New Customer",module,Magento_Customer
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Customer
-Back,Back,module,Magento_Customer
-"Please select","Please select",module,Magento_Customer
-Reset,Reset,module,Magento_Customer
+"Phone Number","Teléfono",module,Magento_Contact
+"What’s on your mind?","¿Qué está pensando?",module,Magento_Contact
+Submit,Enviar,module,Magento_Contact
+"Invalid domain name: %1","Nombre de dominio no válido: %1",module,Magento_Cookie
+"Invalid cookie lifetime: %1","Tiempo de vida de cookie no válido: %1",module,Magento_Cookie
+"Invalid cookie path","Ruta de cookie no válida",module,Magento_Cookie
+"We use cookies to make your experience better.","Usamos cookies para mejorar su experiencia.",module,Magento_Cookie
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","De acuerdo con la nueva directiva de privacidad, requerimos concuerde con el uso de cookies.",module,Magento_Cookie
+"<a href=""%1"">Learn more</a>.","<a href=""%1"">Entérese de más</a>.",module,Magento_Cookie
+"Allow Cookies","Permitir Cookies",module,Magento_Cookie
+"We can't save the cron expression.","No podemos guardar la expresión de cron.",module,Magento_Cron
+Daily,Diariamente,module,Magento_Cron
+Weekly,Semanalmente,module,Magento_Cron
+Monthly,"Cada Mex",module,Magento_Cron
+"Invalid cron expression: %1","Expresión de cron no válida: %1",module,Magento_Cron
+"Invalid cron expression, expecting 'match/modulus': %1","Expresión de cron no válida, esperada 'igualar/módulo': %1",module,Magento_Cron
+"Invalid cron expression, expecting numeric modulus: %1","Expresión de cron no válida, esperando módulo numérico: %1",module,Magento_Cron
+"Invalid cron expression, expecting 'from-to' structure: %1","Expresiónd e crón no válida, esperando estructura 'de-a': %1",module,Magento_Cron
+"Save Currency Rates","Guardar tipos de cambio",module,Magento_CurrencySymbol
+Options,Opciones,module,Magento_CurrencySymbol
+Reset,Reiniciar,module,Magento_CurrencySymbol
+Import,Importar,module,Magento_CurrencySymbol
+"Manage Currency Rates","Administrar Tipos de Cambio",module,Magento_CurrencySymbol
+"Import Service","Importar Servicio",module,Magento_CurrencySymbol
+"Save Currency Symbols","Guardar Símbolos de Moneda",module,Magento_CurrencySymbol
+"Currency Symbols","Símbolos de Moneda",module,Magento_CurrencySymbol
+"Use Standard","Usar Estándard",module,Magento_CurrencySymbol
+"Please specify a correct Import Service.","Por favor especifique un Servicio de Importación correcto.",module,Magento_CurrencySymbol
+"We can't initialize the import model.","No podemos inicializar el modelo de importación.",module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","Haga click en ""Guardar"" para aplicar las tarifas que encontramos.",module,Magento_CurrencySymbol
+"Currency Rates","Tipos de Cambio",module,Magento_CurrencySymbol
+"Please correct the input data for ""%1 => %2"" rate.","Por favor corrija los datos de entrada para la tarifa ""%1 => %2"".",module,Magento_CurrencySymbol
+"All valid rates have been saved.","Todas las tarifas válidas se han guardado.",module,Magento_CurrencySymbol
+System,Sistema,module,Magento_CurrencySymbol
+"You applied the custom currency symbols.","Aplicó los símbolos de moneda poersonalizados.",module,Magento_CurrencySymbol
+"You must first configure currency options before being able to see currency rates.","Primero debe configurar las opciones de moneda para poder ver los tipos de cambio.",module,Magento_CurrencySymbol
+"Old rate:","Tarifa vieja:",module,Magento_CurrencySymbol
+"Please specify a website.","Por favor especifique un sitio web.",module,Magento_CustomerImportExport
+"Please specify an email.","Por favor especifique un email.",module,Magento_CustomerImportExport
+"We found an invalid value in a website column.","Encontramos un valor no válido en una columna de sitio web.",module,Magento_CustomerImportExport
+"Please enter a valid email.","Por favor ingrese un email válido.",module,Magento_CustomerImportExport
+"Please make sure attribute ""%s"" is not empty.","Por favor asegúrese de que el atributo ""%s"" no está vacío.",module,Magento_CustomerImportExport
+"We can't find a customer who matches this email and website code.","No podemos encontrar un cliente que iguale este email y código de sitio web.",module,Magento_CustomerImportExport
+"Customer address id column is not specified","No se especificó la columna de ID de dirección de cliente",module,Magento_CustomerImportExport
+"We can't find that customer address.","No podemos encontrar la dirección de ese cliente.",module,Magento_CustomerImportExport
+"Please enter a valid region.","Por favor ingrese una regió válida.",module,Magento_CustomerImportExport
+"We found another row with this email, website and address ID combination.","Encontramos otra línea con ésta combinación de email, sitio web e ID de dirección.",module,Magento_CustomerImportExport
+"This email is found more than once in the import file.","Este email se encuentra más de una vez en el archivo de importación.",module,Magento_CustomerImportExport
+"Orphan rows that will be skipped due default row errors","Líneas huérfanas que serán saltadas debido a errores de línea por defecto",module,Magento_CustomerImportExport
+"Invalid value in Store column (store does not exists?)","Valor no válido en la columna de Tienda (¿no existe la tienda?)",module,Magento_CustomerImportExport
+"We can't find that email and website combination.","No podemos encontrar la combinación de email y sitio web.",module,Magento_CustomerImportExport
+"Please enter a password with a valid length.","Por favor ingrese una contraseña de logitud válida.",module,Magento_CustomerImportExport
+"Sign Out","Salir",module,Magento_Customer
+"Sign In","Ingresar",module,Magento_Customer
+"You subscribe to our newsletter.","Se ha suscrito a nuestro listado de noticias.",module,Magento_Customer
+"You don't subscribe to our newsletter.","No se suscribió a nuestro listado de noticias.",module,Magento_Customer
+"You have not set a default shipping address.","No ha fijado una dirección de envío por defecto.",module,Magento_Customer
+"You have not set a default billing address.","No ha fijado una dirección de facturación por defecto.",module,Magento_Customer
+"Address Book","Libreta de Direcciones",module,Magento_Customer
+"Edit Address","Editar Dirección",module,Magento_Customer
+"Add New Address","Añadir Nueva Dirección",module,Magento_Customer
+region,región,module,Magento_Customer
+"Create Order","Crear Pedido",module,Magento_Customer
+"Save Customer","Guardar Cliente",module,Magento_Customer
+"Delete Customer","Borrar Cliente",module,Magento_Customer
+"Reset Password","Reiniciar Contraseña",module,Magento_Customer
+"Are you sure you want to revoke the customer's tokens?","¿Está seguro de revocar los tokens de acceso del cliente?",module,Magento_Customer
+"Force Sign-In","Forzar Ingreso",module,Magento_Customer
+"New Customer","Nuevo Cliente",module,Magento_Customer
+"Save and Continue Edit","Guardar y Continuar Editando",module,Magento_Customer
+Back,Regresar,module,Magento_Customer
+"Please select","Por favor seleccione",module,Magento_Customer
+Reset,Reiniciar,module,Magento_Customer
 ID,ID,module,Magento_Customer
-Product,Product,module,Magento_Customer
+Product,Producto,module,Magento_Customer
 SKU,SKU,module,Magento_Customer
-Quantity,Quantity,module,Magento_Customer
-Price,Price,module,Magento_Customer
+Quantity,Cantidad,module,Magento_Customer
+Price,Precio,module,Magento_Customer
 Total,Total,module,Magento_Customer
-Action,Action,module,Magento_Customer
-Configure,Configure,module,Magento_Customer
-Delete,Delete,module,Magento_Customer
-"Shopping Cart from %1","Shopping Cart from %1",module,Magento_Customer
-Newsletter,Newsletter,module,Magento_Customer
-"Newsletter Information","Newsletter Information",module,Magento_Customer
-"Subscribed to Newsletter","Subscribed to Newsletter",module,Magento_Customer
-"Last Date Subscribed","Last Date Subscribed",module,Magento_Customer
-"Last Date Unsubscribed","Last Date Unsubscribed",module,Magento_Customer
-"No Newsletter Found","No Newsletter Found",module,Magento_Customer
-"Start date","Start date",module,Magento_Customer
-"End Date","End Date",module,Magento_Customer
-"Receive Date","Receive Date",module,Magento_Customer
-Subject,Subject,module,Magento_Customer
-Status,Status,module,Magento_Customer
-Sent,Sent,module,Magento_Customer
-Cancel,Cancel,module,Magento_Customer
-"Not Sent","Not Sent",module,Magento_Customer
-Sending,Sending,module,Magento_Customer
-Paused,Paused,module,Magento_Customer
-View,View,module,Magento_Customer
-Unknown,Unknown,module,Magento_Customer
-Order,Order,module,Magento_Customer
-Purchased,Purchased,module,Magento_Customer
-"Bill-to Name","Bill-to Name",module,Magento_Customer
-"Ship-to Name","Ship-to Name",module,Magento_Customer
-"Order Total","Order Total",module,Magento_Customer
-"Purchase Point","Purchase Point",module,Magento_Customer
-"Customer View","Customer View",module,Magento_Customer
-"There are no items in customer's shopping cart.","There are no items in customer's shopping cart.",module,Magento_Customer
-Qty,Qty,module,Magento_Customer
-Confirmed,Confirmed,module,Magento_Customer
-"Confirmation Required","Confirmation Required",module,Magento_Customer
-"Confirmation Not Required","Confirmation Not Required",module,Magento_Customer
-Indeterminate,Indeterminate,module,Magento_Customer
-"The customer does not have default billing address.","The customer does not have default billing address.",module,Magento_Customer
-Offline,Offline,module,Magento_Customer
-Online,Online,module,Magento_Customer
-Never,Never,module,Magento_Customer
-Unlocked,Unlocked,module,Magento_Customer
-Locked,Locked,module,Magento_Customer
-"Deleted Stores","Deleted Stores",module,Magento_Customer
-"Add Locale","Add Locale",module,Magento_Customer
-"Add Date","Add Date",module,Magento_Customer
-"Days in Wish List","Days in Wish List",module,Magento_Customer
-Unlock,Unlock,module,Magento_Customer
+Action,Acción,module,Magento_Customer
+Configure,Configuración,module,Magento_Customer
+Delete,Borrar,module,Magento_Customer
+"Shopping Cart from %1","Carrito de Compras para %1",module,Magento_Customer
+Newsletter,"Lista de Noticias",module,Magento_Customer
+"Newsletter Information","Información de la Lista de Noticias",module,Magento_Customer
+"Subscribed to Newsletter","Suscrito a la Lista de Noticias",module,Magento_Customer
+"Last Date Subscribed","Última Fecha de Suscripción",module,Magento_Customer
+"Last Date Unsubscribed","Última Fecha de Desuscripción",module,Magento_Customer
+"No Newsletter Found","No se Encontró Lista de Noticias",module,Magento_Customer
+"Start date","Fecha de Comienzo",module,Magento_Customer
+"End Date","Fecha de Terminación",module,Magento_Customer
+"Receive Date","Fecha de Recepción",module,Magento_Customer
+Subject,Asunto,module,Magento_Customer
+Status,Estado,module,Magento_Customer
+Sent,Enviado,module,Magento_Customer
+Cancel,Cancelar,module,Magento_Customer
+"Not Sent","No Enviado",module,Magento_Customer
+Sending,Enviando,module,Magento_Customer
+Paused,"En Pausa",module,Magento_Customer
+View,Ver,module,Magento_Customer
+Unknown,Desconocido,module,Magento_Customer
+Order,Orden,module,Magento_Customer
+Purchased,Comprado,module,Magento_Customer
+"Bill-to Name","Nombre de Facturación",module,Magento_Customer
+"Ship-to Name","Nombre de Envío",module,Magento_Customer
+"Order Total","Total de la Orden",module,Magento_Customer
+"Purchase Point","Punto de Compra",module,Magento_Customer
+"Customer View","Vista de Cliente",module,Magento_Customer
+"There are no items in customer's shopping cart.","No hay artículos en el carrito de compras del cliente.",module,Magento_Customer
+Qty,Cantidad,module,Magento_Customer
+Confirmed,Confirmado,module,Magento_Customer
+"Confirmation Required","Se Requiere Confirmación",module,Magento_Customer
+"Confirmation Not Required","No se Requiere Confirmación",module,Magento_Customer
+Indeterminate,Indeterminado,module,Magento_Customer
+"The customer does not have default billing address.","El cliente no tiene una dirección de facturación por defecto.",module,Magento_Customer
+Offline,Desconectado,module,Magento_Customer
+Online,Conectado,module,Magento_Customer
+Never,Nunca,module,Magento_Customer
+Unlocked,Desbloqueada,module,Magento_Customer
+Locked,Bloqueada,module,Magento_Customer
+"Deleted Stores","Borrar Tiendas",module,Magento_Customer
+"Add Locale","Añadir Localización",module,Magento_Customer
+"Add Date","Añadir Fecha",module,Magento_Customer
+"Days in Wish List","Días en Lista de Deseos",module,Magento_Customer
+Unlock,Abrir,module,Magento_Customer
 No,No,module,Magento_Customer
-Yes,Yes,module,Magento_Customer
-"Delete File","Delete File",module,Magento_Customer
-Download,Download,module,Magento_Customer
-"Delete Image","Delete Image",module,Magento_Customer
-"View Full Size","View Full Size",module,Magento_Customer
-"All countries","All countries",module,Magento_Customer
-"Customer Groups","Customer Groups",module,Magento_Customer
-"Add New Customer Group","Add New Customer Group",module,Magento_Customer
-"Save Customer Group","Save Customer Group",module,Magento_Customer
-"Delete Customer Group","Delete Customer Group",module,Magento_Customer
-"New Customer Group","New Customer Group",module,Magento_Customer
-"Edit Customer Group ""%1""","Edit Customer Group ""%1""",module,Magento_Customer
-"Group Information","Group Information",module,Magento_Customer
-"Group Name","Group Name",module,Magento_Customer
-"Maximum length must be less then %1 characters.","Maximum length must be less then %1 characters.",module,Magento_Customer
-"Tax Class","Tax Class",module,Magento_Customer
-"The customer is now assigned to Customer Group %s.","The customer is now assigned to Customer Group %s.",module,Magento_Customer
-"Would you like to change the Customer Group for this order?","Would you like to change the Customer Group for this order?",module,Magento_Customer
-"The VAT ID is valid.","The VAT ID is valid.",module,Magento_Customer
-"The VAT ID entered (%s) is not a valid VAT ID.","The VAT ID entered (%s) is not a valid VAT ID.",module,Magento_Customer
-"The VAT ID is valid. The current Customer Group will be used.","The VAT ID is valid. The current Customer Group will be used.",module,Magento_Customer
-"The VAT ID is valid but no Customer Group is assigned for it.","The VAT ID is valid but no Customer Group is assigned for it.",module,Magento_Customer
-"Based on the VAT ID, the customer belongs to the Customer Group %s.","Based on the VAT ID, the customer belongs to the Customer Group %s.",module,Magento_Customer
-"Something went wrong while validating the VAT ID.","Something went wrong while validating the VAT ID.",module,Magento_Customer
-"The customer would belong to Customer Group %s.","The customer would belong to Customer Group %s.",module,Magento_Customer
-"There was an error detecting Customer Group.","There was an error detecting Customer Group.",module,Magento_Customer
-"Validate VAT Number","Validate VAT Number",module,Magento_Customer
-"Customer Login","Customer Login",module,Magento_Customer
-"Create New Customer Account","Create New Customer Account",module,Magento_Customer
-"Date of Birth","Date of Birth",module,Magento_Customer
-"Bad request.","Bad request.",module,Magento_Customer
-"This confirmation key is invalid or has expired.","This confirmation key is invalid or has expired.",module,Magento_Customer
-"There was an error confirming the account","There was an error confirming the account",module,Magento_Customer
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
-"Thank you for registering with %1.","Thank you for registering with %1.",module,Magento_Customer
-"Please check your email for confirmation key.","Please check your email for confirmation key.",module,Magento_Customer
-"This email does not require confirmation.","This email does not require confirmation.",module,Magento_Customer
-"Wrong email.","Wrong email.",module,Magento_Customer
-"Your password reset link has expired.","Your password reset link has expired.",module,Magento_Customer
-"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",module,Magento_Customer
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.",module,Magento_Customer
-"We can't save the customer.","We can't save the customer.",module,Magento_Customer
-"Please make sure your passwords match.","Please make sure your passwords match.",module,Magento_Customer
-"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
-"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
-"Account Information","Account Information",module,Magento_Customer
-"You saved the account information.","You saved the account information.",module,Magento_Customer
-"The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1.",module,Magento_Customer
-"Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
-"The password doesn't match this account.","The password doesn't match this account.",module,Magento_Customer
-"Please correct the email address.","Please correct the email address.",module,Magento_Customer
-"We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_Customer
-"Please enter your email.","Please enter your email.",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password.",module,Magento_Customer
-"My Account","My Account",module,Magento_Customer
-"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
-"Invalid login or password.","Invalid login or password.",module,Magento_Customer
-"An unspecified error occurred. Please contact us for assistance.","An unspecified error occurred. Please contact us for assistance.",module,Magento_Customer
-"A login and a password are required.","A login and a password are required.",module,Magento_Customer
-"New Password and Confirm New Password values didn't match.","New Password and Confirm New Password values didn't match.",module,Magento_Customer
-"Please enter a new password.","Please enter a new password.",module,Magento_Customer
-"You updated your password.","You updated your password.",module,Magento_Customer
-"Something went wrong while saving the new password.","Something went wrong while saving the new password.",module,Magento_Customer
-"You deleted the address.","You deleted the address.",module,Magento_Customer
-"We can't delete the address right now.","We can't delete the address right now.",module,Magento_Customer
-"You saved the address.","You saved the address.",module,Magento_Customer
-"We can't save the address.","We can't save the address.",module,Magento_Customer
-"No customer ID defined.","No customer ID defined.",module,Magento_Customer
-"Please correct the quote items and try again.","Please correct the quote items and try again.",module,Magento_Customer
-"You have revoked the customer's tokens.","You have revoked the customer's tokens.",module,Magento_Customer
-"We can't find a customer to revoke.","We can't find a customer to revoke.",module,Magento_Customer
-"You deleted the customer group.","You deleted the customer group.",module,Magento_Customer
-"The customer group no longer exists.","The customer group no longer exists.",module,Magento_Customer
-Customers,Customers,module,Magento_Customer
-"New Group","New Group",module,Magento_Customer
+Yes,Sí,module,Magento_Customer
+"Delete File","Borrar Archivo",module,Magento_Customer
+Download,Bajar,module,Magento_Customer
+"Delete Image","Borrar Imagen",module,Magento_Customer
+"View Full Size","Ver Tamaño Completo",module,Magento_Customer
+"All countries","Todos los países",module,Magento_Customer
+"Customer Groups","Grupos de Cliente",module,Magento_Customer
+"Add New Customer Group","Añadir Nuevo Grupo de Clientes",module,Magento_Customer
+"Save Customer Group","Guardar Grupo de Clientes",module,Magento_Customer
+"Delete Customer Group","Borrar Grupo de Clientes",module,Magento_Customer
+"New Customer Group","Nuevo Grupo de Clientes",module,Magento_Customer
+"Edit Customer Group ""%1""","Editar Grupo de Clientes ""%1""",module,Magento_Customer
+"Group Information","Información de Grupo",module,Magento_Customer
+"Group Name","Nombre de Grupo",module,Magento_Customer
+"Maximum length must be less then %1 characters.","La longitud máxima no debe ser menor de %1 caracteres.",module,Magento_Customer
+"Tax Class","Clase de Impuesto",module,Magento_Customer
+"The customer is now assigned to Customer Group %s.","El cliente ha sido asignado al Grupo de Cliente %s.",module,Magento_Customer
+"Would you like to change the Customer Group for this order?","¿QUiere cambiar el Grupo de Cliente para esta orden?",module,Magento_Customer
+"The VAT ID is valid.","El ID del impuesto no es válido.",module,Magento_Customer
+"The VAT ID entered (%s) is not a valid VAT ID.","El ID del impuesto (%s) no es un ID de impuesto válido.",module,Magento_Customer
+"The VAT ID is valid. The current Customer Group will be used.","El ID del impuesto no es válido, se usara el Grupo de Clientes actual..",module,Magento_Customer
+"The VAT ID is valid but no Customer Group is assigned for it.","El ID del impuesto es válido, pero no se ha asignado un Grupo de Clientes a él.",module,Magento_Customer
+"Based on the VAT ID, the customer belongs to the Customer Group %s.","Con base en el ID de impuesto, el cliente pertenece al Grupo de Clientes %s.",module,Magento_Customer
+"Something went wrong while validating the VAT ID.","Algo ocurrió al intentar validar el ID de impuesto.",module,Magento_Customer
+"The customer would belong to Customer Group %s.","El cliente pertenecería al Grupo de Clientes %s.",module,Magento_Customer
+"There was an error detecting Customer Group.","Hubo un error al detectar el Grupo de Clientes.",module,Magento_Customer
+"Validate VAT Number","Validar el número de impuesto",module,Magento_Customer
+"Customer Login","Acceso a Clientes",module,Magento_Customer
+"Create New Customer Account","Crear una Nueva Cuenta de Cliente",module,Magento_Customer
+"Date of Birth","Fecha de Nacimiento",module,Magento_Customer
+"Bad request.","Solicitud incorrecta.",module,Magento_Customer
+"This confirmation key is invalid or has expired.","La llave de confirmación no es válida o ha expirado.",module,Magento_Customer
+"There was an error confirming the account","Hubo un error al confirmar la cuenta",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","Si es un cliente registrado con impuesto, por favor haga click <a href=""%1"">aquí</a> para ingresar su dirección de envíos para un cálculo correcto de impuesto.",module,Magento_Customer
+"Thank you for registering with %1.","Gracias por registrarse con %1.",module,Magento_Customer
+"Please check your email for confirmation key.","Por favor revise su email para recibir la llave de confirmación.",module,Magento_Customer
+"This email does not require confirmation.","Este email no requiere confirmación.",module,Magento_Customer
+"Wrong email.","Email equivocado.",module,Magento_Customer
+"Your password reset link has expired.","Ha expirado la liga para reiniciar su contraseña.",module,Magento_Customer
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Debe confirmar su cuenta. Por favor revise su email para recibir su liga de confirmación o <a href=""%1"">haga click aquí</a> para recibir una liga nueva.",module,Magento_Customer
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Ya existe una cuenta con este email. Si está seguro de que este es su email, <a href=""%1"">haga click aquí</a> para obtener su contraseña y acceder a su cuenta.",module,Magento_Customer
+"We can't save the customer.","No podemos guardar al cliente.",module,Magento_Customer
+"Please make sure your passwords match.","Por favor asegúrse de que sus contraseñas sean las mismas.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Si es un cliente registrado con impuesto, por favor <a href=""%1"">haga click aquí</a> para ingresar su dirección de envío para un cálculo de impuesto apropiado.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Si es un cliente registrado con impuesto, por favor <a href=""%1"">haga click aquí</a> para ingresar su dirección de facturación para un cálculo de impuesto apropiado.",module,Magento_Customer
+"Account Information","Información de Cuenta",module,Magento_Customer
+"You saved the account information.","Ha guardado la información de la cuenta.",module,Magento_Customer
+"The account is locked. Please wait and try again or contact %1.","La cuenta está bloqueada. Por favor espere o contacte a %1.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","La confirmación de contraseña no es igual a la contraseña ingresada.",module,Magento_Customer
+"The password doesn't match this account.","La contraseña no es igual a la de esta cuenta.",module,Magento_Customer
+"Please correct the email address.","Por favor corrija la dirección de email.",module,Magento_Customer
+"We're unable to send the password reset email.","No podemos enviar el email para reiniciar la contraseña.",module,Magento_Customer
+"Please enter your email.","Por favor ingrese su email.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Si existe una cuenta asociada con %1 recibirá un email con una liga para reiniciar su contraseña.",module,Magento_Customer
+"My Account","Mi Cuenta",module,Magento_Customer
+"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Está cuenta no está confirmada. <a href=""%1"">Haga click aquí</a> para reenviar un email de confirmación.",module,Magento_Customer
+"Invalid login or password.","Acceso o contraseña no válidos.",module,Magento_Customer
+"An unspecified error occurred. Please contact us for assistance.","Ha ocurrido un error sin especificar. Por favor contáctenos para asistirle.",module,Magento_Customer
+"A login and a password are required.","Acceso y contraseña obligatorios.",module,Magento_Customer
+"New Password and Confirm New Password values didn't match.","La Nueva Contraseña y la COnfirmación de Nueva Contraseña no son iguales.",module,Magento_Customer
+"Please enter a new password.","Por favor ingrese una nueva contraseña.",module,Magento_Customer
+"You updated your password.","Ha actualizado su contraseña.",module,Magento_Customer
+"Something went wrong while saving the new password.","Algo ocurrió al intentar guardar la nueva contraseña.",module,Magento_Customer
+"You deleted the address.","Ha borrado la dirección.",module,Magento_Customer
+"We can't delete the address right now.","No podemos borrar la dirección en este momento.",module,Magento_Customer
+"You saved the address.","Ha guardado la dirección.",module,Magento_Customer
+"We can't save the address.","No podemos guardar la dirección.",module,Magento_Customer
+"No customer ID defined.","No se ha definido un ID de cliente.",module,Magento_Customer
+"Please correct the quote items and try again.","Por favor corrija los artículos de cotización e intente de nuevo.",module,Magento_Customer
+"You have revoked the customer's tokens.","Ha revocado los tokens del cliente.",module,Magento_Customer
+"We can't find a customer to revoke.","No podemos encontrar un cliente a revocar.",module,Magento_Customer
+"You deleted the customer group.","Ha borrado el grupo de clientes.",module,Magento_Customer
+"The customer group no longer exists.","Ya no existe el grupo de clientes.",module,Magento_Customer
+Customers,Clientes,module,Magento_Customer
+"New Group","Nuevo Grupo",module,Magento_Customer
 "New Customer Groups","New Customer Groups",module,Magento_Customer
-"Edit Group","Edit Group",module,Magento_Customer
-"Edit Customer Groups","Edit Customer Groups",module,Magento_Customer
-"You saved the customer group.","You saved the customer group.",module,Magento_Customer
-"Please select customer(s).","Please select customer(s).",module,Magento_Customer
-"Customer could not be deleted.","Customer could not be deleted.",module,Magento_Customer
-"You deleted the customer.","You deleted the customer.",module,Magento_Customer
-"Something went wrong while editing the customer.","Something went wrong while editing the customer.",module,Magento_Customer
-"Manage Customers","Manage Customers",module,Magento_Customer
-"Please correct the data sent.","Please correct the data sent.",module,Magento_Customer
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Customer
-"A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted.",module,Magento_Customer
-"The customer will receive an email with a link to reset password.","The customer will receive an email with a link to reset password.",module,Magento_Customer
-"Something went wrong while resetting customer password.","Something went wrong while resetting customer password.",module,Magento_Customer
-"You saved the customer.","You saved the customer.",module,Magento_Customer
-"Something went wrong while saving the customer.","Something went wrong while saving the customer.",module,Magento_Customer
-"Page not found.","Page not found.",module,Magento_Customer
-"Customer has been unlocked successfully.","Customer has been unlocked successfully.",module,Magento_Customer
-"Online Customers","Online Customers",module,Magento_Customer
-"Customers Now Online","Customers Now Online",module,Magento_Customer
+"Edit Group","Editar Grupo",module,Magento_Customer
+"Edit Customer Groups","Editar Grupos de Clientes",module,Magento_Customer
+"You saved the customer group.","Ha guardado el grupo de clientes.",module,Magento_Customer
+"Please select customer(s).","Por favor seleccione al/los cliente(s).",module,Magento_Customer
+"Customer could not be deleted.","No se puede borrar al cliente.",module,Magento_Customer
+"You deleted the customer.","Ha borrado al cliente.",module,Magento_Customer
+"Something went wrong while editing the customer.","Algo ocurrió al intentar ediar al cliente.",module,Magento_Customer
+"Manage Customers","Administrar Clientes",module,Magento_Customer
+"Please correct the data sent.","Por favor corrija los datos enviados.",module,Magento_Customer
+"A total of %1 record(s) were updated.","Un total de %1 registro(s) fue(ron) actualizado(s).",module,Magento_Customer
+"A total of %1 record(s) were deleted.","Un total de %1 registro(s) fue(ron) borrado(s).",module,Magento_Customer
+"The customer will receive an email with a link to reset password.","El cliente recibirá un email con una liga para reiniciar la contraseña.",module,Magento_Customer
+"Something went wrong while resetting customer password.","Algo ocurrió al intentar reiniciar la contraseña del cliente.",module,Magento_Customer
+"You saved the customer.","Ha guardado al cliente.",module,Magento_Customer
+"Something went wrong while saving the customer.","Algo ocurrió al intentar guardar al cliente.",module,Magento_Customer
+"Page not found.","Página no encontrada.",module,Magento_Customer
+"Customer has been unlocked successfully.","Se ha desbloqueado al cliente con éxito.",module,Magento_Customer
+"Online Customers","Clientes Conectados",module,Magento_Customer
+"Customers Now Online","Clientes Conectados Ahora",module,Magento_Customer
 "Please define Wish List item ID.","Please define Wish List item ID.",module,Magento_Customer
 "Please load Wish List item.","Please load Wish List item.",module,Magento_Customer
 "Login successful.","Login successful.",module,Magento_Customer
