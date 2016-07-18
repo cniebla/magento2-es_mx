@@ -2112,368 +2112,368 @@ Customer,Cliente,module,Magento_Customer
 "Personal Information","Información Personal",module,Magento_Customer
 "Last Logged In:","Último Ingreso:",module,Magento_Customer
 "Last Logged In (%1):","Último ingreso (%1):",module,Magento_Customer
-"Account Lock:","Account Lock:",module,Magento_Customer
-"Confirmed email:","Confirmed email:",module,Magento_Customer
-"Account Created:","Account Created:",module,Magento_Customer
-"Account Created on (%1):","Account Created on (%1):",module,Magento_Customer
-"Account Created in:","Account Created in:",module,Magento_Customer
-"Customer Group:","Customer Group:",module,Magento_Customer
-"Default Billing Address","Default Billing Address",module,Magento_Customer
-"Sales Statistics","Sales Statistics",module,Magento_Customer
-"Web Site","Web Site",module,Magento_Customer
-Store,Store,module,Magento_Customer
-"Store View","Store View",module,Magento_Customer
+"Account Lock:","Bloqueo de Cuenta:",module,Magento_Customer
+"Confirmed email:","Email confirmado:",module,Magento_Customer
+"Account Created:","Creación de Cuenta:",module,Magento_Customer
+"Account Created on (%1):","Cuenta Creada en (%1):",module,Magento_Customer
+"Account Created in:","Cuenta Creada en:",module,Magento_Customer
+"Customer Group:","Grupo de Cliente:",module,Magento_Customer
+"Default Billing Address","Dirección de Facturación por Defecto",module,Magento_Customer
+"Sales Statistics","Estadísticas de Ventas",module,Magento_Customer
+"Web Site","Sitio Web",module,Magento_Customer
+Store,Tienda,module,Magento_Customer
+"Store View","Vista de Tienda",module,Magento_Customer
 "Lifetime Sales","Lifetime Sales",module,Magento_Customer
-"Average Sale","Average Sale",module,Magento_Customer
-"All Store Views","All Store Views",module,Magento_Customer
-Change,Change,module,Magento_Customer
-"Manage Addresses","Manage Addresses",module,Magento_Customer
-"Default Shipping Address","Default Shipping Address",module,Magento_Customer
-"Contact Information","Contact Information",module,Magento_Customer
-"Change Password","Change Password",module,Magento_Customer
-Newsletters,Newsletters,module,Magento_Customer
-"You subscribe to ""General Subscription"".","You subscribe to ""General Subscription"".",module,Magento_Customer
-or,or,module,Magento_Customer
-"Default Addresses","Default Addresses",module,Magento_Customer
-"Change Billing Address","Change Billing Address",module,Magento_Customer
-"You have no default billing address in your address book.","You have no default billing address in your address book.",module,Magento_Customer
-"Change Shipping Address","Change Shipping Address",module,Magento_Customer
-"You have no default shipping address in your address book.","You have no default shipping address in your address book.",module,Magento_Customer
-"Additional Address Entries","Additional Address Entries",module,Magento_Customer
-"Delete Address","Delete Address",module,Magento_Customer
-"You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Customer
-"* Required Fields","* Required Fields",module,Magento_Customer
-Company,Company,module,Magento_Customer
-"Phone Number","Phone Number",module,Magento_Customer
+"Average Sale","Venta Promedio",module,Magento_Customer
+"All Store Views","Todas las Vistas de Tienda",module,Magento_Customer
+Change,Cambiar,module,Magento_Customer
+"Manage Addresses","Administrar Direcciones",module,Magento_Customer
+"Default Shipping Address","Dirección de Envío por Defecto",module,Magento_Customer
+"Contact Information","Información de Contacto",module,Magento_Customer
+"Change Password","Cambiar Contraseña",module,Magento_Customer
+Newsletters,"Listas de Noticias",module,Magento_Customer
+"You subscribe to ""General Subscription"".","Está inscrito a ""Suscripción General"".",module,Magento_Customer
+or,o,module,Magento_Customer
+"Default Addresses","Direcciones por Defecto",module,Magento_Customer
+"Change Billing Address","Cambiar Dirección de Facturación",module,Magento_Customer
+"You have no default billing address in your address book.","No tiene dirección de facturación por defecto en su libreta de direcciones.",module,Magento_Customer
+"Change Shipping Address","Cambiar Dirección de Envío",module,Magento_Customer
+"You have no default shipping address in your address book.","No tiene dirección de envío por defecto en su libreta de direcciones.",module,Magento_Customer
+"Additional Address Entries","Direcciones Adicionales",module,Magento_Customer
+"Delete Address","Borrar Dirección",module,Magento_Customer
+"You have no other address entries in your address book.","No tiene otra dirección en su libreta de direcciones.",module,Magento_Customer
+"* Required Fields","* Campos Obligatorios",module,Magento_Customer
+Company,Compañía,module,Magento_Customer
+"Phone Number","Número de Teléfono",module,Magento_Customer
 Fax,Fax,module,Magento_Customer
-Address,Address,module,Magento_Customer
-"Street Address","Street Address",module,Magento_Customer
-"Street Address %1","Street Address %1",module,Magento_Customer
-"VAT Number","VAT Number",module,Magento_Customer
-City,City,module,Magento_Customer
-State/Province,State/Province,module,Magento_Customer
-"Please select a region, state or province.","Please select a region, state or province.",module,Magento_Customer
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Customer
-Country,Country,module,Magento_Customer
-"It's a default billing address.","It's a default billing address.",module,Magento_Customer
-"Use as my default billing address","Use as my default billing address",module,Magento_Customer
-"It's a default shipping address.","It's a default shipping address.",module,Magento_Customer
-"Use as my default shipping address","Use as my default shipping address",module,Magento_Customer
-"Save Address","Save Address",module,Magento_Customer
-"Go back","Go back",module,Magento_Customer
-"Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
+Address,Dirección,module,Magento_Customer
+"Street Address","Dirección de Calle",module,Magento_Customer
+"Street Address %1","Dirección de Calle %1",module,Magento_Customer
+"VAT Number","RFC",module,Magento_Customer
+City,Ciudad,module,Magento_Customer
+State/Province,Estado/Provincia,module,Magento_Customer
+"Please select a region, state or province.","Por favor seleccione una región, estado o provincia.",module,Magento_Customer
+"Zip/Postal Code","Código Postal",module,Magento_Customer
+Country,País,module,Magento_Customer
+"It's a default billing address.","Es una dirección de facturación por defecto.",module,Magento_Customer
+"Use as my default billing address","Usar como mi dirección de facturación por defecto",module,Magento_Customer
+"It's a default shipping address.","Es una dirección de envío por defecto.",module,Magento_Customer
+"Use as my default shipping address","Usar como mi dirección de envío por defecto",module,Magento_Customer
+"Save Address","Guardar Dirección",module,Magento_Customer
+"Go back","Regresar",module,Magento_Customer
+"Please enter your email below and we will send you the confirmation link.","Por favor ingrese su email abajo y le enviaremos una liga de confirmación.",module,Magento_Customer
 Email,Email,module,Magento_Customer
-"Send confirmation link","Send confirmation link",module,Magento_Customer
-"Back to Sign In","Back to Sign In",module,Magento_Customer
-"Change Email","Change Email",module,Magento_Customer
-"Change Email and Password","Change Email and Password",module,Magento_Customer
-"Current Password","Current Password",module,Magento_Customer
-"New Password","New Password",module,Magento_Customer
-"Password Strength","Password Strength",module,Magento_Customer
-"No Password","No Password",module,Magento_Customer
-"Confirm New Password","Confirm New Password",module,Magento_Customer
-Save,Save,module,Magento_Customer
-"Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link.",module,Magento_Customer
-"Reset My Password","Reset My Password",module,Magento_Customer
-"Registered Customers","Registered Customers",module,Magento_Customer
-"If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
-Password,Password,module,Magento_Customer
-"Forgot Your Password?","Forgot Your Password?",module,Magento_Customer
-"Subscription option","Subscription option",module,Magento_Customer
-"General Subscription","General Subscription",module,Magento_Customer
-"Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_Customer
-"Address Information","Address Information",module,Magento_Customer
-"Sign-in Information","Sign-in Information",module,Magento_Customer
-"Confirm Password","Confirm Password",module,Magento_Customer
-"Create an Account","Create an Account",module,Magento_Customer
-"Set a New Password","Set a New Password",module,Magento_Customer
-"You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
-"New Customers","New Customers",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",module,Magento_Customer
-Gender,Gender,module,Magento_Customer
-Name,Name,module,Magento_Customer
-"Tax/VAT number","Tax/VAT number",module,Magento_Customer
-"Cannot switch into given mode ""%1""","Cannot switch into given mode ""%1""",module,Magento_Deploy
-"Format for IDE '%1' is not supported","Format for IDE '%1' is not supported",module,Magento_Developer
-"Client side less compilation","Client side less compilation",module,Magento_Developer
-"Server side less compilation","Server side less compilation",module,Magento_Developer
-"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.",module,Magento_Dhl
-"Wrong Content Type","Wrong Content Type",module,Magento_Dhl
-Pounds,Pounds,module,Magento_Dhl
-Kilograms,Kilograms,module,Magento_Dhl
-Inches,Inches,module,Magento_Dhl
-Centimeters,Centimeters,module,Magento_Dhl
-inch,inch,module,Magento_Dhl
+"Send confirmation link","Enviar liga de confirmación",module,Magento_Customer
+"Back to Sign In","Regresar a Ingreso",module,Magento_Customer
+"Change Email","Cambiar Email",module,Magento_Customer
+"Change Email and Password","Cambiar Email y Contraseña",module,Magento_Customer
+"Current Password","Contraseña Actual",module,Magento_Customer
+"New Password","Nueva Contraseña",module,Magento_Customer
+"Password Strength","Fortaleza de Contraseña",module,Magento_Customer
+"No Password","Sin Contraseña",module,Magento_Customer
+"Confirm New Password","Confirmar Nueva Contraseña",module,Magento_Customer
+Save,Guardar,module,Magento_Customer
+"Please enter your email address below to receive a password reset link.","Por favor ingrese su email abajo para recibir una liga de reinicio de contraseña.",module,Magento_Customer
+"Reset My Password","Reiniciar Mi Contraseña",module,Magento_Customer
+"Registered Customers","Clientes Registrados",module,Magento_Customer
+"If you have an account, sign in with your email address.","Si tiene una cuenta, ingrese con su dirección de email.",module,Magento_Customer
+Password,Contraseña,module,Magento_Customer
+"Forgot Your Password?","¿Olvidó su contraseña?",module,Magento_Customer
+"Subscription option","Opción de suscripción",module,Magento_Customer
+"General Subscription","Suscripción General",module,Magento_Customer
+"Sign Up for Newsletter","Suscribirse a la Lista de Noticias",module,Magento_Customer
+"Address Information","Información de Dirección",module,Magento_Customer
+"Sign-in Information","Información de Ingreso",module,Magento_Customer
+"Confirm Password","Confirmar Contraseña",module,Magento_Customer
+"Create an Account","Crear una Cuenta",module,Magento_Customer
+"Set a New Password","Fijar una Nueva Contraseña",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","Ha salido e será dirigido a nuestra página de inicio en 5 segundos.",module,Magento_Customer
+"New Customers","Nuevos Clientes",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Crear una cuenta tiene varios beneficios: hacer pedidos más rápido, mantener más de una dirección, rastrear pedidos y más.",module,Magento_Customer
+Gender,Género,module,Magento_Customer
+Name,Nombre,module,Magento_Customer
+"Tax/VAT number","RFC",module,Magento_Customer
+"Cannot switch into given mode ""%1""","No se puede cambiar al modo proporcionado ""%1""",module,Magento_Deploy
+"Format for IDE '%1' is not supported","El formato para IDE '%1' no está soportado",module,Magento_Developer
+"Client side less compilation","Menor compilación del lado del cliente",module,Magento_Developer
+"Server side less compilation","Menor compilación del lado del servidor",module,Magento_Developer
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Seleccione aquí para permitir que DHL optimize los cargos dividiendo la orden si excede %1 %2.",module,Magento_Dhl
+"Wrong Content Type","Tipo de Contenido Incorrecto",module,Magento_Dhl
+Pounds,Libras,module,Magento_Dhl
+Kilograms,Kilogramos,module,Magento_Dhl
+Inches,Pulgadas,module,Magento_Dhl
+Centimeters,Centímetros,module,Magento_Dhl
+inch,pulgada,module,Magento_Dhl
 cm,cm,module,Magento_Dhl
-Height,Height,module,Magento_Dhl
-Depth,Depth,module,Magento_Dhl
-Width,Width,module,Magento_Dhl
+Height,Altura,module,Magento_Dhl
+Depth,Profundidad,module,Magento_Dhl
+Width,Ancho,module,Magento_Dhl
 Regular,Regular,module,Magento_Dhl
-Specific,Specific,module,Magento_Dhl
-"Easy shop","Easy shop",module,Magento_Dhl
+Specific,Específico,module,Magento_Dhl
+"Easy shop","Compra fácil",module,Magento_Dhl
 Sprintline,Sprintline,module,Magento_Dhl
 Secureline,Secureline,module,Magento_Dhl
-"Express easy","Express easy",module,Magento_Dhl
+"Express easy","Express fácil",module,Magento_Dhl
 Europack,Europack,module,Magento_Dhl
-"Break bulk express","Break bulk express",module,Magento_Dhl
-"Medical express","Medical express",module,Magento_Dhl
-"Express worldwide","Express worldwide",module,Magento_Dhl
+"Break bulk express","Carga Fraccionada Express",module,Magento_Dhl
+"Medical express","Express médica",module,Magento_Dhl
+"Express worldwide","Express mundial",module,Magento_Dhl
 "Express 9:00","Express 9:00",module,Magento_Dhl
 "Express 10:30","Express 10:30",module,Magento_Dhl
-"Domestic economy select","Domestic economy select",module,Magento_Dhl
-"Economy select","Economy select",module,Magento_Dhl
-"Break bulk economy","Break bulk economy",module,Magento_Dhl
-"Domestic express","Domestic express",module,Magento_Dhl
-Others,Others,module,Magento_Dhl
-"Globalmail business","Globalmail business",module,Magento_Dhl
-"Same day","Same day",module,Magento_Dhl
+"Domestic economy select","Doméstica económica select",module,Magento_Dhl
+"Economy select","Económica select",module,Magento_Dhl
+"Break bulk economy","Carga fraccionada económica",module,Magento_Dhl
+"Domestic express","Nacional express",module,Magento_Dhl
+Others,Otras,module,Magento_Dhl
+"Globalmail business","Negocios mundial",module,Magento_Dhl
+"Same day","Mismo día",module,Magento_Dhl
 "Express 12:00","Express 12:00",module,Magento_Dhl
-"Express envelope","Express envelope",module,Magento_Dhl
-"Customer services","Customer services",module,Magento_Dhl
-Jetline,Jetline,module,Magento_Dhl
-"Freight worldwide","Freight worldwide",module,Magento_Dhl
-"Jumbo box","Jumbo box",module,Magento_Dhl
-"DHL service is not available at %s date","DHL service is not available at %s date",module,Magento_Dhl
-"The response is in wrong format.","The response is in wrong format.",module,Magento_Dhl
+"Express envelope","Express sobre",module,Magento_Dhl
+"Customer services","Servicios de cliente",module,Magento_Dhl
+Jetline,"Línea aérea",module,Magento_Dhl
+"Freight worldwide","Carga mundial",module,Magento_Dhl
+"Jumbo box","Caja jumbo",module,Magento_Dhl
+"DHL service is not available at %s date","El servicio DHL no está disponible en la fecha %s",module,Magento_Dhl
+"The response is in wrong format.","La respuesta está en el formato equivocado.",module,Magento_Dhl
 "Error #%1 : %2","Error #%1 : %2",module,Magento_Dhl
-"We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).",module,Magento_Dhl
-"Zero shipping charge for '%1'","Zero shipping charge for '%1'",module,Magento_Dhl
+"We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","Tuvimos que saltar el método DHL %1 porque no pudimos encontrar el tipo de cambio %2 (Moneda Base).",module,Magento_Dhl
+"Zero shipping charge for '%1'","Sin cargo de envío para '%1'",module,Magento_Dhl
 DHL,DHL,module,Magento_Dhl
-"Cannot identify measure unit for %1","Cannot identify measure unit for %1",module,Magento_Dhl
-"Cannot identify weight unit for %1","Cannot identify weight unit for %1",module,Magento_Dhl
-"There is no items in this order","There is no items in this order",module,Magento_Dhl
-"Please specify origin country.","Please specify origin country.",module,Magento_Dhl
-Documents,Documents,module,Magento_Dhl
-"Non Documents","Non Documents",module,Magento_Dhl
-"Height, width and length should be equal or greater than %1","Height, width and length should be equal or greater than %1",module,Magento_Dhl
-"Wrong Region","Wrong Region",module,Magento_Dhl
-"Unable to retrieve tracking","Unable to retrieve tracking",module,Magento_Dhl
-"Response is in the wrong format","Response is in the wrong format",module,Magento_Dhl
-"No packages for request","No packages for request",module,Magento_Dhl
-"Unable to retrieve shipping label","Unable to retrieve shipping label",module,Magento_Dhl
-"Non documents","Non documents",module,Magento_Dhl
-None,None,module,Magento_Dhl
-State/Province,State/Province,module,Magento_Directory
-"--Please Select--","--Please Select--",module,Magento_Directory
+"Cannot identify measure unit for %1","No podemos encontrar la unidad de medida para %1",module,Magento_Dhl
+"Cannot identify weight unit for %1","No podemos encontrar la unidad de peso para %1",module,Magento_Dhl
+"There is no items in this order","No hay artículos en esta orden",module,Magento_Dhl
+"Please specify origin country.","Por favor especifique el país de origen.",module,Magento_Dhl
+Documents,Documentos,module,Magento_Dhl
+"Non Documents","No son documentos",module,Magento_Dhl
+"Height, width and length should be equal or greater than %1","La altura, ancho y largo deben ser iguales o exceder %1",module,Magento_Dhl
+"Wrong Region","Región Equivocada",module,Magento_Dhl
+"Unable to retrieve tracking","No podemos recuperar el rastreo",module,Magento_Dhl
+"Response is in the wrong format","La respuesta está en el formato equivocado",module,Magento_Dhl
+"No packages for request","No hay paquetes para solicitar",module,Magento_Dhl
+"Unable to retrieve shipping label","No podemos recuperar la etiqueta de envío",module,Magento_Dhl
+"Non documents","No son documentos",module,Magento_Dhl
+None,Ninguno,module,Magento_Dhl
+State/Province,Estado/Provincia,module,Magento_Directory
+"--Please Select--","--Por favor Seleccione--",module,Magento_Directory
 lbs,lbs,module,Magento_Directory
 kgs,kgs,module,Magento_Directory
-"Requested country is not available.","Requested country is not available.",module,Magento_Directory
-"Undefined rate from ""%1-%2"".","Undefined rate from ""%1-%2"".",module,Magento_Directory
-"Please correct the target currency.","Please correct the target currency.",module,Magento_Directory
-label,label,module,Magento_Directory
-"We can't retrieve a rate from %1 for %2.","We can't retrieve a rate from %1 for %2.",module,Magento_Directory
-"We can't retrieve a rate from %1.","We can't retrieve a rate from %1.",module,Magento_Directory
-"FATAL ERROR:","FATAL ERROR:",module,Magento_Directory
-"We can't initialize the import model.","We can't initialize the import model.",module,Magento_Directory
-"Please specify the correct Import Service.","Please specify the correct Import Service.",module,Magento_Directory
-WARNING:,WARNING:,module,Magento_Directory
-"Please correct the country code: %1.","Please correct the country code: %1.",module,Magento_Directory
-"Country and Format Type combination should be unique","Country and Format Type combination should be unique",module,Magento_Directory
-"Please correct the rates received","Please correct the rates received",module,Magento_Directory
-"Please select a region, state or province.","Please select a region, state or province.",module,Magento_Directory
-Currency,Currency,module,Magento_Directory
-"Your current currency is: %1.","Your current currency is: %1.",module,Magento_Directory
-Continue,Continue,module,Magento_Directory
-"File directory '%1' is not readable.","File directory '%1' is not readable.",module,Magento_DownloadableImportExport
-"File directory '%1' is not writable.","File directory '%1' is not writable.",module,Magento_DownloadableImportExport
+"Requested country is not available.","El país solicitado no está disponible.",module,Magento_Directory
+"Undefined rate from ""%1-%2"".","Costo indefinido para ""%1-%2"".",module,Magento_Directory
+"Please correct the target currency.","Por favor corrija la moneda de destino.",module,Magento_Directory
+label,etiqueta,module,Magento_Directory
+"We can't retrieve a rate from %1 for %2.","No se puede recuperar el costo de %1 para %2.",module,Magento_Directory
+"We can't retrieve a rate from %1.","No podemos recuperar un costo para %1.",module,Magento_Directory
+"FATAL ERROR:","ERROR FATAL:",module,Magento_Directory
+"We can't initialize the import model.","No podemos inicializar el modelo de importación.",module,Magento_Directory
+"Please specify the correct Import Service.","Por favor especifique el Servicio de Importación correcto.",module,Magento_Directory
+WARNING:,ADVERTENCIA:,module,Magento_Directory
+"Please correct the country code: %1.","Por favor corrija el código de país: %1.",module,Magento_Directory
+"Country and Format Type combination should be unique","La combinación de País y Tipo de Formato debe ser única",module,Magento_Directory
+"Please correct the rates received","Por favor corrija los costos recibidos",module,Magento_Directory
+"Please select a region, state or province.","Por favor seleccione una región, estado o provincia.",module,Magento_Directory
+Currency,Moneda,module,Magento_Directory
+"Your current currency is: %1.","Su moneda actual es: %1.",module,Magento_Directory
+Continue,Continuar,module,Magento_Directory
+"File directory '%1' is not readable.","No se puede leer el directorio de archivos '%1'.",module,Magento_DownloadableImportExport
+"File directory '%1' is not writable.","No se puede escribir en el directorio de archivos '%1'.",module,Magento_DownloadableImportExport
 Error,Error,module,Magento_DownloadableImportExport
-"Downloadable Information","Downloadable Information",module,Magento_Downloadable
-"Add New Link","Add New Link",module,Magento_Downloadable
-"Upload Files","Upload Files",module,Magento_Downloadable
-"All Files","All Files",module,Magento_Downloadable
-Unlimited,Unlimited,module,Magento_Downloadable
-"Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
-"We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
-"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
-"Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
-"The link has expired.","The link has expired.",module,Magento_Downloadable
-"The link is not available.","The link is not available.",module,Magento_Downloadable
-"Sorry, there was an error getting requested content. Please contact the store owner.","Sorry, there was an error getting requested content. Please contact the store owner.",module,Magento_Downloadable
-"Please set resource file and link type.","Please set resource file and link type.",module,Magento_Downloadable
-"Invalid download link type.","Invalid download link type.",module,Magento_Downloadable
-"Something went wrong while saving the file(s).","Something went wrong while saving the file(s).",module,Magento_Downloadable
-"Provided content must be valid base64 encoded data.","Provided content must be valid base64 encoded data.",module,Magento_Downloadable
-"Provided file name contains forbidden characters.","Provided file name contains forbidden characters.",module,Magento_Downloadable
-"Link file not provided","Link file not provided",module,Magento_Downloadable
-"Link price must have numeric positive value.","Link price must have numeric positive value.",module,Magento_Downloadable
-"Number of downloads must be a positive integer.","Number of downloads must be a positive integer.",module,Magento_Downloadable
-"Sort order must be a positive integer.","Sort order must be a positive integer.",module,Magento_Downloadable
-"Link URL must have valid format.","Link URL must have valid format.",module,Magento_Downloadable
-"Provided file content must be valid base64 encoded data.","Provided file content must be valid base64 encoded data.",module,Magento_Downloadable
-"Sample URL must have valid format.","Sample URL must have valid format.",module,Magento_Downloadable
-"Order id cannot be null","Order id cannot be null",module,Magento_Downloadable
-"Order item id cannot be null","Order item id cannot be null",module,Magento_Downloadable
-"Provided product must be type 'downloadable'.","Provided product must be type 'downloadable'.",module,Magento_Downloadable
-"Provided link information is invalid.","Provided link information is invalid.",module,Magento_Downloadable
-"Invalid link type.","Invalid link type.",module,Magento_Downloadable
-"Link title cannot be empty.","Link title cannot be empty.",module,Magento_Downloadable
-"There is no downloadable link with provided ID.","There is no downloadable link with provided ID.",module,Magento_Downloadable
-"Provided downloadable link is not related to given product.","Provided downloadable link is not related to given product.",module,Magento_Downloadable
-"Cannot delete link with id %1","Cannot delete link with id %1",module,Magento_Downloadable
-"Please specify product link(s).","Please specify product link(s).",module,Magento_Downloadable
-"Sample file not provided","Sample file not provided",module,Magento_Downloadable
-"Provided sample information is invalid.","Provided sample information is invalid.",module,Magento_Downloadable
-"Invalid sample type.","Invalid sample type.",module,Magento_Downloadable
-"Sample title cannot be empty.","Sample title cannot be empty.",module,Magento_Downloadable
-"There is no downloadable sample with provided ID.","There is no downloadable sample with provided ID.",module,Magento_Downloadable
-"Provided downloadable sample is not related to given product.","Provided downloadable sample is not related to given product.",module,Magento_Downloadable
-"Cannot delete sample with id %1","Cannot delete sample with id %1",module,Magento_Downloadable
-Yes,Yes,module,Magento_Downloadable
+"Downloadable Information","Información Descargable",module,Magento_Downloadable
+"Add New Link","Añadir Liga Nueva",module,Magento_Downloadable
+"Upload Files","Enviar Archivos",module,Magento_Downloadable
+"All Files","Todos los Archivos",module,Magento_Downloadable
+Unlimited,Ilimitado,module,Magento_Downloadable
+"Something went wrong while getting the requested content.","Algo ocurrió al intentar obtener el contenido solicitado.",module,Magento_Downloadable
+"My Downloadable Products","Mis Productos Descargables",module,Magento_Downloadable
+"We can't find the link you requested.","No podemos encontrar la liga solicitada.",module,Magento_Downloadable
+"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Por favor ingrese para descargar su producto o compra <a href=""%1"">%2</a>.",module,Magento_Downloadable
+"Please sign in to download your product.","Por favor ingrese para descargar su producto.",module,Magento_Downloadable
+"The link has expired.","La liga ha expirado.",module,Magento_Downloadable
+"The link is not available.","La liga no está disponible.",module,Magento_Downloadable
+"Sorry, there was an error getting requested content. Please contact the store owner.","Lo sentimos, hubo un error obteniendo el contenido solicitado. Por favor póngase en contacto con el dueño de la tienda.",module,Magento_Downloadable
+"Please set resource file and link type.","Por favor fije el archivo del recurso y el tipo de liga.",module,Magento_Downloadable
+"Invalid download link type.","Tipo de liga de descarga no válido.",module,Magento_Downloadable
+"Something went wrong while saving the file(s).","Algo ocurrió al intentar guardar el/los archivo(s).",module,Magento_Downloadable
+"Provided content must be valid base64 encoded data.","El contenido a proveer deben ser datos codificados válidos en base64.",module,Magento_Downloadable
+"Provided file name contains forbidden characters.","El nombre de archivo contiene caracteres prohibidos.",module,Magento_Downloadable
+"Link file not provided","La liga de archivo no fue proporcionada",module,Magento_Downloadable
+"Link price must have numeric positive value.","El precio de la liga debe tener un valor numérico positivo.",module,Magento_Downloadable
+"Number of downloads must be a positive integer.","El número de descargas debe ser un entero positivo.",module,Magento_Downloadable
+"Sort order must be a positive integer.","El número de ordenamiento debe ser un entero positivo.",module,Magento_Downloadable
+"Link URL must have valid format.","La liga URL debe tener un formato válido.",module,Magento_Downloadable
+"Provided file content must be valid base64 encoded data.","El archivo proporcionado debe contener datos válidos base64.",module,Magento_Downloadable
+"Sample URL must have valid format.","El URL de muestra debe tener un formato válido.",module,Magento_Downloadable
+"Order id cannot be null","El ID de la orden no puede ser nulo",module,Magento_Downloadable
+"Order item id cannot be null","El ID del artículo no puede ser nulo",module,Magento_Downloadable
+"Provided product must be type 'downloadable'.","El tipo proporcionado de producto debe ser 'descargable'.",module,Magento_Downloadable
+"Provided link information is invalid.","La información de la liga no es válida.",module,Magento_Downloadable
+"Invalid link type.","Tipo de liga no válida.",module,Magento_Downloadable
+"Link title cannot be empty.","El título de la liga no puede estar vacío.",module,Magento_Downloadable
+"There is no downloadable link with provided ID.","No hay liga descargable con el ID proporcionado.",module,Magento_Downloadable
+"Provided downloadable link is not related to given product.","La liga descargable proporcionada no está relacionada con el producto dado.",module,Magento_Downloadable
+"Cannot delete link with id %1","No se puede borrar la liga con el ID %1",module,Magento_Downloadable
+"Please specify product link(s).","Por favor especifique la(s) liga(s) de producto.",module,Magento_Downloadable
+"Sample file not provided","No se proporcionó archivo de muestra",module,Magento_Downloadable
+"Provided sample information is invalid.","La información de muestra no es válida.",module,Magento_Downloadable
+"Invalid sample type.","Tipo de muestra no válido.",module,Magento_Downloadable
+"Sample title cannot be empty.","El título de la muestra no puede estar vacío.",module,Magento_Downloadable
+"There is no downloadable sample with provided ID.","No hay una muestra descargable con el ID proporcionado.",module,Magento_Downloadable
+"Provided downloadable sample is not related to given product.","La muestra descargable proporcionada no está relacionada con el producto dado.",module,Magento_Downloadable
+"Cannot delete sample with id %1","No se puede borrar la muestra con el ID %1",module,Magento_Downloadable
+Yes,Sí,module,Magento_Downloadable
 No,No,module,Magento_Downloadable
-"Use config","Use config",module,Magento_Downloadable
-"Upload File","Upload File",module,Magento_Downloadable
+"Use config","Usar configuración",module,Magento_Downloadable
+"Upload File","Enviar Archivo",module,Magento_Downloadable
 URL,URL,module,Magento_Downloadable
-attachment,attachment,module,Magento_Downloadable
-inline,inline,module,Magento_Downloadable
-Pending,Pending,module,Magento_Downloadable
-Invoiced,Invoiced,module,Magento_Downloadable
-"To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
-"Is this downloadable Product?","Is this downloadable Product?",module,Magento_Downloadable
-Links,Links,module,Magento_Downloadable
-Title,Title,module,Magento_Downloadable
-"Links can be purchased separately","Links can be purchased separately",module,Magento_Downloadable
-"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.",module,Magento_Downloadable
-"Add Link","Add Link",module,Magento_Downloadable
-Price,Price,module,Magento_Downloadable
-File,File,module,Magento_Downloadable
-Sample,Sample,module,Magento_Downloadable
-Shareable,Shareable,module,Magento_Downloadable
-"Max. Downloads","Max. Downloads",module,Magento_Downloadable
-Samples,Samples,module,Magento_Downloadable
-"Use Default Value","Use Default Value",module,Magento_Downloadable
-sample,sample,module,Magento_Downloadable
-"Add links to your product files here.","Add links to your product files here.",module,Magento_Downloadable
-"[STORE VIEW]","[STORE VIEW]",module,Magento_Downloadable
+attachment,adjunto,module,Magento_Downloadable
+inline,enlínea,module,Magento_Downloadable
+Pending,Pendiente,module,Magento_Downloadable
+Invoiced,Facturado,module,Magento_Downloadable
+"To enable the option set the weight to no","Para habilitar la opción fije el peso en no",module,Magento_Downloadable
+"Is this downloadable Product?","¿Este es un producto descargable?",module,Magento_Downloadable
+Links,Ligas,module,Magento_Downloadable
+Title,Título,module,Magento_Downloadable
+"Links can be purchased separately","Las ligas se pueden comprar por separado",module,Magento_Downloadable
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Se recomiendan caracteres alfanuméricos, guiones y subguiones para nombres de archivos. Los caracteres impropios son reemplazados con '_'.",module,Magento_Downloadable
+"Add Link","Añadir Liga",module,Magento_Downloadable
+Price,Precio,module,Magento_Downloadable
+File,Archivo,module,Magento_Downloadable
+Sample,Muestra,module,Magento_Downloadable
+Shareable,Compartible,module,Magento_Downloadable
+"Max. Downloads","Descargas máximas",module,Magento_Downloadable
+Samples,Muestras,module,Magento_Downloadable
+"Use Default Value","Usar el Valor por Defecto",module,Magento_Downloadable
+sample,muestra,module,Magento_Downloadable
+"Add links to your product files here.","Añada ligas a sus archivos de producto aquí.",module,Magento_Downloadable
+"[STORE VIEW]","[VISTA DE TIENDA]",module,Magento_Downloadable
 [GLOBAL],[GLOBAL],module,Magento_Downloadable
-"Sort Order","Sort Order",module,Magento_Downloadable
-"Attach File or Enter Link","Attach File or Enter Link",module,Magento_Downloadable
-"Sort Variations","Sort Variations",module,Magento_Downloadable
-"Browse Files...","Browse Files...",module,Magento_Downloadable
-Delete,Delete,module,Magento_Downloadable
-"Add product preview files here.","Add product preview files here.",module,Magento_Downloadable
+"Sort Order",Ordenamiento,module,Magento_Downloadable
+"Attach File or Enter Link","Adjunte Archivo o Ingrese Liga",module,Magento_Downloadable
+"Sort Variations","Ordenar Variaciones",module,Magento_Downloadable
+"Browse Files...","Explorar Archivos...",module,Magento_Downloadable
+Delete,Borrar,module,Magento_Downloadable
+"Add product preview files here.","Añada archivos de vista previa del producto aquí.",module,Magento_Downloadable
 SKU,SKU,module,Magento_Downloadable
 U,U,module,Magento_Downloadable
-"Select all","Select all",module,Magento_Downloadable
-"Unselect all","Unselect all",module,Magento_Downloadable
-Availability,Availability,module,Magento_Downloadable
-"In stock","In stock",module,Magento_Downloadable
-"Out of stock","Out of stock",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">My Downloadable Products</a>",module,Magento_Downloadable
-"Downloadable Products","Downloadable Products",module,Magento_Downloadable
-"Order #","Order #",module,Magento_Downloadable
-Date,Date,module,Magento_Downloadable
-Status,Status,module,Magento_Downloadable
-"Remaining Downloads","Remaining Downloads",module,Magento_Downloadable
-"View Order","View Order",module,Magento_Downloadable
-"Start Download","Start Download",module,Magento_Downloadable
-"You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet.",module,Magento_Downloadable
-Back,Back,module,Magento_Downloadable
-download,download,module,Magento_Downloadable
-"Gift Message","Gift Message",module,Magento_Downloadable
-From:,From:,module,Magento_Downloadable
-To:,To:,module,Magento_Downloadable
-Message:,Message:,module,Magento_Downloadable
-"Product Name","Product Name",module,Magento_Downloadable
-Qty,Qty,module,Magento_Downloadable
+"Select all","Seleccionar todos",module,Magento_Downloadable
+"Unselect all","Deseleccionar todos",module,Magento_Downloadable
+Availability,Disponibilidad,module,Magento_Downloadable
+"In stock","En existencia",module,Magento_Downloadable
+"Out of stock","Sin existencias",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Vaya a <a href=""%1"">Mis Productos Descargables</a>",module,Magento_Downloadable
+"Downloadable Products","Productos Descargables",module,Magento_Downloadable
+"Order #","Orden #",module,Magento_Downloadable
+Date,Fecha,module,Magento_Downloadable
+Status,Estado,module,Magento_Downloadable
+"Remaining Downloads","Descargas Disponibles",module,Magento_Downloadable
+"View Order","Ver Orden",module,Magento_Downloadable
+"Start Download","Comenzar Descarga",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Aún no compra productos descargables.",module,Magento_Downloadable
+Back,Atrás,module,Magento_Downloadable
+download,descarga,module,Magento_Downloadable
+"Gift Message","Mensaje del Regalo",module,Magento_Downloadable
+From:,De:,module,Magento_Downloadable
+To:,Para:,module,Magento_Downloadable
+Message:,Mensaje:,module,Magento_Downloadable
+"Product Name","Nombre del Producto",module,Magento_Downloadable
+Qty,Cantidad,module,Magento_Downloadable
 Subtotal,Subtotal,module,Magento_Downloadable
-"Discount Amount","Discount Amount",module,Magento_Downloadable
-"Row Total","Row Total",module,Magento_Downloadable
-"Qty Invoiced","Qty Invoiced",module,Magento_Downloadable
-Ordered,Ordered,module,Magento_Downloadable
-Shipped,Shipped,module,Magento_Downloadable
-Canceled,Canceled,module,Magento_Downloadable
-Refunded,Refunded,module,Magento_Downloadable
-"Attribute Properties","Attribute Properties",module,Magento_Eav
-"Default Label","Default Label",module,Magento_Eav
-"Default label","Default label",module,Magento_Eav
-"Attribute Code","Attribute Code",module,Magento_Eav
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Eav
-"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Eav
-"Values Required","Values Required",module,Magento_Eav
-"Default Value","Default Value",module,Magento_Eav
-"Unique Value","Unique Value",module,Magento_Eav
-"Unique Value (not shared with other products)","Unique Value (not shared with other products)",module,Magento_Eav
-"Not shared with other products.","Not shared with other products.",module,Magento_Eav
-"Input Validation for Store Owner","Input Validation for Store Owner",module,Magento_Eav
-Required,Required,module,Magento_Eav
-Yes,Yes,module,Magento_Eav
+"Discount Amount","Cantidad de Descuento",module,Magento_Downloadable
+"Row Total","Total de Fila",module,Magento_Downloadable
+"Qty Invoiced","Cantidad Facturada",module,Magento_Downloadable
+Ordered,Ordenado,module,Magento_Downloadable
+Shipped,Enviado,module,Magento_Downloadable
+Canceled,Cancelado,module,Magento_Downloadable
+Refunded,Reintegrado,module,Magento_Downloadable
+"Attribute Properties","Propiedades de Atributo",module,Magento_Eav
+"Default Label","Etiqueta por Defecto",module,Magento_Eav
+"Default label","Etiqueta por defecto",module,Magento_Eav
+"Attribute Code","Código de Atributo",module,Magento_Eav
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","Esto se usa internamente. Asegúrese de no usar espacios o más de %1 símbolos.",module,Magento_Eav
+"Catalog Input Type for Store Owner","Tipo de Entrada de Catálogo para Dueño de Tienda",module,Magento_Eav
+"Values Required","Valores Obligatorios",module,Magento_Eav
+"Default Value","Valor por Defecto",module,Magento_Eav
+"Unique Value","Valor Único",module,Magento_Eav
+"Unique Value (not shared with other products)","Valor Único (no compartido con otros productos)",module,Magento_Eav
+"Not shared with other products.","No compartido con otros productos.",module,Magento_Eav
+"Input Validation for Store Owner","Validación de Entrada para Dueño de Tienda",module,Magento_Eav
+Required,Obligatorio,module,Magento_Eav
+Yes,Sí,module,Magento_Eav
 No,No,module,Magento_Eav
-System,System,module,Magento_Eav
-None,None,module,Magento_Eav
-"Decimal Number","Decimal Number",module,Magento_Eav
-"Integer Number","Integer Number",module,Magento_Eav
+System,Sistema,module,Magento_Eav
+None,Ninguno,module,Magento_Eav
+"Decimal Number","Número Decimal",module,Magento_Eav
+"Integer Number","Número Entero",module,Magento_Eav
 Email,Email,module,Magento_Eav
 URL,URL,module,Magento_Eav
-Letters,Letters,module,Magento_Eav
-"Letters (a-z, A-Z) or Numbers (0-9)","Letters (a-z, A-Z) or Numbers (0-9)",module,Magento_Eav
-"Text Field","Text Field",module,Magento_Eav
-"Text Area","Text Area",module,Magento_Eav
-Date,Date,module,Magento_Eav
-Yes/No,Yes/No,module,Magento_Eav
-"Multiple Select","Multiple Select",module,Magento_Eav
-Dropdown,Dropdown,module,Magento_Eav
-"Input type ""%value%"" not found in the input types list.","Input type ""%value%"" not found in the input types list.",module,Magento_Eav
-"Attribute object is undefined","Attribute object is undefined",module,Magento_Eav
-"Entity object is undefined","Entity object is undefined",module,Magento_Eav
-"""%1"" invalid type entered.","""%1"" invalid type entered.",module,Magento_Eav
-"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" contains non-alphabetic or non-numeric characters.",module,Magento_Eav
-"""%1"" is an empty string.","""%1"" is an empty string.",module,Magento_Eav
-"""%1"" contains non-numeric characters.","""%1"" contains non-numeric characters.",module,Magento_Eav
-"""%1"" contains non-alphabetic characters.","""%1"" contains non-alphabetic characters.",module,Magento_Eav
-"""%1"" is not a valid email address.","""%1"" is not a valid email address.",module,Magento_Eav
-"""%1"" is not a valid hostname.","""%1"" is not a valid hostname.",module,Magento_Eav
-"""%1"" uses too many characters.","""%1"" uses too many characters.",module,Magento_Eav
-"'%value%' looks like an IP address, which is not an acceptable format.","'%value%' looks like an IP address, which is not an acceptable format.",module,Magento_Eav
-"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' looks like a DNS hostname but we cannot match the TLD against known list.",module,Magento_Eav
-"'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' looks like a DNS hostname but contains a dash in an invalid position.",module,Magento_Eav
-"'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.",module,Magento_Eav
-"'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' looks like a DNS hostname but cannot extract TLD part.",module,Magento_Eav
-"'%value%' does not look like a valid local network name.","'%value%' does not look like a valid local network name.",module,Magento_Eav
-"'%value%' looks like a local network name, which is not an acceptable format.","'%value%' looks like a local network name, which is not an acceptable format.",module,Magento_Eav
-"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.",module,Magento_Eav
-"""%1"" is not a valid URL.","""%1"" is not a valid URL.",module,Magento_Eav
-"""%1"" is not a valid date.","""%1"" is not a valid date.",module,Magento_Eav
-"""%1"" does not fit the entered date format.","""%1"" does not fit the entered date format.",module,Magento_Eav
-"""%1"" is a required value.","""%1"" is a required value.",module,Magento_Eav
-"Please enter a valid date between %1 and %2 at %3.","Please enter a valid date between %1 and %2 at %3.",module,Magento_Eav
-"Please enter a valid date equal to or greater than %1 at %2.","Please enter a valid date equal to or greater than %1 at %2.",module,Magento_Eav
-"Please enter a valid date less than or equal to %1 at %2.","Please enter a valid date less than or equal to %1 at %2.",module,Magento_Eav
-"""%1"" is not a valid file extension.","""%1"" is not a valid file extension.",module,Magento_Eav
-"""%1"" is not a valid file.","""%1"" is not a valid file.",module,Magento_Eav
-"""%1"" exceeds the allowed file size.","""%1"" exceeds the allowed file size.",module,Magento_Eav
-"""%1"" is not a valid image format","""%1"" is not a valid image format",module,Magento_Eav
-"""%1"" width exceeds allowed value of %2 px.","""%1"" width exceeds allowed value of %2 px.",module,Magento_Eav
-"""%1"" height exceeds allowed value of %2 px.","""%1"" height exceeds allowed value of %2 px.",module,Magento_Eav
-"""%1"" cannot contain more than %2 lines.","""%1"" cannot contain more than %2 lines.",module,Magento_Eav
-"""%1"" length must be equal or greater than %2 characters.","""%1"" length must be equal or greater than %2 characters.",module,Magento_Eav
-"""%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters.",module,Magento_Eav
-"Attribute group does not belong to provided attribute set","Attribute group does not belong to provided attribute set",module,Magento_Eav
-"Cannot save attributeGroup","Cannot save attributeGroup",module,Magento_Eav
-"Group with id ""%1"" does not exist.","Group with id ""%1"" does not exist.",module,Magento_Eav
-"Cannot delete attributeGroup with id %1","Cannot delete attributeGroup with id %1",module,Magento_Eav
-"AttributeSet with id ""%1"" does not exist.","AttributeSet with id ""%1"" does not exist.",module,Magento_Eav
-"Wrong attribute set id provided","Wrong attribute set id provided",module,Magento_Eav
-"Attribute group does not belong to attribute set","Attribute group does not belong to attribute set",module,Magento_Eav
-"Attribute set not found: %1","Attribute set not found: %1",module,Magento_Eav
-"Attribute ""%1"" not found in attribute set %2.","Attribute ""%1"" not found in attribute set %2.",module,Magento_Eav
-"System attribute can not be deleted","System attribute can not be deleted",module,Magento_Eav
-"Cannot save attribute","Cannot save attribute",module,Magento_Eav
-"Attribute with attributeCode ""%1"" does not exist.","Attribute with attributeCode ""%1"" does not exist.",module,Magento_Eav
-"Cannot delete attribute.","Cannot delete attribute.",module,Magento_Eav
-"Attribute with id ""%1"" does not exist.","Attribute with id ""%1"" does not exist.",module,Magento_Eav
-"There was an error saving attribute set.","There was an error saving attribute set.",module,Magento_Eav
-"Default attribute set can not be deleted","Default attribute set can not be deleted",module,Magento_Eav
-"There was an error deleting attribute set.","There was an error deleting attribute set.",module,Magento_Eav
-"Invalid entity_type specified: %1","Invalid entity_type specified: %1",module,Magento_Eav
-"Entity is not initialized","Entity is not initialized",module,Magento_Eav
-"Unknown parameter","Unknown parameter",module,Magento_Eav
-"The attribute code '%1' is reserved by system. Please try another attribute code","The attribute code '%1' is reserved by system. Please try another attribute code",module,Magento_Eav
-"An attribute code must not be more than %1 characters.","An attribute code must not be more than %1 characters.",module,Magento_Eav
-"Invalid default decimal value","Invalid default decimal value",module,Magento_Eav
-"Invalid default date","Invalid default date",module,Magento_Eav
-"Invalid entity supplied","Invalid entity supplied",module,Magento_Eav
-"Invalid backend model specified: %1","Invalid backend model specified: %1",module,Magento_Eav
+Letters,Letras,module,Magento_Eav
+"Letters (a-z, A-Z) or Numbers (0-9)","Letras (a-z, A-Z) o Números (0-9)",module,Magento_Eav
+"Text Field","Campo de Texto",module,Magento_Eav
+"Text Area","Área de Texto",module,Magento_Eav
+Date,Fecha,module,Magento_Eav
+Yes/No,Sí/No,module,Magento_Eav
+"Multiple Select","Selección Múltiple",module,Magento_Eav
+Dropdown,Desplegable,module,Magento_Eav
+"Input type ""%value%"" not found in the input types list.","El tipo de entrada ""%value%"" no se encuentra en la lista de tipos de entrada.",module,Magento_Eav
+"Attribute object is undefined","El objeto de entrada es indefinido",module,Magento_Eav
+"Entity object is undefined","El objeto de entidad es indefinido",module,Magento_Eav
+"""%1"" invalid type entered.","""%1"" tipo ingresado no válido.",module,Magento_Eav
+"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" contiene caracteres no alfabéticos o no numéricos.",module,Magento_Eav
+"""%1"" is an empty string.","""%1"" es una cadena vacía.",module,Magento_Eav
+"""%1"" contains non-numeric characters.","""%1"" contiene caracteres no noméricos.",module,Magento_Eav
+"""%1"" contains non-alphabetic characters.","""%1"" contiene caracteres no alfabéticos.",module,Magento_Eav
+"""%1"" is not a valid email address.","""%1"" no es una dirección de email válida.",module,Magento_Eav
+"""%1"" is not a valid hostname.","""%1"" no es un nombre de servidor válido.",module,Magento_Eav
+"""%1"" uses too many characters.","""%1"" usa demasiados caracteres.",module,Magento_Eav
+"'%value%' looks like an IP address, which is not an acceptable format.","'%value%' parece una dirección IP, que no es un formato válido.",module,Magento_Eav
+"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' parece un nombre de servidor DNS pero no podemos igualar un TLD en un listado conocido.",module,Magento_Eav
+"'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' parece un nombre de servidor DNS pero contiene un guión en una posición no válida.",module,Magento_Eav
+"'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","'%value%' parece un nombre de servidor DNS pero no podemos igualarlo con un esquema TLD '%tld%'.",module,Magento_Eav
+"'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' parece un nombre de servidor DNS pero no podemos extraer la parte TLD.",module,Magento_Eav
+"'%value%' does not look like a valid local network name.","'%value%' no parece un nombre de red local válido.",module,Magento_Eav
+"'%value%' looks like a local network name, which is not an acceptable format.","'%value%' parece un nombre de red local, que no es un formato aceptable.",module,Magento_Eav
+"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","'%value%' parece un nombre de servidor DNS, pero la notación punycode proporcionada no puede decodificarse.",module,Magento_Eav
+"""%1"" is not a valid URL.","""%1"" no es un URL válido.",module,Magento_Eav
+"""%1"" is not a valid date.","""%1"" no es una fecha válida.",module,Magento_Eav
+"""%1"" does not fit the entered date format.","""%1"" no cabe en el formato de fecha suministrado.",module,Magento_Eav
+"""%1"" is a required value.","""%1"" es un valor obligatorio.",module,Magento_Eav
+"Please enter a valid date between %1 and %2 at %3.","Por favor ingrese una fecha válida entre %1 y %2 en %3.",module,Magento_Eav
+"Please enter a valid date equal to or greater than %1 at %2.","Por favor ingrese una fecha válida igual o mayor que %1 en %2.",module,Magento_Eav
+"Please enter a valid date less than or equal to %1 at %2.","Por favor ingrese una fecha válida menor o igual a %1 en %2.",module,Magento_Eav
+"""%1"" is not a valid file extension.","""%1"" no es una extensión de archivo válida.",module,Magento_Eav
+"""%1"" is not a valid file.","""%1"" no es un archivo válido.",module,Magento_Eav
+"""%1"" exceeds the allowed file size.","""%1"" excede el tamaño de archivo disponible.",module,Magento_Eav
+"""%1"" is not a valid image format","""%1"" no es un formato de imagen válido",module,Magento_Eav
+"""%1"" width exceeds allowed value of %2 px.","""%1"" el ancho excede el valor permitido de %2 px.",module,Magento_Eav
+"""%1"" height exceeds allowed value of %2 px.","""%1"" el alto excede el valor permitido de %2 px.",module,Magento_Eav
+"""%1"" cannot contain more than %2 lines.","""%1"" no puede contener más de %2 líneas.",module,Magento_Eav
+"""%1"" length must be equal or greater than %2 characters.","""%1"" la longitud no debe ser mayor de %2 caracteres.",module,Magento_Eav
+"""%1"" length must be equal or less than %2 characters.","""%1"" la longitud debe ser menor o igual que %2 caracteres.",module,Magento_Eav
+"Attribute group does not belong to provided attribute set","El grupo de atributo no pertenece al juego de atributo proporcionado",module,Magento_Eav
+"Cannot save attributeGroup","No se puede guardar attributeGroup",module,Magento_Eav
+"Group with id ""%1"" does not exist.","El grupo con el ID ""%1"" no existe.",module,Magento_Eav
+"Cannot delete attributeGroup with id %1","No se puede borrar attributeGroup con el ID %1",module,Magento_Eav
+"AttributeSet with id ""%1"" does not exist.","AttributeSet con el ID ""%1"" no existe.",module,Magento_Eav
+"Wrong attribute set id provided","El ID de grupo de atributo es incorrecto",module,Magento_Eav
+"Attribute group does not belong to attribute set","El grupo de atributo no pertenece al juego de atributo",module,Magento_Eav
+"Attribute set not found: %1","El juego de atributo no fue encontrado: %1",module,Magento_Eav
+"Attribute ""%1"" not found in attribute set %2.","El atributo ""%1"" no se encuentra en el juego de atributo %2.",module,Magento_Eav
+"System attribute can not be deleted","El atributo de sistema no se puede borrar",module,Magento_Eav
+"Cannot save attribute","No se puede guardar el atributo",module,Magento_Eav
+"Attribute with attributeCode ""%1"" does not exist.","El artributo con attributeCode ""%1"" no existe.",module,Magento_Eav
+"Cannot delete attribute.","No se puede borrar el atributo.",module,Magento_Eav
+"Attribute with id ""%1"" does not exist.","El atributo con el ID ""%1"" no existe.",module,Magento_Eav
+"There was an error saving attribute set.","Hubo un error al intentar guardar el juego de atributo.",module,Magento_Eav
+"Default attribute set can not be deleted","El juego de atributo por defecto no se puede borrar",module,Magento_Eav
+"There was an error deleting attribute set.","Ocurrió un error al intentar borrar el juego de atributo.",module,Magento_Eav
+"Invalid entity_type specified: %1","entity_type especificada no válida: %1",module,Magento_Eav
+"Entity is not initialized","La entidad no está inicializada",module,Magento_Eav
+"Unknown parameter","Parámetro desconocido",module,Magento_Eav
+"The attribute code '%1' is reserved by system. Please try another attribute code","El código de producto '%1' está reservado para el sistema. Por favor intente otro código de atributo",module,Magento_Eav
+"An attribute code must not be more than %1 characters.","Un código de atributo no debe contener más de %1 caracteres.",module,Magento_Eav
+"Invalid default decimal value","Valor decimal por defecto no válido",module,Magento_Eav
+"Invalid default date","Fecha por defecto no válida",module,Magento_Eav
+"Invalid entity supplied","Entidad proporcionada no válida",module,Magento_Eav
+"Invalid backend model specified: %1","Modelo de backend proporcionado no válido: %1",module,Magento_Eav
 "Source model ""%1"" not found for attribute ""%2""","Source model ""%1"" not found for attribute ""%2""",module,Magento_Eav
 "The value of attribute ""%1"" must be set","The value of attribute ""%1"" must be set",module,Magento_Eav
 "The value of attribute ""%1"" must be unique","The value of attribute ""%1"" must be unique",module,Magento_Eav
