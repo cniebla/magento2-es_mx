@@ -1994,124 +1994,124 @@ Customers,Clientes,module,Magento_Customer
 "Customer has been unlocked successfully.","Se ha desbloqueado al cliente con éxito.",module,Magento_Customer
 "Online Customers","Clientes Conectados",module,Magento_Customer
 "Customers Now Online","Clientes Conectados Ahora",module,Magento_Customer
-"Please define Wish List item ID.","Please define Wish List item ID.",module,Magento_Customer
-"Please load Wish List item.","Please load Wish List item.",module,Magento_Customer
-"Login successful.","Login successful.",module,Magento_Customer
-"""%1"" section source is not supported","""%1"" section source is not supported",module,Magento_Customer
-"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
-"No confirmation needed.","No confirmation needed.",module,Magento_Customer
-"Account already active","Account already active",module,Magento_Customer
-"Invalid confirmation token","Invalid confirmation token",module,Magento_Customer
-"The account is locked.","The account is locked.",module,Magento_Customer
-"This account is not confirmed.","This account is not confirmed.",module,Magento_Customer
-"Invalid value of ""%value"" provided for the %fieldName field.","Invalid value of ""%value"" provided for the %fieldName field.",module,Magento_Customer
-"Please enter a password with at most %1 characters.","Please enter a password with at most %1 characters.",module,Magento_Customer
-"Please enter a password with at least %1 characters.","Please enter a password with at least %1 characters.",module,Magento_Customer
-"The password can't begin or end with a space.","The password can't begin or end with a space.",module,Magento_Customer
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Customer
-"This customer already exists in this store.","This customer already exists in this store.",module,Magento_Customer
-"A customer with the same email already exists in an associated website.","A customer with the same email already exists in an associated website.",module,Magento_Customer
-"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Customer
-"Reset password token mismatch.","Reset password token mismatch.",module,Magento_Customer
-"Reset password token expired.","Reset password token expired.",module,Magento_Customer
-"Please correct the transactional account email type.","Please correct the transactional account email type.",module,Magento_Customer
-"Please enter the first name.","Please enter the first name.",module,Magento_Customer
-"Please enter the last name.","Please enter the last name.",module,Magento_Customer
-"Please enter the street.","Please enter the street.",module,Magento_Customer
-"Please enter the city.","Please enter the city.",module,Magento_Customer
-"Please enter the phone number.","Please enter the phone number.",module,Magento_Customer
-"Please enter the zip/postal code.","Please enter the zip/postal code.",module,Magento_Customer
-"Please enter the country.","Please enter the country.",module,Magento_Customer
-"Please enter the state/province.","Please enter the state/province.",module,Magento_Customer
-"""%1"" is a required value.","""%1"" is a required value.",module,Magento_Customer
+"Please define Wish List item ID.","Por favor defina el ID del artículo de la Lista de Deseos.",module,Magento_Customer
+"Please load Wish List item.","Por favor cargue el artículo de la Lista de Deseos.",module,Magento_Customer
+"Login successful.","Ingreso exitoso.",module,Magento_Customer
+"""%1"" section source is not supported","La sección de ingreso ""%1""no está soportada",module,Magento_Customer
+"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 no extiende \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
+"No confirmation needed.","No es necesario confirmar.",module,Magento_Customer
+"Account already active","La cuenta ya está activa",module,Magento_Customer
+"Invalid confirmation token","Token de confirmación no válido",module,Magento_Customer
+"The account is locked.","La cuenta está bloqueada.",module,Magento_Customer
+"This account is not confirmed.","Esta cuenta no está confirmada.",module,Magento_Customer
+"Invalid value of ""%value"" provided for the %fieldName field.","Valor no válido de ""%value"" suministrado para el campo %fieldName.",module,Magento_Customer
+"Please enter a password with at most %1 characters.","Por favor ingrese una contraseña con un máximo de %1 caracteres.",module,Magento_Customer
+"Please enter a password with at least %1 characters.","Por favor ingrese una contraseña con por lo menos %1 caracteres.",module,Magento_Customer
+"The password can't begin or end with a space.","La contraseña no puede empezar o terminar con un espacio.",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","La contraseña debe contener un mínimo de %1 clases de caracteres. Clases de caracteres: Minúsculas, Mayúsculas, Números, Caracteres especiales.",module,Magento_Customer
+"This customer already exists in this store.","El cliente ya existe en esta tienda.",module,Magento_Customer
+"A customer with the same email already exists in an associated website.","Ya existe un cliente con el mismo email en el sitio web asociado.",module,Magento_Customer
+"%fieldName is a required field.","%fieldName es un campo obligatorio.",module,Magento_Customer
+"Reset password token mismatch.","El token no es igual al requerido para reiniciar la contraseña.",module,Magento_Customer
+"Reset password token expired.","Ha expirado el token para reiniciar la contraseña.",module,Magento_Customer
+"Please correct the transactional account email type.","Por favor corrija el email para la cuenta de transacciones.",module,Magento_Customer
+"Please enter the first name.","Por favor ingrese el nombre.",module,Magento_Customer
+"Please enter the last name.","Por favor ingrese el apellido.",module,Magento_Customer
+"Please enter the street.","Por favor ingrese la calle.",module,Magento_Customer
+"Please enter the city.","Por favor ingrese la ciudad.",module,Magento_Customer
+"Please enter the phone number.","Por favor ingrese el número telefónico.",module,Magento_Customer
+"Please enter the zip/postal code.","Por favor ingrese el código postal.",module,Magento_Customer
+"Please enter the country.","Por favor ingrese el país.",module,Magento_Customer
+"Please enter the state/province.","Por favor ingrese el Estado/Provincia.",module,Magento_Customer
+"""%1"" is a required value.","""%1"" es un valor obligatorio.",module,Magento_Customer
 Global,Global,module,Magento_Customer
-"Per Website","Per Website",module,Magento_Customer
-"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","We can't share customer accounts globally when the accounts share identical email addresses on more than one website.",module,Magento_Customer
-"Billing Address","Billing Address",module,Magento_Customer
-"Shipping Address","Shipping Address",module,Magento_Customer
-"-- Please Select --","-- Please Select --",module,Magento_Customer
-"Please enter a valid password reset token.","Please enter a valid password reset token.",module,Magento_Customer
-"The password can not begin or end with a space.","The password can not begin or end with a space.",module,Magento_Customer
-Admin,Admin,module,Magento_Customer
-"ALL GROUPS","ALL GROUPS",module,Magento_Customer
-"No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","No such entity with %fieldName = %fieldValue, %field2Name = %field2Value",module,Magento_Customer
-"Attribute object is undefined","Attribute object is undefined",module,Magento_Customer
-"""%1"" invalid type entered.","""%1"" invalid type entered.",module,Magento_Customer
-"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" contains non-alphabetic or non-numeric characters.",module,Magento_Customer
-"""%1"" is an empty string.","""%1"" is an empty string.",module,Magento_Customer
-"""%1"" contains non-numeric characters.","""%1"" contains non-numeric characters.",module,Magento_Customer
-"""%1"" contains non-alphabetic characters.","""%1"" contains non-alphabetic characters.",module,Magento_Customer
-"""%1"" is not a valid email address.","""%1"" is not a valid email address.",module,Magento_Customer
-"""%1"" is not a valid hostname.","""%1"" is not a valid hostname.",module,Magento_Customer
-"""%1"" uses too many characters.","""%1"" uses too many characters.",module,Magento_Customer
-"'%value%' looks like an IP address, which is not an acceptable format.","'%value%' looks like an IP address, which is not an acceptable format.",module,Magento_Customer
-"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' looks like a DNS hostname but we cannot match the TLD against known list.",module,Magento_Customer
-"'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' looks like a DNS hostname but contains a dash in an invalid position.",module,Magento_Customer
-"'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.",module,Magento_Customer
-"'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' looks like a DNS hostname but cannot extract TLD part.",module,Magento_Customer
-"'%value%' does not look like a valid local network name.","'%value%' does not look like a valid local network name.",module,Magento_Customer
-"'%value%' looks like a local network name, which is not an acceptable format.","'%value%' looks like a local network name, which is not an acceptable format.",module,Magento_Customer
-"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.",module,Magento_Customer
-"""%1"" is not a valid URL.","""%1"" is not a valid URL.",module,Magento_Customer
-"""%1"" is not a valid date.","""%1"" is not a valid date.",module,Magento_Customer
-"""%1"" does not fit the entered date format.","""%1"" does not fit the entered date format.",module,Magento_Customer
-"Please enter a valid date between %1 and %2 at %3.","Please enter a valid date between %1 and %2 at %3.",module,Magento_Customer
-"Please enter a valid date equal to or greater than %1 at %2.","Please enter a valid date equal to or greater than %1 at %2.",module,Magento_Customer
-"Please enter a valid date less than or equal to %1 at %2.","Please enter a valid date less than or equal to %1 at %2.",module,Magento_Customer
-"""%1"" is not a valid file extension.","""%1"" is not a valid file extension.",module,Magento_Customer
-"""%1"" is not a valid file.","""%1"" is not a valid file.",module,Magento_Customer
-"""%1"" exceeds the allowed file size.","""%1"" exceeds the allowed file size.",module,Magento_Customer
-"""%1"" is not a valid image format.","""%1"" is not a valid image format.",module,Magento_Customer
-"""%1"" width exceeds allowed value of %2 px.","""%1"" width exceeds allowed value of %2 px.",module,Magento_Customer
-"""%1"" height exceeds allowed value of %2 px.","""%1"" height exceeds allowed value of %2 px.",module,Magento_Customer
-"""%1"" length must be equal or greater than %2 characters.","""%1"" length must be equal or greater than %2 characters.",module,Magento_Customer
-"""%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters.",module,Magento_Customer
-label,label,module,Magento_Customer
-"Please enter a customer email.","Please enter a customer email.",module,Magento_Customer
-"A customer website ID must be specified when using the website scope.","A customer website ID must be specified when using the website scope.",module,Magento_Customer
-"Customer Group","Customer Group",module,Magento_Customer
-"You can't delete group ""%1"".","You can't delete group ""%1"".",module,Magento_Customer
-"Customer Group already exists.","Customer Group already exists.",module,Magento_Customer
-"Cannot delete group.","Cannot delete group.",module,Magento_Customer
-"Error during VAT Number verification.","Error during VAT Number verification.",module,Magento_Customer
-"PHP SOAP extension is required.","PHP SOAP extension is required.",module,Magento_Customer
-"VAT Number is valid.","VAT Number is valid.",module,Magento_Customer
-"Please enter a valid VAT number.","Please enter a valid VAT number.",module,Magento_Customer
-"Your VAT ID was successfully validated.","Your VAT ID was successfully validated.",module,Magento_Customer
-"You will be charged tax.","You will be charged tax.",module,Magento_Customer
-"You will not be charged tax.","You will not be charged tax.",module,Magento_Customer
-"The VAT ID entered (%1) is not a valid VAT ID.","The VAT ID entered (%1) is not a valid VAT ID.",module,Magento_Customer
-"Your Tax ID cannot be validated.","Your Tax ID cannot be validated.",module,Magento_Customer
-"If you believe this is an error, please contact us at %1","If you believe this is an error, please contact us at %1",module,Magento_Customer
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Customer
-Male,Male,module,Magento_Customer
-Female,Female,module,Magento_Customer
-"Not Specified","Not Specified",module,Magento_Customer
-"Thank you for registering with","Thank you for registering with",module,Magento_Customer
-"enter your billing address for proper VAT calculation","enter your billing address for proper VAT calculation",module,Magento_Customer
-"enter your shipping address for proper VAT calculation","enter your shipping address for proper VAT calculation",module,Magento_Customer
-"Please enter new password.","Please enter new password.",module,Magento_Customer
-message,message,module,Magento_Customer
+"Per Website","Por Sitio Web",module,Magento_Customer
+"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","No podemos compartir cuentas de cliente globalmente cuando las cuentas comparten el mismo email en más de un sitio web.",module,Magento_Customer
+"Billing Address","Dirección de Facturación",module,Magento_Customer
+"Shipping Address","Dirección de Envío",module,Magento_Customer
+"-- Please Select --","-- Por Favor Seleccione --",module,Magento_Customer
+"Please enter a valid password reset token.","Por favor ingrese un token válido para reiniciar la contraseña.",module,Magento_Customer
+"The password can not begin or end with a space.","La contraseña no puede empezar o terminar con un espacio.",module,Magento_Customer
+Admin,Administrar,module,Magento_Customer
+"ALL GROUPS","TODOS LOS GRUPOS",module,Magento_Customer
+"No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","No existe esa entidad con %fieldName = %fieldValue, %field2Name = %field2Value",module,Magento_Customer
+"Attribute object is undefined","El objeto de atributo no está definido",module,Magento_Customer
+"""%1"" invalid type entered.","""%1"" tipo no válido ingresado.",module,Magento_Customer
+"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" contiene acaracteres que no son letras o números.",module,Magento_Customer
+"""%1"" is an empty string.","""%1"" es una cadena vacía.",module,Magento_Customer
+"""%1"" contains non-numeric characters.","""%1"" contiene caracteres que no son números.",module,Magento_Customer
+"""%1"" contains non-alphabetic characters.","""%1"" contiene caracteres que no son letras.",module,Magento_Customer
+"""%1"" is not a valid email address.","""%1"" no es un email válido.",module,Magento_Customer
+"""%1"" is not a valid hostname.","""%1"" no es un nombre de servidor válido.",module,Magento_Customer
+"""%1"" uses too many characters.","""%1"" usa demasiados caracteres.",module,Magento_Customer
+"'%value%' looks like an IP address, which is not an acceptable format.","'%value%' pare ser una dirección IP, y no es un formato válido.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' parece un nombre de servidor DNS, pero no podemos igualar el TLD a un listado conocido.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' parece un nombre de servidor DNS pero contiene un guión en una posición no válida.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","'%value%' parece un nombre de servidor DNS pero no podemos igualar el TLD '%tld%' a un esquema.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' parece un nombre de servidor DNS pero no podemos extraer la parte TLD.",module,Magento_Customer
+"'%value%' does not look like a valid local network name.","'%value%' no parece un nombre de red válido.",module,Magento_Customer
+"'%value%' looks like a local network name, which is not an acceptable format.","'%value%' parece un nombre de red, y no es un formato válido.",module,Magento_Customer
+"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","'%value%' parece ser un nombre DNS válido, pero la notación punycode suministrada no puede decodificarse.",module,Magento_Customer
+"""%1"" is not a valid URL.","""%1"" no es un URL válido.",module,Magento_Customer
+"""%1"" is not a valid date.","""%1"" no es una fecha válida.",module,Magento_Customer
+"""%1"" does not fit the entered date format.","""%1"" no cabe en el formato de fecha ingresado.",module,Magento_Customer
+"Please enter a valid date between %1 and %2 at %3.","Por favor ingrese una fecha válida entre %1 y %2 en %3.",module,Magento_Customer
+"Please enter a valid date equal to or greater than %1 at %2.","Por favor ingrese una fecha válida igual o mayor que %1 en %2.",module,Magento_Customer
+"Please enter a valid date less than or equal to %1 at %2.","Por favor ingrese una fecha válida igual o menor que %1 en %2.",module,Magento_Customer
+"""%1"" is not a valid file extension.","""%1"" no es un nombre de extensión válido.",module,Magento_Customer
+"""%1"" is not a valid file.","""%1"" no es un archivo válido.",module,Magento_Customer
+"""%1"" exceeds the allowed file size.","""%1"" excede el tamaño permitodo de archivo.",module,Magento_Customer
+"""%1"" is not a valid image format.","""%1"" no es un formato de imagen válido.",module,Magento_Customer
+"""%1"" width exceeds allowed value of %2 px.","el ancho de ""%1"" excede el valor permitodo de %2 px.",module,Magento_Customer
+"""%1"" height exceeds allowed value of %2 px.","""%1"" excede el alto permitido de %2 px.",module,Magento_Customer
+"""%1"" length must be equal or greater than %2 characters."," la longitud de ""%1"" debe ser igual o mayor que %2 caracteres.",module,Magento_Customer
+"""%1"" length must be equal or less than %2 characters.","la longitud de ""%1"" debe ser menor o igual que %2 caracteres.",module,Magento_Customer
+label,etiqueta,module,Magento_Customer
+"Please enter a customer email.","Por favor ingrese un email de cliente.",module,Magento_Customer
+"A customer website ID must be specified when using the website scope.","Se debe especificar un ID de sitio web de cliente cuando se usa el ámbito de sitio web.",module,Magento_Customer
+"Customer Group","Grupo de Clientes",module,Magento_Customer
+"You can't delete group ""%1"".","No puede borrar el grupo ""%1"".",module,Magento_Customer
+"Customer Group already exists.","El Grupo de Clientes ya existe.",module,Magento_Customer
+"Cannot delete group.","No se puede borrar el grupo.",module,Magento_Customer
+"Error during VAT Number verification.","Ocurrió un error en la verificación del número de impuesto.",module,Magento_Customer
+"PHP SOAP extension is required.","Se requiere la extensión PHP SOAP.",module,Magento_Customer
+"VAT Number is valid.","El RFC es válido.",module,Magento_Customer
+"Please enter a valid VAT number.","Por favor ingrese un RFC válido.",module,Magento_Customer
+"Your VAT ID was successfully validated.","Se ha validado su RFC.",module,Magento_Customer
+"You will be charged tax.","Se le cargará impuesto.",module,Magento_Customer
+"You will not be charged tax.","No se le cargará impuesto.",module,Magento_Customer
+"The VAT ID entered (%1) is not a valid VAT ID.","El RFC ingresado (%1) no es un RFC válido.",module,Magento_Customer
+"Your Tax ID cannot be validated.","No es posible validar su RFC.",module,Magento_Customer
+"If you believe this is an error, please contact us at %1","Si cree que este es un error, por favor contáctenos en %1",module,Magento_Customer
+"No such entity with %fieldName = %fieldValue","No existe esa entidad con %fieldName = %fieldValue",module,Magento_Customer
+Male,Hombre,module,Magento_Customer
+Female,Mujer,module,Magento_Customer
+"Not Specified","Sin Especificar",module,Magento_Customer
+"Thank you for registering with","Gracias por registrarse con",module,Magento_Customer
+"enter your billing address for proper VAT calculation","ingrese su dirección de facturación para un cálculo apropiado de impuestos",module,Magento_Customer
+"enter your shipping address for proper VAT calculation","ingrese su dirección de envío para un cálculo apropiado de impuestos",module,Magento_Customer
+"Please enter new password.","Por favor ingrese su nueva contraseña.",module,Magento_Customer
+message,mensaje,module,Magento_Customer
 NoSuchEntityException,NoSuchEntityException,module,Magento_Customer
-Exception,Exception,module,Magento_Customer
-"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
+Exception,Excepción,module,Magento_Customer
+"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Esta cuenta no ha sido confirmada. <a href=""%1"">Haga Click Aquí</a> para reenviar email de confirmación.",module,Magento_Customer
 InputException.,InputException.,module,Magento_Customer
 InputException,InputException,module,Magento_Customer
-"Exception message","Exception message",module,Magento_Customer
-"Validator Exception","Validator Exception",module,Magento_Customer
-"Localized Exception","Localized Exception",module,Magento_Customer
-"some error","some error",module,Magento_Customer
-"NOT LOGGED IN","NOT LOGGED IN",module,Magento_Customer
-Label,Label,module,Magento_Customer
-Select...,Select...,module,Magento_Customer
-Edit,Edit,module,Magento_Customer
-Visitor,Visitor,module,Magento_Customer
-Customer,Customer,module,Magento_Customer
-"No item specified.","No item specified.",module,Magento_Customer
-"Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_Customer
-"Personal Information","Personal Information",module,Magento_Customer
-"Last Logged In:","Last Logged In:",module,Magento_Customer
-"Last Logged In (%1):","Last Logged In (%1):",module,Magento_Customer
+"Exception message","Mensaje de excepción",module,Magento_Customer
+"Validator Exception","Excepción de Validador",module,Magento_Customer
+"Localized Exception","Excepción de Localización",module,Magento_Customer
+"some error","algún error",module,Magento_Customer
+"NOT LOGGED IN","SIN INGRESAR",module,Magento_Customer
+Label,Etiqueta,module,Magento_Customer
+Select...,Seleccionar...,module,Magento_Customer
+Edit,Editar,module,Magento_Customer
+Visitor,Visitante,module,Magento_Customer
+Customer,Cliente,module,Magento_Customer
+"No item specified.","No se especificó artículo.",module,Magento_Customer
+"Are you sure you want to remove this item?","¿Está seguro que quiere remover este artículo?",module,Magento_Customer
+"Personal Information","Información Personal",module,Magento_Customer
+"Last Logged In:","Último Ingreso:",module,Magento_Customer
+"Last Logged In (%1):","Último ingreso (%1):",module,Magento_Customer
 "Account Lock:","Account Lock:",module,Magento_Customer
 "Confirmed email:","Confirmed email:",module,Magento_Customer
 "Account Created:","Account Created:",module,Magento_Customer
