@@ -1,6 +1,6 @@
 # magento2-es_mx
 
-Status: 28% (first translation)
+Status: 32% (first translation)
 #NO INSTALAR
 #NOT READY
 
