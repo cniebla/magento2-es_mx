@@ -3038,154 +3038,154 @@ Total,Total,module,Magento_Multishipping
 "Create Shipping Address","Crear Dirección de Envío",module,Magento_Multishipping
 "Data saving problem","Problema al guardar datos",module,Magento_Multishipping
 "We cannot open the overview page.","No podemos abrir la página de visión general.",module,Magento_Multishipping
-"Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order.",module,Magento_Multishipping
-"Order place error","Order place error",module,Magento_Multishipping
-"Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Shipping to multiple addresses is %1",module,Magento_Multishipping
-"Please check shipping address information.","Please check shipping address information.",module,Magento_Multishipping
-"Please check billing address information.","Please check billing address information.",module,Magento_Multishipping
-"Please select shipping methods for all addresses.","Please select shipping methods for all addresses.",module,Magento_Multishipping
-"A payment method is not defined.","A payment method is not defined.",module,Magento_Multishipping
-"The requested payment method is not available for multishipping.","The requested payment method is not available for multishipping.",module,Magento_Multishipping
-"Item not found or already ordered","Item not found or already ordered",module,Magento_Multishipping
-"Please specify a payment method.","Please specify a payment method.",module,Magento_Multishipping
-"Please check shipping addresses information.","Please check shipping addresses information.",module,Magento_Multishipping
-"Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses.",module,Magento_Multishipping
-"Select Addresses","Select Addresses",module,Magento_Multishipping
-"Shipping Information","Shipping Information",module,Magento_Multishipping
-"Billing Information","Billing Information",module,Magento_Multishipping
-"Place Order","Place Order",module,Magento_Multishipping
-"Order Success","Order Success",module,Magento_Multishipping
-"Default Billing","Default Billing",module,Magento_Multishipping
-"Default Shipping","Default Shipping",module,Magento_Multishipping
-"Select Address","Select Address",module,Magento_Multishipping
-"Add New Address","Add New Address",module,Magento_Multishipping
-"Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
-"Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
-Product,Product,module,Magento_Multishipping
-Qty,Qty,module,Magento_Multishipping
-"Send To","Send To",module,Magento_Multishipping
-"A shipping selection is not applicable.","A shipping selection is not applicable.",module,Magento_Multishipping
-Actions,Actions,module,Magento_Multishipping
-"Remove Item","Remove Item",module,Magento_Multishipping
-"Remove item","Remove item",module,Magento_Multishipping
-"Go to Shipping Information","Go to Shipping Information",module,Magento_Multishipping
-"Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
-"Enter a New Address","Enter a New Address",module,Magento_Multishipping
-"Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
-"Billing Address","Billing Address",module,Magento_Multishipping
-Change,Change,module,Magento_Multishipping
-"Payment Method","Payment Method",module,Magento_Multishipping
-"Go to Review Your Order","Go to Review Your Order",module,Magento_Multishipping
-"Back to Shipping Information","Back to Shipping Information",module,Magento_Multishipping
-"Other items in your order","Other items in your order",module,Magento_Multishipping
-"Edit Items","Edit Items",module,Magento_Multishipping
-"Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
-"Product Name","Product Name",module,Magento_Multishipping
-"Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
-"Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
-"Shipping To","Shipping To",module,Magento_Multishipping
-"Shipping Method","Shipping Method",module,Magento_Multishipping
-"Incl. Tax","Incl. Tax",module,Magento_Multishipping
-"Excl. Tax","Excl. Tax",module,Magento_Multishipping
-"Order Review","Order Review",module,Magento_Multishipping
-Item,Item,module,Magento_Multishipping
-Edit,Edit,module,Magento_Multishipping
-Price,Price,module,Magento_Multishipping
+"Please agree to all Terms and Conditions before placing the order.","Por favor concuerde con todos los Términos y Condiciones antes de colocar la orden.",module,Magento_Multishipping
+"Order place error","Error de colocación de orden",module,Magento_Multishipping
+"Maximum qty allowed for Shipping to multiple addresses is %1","La cantidad máxima permitida para Envíos a varias direcciones es %1",module,Magento_Multishipping
+"Please check shipping address information.","Por favor revise la información de dirección de envío.",module,Magento_Multishipping
+"Please check billing address information.","Por favor revise la información de dirección de facturación.",module,Magento_Multishipping
+"Please select shipping methods for all addresses.","Por favor seleccione los métodos de envío para todas las direcciones.",module,Magento_Multishipping
+"A payment method is not defined.","No se ha definido un métido de pago.",module,Magento_Multishipping
+"The requested payment method is not available for multishipping.","EL método de pago solicitado no está definido para envíos a varias direcciones.",module,Magento_Multishipping
+"Item not found or already ordered","No se encontró el artículo o ya se ordenó",module,Magento_Multishipping
+"Please specify a payment method.","Por favor especifique un método de pago.",module,Magento_Multishipping
+"Please check shipping addresses information.","Por favor revise la información de las direcciones de envío.",module,Magento_Multishipping
+"Please specify shipping methods for all addresses.","Por favor especifique los métodos de envío para todas las direcciones.",module,Magento_Multishipping
+"Select Addresses","Seleccionar Direcciones",module,Magento_Multishipping
+"Shipping Information","Información de Envío",module,Magento_Multishipping
+"Billing Information","Información de Facturación",module,Magento_Multishipping
+"Place Order","Colocar Orden",module,Magento_Multishipping
+"Order Success","Orden Exitosa",module,Magento_Multishipping
+"Default Billing","Facturación por Defecto",module,Magento_Multishipping
+"Default Shipping","Envío por Defecto",module,Magento_Multishipping
+"Select Address","Seleccionar Dirección",module,Magento_Multishipping
+"Add New Address","Añadir Nueva Dirección",module,Magento_Multishipping
+"Back to Billing Information","Regresar a Información de Facturación",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","Por favor seleccione una dirección de envío para los artículos aplicables.",module,Magento_Multishipping
+Product,Producto,module,Magento_Multishipping
+Qty,Cantidad,module,Magento_Multishipping
+"Send To","Enviar A",module,Magento_Multishipping
+"A shipping selection is not applicable.","No se puede aplicar una selección de envío.",module,Magento_Multishipping
+Actions,Acciones,module,Magento_Multishipping
+"Remove Item","Borrar Artículo",module,Magento_Multishipping
+"Remove item","Borrar artículo",module,Magento_Multishipping
+"Go to Shipping Information","Ir a la Información de Envío",module,Magento_Multishipping
+"Update Qty &amp; Addresses","Actualizar Cantidades y Direcciones",module,Magento_Multishipping
+"Enter a New Address","Ingrese una Nueva Dirección",module,Magento_Multishipping
+"Back to Shopping Cart","Regresar al Carrito de Compras",module,Magento_Multishipping
+"Billing Address","Dirección de Facturación",module,Magento_Multishipping
+Change,Cambiar,module,Magento_Multishipping
+"Payment Method","Método de Pago",module,Magento_Multishipping
+"Go to Review Your Order","Ir a la Revisión de Su Orden",module,Magento_Multishipping
+"Back to Shipping Information","Regresar a la Información de Envío",module,Magento_Multishipping
+"Other items in your order","Otros artículos en su orden",module,Magento_Multishipping
+"Edit Items","Editar Artículos",module,Magento_Multishipping
+"Shipping is not applicable.","No se puede aplicar el envío.",module,Magento_Multishipping
+"Product Name","Nombre de Producto",module,Magento_Multishipping
+"Check Out with Multiple Addresses","Hacer el Pedido con Varias Direcciones",module,Magento_Multishipping
+"Address %1 <span>of %2</span>","Dirección %1 <span>de %2</span>",module,Magento_Multishipping
+"Shipping To","Enviando A",module,Magento_Multishipping
+"Shipping Method","Método de Envío",module,Magento_Multishipping
+"Incl. Tax","Incluye Impuesto",module,Magento_Multishipping
+"Excl. Tax","Sin Impuesto",module,Magento_Multishipping
+"Order Review","Revisión de Orden",module,Magento_Multishipping
+Item,Artículo,module,Magento_Multishipping
+Edit,Editar,module,Magento_Multishipping
+Price,Precio,module,Magento_Multishipping
 Subtotal,Subtotal,module,Magento_Multishipping
-Items,Items,module,Magento_Multishipping
-"Grand Total:","Grand Total:",module,Magento_Multishipping
-"Submitting order information...","Submitting order information...",module,Magento_Multishipping
-"Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
-"Continue to Billing Information","Continue to Billing Information",module,Magento_Multishipping
-"Back to Select Addresses","Back to Select Addresses",module,Magento_Multishipping
-"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Multishipping
-"Thanks for your order. We'll email you order details and tracking information.","Thanks for your order. We'll email you order details and tracking information.",module,Magento_Multishipping
-"Your order numbers are: ","Your order numbers are: ",module,Magento_Multishipping
-"Your order number is: ","Your order number is: ",module,Magento_Multishipping
-"Continue Shopping","Continue Shopping",module,Magento_Multishipping
-"No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
+Items,Artículos,module,Magento_Multishipping
+"Grand Total:","Gran Total:",module,Magento_Multishipping
+"Submitting order information...","Enviando información de orden...",module,Magento_Multishipping
+"Sorry, no quotes are available for this order right now.","Lo sentimos, por el momento no están disponibles cotizaciones para esta orden.",module,Magento_Multishipping
+"Continue to Billing Information","Continuar con la Información de Facturación",module,Magento_Multishipping
+"Back to Select Addresses","Regresar a Seleccionar Direcciones",module,Magento_Multishipping
+"Thank you for your purchase!","¡Gracias por su compra!",module,Magento_Multishipping
+"Thanks for your order. We'll email you order details and tracking information.","Gracias por su orden. Le enviaremos un email con detalles de su orden e información de seguimiento.",module,Magento_Multishipping
+"Your order numbers are: ","Sus números de orden son: ",module,Magento_Multishipping
+"Your order number is: ","Su número de orden es: ",module,Magento_Multishipping
+"Continue Shopping","Continuar Comprando",module,Magento_Multishipping
+"No New Relic Application ID configured, cannot continue with Cron Event reporting","No hay un ID de Aplicación New Relic configurada, no se puede continuar reportando con Evento Cron",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
-"Delete Selected Problems","Delete Selected Problems",module,Magento_Newsletter
-"Unsubscribe Selected","Unsubscribe Selected",module,Magento_Newsletter
-Back,Back,module,Magento_Newsletter
-Reset,Reset,module,Magento_Newsletter
-"Preview Template","Preview Template",module,Magento_Newsletter
-"Save Newsletter","Save Newsletter",module,Magento_Newsletter
-"Save and Resume","Save and Resume",module,Magento_Newsletter
-"View Newsletter","View Newsletter",module,Magento_Newsletter
-"Edit Newsletter","Edit Newsletter",module,Magento_Newsletter
-"Queue Information","Queue Information",module,Magento_Newsletter
-"Queue Date Start","Queue Date Start",module,Magento_Newsletter
-"Subscribers From","Subscribers From",module,Magento_Newsletter
-Subject,Subject,module,Magento_Newsletter
-"Sender Name","Sender Name",module,Magento_Newsletter
-"Sender Email","Sender Email",module,Magento_Newsletter
-Message,Message,module,Magento_Newsletter
-"Newsletter Styles","Newsletter Styles",module,Magento_Newsletter
-Start,Start,module,Magento_Newsletter
-Pause,Pause,module,Magento_Newsletter
-"Do you really want to cancel the queue?","Do you really want to cancel the queue?",module,Magento_Newsletter
-Cancel,Cancel,module,Magento_Newsletter
-Resume,Resume,module,Magento_Newsletter
-Preview,Preview,module,Magento_Newsletter
-"Add New Template","Add New Template",module,Magento_Newsletter
-"Newsletter Templates","Newsletter Templates",module,Magento_Newsletter
-"Convert to Plain Text","Convert to Plain Text",module,Magento_Newsletter
-"Return HTML Version","Return HTML Version",module,Magento_Newsletter
-"Delete Template","Delete Template",module,Magento_Newsletter
-"Save As","Save As",module,Magento_Newsletter
-"Save Template","Save Template",module,Magento_Newsletter
-"Edit Newsletter Template","Edit Newsletter Template",module,Magento_Newsletter
-"New Newsletter Template","New Newsletter Template",module,Magento_Newsletter
-"Template Information","Template Information",module,Magento_Newsletter
-"Template Name","Template Name",module,Magento_Newsletter
-"Template Subject","Template Subject",module,Magento_Newsletter
-"Template Content","Template Content",module,Magento_Newsletter
-"Template Styles","Template Styles",module,Magento_Newsletter
-"No Templates Found","No Templates Found",module,Magento_Newsletter
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","La integración New Relic requiere el agente newrelic-php5, el cual no está instalado. Más 
+                        información sobre la instalación del agente está disponible <a target=""_blank"" href=""%1"">aquí</a>.",module,Magento_NewRelicReporting
+"Delete Selected Problems","Borrar Problemas Seleccionados",module,Magento_Newsletter
+"Unsubscribe Selected","Desuscribir Seleccionados",module,Magento_Newsletter
+Back,Atrás,module,Magento_Newsletter
+Reset,Reiniciar,module,Magento_Newsletter
+"Preview Template","Vista Previa de Modelo",module,Magento_Newsletter
+"Save Newsletter","Guardar Envío",module,Magento_Newsletter
+"Save and Resume","Guardar y Continuar",module,Magento_Newsletter
+"View Newsletter","Ver Envío",module,Magento_Newsletter
+"Edit Newsletter","Editar Envío",module,Magento_Newsletter
+"Queue Information","Enfilar Información",module,Magento_Newsletter
+"Queue Date Start","Fecha de Inicio de Fila",module,Magento_Newsletter
+"Subscribers From","Suscriptores De",module,Magento_Newsletter
+Subject,Asunto,module,Magento_Newsletter
+"Sender Name","Nombre de Remitente",module,Magento_Newsletter
+"Sender Email","Email de Remitente",module,Magento_Newsletter
+Message,Mensaje,module,Magento_Newsletter
+"Newsletter Styles","Estilos de Envío",module,Magento_Newsletter
+Start,Empezar,module,Magento_Newsletter
+Pause,Pausar,module,Magento_Newsletter
+"Do you really want to cancel the queue?","¿Realmente quiere cancelar la fila?",module,Magento_Newsletter
+Cancel,Cancelar,module,Magento_Newsletter
+Resume,Continuar,module,Magento_Newsletter
+Preview,"Vista Previa",module,Magento_Newsletter
+"Add New Template","Añadir Nuevo Modelo",module,Magento_Newsletter
+"Newsletter Templates","Modelos de Envío",module,Magento_Newsletter
+"Convert to Plain Text","Convertir a Texto Plano",module,Magento_Newsletter
+"Return HTML Version","Regresar a Versión HTML",module,Magento_Newsletter
+"Delete Template","Borrar Modelo",module,Magento_Newsletter
+"Save As","Guardar Como",module,Magento_Newsletter
+"Save Template","Guardar Modelo",module,Magento_Newsletter
+"Edit Newsletter Template","Editar Modelo de Envío",module,Magento_Newsletter
+"New Newsletter Template","Nuevo Modelo de Envío",module,Magento_Newsletter
+"Template Information","Información de Modelo",module,Magento_Newsletter
+"Template Name","Nombre del Modelo",module,Magento_Newsletter
+"Template Subject","Asunto del Modelo",module,Magento_Newsletter
+"Template Content","Contenido del Modelo",module,Magento_Newsletter
+"Template Styles","Estilos del Modelo",module,Magento_Newsletter
+"No Templates Found","No se Encontraron Modelos",module,Magento_Newsletter
 ID,ID,module,Magento_Newsletter
-Template,Template,module,Magento_Newsletter
-Added,Added,module,Magento_Newsletter
-Updated,Updated,module,Magento_Newsletter
-Sender,Sender,module,Magento_Newsletter
-"Template Type","Template Type",module,Magento_Newsletter
-Action,Action,module,Magento_Newsletter
-"Queue Newsletter","Queue Newsletter",module,Magento_Newsletter
-"We unsubscribed the people you identified.","We unsubscribed the people you identified.",module,Magento_Newsletter
-"The problems you identified have been deleted.","The problems you identified have been deleted.",module,Magento_Newsletter
-"Newsletter Problems Report","Newsletter Problems Report",module,Magento_Newsletter
-"Newsletter Problem Reports","Newsletter Problem Reports",module,Magento_Newsletter
-"Newsletter Queue","Newsletter Queue",module,Magento_Newsletter
-"Edit Queue","Edit Queue",module,Magento_Newsletter
-"Please correct the newsletter template and try again.","Please correct the newsletter template and try again.",module,Magento_Newsletter
-"You saved the newsletter queue.","You saved the newsletter queue.",module,Magento_Newsletter
-"Newsletter Subscribers","Newsletter Subscribers",module,Magento_Newsletter
-Newsletter,Newsletter,module,Magento_Newsletter
-Subscribers,Subscribers,module,Magento_Newsletter
-"Please select one or more subscribers.","Please select one or more subscribers.",module,Magento_Newsletter
-"Total of %1 record(s) were deleted.","Total of %1 record(s) were deleted.",module,Magento_Newsletter
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Newsletter
-"The newsletter template has been deleted.","The newsletter template has been deleted.",module,Magento_Newsletter
-"We can't delete this template right now.","We can't delete this template right now.",module,Magento_Newsletter
-"Edit Template","Edit Template",module,Magento_Newsletter
-"New Template","New Template",module,Magento_Newsletter
-"Create Newsletter Template","Create Newsletter Template",module,Magento_Newsletter
-"The newsletter template has been saved.","The newsletter template has been saved.",module,Magento_Newsletter
-"Something went wrong while saving this template.","Something went wrong while saving this template.",module,Magento_Newsletter
-"Newsletter Subscription","Newsletter Subscription",module,Magento_Newsletter
-"Something went wrong while saving your subscription.","Something went wrong while saving your subscription.",module,Magento_Newsletter
-"We saved the subscription.","We saved the subscription.",module,Magento_Newsletter
-"We removed the subscription.","We removed the subscription.",module,Magento_Newsletter
-"Your subscription has been confirmed.","Your subscription has been confirmed.",module,Magento_Newsletter
-"This is an invalid subscription confirmation code.","This is an invalid subscription confirmation code.",module,Magento_Newsletter
-"This is an invalid subscription ID.","This is an invalid subscription ID.",module,Magento_Newsletter
-"This email address is already assigned to another user.","This email address is already assigned to another user.",module,Magento_Newsletter
-"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.",module,Magento_Newsletter
-"Please enter a valid email address.","Please enter a valid email address.",module,Magento_Newsletter
-"The confirmation request has been sent.","The confirmation request has been sent.",module,Magento_Newsletter
-"Thank you for your subscription.","Thank you for your subscription.",module,Magento_Newsletter
+Template,Modelo,module,Magento_Newsletter
+Added,Añadido,module,Magento_Newsletter
+Updated,Actualizado,module,Magento_Newsletter
+Sender,Remitente,module,Magento_Newsletter
+"Template Type","Tipo de Modelo",module,Magento_Newsletter
+Action,Acción,module,Magento_Newsletter
+"Queue Newsletter","Enfilar Envío",module,Magento_Newsletter
+"We unsubscribed the people you identified.","Hemos desuscrito a las personas que identificó.",module,Magento_Newsletter
+"The problems you identified have been deleted.","Los problemas que identificó fueron borrados.",module,Magento_Newsletter
+"Newsletter Problems Report","Reporte de Problemas de Envío",module,Magento_Newsletter
+"Newsletter Problem Reports","Reportes de Problemas de Envío",module,Magento_Newsletter
+"Newsletter Queue","Fila del Envío",module,Magento_Newsletter
+"Edit Queue","Editar Fila",module,Magento_Newsletter
+"Please correct the newsletter template and try again.","Por favor corrija el modelo de envío e intente de nuevo.",module,Magento_Newsletter
+"You saved the newsletter queue.","Guardó la fila de envío.",module,Magento_Newsletter
+"Newsletter Subscribers","Suscriptores del Envío",module,Magento_Newsletter
+Newsletter,Envío,module,Magento_Newsletter
+Subscribers,Suscriptores,module,Magento_Newsletter
+"Please select one or more subscribers.","Por favor seleccione uno o más suscriptores.",module,Magento_Newsletter
+"Total of %1 record(s) were deleted.","Un total de %1 registro(s) fue(ron) borrado(s).",module,Magento_Newsletter
+"A total of %1 record(s) were updated.","Un total de %1 record(s) fue(ron) actualizado(s).",module,Magento_Newsletter
+"The newsletter template has been deleted.","El modelo de envío fue borrado.",module,Magento_Newsletter
+"We can't delete this template right now.","No podemos borrar este modelo en este momento.",module,Magento_Newsletter
+"Edit Template","Editar Modelo",module,Magento_Newsletter
+"New Template","Nuevo Modelo",module,Magento_Newsletter
+"Create Newsletter Template","Crear Modelo de Envío",module,Magento_Newsletter
+"The newsletter template has been saved.","El modelo de envío se ha guardado.",module,Magento_Newsletter
+"Something went wrong while saving this template.","Algo ocurrió al intentar guardar este modelo.",module,Magento_Newsletter
+"Newsletter Subscription","Suscripción de Envío",module,Magento_Newsletter
+"Something went wrong while saving your subscription.","Algo ocurrió al intentar guardar su suscripción.",module,Magento_Newsletter
+"We saved the subscription.","Hemos guardado su suscripción.",module,Magento_Newsletter
+"We removed the subscription.","Hemos borrado su suscripción.",module,Magento_Newsletter
+"Your subscription has been confirmed.","Se ha confirmado su suscripción.",module,Magento_Newsletter
+"This is an invalid subscription confirmation code.","Este código de confirmación de suscripción no es válido.",module,Magento_Newsletter
+"This is an invalid subscription ID.","Este ID de suscripción no es válido.",module,Magento_Newsletter
+"This email address is already assigned to another user.","Este email ya está asignado a otro usuario.",module,Magento_Newsletter
+"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Lo sentimos, pero el administrador ha negado la suscripción a invitados. Por favor <a href=""%1"">regístrese</a>.",module,Magento_Newsletter
+"Please enter a valid email address.","Por favor ingrese un email válido.",module,Magento_Newsletter
+"The confirmation request has been sent.","Se ha enviado una solicitud de confirmación.",module,Magento_Newsletter
+"Thank you for your subscription.","Gracias por su suscripción.",module,Magento_Newsletter
 "There was a problem with the subscription: %1","There was a problem with the subscription: %1",module,Magento_Newsletter
 "Something went wrong with the subscription.","Something went wrong with the subscription.",module,Magento_Newsletter
 "You unsubscribed.","You unsubscribed.",module,Magento_Newsletter
