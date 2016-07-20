@@ -3439,7 +3439,7 @@ Never,Nunca,module,Magento_Paypal
 "The merchant account is not yet verified.","No se ha verificado la cuenta del comerciante.",module,Magento_Paypal
 "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","El pago fue realizado con una tarjeta de crédito. Para recibir los fondos, el comerciante debe actualizad su cuenta al estado Negocios o Premier.",module,Magento_Paypal
 "Sorry, but something went wrong. Please contact PayPal customer service.","Lo sentimos, pero algo ocurrió. Por favor contacte al servicio a clientes de PayPal.",module,Magento_Paypal
-"A reversal has occurred on this transaction due to a chargeback by your customer.","A reversal has occurred on this transaction due to a chargeback by your customer.",module,Magento_Paypal
+"A reversal has occurred on this transaction due to a chargeback by your customer.","Ha ocurrido un revés en esta transacción debido a un reembolso realizado por su cliente.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",module,Magento_Paypal
 "A reversal has occurred on this transaction because you have given the customer a refund.","A reversal has occurred on this transaction because you have given the customer a refund.",module,Magento_Paypal
