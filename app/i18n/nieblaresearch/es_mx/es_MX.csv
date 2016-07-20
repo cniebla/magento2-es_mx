@@ -3186,135 +3186,135 @@ Subscribers,Suscriptores,module,Magento_Newsletter
 "Please enter a valid email address.","Por favor ingrese un email válido.",module,Magento_Newsletter
 "The confirmation request has been sent.","Se ha enviado una solicitud de confirmación.",module,Magento_Newsletter
 "Thank you for your subscription.","Gracias por su suscripción.",module,Magento_Newsletter
-"There was a problem with the subscription: %1","There was a problem with the subscription: %1",module,Magento_Newsletter
-"Something went wrong with the subscription.","Something went wrong with the subscription.",module,Magento_Newsletter
-"You unsubscribed.","You unsubscribed.",module,Magento_Newsletter
-"Something went wrong while unsubscribing you.","Something went wrong while unsubscribing you.",module,Magento_Newsletter
-Sent,Sent,module,Magento_Newsletter
-Cancelled,Cancelled,module,Magento_Newsletter
-"Not Sent","Not Sent",module,Magento_Newsletter
-Sending,Sending,module,Magento_Newsletter
-Paused,Paused,module,Magento_Newsletter
-"There are no subscribers selected.","There are no subscribers selected.",module,Magento_Newsletter
-"You selected an invalid queue.","You selected an invalid queue.",module,Magento_Newsletter
-"We cannot mark as received subscriber.","We cannot mark as received subscriber.",module,Magento_Newsletter
-"Duplicate template code","Duplicate template code",module,Magento_Newsletter
-"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Newsletter
-"Choose Store View:","Choose Store View:",module,Magento_Newsletter
-"Newsletter Message Preview","Newsletter Message Preview",module,Magento_Newsletter
-"Add to Queue","Add to Queue",module,Magento_Newsletter
-"Are you sure that you want to strip all tags?","Are you sure that you want to strip all tags?",module,Magento_Newsletter
-"Please enter a new template name.","Please enter a new template name.",module,Magento_Newsletter
-" Copy"," Copy",module,Magento_Newsletter
-"Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Newsletter
-"Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",module,Magento_Newsletter
-"Enter your email address","Enter your email address",module,Magento_Newsletter
-Subscribe,Subscribe,module,Magento_Newsletter
-"Make Check payable to:","Make Check payable to:",module,Magento_OfflinePayments
-"Send Check to:","Send Check to:",module,Magento_OfflinePayments
-"Purchase Order Number","Purchase Order Number",module,Magento_OfflinePayments
-"Make Check payable to: %1","Make Check payable to: %1",module,Magento_OfflinePayments
-"Purchase Order Number: %1","Purchase Order Number: %1",module,Magento_OfflinePayments
-"Make Check payable to","Make Check payable to",module,Magento_OfflinePayments
-"Send Check to","Send Check to",module,Magento_OfflinePayments
-Country,Country,module,Magento_OfflineShipping
-Region/State,Region/State,module,Magento_OfflineShipping
-"Zip/Postal Code","Zip/Postal Code",module,Magento_OfflineShipping
-"Shipping Price","Shipping Price",module,Magento_OfflineShipping
-"Export CSV","Export CSV",module,Magento_OfflineShipping
-"Store Pickup","Store Pickup",module,Magento_OfflineShipping
-"Weight vs. Destination","Weight vs. Destination",module,Magento_OfflineShipping
-"Price vs. Destination","Price vs. Destination",module,Magento_OfflineShipping
-"# of Items vs. Destination","# of Items vs. Destination",module,Magento_OfflineShipping
-"Weight (and above)","Weight (and above)",module,Magento_OfflineShipping
-"Order Subtotal (and above)","Order Subtotal (and above)",module,Magento_OfflineShipping
-"# of Items (and above)","# of Items (and above)",module,Magento_OfflineShipping
-"Please correct Table Rate code type: %1.","Please correct Table Rate code type: %1.",module,Magento_OfflineShipping
-"Please correct Table Rate code for type %1: %2.","Please correct Table Rate code for type %1: %2.",module,Magento_OfflineShipping
-None,None,module,Magento_OfflineShipping
-"Per Order","Per Order",module,Magento_OfflineShipping
-"Per Item","Per Item",module,Magento_OfflineShipping
-"Unable to import data","Unable to import data",module,Magento_OfflineShipping
-"Something went wrong while importing table rates.","Something went wrong while importing table rates.",module,Magento_OfflineShipping
-"We couldn't import this file because of these errors: %1","We couldn't import this file because of these errors: %1",module,Magento_OfflineShipping
-"Requested column ""%1"" cannot be resolved","Requested column ""%1"" cannot be resolved",module,Magento_OfflineShipping
-"Column ""%1"" not found","Column ""%1"" not found",module,Magento_OfflineShipping
-"Please correct Table Rates format in the Row #%1.","Please correct Table Rates format in the Row #%1.",module,Magento_OfflineShipping
-"Please correct Country ""%1"" in the Row #%2.","Please correct Country ""%1"" in the Row #%2.",module,Magento_OfflineShipping
-"Please correct Region/State ""%1"" in the Row #%2.","Please correct Region/State ""%1"" in the Row #%2.",module,Magento_OfflineShipping
-"Please correct %1 ""%2"" in the Row #%3.","Please correct %1 ""%2"" in the Row #%3.",module,Magento_OfflineShipping
-"Please correct Shipping Price ""%1"" in the Row #%2.","Please correct Shipping Price ""%1"" in the Row #%2.",module,Magento_OfflineShipping
-"Duplicate Row #%1 (duplicates row #%2)","Duplicate Row #%1 (duplicates row #%2)",module,Magento_OfflineShipping
-"Please correct Table Rates File Format.","Please correct Table Rates File Format.",module,Magento_OfflineShipping
+"There was a problem with the subscription: %1","Hubo un problema con la suscripción: %1",module,Magento_Newsletter
+"Something went wrong with the subscription.","Algo ocurrió al intentar suscribir.",module,Magento_Newsletter
+"You unsubscribed.","Se ha desuscrito.",module,Magento_Newsletter
+"Something went wrong while unsubscribing you.","Algo ocurrió al intentar desuscribirle.",module,Magento_Newsletter
+Sent,Enviado,module,Magento_Newsletter
+Cancelled,Cancelado,module,Magento_Newsletter
+"Not Sent","No Enviado",module,Magento_Newsletter
+Sending,Enviando,module,Magento_Newsletter
+Paused,Pausado,module,Magento_Newsletter
+"There are no subscribers selected.","No hay suscriptores seleccionados.",module,Magento_Newsletter
+"You selected an invalid queue.","Ha solicitado una fila no válida.",module,Magento_Newsletter
+"We cannot mark as received subscriber.","No podemos marcar al suscriptor como recibido.",module,Magento_Newsletter
+"Duplicate template code","Código de modelo duplicado",module,Magento_Newsletter
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Siga este enlace para desuscribirse <!-- esta etiqueta es para la liga de desuscripción  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
+"No such entity with %fieldName = %fieldValue","No hay una entidad con %fieldName = %fieldValue",module,Magento_Newsletter
+"Choose Store View:","Elija la vista de tienda:",module,Magento_Newsletter
+"Newsletter Message Preview","Vista Previa de Mensaje de Envío",module,Magento_Newsletter
+"Add to Queue","Añadir a la Fila",module,Magento_Newsletter
+"Are you sure that you want to strip all tags?","¿Está seguro de querer quitar todas las etiquetas?",module,Magento_Newsletter
+"Please enter a new template name.","Por favor ingrese un nuevo nombre de modelo.",module,Magento_Newsletter
+" Copy"," Copiar",module,Magento_Newsletter
+"Are you sure you want to delete this template?","¿Está seguro de querer borrar este modelo?",module,Magento_Newsletter
+"Sign Up for Our Newsletter:","Suscríbase a Nuestro Envío:",module,Magento_Newsletter
+"Enter your email address","Ingrese su email",module,Magento_Newsletter
+Subscribe,Suscribir,module,Magento_Newsletter
+"Make Check payable to:","Haga el Cheque a nombre de:",module,Magento_OfflinePayments
+"Send Check to:","Envíe el cheque a:",module,Magento_OfflinePayments
+"Purchase Order Number","Número de Orden de Compra",module,Magento_OfflinePayments
+"Make Check payable to: %1","Haga el Cheque a nombre de: %1",module,Magento_OfflinePayments
+"Purchase Order Number: %1","Número de Orden de Compra: %1",module,Magento_OfflinePayments
+"Make Check payable to","Haga el Cheque a nombre de",module,Magento_OfflinePayments
+"Send Check to","Envíe el Cheque a",module,Magento_OfflinePayments
+Country,País,module,Magento_OfflineShipping
+Region/State,Región/Estado,module,Magento_OfflineShipping
+"Zip/Postal Code","Código Postal",module,Magento_OfflineShipping
+"Shipping Price","Precio de Envío",module,Magento_OfflineShipping
+"Export CSV","Exportar CSV",module,Magento_OfflineShipping
+"Store Pickup","Recoger en la Tienda",module,Magento_OfflineShipping
+"Weight vs. Destination","Peso vs. Destino",module,Magento_OfflineShipping
+"Price vs. Destination","Precio vs. Destino",module,Magento_OfflineShipping
+"# of Items vs. Destination","# de Artículos vs. Destino",module,Magento_OfflineShipping
+"Weight (and above)","Peso (y superior)",module,Magento_OfflineShipping
+"Order Subtotal (and above)","Subtotal de Orden (y superior)",module,Magento_OfflineShipping
+"# of Items (and above)","# de Artículos (y superior)",module,Magento_OfflineShipping
+"Please correct Table Rate code type: %1.","Por favor corrija el tipo de código de Tabla de Precio: %1.",module,Magento_OfflineShipping
+"Please correct Table Rate code for type %1: %2.","Por favor corrija el código de la Tabla de Precio para el tipo %1: %2.",module,Magento_OfflineShipping
+None,Ninguno,module,Magento_OfflineShipping
+"Per Order","Por Orden",module,Magento_OfflineShipping
+"Per Item","Por Artículo",module,Magento_OfflineShipping
+"Unable to import data","No se pueden importar datos",module,Magento_OfflineShipping
+"Something went wrong while importing table rates.","Algo ocurrió al intentar importar la tabla de precios.",module,Magento_OfflineShipping
+"We couldn't import this file because of these errors: %1","No pudimos importar este archivo debido a estos errores: %1",module,Magento_OfflineShipping
+"Requested column ""%1"" cannot be resolved","No se puede resolver la columna solicitada ""%1""",module,Magento_OfflineShipping
+"Column ""%1"" not found","No se encuentra la columna ""%1""",module,Magento_OfflineShipping
+"Please correct Table Rates format in the Row #%1.","Por favor corrija el formato de la Tabla de Precios en la línea #%1.",module,Magento_OfflineShipping
+"Please correct Country ""%1"" in the Row #%2.","Por favor corrija el País ""%1"" en la Línea #%2.",module,Magento_OfflineShipping
+"Please correct Region/State ""%1"" in the Row #%2.","Por favor corrija la Región/Estado ""%1"" en la Línea #%2.",module,Magento_OfflineShipping
+"Please correct %1 ""%2"" in the Row #%3.","Por favor corrija %1 ""%2"" en la Línea #%3.",module,Magento_OfflineShipping
+"Please correct Shipping Price ""%1"" in the Row #%2.","Por favor corrija el Precio de Envío ""%1"" en la Línea #%2.",module,Magento_OfflineShipping
+"Duplicate Row #%1 (duplicates row #%2)","Línea Duplicada #%1 (duplica la línea #%2)",module,Magento_OfflineShipping
+"Please correct Table Rates File Format.","Por favor corrija el Formato de Archivo de la Tabla de Precios.",module,Magento_OfflineShipping
 No,No,module,Magento_OfflineShipping
-"For matching items only","For matching items only",module,Magento_OfflineShipping
-"For shipment with matching items","For shipment with matching items",module,Magento_OfflineShipping
-"Export VCL for Varnish %1","Export VCL for Varnish %1",module,Magento_PageCache
-"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.",module,Magento_PageCache
-"Built-in Cache","Built-in Cache",module,Magento_PageCache
-"Varnish Cache (Recommended)","Varnish Cache (Recommended)",module,Magento_PageCache
-"We cannot retrieve the payment method model object.","We cannot retrieve the payment method model object.",module,Magento_Payment
-Month,Month,module,Magento_Payment
-Year,Year,module,Magento_Payment
-"We cannot retrieve the payment info model object.","We cannot retrieve the payment info model object.",module,Magento_Payment
-N/A,N/A,module,Magento_Payment
-"Credit Card Type","Credit Card Type",module,Magento_Payment
-"Credit Card Number","Credit Card Number",module,Magento_Payment
-"Switch/Solo/Maestro Issue Number","Switch/Solo/Maestro Issue Number",module,Magento_Payment
-"Switch/Solo/Maestro Start Date","Switch/Solo/Maestro Start Date",module,Magento_Payment
-"We cannot retrieve the transparent payment method model object.","We cannot retrieve the transparent payment method model object.",module,Magento_Payment
-"Command Executor for %1 is not defined.","Command Executor for %1 is not defined.",module,Magento_Payment
-"Command %1 does not exist.","Command %1 does not exist.",module,Magento_Payment
-"Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Magento_Payment
-"Wrong gateway response format.","Wrong gateway response format.",module,Magento_Payment
-"Validator for field %1 does not exist.","Validator for field %1 does not exist.",module,Magento_Payment
-Discount,Discount,module,Magento_Payment
-Shipping,Shipping,module,Magento_Payment
-"All Allowed Countries","All Allowed Countries",module,Magento_Payment
-"Specific Countries","Specific Countries",module,Magento_Payment
-"The payment method you requested is not available.","The payment method you requested is not available.",module,Magento_Payment
-"The payment disallows storing objects.","The payment disallows storing objects.",module,Magento_Payment
-"We cannot retrieve the payment method code.","We cannot retrieve the payment method code.",module,Magento_Payment
-"We cannot retrieve the payment information object instance.","We cannot retrieve the payment information object instance.",module,Magento_Payment
-"You can't use the payment type you selected to make payments to the billing country.","You can't use the payment type you selected to make payments to the billing country.",module,Magento_Payment
-"The order action is not available.","The order action is not available.",module,Magento_Payment
-"The authorize action is not available.","The authorize action is not available.",module,Magento_Payment
-"The capture action is not available.","The capture action is not available.",module,Magento_Payment
-"The refund action is not available.","The refund action is not available.",module,Magento_Payment
-"The void action is not available.","The void action is not available.",module,Magento_Payment
-"The payment review action is unavailable.","The payment review action is unavailable.",module,Magento_Payment
-"The credit card number doesn't match the credit card type.","The credit card number doesn't match the credit card type.",module,Magento_Payment
-"Invalid Credit Card Number","Invalid Credit Card Number",module,Magento_Payment
-"This credit card type is not allowed for this payment method.","This credit card type is not allowed for this payment method.",module,Magento_Payment
-"Please enter a valid credit card verification number.","Please enter a valid credit card verification number.",module,Magento_Payment
-"Please enter a valid credit card expiration date.","Please enter a valid credit card expiration date.",module,Magento_Payment
-"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 class doesn't implement \Magento\Payment\Model\MethodInterface",module,Magento_Payment
-Yes,Yes,module,Magento_Payment
+"For matching items only","Para los artículos que empatan únicamente",module,Magento_OfflineShipping
+"For shipment with matching items","Para envío con los artículos que empatan",module,Magento_OfflineShipping
+"Export VCL for Varnish %1","Exportar VCL para Varnish %1",module,Magento_PageCache
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","El tiempo de vida ""%1"" no es válido. Por favor sólo use números iguales o mayores que zero.",module,Magento_PageCache
+"Built-in Cache","Caché Integrado",module,Magento_PageCache
+"Varnish Cache (Recommended)","Caché Varnish (Recomendado)",module,Magento_PageCache
+"We cannot retrieve the payment method model object.","No podemos recuperar el objeto de método de pago.",module,Magento_Payment
+Month,Mes,module,Magento_Payment
+Year,Año,module,Magento_Payment
+"We cannot retrieve the payment info model object.","No podemos recuperar el objeto de modelo de información de pagos.",module,Magento_Payment
+N/A,N/D,module,Magento_Payment
+"Credit Card Type","Tipo de Tarjeta de Crédito",module,Magento_Payment
+"Credit Card Number","Número de Tarjeta de Crédito",module,Magento_Payment
+"Switch/Solo/Maestro Issue Number","Número de Asunto Switch/Solo/Maestro",module,Magento_Payment
+"Switch/Solo/Maestro Start Date","Fecha de Comienzo de Switch/Solo/Maestro",module,Magento_Payment
+"We cannot retrieve the transparent payment method model object.","No podemos obtener el objeto de modelo de métido de pago transparente.",module,Magento_Payment
+"Command Executor for %1 is not defined.","El Ejecutor de Comando para %1 no está definido.",module,Magento_Payment
+"Command %1 does not exist.","No existe el comando %1.",module,Magento_Payment
+"Transaction has been declined. Please try again later.","La transacción ha sido declinada. Por favor intente más tarde.",module,Magento_Payment
+"Wrong gateway response format.","Formato de respuesta de puerta de enlace incorrecto.",module,Magento_Payment
+"Validator for field %1 does not exist.","No existe el validador para el campo %1.",module,Magento_Payment
+Discount,Descuento,module,Magento_Payment
+Shipping,Envío,module,Magento_Payment
+"All Allowed Countries","Todos los Países Permitidos",module,Magento_Payment
+"Specific Countries","Especificar Países",module,Magento_Payment
+"The payment method you requested is not available.","El método de pago que ha solicitado no está disponible.",module,Magento_Payment
+"The payment disallows storing objects.","El pago no permite guardar objetos.",module,Magento_Payment
+"We cannot retrieve the payment method code.","No podemos obtener el código de método de pago.",module,Magento_Payment
+"We cannot retrieve the payment information object instance.","No podemos obtener la instancia de objeto de información de pago.",module,Magento_Payment
+"You can't use the payment type you selected to make payments to the billing country.","No puede uisar el tipo de pago que ha seleccionado para hacer pagos al país de facturación.",module,Magento_Payment
+"The order action is not available.","La acción de orden no está disponible.",module,Magento_Payment
+"The authorize action is not available.","La acción de autorización no está disponible.",module,Magento_Payment
+"The capture action is not available.","La acción de captura no está disponible.",module,Magento_Payment
+"The refund action is not available.","La acción de reembolso no está disponible.",module,Magento_Payment
+"The void action is not available.","La acción de anulación no está disponible.",module,Magento_Payment
+"The payment review action is unavailable.","La revisión de pago no está disponible.",module,Magento_Payment
+"The credit card number doesn't match the credit card type.","El número de tarjeta de crédito no empata con el tipo de tarjeta de crédito.",module,Magento_Payment
+"Invalid Credit Card Number","Número de Tarjeta de Crédito No Válido",module,Magento_Payment
+"This credit card type is not allowed for this payment method.","El tipo de tarjeta de crédito no está permitido para este método de pago.",module,Magento_Payment
+"Please enter a valid credit card verification number.","Por favor ingrese un número de verificación de tarjeta de crédito válido.",module,Magento_Payment
+"Please enter a valid credit card expiration date.","Por favor ingrese una fecha de expiración válida para la tarjeta de crédito.",module,Magento_Payment
+"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","la clase %1 no implementa \Magento\Payment\Model\MethodInterface",module,Magento_Payment
+Yes,Sí,module,Magento_Payment
 No,No,module,Magento_Payment
-"Failure #1","Failure #1",module,Magento_Payment
-"Failure #2","Failure #2",module,Magento_Payment
-"Expiration Date","Expiration Date",module,Magento_Payment
-"Card Verification Number","Card Verification Number",module,Magento_Payment
-" is not available. You still can process offline actions."," is not available. You still can process offline actions.",module,Magento_Payment
-"Please Select","Please Select",module,Magento_Payment
-"We'll ask for your payment details before you place an order.","We'll ask for your payment details before you place an order.",module,Magento_Payment
-"--Please Select--","--Please Select--",module,Magento_Payment
-"Card Verification Number Visual Reference","Card Verification Number Visual Reference",module,Magento_Payment
-"What is this?","What is this?",module,Magento_Payment
-"Credit Card Information","Credit Card Information",module,Magento_Payment
-"Billing Agreements","Billing Agreements",module,Magento_Paypal
+"Failure #1","Falla #1",module,Magento_Payment
+"Failure #2","Falla #2",module,Magento_Payment
+"Expiration Date","Fecha de Expiración",module,Magento_Payment
+"Card Verification Number","Número de Expiración de Tarjeta",module,Magento_Payment
+" is not available. You still can process offline actions."," no está disponible. Todavía puede procesar acciones fuera de línea.",module,Magento_Payment
+"Please Select","Por favor Seleccione",module,Magento_Payment
+"We'll ask for your payment details before you place an order.","Preguntaremos por sus detalles de pago antes de colocar una orden.",module,Magento_Payment
+"--Please Select--","--Por favor Seleccione--",module,Magento_Payment
+"Card Verification Number Visual Reference","Número de Referencia Visual de Verificación de Tarjeta",module,Magento_Payment
+"What is this?","¿Qué es esto?",module,Magento_Payment
+"Credit Card Information","Información de Tarjeta de Crédito",module,Magento_Payment
+"Billing Agreements","Acuerdos de Facturación",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
 Email,Email,module,Magento_Paypal
-"First Name","First Name",module,Magento_Paypal
-"Last Name","Last Name",module,Magento_Paypal
-"Reference ID","Reference ID",module,Magento_Paypal
-Status,Status,module,Magento_Paypal
-Created,Created,module,Magento_Paypal
-N/A,N/A,module,Magento_Paypal
-Updated,Updated,module,Magento_Paypal
-Back,Back,module,Magento_Paypal
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Paypal
+"First Name","Name",module,Magento_Paypal
+"Last Name","Apellido",module,Magento_Paypal
+"Reference ID","ID de Referencia",module,Magento_Paypal
+Status,Estado,module,Magento_Paypal
+Created,Creado,module,Magento_Paypal
+N/A,N/D,module,Magento_Paypal
+Updated,Actualizado,module,Magento_Paypal
+Back,Atrás,module,Magento_Paypal
+"Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_Paypal
 Cancel,Cancel,module,Magento_Paypal
 "Billing Agreement #%1","Billing Agreement #%1",module,Magento_Paypal
 "General Information","General Information",module,Magento_Paypal
