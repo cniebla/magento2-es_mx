@@ -3315,130 +3315,130 @@ N/A,N/D,module,Magento_Paypal
 Updated,Actualizado,module,Magento_Paypal
 Back,Atrás,module,Magento_Paypal
 "Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_Paypal
-Cancel,Cancel,module,Magento_Paypal
-"Billing Agreement #%1","Billing Agreement #%1",module,Magento_Paypal
-"General Information","General Information",module,Magento_Paypal
-"Related Orders","Related Orders",module,Magento_Paypal
-Order,Order,module,Magento_Paypal
-Purchased,Purchased,module,Magento_Paypal
-"Bill-to Name","Bill-to Name",module,Magento_Paypal
-"Ship-to Name","Ship-to Name",module,Magento_Paypal
-"Order Total","Order Total",module,Magento_Paypal
-"Purchase Point","Purchase Point",module,Magento_Paypal
-"Billing Agreement View","Billing Agreement View",module,Magento_Paypal
-"View Transaction Details","View Transaction Details",module,Magento_Paypal
-"Reference Information","Reference Information",module,Magento_Paypal
-"Transaction Information","Transaction Information",module,Magento_Paypal
-"PayPal Fee Information","PayPal Fee Information",module,Magento_Paypal
-"PayPal Settlement Reports","PayPal Settlement Reports",module,Magento_Paypal
-"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?",module,Magento_Paypal
-"Fetch Updates","Fetch Updates",module,Magento_Paypal
+Cancel,Cancelar,module,Magento_Paypal
+"Billing Agreement #%1","Acuerdo de Facturación #%1",module,Magento_Paypal
+"General Information","Información General",module,Magento_Paypal
+"Related Orders","Órdenes Relacionadas",module,Magento_Paypal
+Order,Orden,module,Magento_Paypal
+Purchased,Comprado,module,Magento_Paypal
+"Bill-to Name","Nombre de Facturación",module,Magento_Paypal
+"Ship-to Name","Nombre de Envío",module,Magento_Paypal
+"Order Total","Total de la Orden",module,Magento_Paypal
+"Purchase Point","Punto de Compra",module,Magento_Paypal
+"Billing Agreement View","Vista de Acuerdo de Facturación",module,Magento_Paypal
+"View Transaction Details","Ver Detalles de Transacción",module,Magento_Paypal
+"Reference Information","Información de Referencia",module,Magento_Paypal
+"Transaction Information","Información de Transacción",module,Magento_Paypal
+"PayPal Fee Information","Información de Comisión de PayPal",module,Magento_Paypal
+"PayPal Settlement Reports","Reportes de Asentamientos de PayPal",module,Magento_Paypal
+"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Nos estamos conectacdo con el servidor SFTP de PayPal para recuperar nuevos reportes. ¿Está seguro de querer continuar?",module,Magento_Paypal
+"Fetch Updates","Obtener Actualizaciones",module,Magento_Paypal
 button_label,button_label,module,Magento_Paypal
 sandbox_button_label,sandbox_button_label,module,Magento_Paypal
-Help,Help,module,Magento_Paypal
-Configure,Configure,module,Magento_Paypal
-Close,Close,module,Magento_Paypal
-"Learn More","Learn More",module,Magento_Paypal
-"View Demo","View Demo",module,Magento_Paypal
-"See terms","See terms",module,Magento_Paypal
-"You will be redirected to the PayPal website.","You will be redirected to the PayPal website.",module,Magento_Paypal
-"You will be redirected to the PayPal website when you place an order.","You will be redirected to the PayPal website when you place an order.",module,Magento_Paypal
-"Incl. Tax","Incl. Tax",module,Magento_Paypal
-"Billing Information","Billing Information",module,Magento_Paypal
-"Shipping Information","Shipping Information",module,Magento_Paypal
-"Invalid block type","Invalid block type",module,Magento_Paypal
-"Please specify the correct billing agreement ID and try again.","Please specify the correct billing agreement ID and try again.",module,Magento_Paypal
-"You canceled the billing agreement.","You canceled the billing agreement.",module,Magento_Paypal
-"We can't cancel the billing agreement.","We can't cancel the billing agreement.",module,Magento_Paypal
-"You deleted the billing agreement.","You deleted the billing agreement.",module,Magento_Paypal
-"We can't delete the billing agreement.","We can't delete the billing agreement.",module,Magento_Paypal
-Reports,Reports,module,Magento_Paypal
-Sales,Sales,module,Magento_Paypal
-"View Transaction","View Transaction",module,Magento_Paypal
-"We found nothing to fetch because of an empty configuration.","We found nothing to fetch because of an empty configuration.",module,Magento_Paypal
-"We fetched %1 report rows from ""%2@%3.""","We fetched %1 report rows from ""%2@%3.""",module,Magento_Paypal
-"We can't fetch reports from ""%1@%2.""","We can't fetch reports from ""%1@%2.""",module,Magento_Paypal
-"The billing agreement ""%1"" has been canceled.","The billing agreement ""%1"" has been canceled.",module,Magento_Paypal
-"The billing agreement ""%1"" has been created.","The billing agreement ""%1"" has been created.",module,Magento_Paypal
-"We couldn't finish the billing agreement wizard.","We couldn't finish the billing agreement wizard.",module,Magento_Paypal
-"We can't start the billing agreement wizard.","We can't start the billing agreement wizard.",module,Magento_Paypal
-"Billing Agreement # %1","Billing Agreement # %1",module,Magento_Paypal
-"We can't initialize Express Checkout.","We can't initialize Express Checkout.",module,Magento_Paypal
-"PayPal Express Checkout Token does not exist.","PayPal Express Checkout Token does not exist.",module,Magento_Paypal
-"A wrong PayPal Express Checkout Token is specified.","A wrong PayPal Express Checkout Token is specified.",module,Magento_Paypal
-"Express Checkout and Order have been canceled.","Express Checkout and Order have been canceled.",module,Magento_Paypal
-"Express Checkout has been canceled.","Express Checkout has been canceled.",module,Magento_Paypal
-"Unable to cancel Express Checkout","Unable to cancel Express Checkout",module,Magento_Paypal
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Paypal
-"We can't place the order.","We can't place the order.",module,Magento_Paypal
-"We can't process Express Checkout approval.","We can't process Express Checkout approval.",module,Magento_Paypal
-"We can't initialize Express Checkout review.","We can't initialize Express Checkout review.",module,Magento_Paypal
-"We can't update shipping method.","We can't update shipping method.",module,Magento_Paypal
-"We can't start Express Checkout.","We can't start Express Checkout.",module,Magento_Paypal
-"To check out, please sign in with your email address.","To check out, please sign in with your email address.",module,Magento_Paypal
-"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Paypal
-"Your payment has been declined. Please try again.","Your payment has been declined. Please try again.",module,Magento_Paypal
-"Requested payment method does not match with order.","Requested payment method does not match with order.",module,Magento_Paypal
-"Would you like to sign a billing agreement to streamline further purchases with PayPal?","Would you like to sign a billing agreement to streamline further purchases with PayPal?",module,Magento_Paypal
-"Error processing payment, please try again later.","Error processing payment, please try again later.",module,Magento_Paypal
-"Payment Gateway is unreachable at the moment. Please use another payment option.","Payment Gateway is unreachable at the moment. Please use another payment option.",module,Magento_Paypal
-"PayPal response hasn't required fields.","PayPal response hasn't required fields.",module,Magento_Paypal
-"Something went wrong while processing your order.","Something went wrong while processing your order.",module,Magento_Paypal
-"PayPal gateway has rejected request. %1","PayPal gateway has rejected request. %1",module,Magento_Paypal
-"The PayPal gateway rejected the request. %1","The PayPal gateway rejected the request. %1",module,Magento_Paypal
-"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.",module,Magento_Paypal
-"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.",module,Magento_Paypal
-"A match of the Shipping Address City, State, and Postal Code failed.","A match of the Shipping Address City, State, and Postal Code failed.",module,Magento_Paypal
-"The payment method code is not set.","The payment method code is not set.",module,Magento_Paypal
-"The reference ID is not set.","The reference ID is not set.",module,Magento_Paypal
-"Unable to save Billing Agreement:","Unable to save Billing Agreement:",module,Magento_Paypal
-Active,Active,module,Magento_Paypal
-Canceled,Canceled,module,Magento_Paypal
-"The customer ID is not set.","The customer ID is not set.",module,Magento_Paypal
-"The Billing Agreement status is not set.","The Billing Agreement status is not set.",module,Magento_Paypal
-"The PayPal certificate does not exist.","The PayPal certificate does not exist.",module,Magento_Paypal
-"We prefer PayPal (150 X 60)","We prefer PayPal (150 X 60)",module,Magento_Paypal
-"We prefer PayPal (150 X 40)","We prefer PayPal (150 X 40)",module,Magento_Paypal
-"Now accepting PayPal (150 X 60)","Now accepting PayPal (150 X 60)",module,Magento_Paypal
-"Now accepting PayPal (150 X 40)","Now accepting PayPal (150 X 40)",module,Magento_Paypal
-"Payments by PayPal (150 X 60)","Payments by PayPal (150 X 60)",module,Magento_Paypal
-"Payments by PayPal (150 X 40)","Payments by PayPal (150 X 40)",module,Magento_Paypal
-"Shop now using (150 X 60)","Shop now using (150 X 60)",module,Magento_Paypal
-"Shop now using (150 X 40)","Shop now using (150 X 40)",module,Magento_Paypal
-Dynamic,Dynamic,module,Magento_Paypal
-Static,Static,module,Magento_Paypal
-Shortcut,Shortcut,module,Magento_Paypal
-"Acceptance Mark Image","Acceptance Mark Image",module,Magento_Paypal
-Authorization,Authorization,module,Magento_Paypal
-Sale,Sale,module,Magento_Paypal
-Yes,Yes,module,Magento_Paypal
+Help,Ayuda,module,Magento_Paypal
+Configure,Configurar,module,Magento_Paypal
+Close,Cerrar,module,Magento_Paypal
+"Learn More","Aprender Más",module,Magento_Paypal
+"View Demo","Ver Demostración",module,Magento_Paypal
+"See terms","Ver términos",module,Magento_Paypal
+"You will be redirected to the PayPal website.","Será redirigido al sitio web de  PayPal.",module,Magento_Paypal
+"You will be redirected to the PayPal website when you place an order.","Será redirigido al sitio web de PayPal cuando coloque una orden.",module,Magento_Paypal
+"Incl. Tax","Incluye Impuesto",module,Magento_Paypal
+"Billing Information","Información de Facturación",module,Magento_Paypal
+"Shipping Information","Información de Compras",module,Magento_Paypal
+"Invalid block type","Tipo de bloque no válido",module,Magento_Paypal
+"Please specify the correct billing agreement ID and try again.","Por favor especifique el ID correcto de acuerdo de facturación e intente de nuevo.",module,Magento_Paypal
+"You canceled the billing agreement.","Ha cancelado el acuerdo de facturación.",module,Magento_Paypal
+"We can't cancel the billing agreement.","No podemos cancelar el acuerdo de facturación.",module,Magento_Paypal
+"You deleted the billing agreement.","Ha borrado el acuerdo de facturación.",module,Magento_Paypal
+"We can't delete the billing agreement.","No podemos borrar el acuerdo de facturación.",module,Magento_Paypal
+Reports,Reportes,module,Magento_Paypal
+Sales,Ventas,module,Magento_Paypal
+"View Transaction","Ver Transacción",module,Magento_Paypal
+"We found nothing to fetch because of an empty configuration.","No encontramos nada para recuperar debido a una configuración vacía.",module,Magento_Paypal
+"We fetched %1 report rows from ""%2@%3.""","Recuperamos %1 líneas de reporte de ""%2@%3.""",module,Magento_Paypal
+"We can't fetch reports from ""%1@%2.""","No podemos obtener reportes de ""%1@%2.""",module,Magento_Paypal
+"The billing agreement ""%1"" has been canceled.","El acuerdo de facturación ""%1"" ha sido cancelado.",module,Magento_Paypal
+"The billing agreement ""%1"" has been created.","Se ha creado el acuerdo de facturación ""%1"".",module,Magento_Paypal
+"We couldn't finish the billing agreement wizard.","No pudimos completar el asistente de acuerdo de facturación.",module,Magento_Paypal
+"We can't start the billing agreement wizard.","No podemos comenzar el asistente de acuerdo de facturación.",module,Magento_Paypal
+"Billing Agreement # %1","Acuerdo de Facturación # %1",module,Magento_Paypal
+"We can't initialize Express Checkout.","No podemos inicializar el Pago Express.",module,Magento_Paypal
+"PayPal Express Checkout Token does not exist.","El Token de Pago Express PayPal no existe.",module,Magento_Paypal
+"A wrong PayPal Express Checkout Token is specified.","Se especificó un Token de Pago Express PayPal incorrecto.",module,Magento_Paypal
+"Express Checkout and Order have been canceled.","El Pago Express y la Orden han sido cancelados.",module,Magento_Paypal
+"Express Checkout has been canceled.","Se ha cancelado el Pago Express.",module,Magento_Paypal
+"Unable to cancel Express Checkout","No podemos cancelar el Pago Express",module,Magento_Paypal
+"Please agree to all the terms and conditions before placing the order.","Por favor acuerde con todos los términos y condiciones antes de colocar la orden.",module,Magento_Paypal
+"We can't place the order.","No podemos colocar la orden.",module,Magento_Paypal
+"We can't process Express Checkout approval.","No podemos procesar la aprobación de Pago Express.",module,Magento_Paypal
+"We can't initialize Express Checkout review.","No podemos inicializar la revisión de Pago Express.",module,Magento_Paypal
+"We can't update shipping method.","No podemos actualizar la actualización de método de envío.",module,Magento_Paypal
+"We can't start Express Checkout.","No podemos comenzar el Pago Express.",module,Magento_Paypal
+"To check out, please sign in with your email address.","Para hacer el pedido, por favor ingrese con su email.",module,Magento_Paypal
+"Sorry, but something went wrong","Lo sentimos, pero algo ocurrió",module,Magento_Paypal
+"Your payment has been declined. Please try again.","Su pago ha sido declinado. Por favor intente de nuevo.",module,Magento_Paypal
+"Requested payment method does not match with order.","El método de pago solicitado no empara con la orden.",module,Magento_Paypal
+"Would you like to sign a billing agreement to streamline further purchases with PayPal?","¿Le gustaría firmar un acuerdo de facturación para facilitar compras futuras con PayPal?",module,Magento_Paypal
+"Error processing payment, please try again later.","Error procesando el pago, por favor intente más tarde.",module,Magento_Paypal
+"Payment Gateway is unreachable at the moment. Please use another payment option.","La Puerta de Enlace de Pagos no se puede contactar en este momento. Por favor use otra opción de pago.",module,Magento_Paypal
+"PayPal response hasn't required fields.","La respuesta de PayPal no ha requerido campos.",module,Magento_Paypal
+"Something went wrong while processing your order.","Algo ha ocurrido al intentar procesar su orden.",module,Magento_Paypal
+"PayPal gateway has rejected request. %1","La puerta de enlace de PayPal ha rechazado la solicitud. %1",module,Magento_Paypal
+"The PayPal gateway rejected the request. %1","La puerta de enlace de PayPal ha rechazado la solicitud. %1",module,Magento_Paypal
+"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Lo sentimos - pero no hemos podido procesar su pago. Por favor intente otro método de pago o contáctenos para asistirle.",module,Magento_Paypal
+"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Lo sentimos - pero no podemos completar su transacción. Por favor contáctenos para asistirle.",module,Magento_Paypal
+"A match of the Shipping Address City, State, and Postal Code failed.","Ha fallado un empate entre la Dirección, Ciudad, Estado y Código Postal.",module,Magento_Paypal
+"The payment method code is not set.","No se ha fijado el código de método de pago.",module,Magento_Paypal
+"The reference ID is not set.","No se ha fijado el ID de referencia.",module,Magento_Paypal
+"Unable to save Billing Agreement:","No se puede guardar el Acuerdo de Facturación:",module,Magento_Paypal
+Active,Activo,module,Magento_Paypal
+Canceled,Cancelado,module,Magento_Paypal
+"The customer ID is not set.","No se ha fijado el ID de cliente.",module,Magento_Paypal
+"The Billing Agreement status is not set.","No se ha fijado el estado del Acuerdo de Facturación.",module,Magento_Paypal
+"The PayPal certificate does not exist.","El certificado de PayPal no existe.",module,Magento_Paypal
+"We prefer PayPal (150 X 60)","Preferimos PayPal (150 X 60)",module,Magento_Paypal
+"We prefer PayPal (150 X 40)","Preferimos PayPal (150 X 40)",module,Magento_Paypal
+"Now accepting PayPal (150 X 60)","Ahora aceptamos PayPal (150 X 60)",module,Magento_Paypal
+"Now accepting PayPal (150 X 40)","Ahora aceptamos PayPal (150 X 40)",module,Magento_Paypal
+"Payments by PayPal (150 X 60)","Pagos por PayPal (150 X 60)",module,Magento_Paypal
+"Payments by PayPal (150 X 40)","Pagos por PayPal (150 X 40)",module,Magento_Paypal
+"Shop now using (150 X 60)","La tienda ahora usa (150 X 60)",module,Magento_Paypal
+"Shop now using (150 X 40)","La tienda ahora usa (150 X 40)",module,Magento_Paypal
+Dynamic,Dinámico,module,Magento_Paypal
+Static,Estático,module,Magento_Paypal
+Shortcut,Atajo,module,Magento_Paypal
+"Acceptance Mark Image","Imagen de Aceptación de Marca",module,Magento_Paypal
+Authorization,Autorización,module,Magento_Paypal
+Sale,Venta,module,Magento_Paypal
+Yes,Sí,module,Magento_Paypal
 No,No,module,Magento_Paypal
-"For Virtual Quotes Only","For Virtual Quotes Only",module,Magento_Paypal
+"For Virtual Quotes Only","Para Cotizaciones Virtuales Solamente",module,Magento_Paypal
 Auto,Auto,module,Magento_Paypal
-"Ask Customer","Ask Customer",module,Magento_Paypal
-Never,Never,module,Magento_Paypal
-"IPN (Instant Payment Notification) Only","IPN (Instant Payment Notification) Only",module,Magento_Paypal
-"API Signature","API Signature",module,Magento_Paypal
-"API Certificate","API Certificate",module,Magento_Paypal
-"The ordering amount of %1 is pending approval on the payment gateway.","The ordering amount of %1 is pending approval on the payment gateway.",module,Magento_Paypal
-"Ordered amount of %1","Ordered amount of %1",module,Magento_Paypal
-"We'll authorize the amount of %1 as soon as the payment gateway approves it.","We'll authorize the amount of %1 as soon as the payment gateway approves it.",module,Magento_Paypal
-"The authorized amount is %1.","The authorized amount is %1.",module,Magento_Paypal
-"The maximum number of child authorizations is reached.","The maximum number of child authorizations is reached.",module,Magento_Paypal
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",module,Magento_Paypal
-"A payer is not identified.","A payer is not identified.",module,Magento_Paypal
-"Cannot get secure form URL from PayPal","Cannot get secure form URL from PayPal",module,Magento_Paypal
-"Last Transaction ID","Last Transaction ID",module,Magento_Paypal
-"This customer didn't include a confirmed address.","This customer didn't include a confirmed address.",module,Magento_Paypal
-"The payment is authorized but not settled.","The payment is authorized but not settled.",module,Magento_Paypal
-"The payment eCheck is not cleared.","The payment eCheck is not cleared.",module,Magento_Paypal
-"The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.",module,Magento_Paypal
-"The payment currency doesn't match any of the merchant's balances currency.","The payment currency doesn't match any of the merchant's balances currency.",module,Magento_Paypal
-"The payment is pending while it is being reviewed by PayPal for risk.","The payment is pending while it is being reviewed by PayPal for risk.",module,Magento_Paypal
-"The payment is pending because it was made to an email address that is not yet registered or confirmed.","The payment is pending because it was made to an email address that is not yet registered or confirmed.",module,Magento_Paypal
-"The merchant account is not yet verified.","The merchant account is not yet verified.",module,Magento_Paypal
-"The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.",module,Magento_Paypal
-"Sorry, but something went wrong. Please contact PayPal customer service.","Sorry, but something went wrong. Please contact PayPal customer service.",module,Magento_Paypal
+"Ask Customer","Preguntar al Cliente",module,Magento_Paypal
+Never,Nunca,module,Magento_Paypal
+"IPN (Instant Payment Notification) Only","Solamente IPN (Instant Payment Notification)",module,Magento_Paypal
+"API Signature","Firma de API",module,Magento_Paypal
+"API Certificate","Certificado de API",module,Magento_Paypal
+"The ordering amount of %1 is pending approval on the payment gateway.","El monto de la orden %1 está pendiente de aprobación en la puerta de enlace de pagos.",module,Magento_Paypal
+"Ordered amount of %1","Monto de la orden de %1",module,Magento_Paypal
+"We'll authorize the amount of %1 as soon as the payment gateway approves it.","Autorizaremos el monto de %1 tan pronto como la apruebe la puerta de enlace de pagos.",module,Magento_Paypal
+"The authorized amount is %1.","El monto autorizado es %1.",module,Magento_Paypal
+"The maximum number of child authorizations is reached.","Se alcanzó el número máximo de autorizaciones dependientes.",module,Magento_Paypal
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal no puede autorizar órdenes con un balance pendiente de cero. Para completar su compra, por favor vaya por el proceso estándard de pedidos.",module,Magento_Paypal
+"A payer is not identified.","No está identificado un comprador.",module,Magento_Paypal
+"Cannot get secure form URL from PayPal","No se puede obtener un formato seguro URL de PayPal",module,Magento_Paypal
+"Last Transaction ID","ID de la Última Transacción",module,Magento_Paypal
+"This customer didn't include a confirmed address.","Este cliente no incluye una dirección confirmada.",module,Magento_Paypal
+"The payment is authorized but not settled.","El pago fue autorizado pero no ha sido colocado.",module,Magento_Paypal
+"The payment eCheck is not cleared.","El pago eCheck no se ha liberado.",module,Magento_Paypal
+"The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","El comerciante tiene una cuenta fuera de Estados Unidos de América y no tiene un mecanismo de retiro.",module,Magento_Paypal
+"The payment currency doesn't match any of the merchant's balances currency.","La moneda de pago no empata con ninguna de las monedas de balance del comerciante.",module,Magento_Paypal
+"The payment is pending while it is being reviewed by PayPal for risk.","El pago está pendiente mientras es revisado por riesgo por PayPal.",module,Magento_Paypal
+"The payment is pending because it was made to an email address that is not yet registered or confirmed.","El pago está pendiente porque fue hecho desde un email que no ha sido registrado o confirmado.",module,Magento_Paypal
+"The merchant account is not yet verified.","No se ha verificado la cuenta del comerciante.",module,Magento_Paypal
+"The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","El pago fue realizado con una tarjeta de crédito. Para recibir los fondos, el comerciante debe actualizad su cuenta al estado Negocios o Premier.",module,Magento_Paypal
+"Sorry, but something went wrong. Please contact PayPal customer service.","Lo sentimos, pero algo ocurrió. Por favor contacte al servicio a clientes de PayPal.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to a chargeback by your customer.","A reversal has occurred on this transaction due to a chargeback by your customer.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",module,Magento_Paypal
