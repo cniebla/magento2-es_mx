@@ -3440,227 +3440,227 @@ Never,Nunca,module,Magento_Paypal
 "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","El pago fue realizado con una tarjeta de crédito. Para recibir los fondos, el comerciante debe actualizad su cuenta al estado Negocios o Premier.",module,Magento_Paypal
 "Sorry, but something went wrong. Please contact PayPal customer service.","Lo sentimos, pero algo ocurrió. Por favor contacte al servicio a clientes de PayPal.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to a chargeback by your customer.","Ha ocurrido un revés en esta transacción debido a un reembolso realizado por su cliente.",module,Magento_Paypal
-"A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.",module,Magento_Paypal
-"A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",module,Magento_Paypal
-"A reversal has occurred on this transaction because you have given the customer a refund.","A reversal has occurred on this transaction because you have given the customer a refund.",module,Magento_Paypal
-"Reversal of an adjustment.","Reversal of an adjustment.",module,Magento_Paypal
-"Transaction reversal due to fraud detected by PayPal administrators.","Transaction reversal due to fraud detected by PayPal administrators.",module,Magento_Paypal
-"Transaction reversal by PayPal administrators.","Transaction reversal by PayPal administrators.",module,Magento_Paypal
-"Reimbursement for a chargeback.","Reimbursement for a chargeback.",module,Magento_Paypal
-"Settlement of a chargeback.","Settlement of a chargeback.",module,Magento_Paypal
-"A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.",module,Magento_Paypal
-"Buyer claims that he did not receive goods or service.","Buyer claims that he did not receive goods or service.",module,Magento_Paypal
-"Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","Buyer claims that the goods or service received differ from merchant’s description of the goods or service.",module,Magento_Paypal
-"Buyer claims that he/she did not authorize transaction.","Buyer claims that he/she did not authorize transaction.",module,Magento_Paypal
-"A case that has been resolved and close requires a reimbursement.","A case that has been resolved and close requires a reimbursement.",module,Magento_Paypal
-"Buyer claims that a possible duplicate payment was made to the merchant.","Buyer claims that a possible duplicate payment was made to the merchant.",module,Magento_Paypal
-"Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.",module,Magento_Paypal
-"Unknown reason. Please contact PayPal customer service.","Unknown reason. Please contact PayPal customer service.",module,Magento_Paypal
-"Payer ID","Payer ID",module,Magento_Paypal
-"Payer Email","Payer Email",module,Magento_Paypal
-"Payer Status","Payer Status",module,Magento_Paypal
-"Payer Address ID","Payer Address ID",module,Magento_Paypal
-"Payer Address Status","Payer Address Status",module,Magento_Paypal
-"Merchant Protection Eligibility","Merchant Protection Eligibility",module,Magento_Paypal
-"Triggered Fraud Filters","Triggered Fraud Filters",module,Magento_Paypal
-"Last Correlation ID","Last Correlation ID",module,Magento_Paypal
-"Address Verification System Response","Address Verification System Response",module,Magento_Paypal
-"CVV2 Check Result by PayPal","CVV2 Check Result by PayPal",module,Magento_Paypal
-"AVS Street Match","AVS Street Match",module,Magento_Paypal
-"AVS zip","AVS zip",module,Magento_Paypal
-"International AVS response","International AVS response",module,Magento_Paypal
-"Buyer's Tax ID","Buyer's Tax ID",module,Magento_Paypal
-"Buyer's Tax ID Type","Buyer's Tax ID Type",module,Magento_Paypal
-Chargeback,Chargeback,module,Magento_Paypal
-Complaint,Complaint,module,Magento_Paypal
-Dispute,Dispute,module,Magento_Paypal
-"Matched Address only (no ZIP)","Matched Address only (no ZIP)",module,Magento_Paypal
-"Matched Address only (no ZIP) International","Matched Address only (no ZIP) International",module,Magento_Paypal
-"No Details matched","No Details matched",module,Magento_Paypal
-"No Details matched. International","No Details matched. International",module,Magento_Paypal
-"Exact Match.","Exact Match.",module,Magento_Paypal
-"Exact Match. Address and Postal Code. International","Exact Match. Address and Postal Code. International",module,Magento_Paypal
-"Exact Match. Address and Postal Code. UK-specific","Exact Match. Address and Postal Code. UK-specific",module,Magento_Paypal
-"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A. Not allowed for MOTO (Internet/Phone) transactions",module,Magento_Paypal
-"N/A. Global Unavailable","N/A. Global Unavailable",module,Magento_Paypal
-"N/A. International Unavailable","N/A. International Unavailable",module,Magento_Paypal
-"Matched five-digit ZIP only (no Address)","Matched five-digit ZIP only (no Address)",module,Magento_Paypal
-"Matched Postal Code only (no Address)","Matched Postal Code only (no Address)",module,Magento_Paypal
-"N/A. Retry","N/A. Retry",module,Magento_Paypal
-"N/A. Service not Supported","N/A. Service not Supported",module,Magento_Paypal
-"N/A. Unavailable","N/A. Unavailable",module,Magento_Paypal
-"Matched whole nine-didgit ZIP (no Address)","Matched whole nine-didgit ZIP (no Address)",module,Magento_Paypal
-"Yes. Matched Address and five-didgit ZIP","Yes. Matched Address and five-didgit ZIP",module,Magento_Paypal
-"All the address information matched","All the address information matched",module,Magento_Paypal
-"None of the address information matched","None of the address information matched",module,Magento_Paypal
-"Part of the address information matched","Part of the address information matched",module,Magento_Paypal
-"N/A. The merchant did not provide AVS information","N/A. The merchant did not provide AVS information",module,Magento_Paypal
-"N/A. Address not checked, or acquirer had no response. Service not available","N/A. Address not checked, or acquirer had no response. Service not available",module,Magento_Paypal
-"Matched (CVV2CSC)","Matched (CVV2CSC)",module,Magento_Paypal
-"No match","No match",module,Magento_Paypal
-"N/A. Not processed","N/A. Not processed",module,Magento_Paypal
-"N/A. Service not supported","N/A. Service not supported",module,Magento_Paypal
-"N/A. Service not available","N/A. Service not available",module,Magento_Paypal
-"N/A. No response","N/A. No response",module,Magento_Paypal
-"Matched (CVV2)","Matched (CVV2)",module,Magento_Paypal
-"N/A. The merchant has not implemented CVV2 code handling","N/A. The merchant has not implemented CVV2 code handling",module,Magento_Paypal
-"N/A. Merchant has indicated that CVV2 is not present on card","N/A. Merchant has indicated that CVV2 is not present on card",module,Magento_Paypal
+"A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","Ha ocurrido un revés en esta transacción debido a que su cliente activó una garantía de retorno de fondos.",module,Magento_Paypal
+"A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","Ha ocurrido un revés en esta transacción debido a que su cliente ha levantado una queja sobre esta transacción.",module,Magento_Paypal
+"A reversal has occurred on this transaction because you have given the customer a refund.","Ha ocurrido un revés en esta transacción porque usted ha devuelto los fondos a su cliente.",module,Magento_Paypal
+"Reversal of an adjustment.","Revés de un ajuste.",module,Magento_Paypal
+"Transaction reversal due to fraud detected by PayPal administrators.","Revés en la transacción debido a una detección de fraude detectado por los administradores de PayPal.",module,Magento_Paypal
+"Transaction reversal by PayPal administrators.","Revés en la transacción por los administradores de PayPal.",module,Magento_Paypal
+"Reimbursement for a chargeback.","Reembolso de una devolución de cargo.",module,Magento_Paypal
+"Settlement of a chargeback.","Asentamiento de un cargo.",module,Magento_Paypal
+"A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","Ha ocurrido un revés en esta transacción porque el cliente hizo una disputa sobre la transacción suspechando una compra sin autorización.",module,Magento_Paypal
+"Buyer claims that he did not receive goods or service.","El comprador reclama que no recibió los bienes o servicios.",module,Magento_Paypal
+"Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","El comprador reclama que los bienes o servicios recibidos difieren de la descripción de los bienes o servicios del comerciante.",module,Magento_Paypal
+"Buyer claims that he/she did not authorize transaction.","El comprador reclama que no autorizó la transacción.",module,Magento_Paypal
+"A case that has been resolved and close requires a reimbursement.","Un caso que ha sido resuelto y cerrado requiere un reembolso.",module,Magento_Paypal
+"Buyer claims that a possible duplicate payment was made to the merchant.","El comprador reclama que posiblemente se hizo un pago duplicado al comerciante.",module,Magento_Paypal
+"Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","El comprador reclama que las mercancías recibidas no son satisfactorias, son defectuosas o están dañadas.",module,Magento_Paypal
+"Unknown reason. Please contact PayPal customer service.","Razón desconocida. Por favor contacte al servicio al cliente de PayPal.",module,Magento_Paypal
+"Payer ID","ID del Comprador",module,Magento_Paypal
+"Payer Email","Email del Comprador",module,Magento_Paypal
+"Payer Status","Estado del Comprador",module,Magento_Paypal
+"Payer Address ID","ID de Dirección del Comprador",module,Magento_Paypal
+"Payer Address Status","Estado de Dirección del Comprador",module,Magento_Paypal
+"Merchant Protection Eligibility","Elegibilidad de Protección del Comerciante",module,Magento_Paypal
+"Triggered Fraud Filters","Filtros de Fraude Activados",module,Magento_Paypal
+"Last Correlation ID","ID de Última Correlación",module,Magento_Paypal
+"Address Verification System Response","Respuesta de Verificación de Dirección del Sistema",module,Magento_Paypal
+"CVV2 Check Result by PayPal","Resultado del Chequeo de CVV2 por PayPal",module,Magento_Paypal
+"AVS Street Match","Empate de Calle AVS",module,Magento_Paypal
+"AVS zip","Código Postal AVS",module,Magento_Paypal
+"International AVS response","Respuesta Internacional AVS",module,Magento_Paypal
+"Buyer's Tax ID","ID del Impuesto del Comprador",module,Magento_Paypal
+"Buyer's Tax ID Type","ID del Tipo de Impuesto del Comprador",module,Magento_Paypal
+Chargeback,"Devolución del Cargo"",module,Magento_Paypal
+Complaint,Queja,module,Magento_Paypal
+Dispute,Disputa,module,Magento_Paypal
+"Matched Address only (no ZIP)","Sólo Dirección Empatada (no CP)",module,Magento_Paypal
+"Matched Address only (no ZIP) International","Sólo Dirección Internacional Empatada (no CP)",module,Magento_Paypal
+"No Details matched","No empataron Detalles",module,Magento_Paypal
+"No Details matched. International","No empataron Detalles Internacionales",module,Magento_Paypal
+"Exact Match.","Empate Exacto.",module,Magento_Paypal
+"Exact Match. Address and Postal Code. International","Empate Exacto. Dirección y Código Postal. International",module,Magento_Paypal
+"Exact Match. Address and Postal Code. UK-specific","Empate Exacto. Dirección y Código Postal. Específico del Reino Unido",module,Magento_Paypal
+"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/D. No está disponible para transacciones MOTO (Internet/Teléfono)",module,Magento_Paypal
+"N/A. Global Unavailable","N/D. No Disponible Global",module,Magento_Paypal
+"N/A. International Unavailable","N/D. Internacional No Disponible",module,Magento_Paypal
+"Matched five-digit ZIP only (no Address)","Sólo empate con CP de 5 dígitos (no Dirección)",module,Magento_Paypal
+"Matched Postal Code only (no Address)","Sólo Empate de Código Postal (no Dirección)",module,Magento_Paypal
+"N/A. Retry","N/D. Reintentar",module,Magento_Paypal
+"N/A. Service not Supported","N/D. No Está Soportado el Servicio",module,Magento_Paypal
+"N/A. Unavailable","N/D. No Disponible",module,Magento_Paypal
+"Matched whole nine-didgit ZIP (no Address)","Empate de CP de 9 dígitos (no Dirección)",module,Magento_Paypal
+"Yes. Matched Address and five-didgit ZIP","Si. Empate de CP de 5 dígitos",module,Magento_Paypal
+"All the address information matched","Toda la información de dirección empata",module,Magento_Paypal
+"None of the address information matched","No empata ninguna información de dirección",module,Magento_Paypal
+"Part of the address information matched","Parte de la información de dirección empata",module,Magento_Paypal
+"N/A. The merchant did not provide AVS information","N/D. El comerciante no proporcionó información AVS",module,Magento_Paypal
+"N/A. Address not checked, or acquirer had no response. Service not available","N/D. No se checó la dirección, o no se obtuvo respuesta. Servicio no disponible",module,Magento_Paypal
+"Matched (CVV2CSC)","Empate (CVV2CSC)",module,Magento_Paypal
+"No match","Sin empate",module,Magento_Paypal
+"N/A. Not processed","N/D. Sin procesar",module,Magento_Paypal
+"N/A. Service not supported","N/D. Servicio no soportado",module,Magento_Paypal
+"N/A. Service not available","N/D. Servicio no disponible",module,Magento_Paypal
+"N/A. No response","N/D. Sin respuesta",module,Magento_Paypal
+"Matched (CVV2)","Empatado (CVV2)",module,Magento_Paypal
+"N/A. The merchant has not implemented CVV2 code handling","N/D. El comerciante no ha implementado manejo de código CVV2",module,Magento_Paypal
+"N/A. Merchant has indicated that CVV2 is not present on card","N/D. EL comerciante ha indicado que el CVV2 no está presente en la tarjeta",module,Magento_Paypal
 CNPJ,CNPJ,module,Magento_Paypal
 CPF,CPF,module,Magento_Paypal
-"Note: %1","Note: %1",module,Magento_Paypal
-"IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4",module,Magento_Paypal
-"IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.",module,Magento_Paypal
-"You notified customer about invoice #%1.","You notified customer about invoice #%1.",module,Magento_Paypal
-"We cannot cancel this order.","We cannot cancel this order.",module,Magento_Paypal
-"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""",module,Magento_Paypal
-"You notified customer about creditmemo #%1.","You notified customer about creditmemo #%1.",module,Magento_Paypal
+"Note: %1","Nota: %1",module,Magento_Paypal
+"IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Tipo de caso ""%2"". ID del caso ""%3"" %4",module,Magento_Paypal
+"IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". La disputa ha sido resuelta y cerrada. %2 Transaction amount %3.",module,Magento_Paypal
+"You notified customer about invoice #%1.","Ha notificado al cliente acerca de la factura #%1.",module,Magento_Paypal
+"We cannot cancel this order.","No podemos cancelar esta orden.",module,Magento_Paypal
+"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Monto de transacción %3. ID de transacción: ""%4""",module,Magento_Paypal
+"You notified customer about creditmemo #%1.","Ha notificado al cliente acerca de la nota de crédito #%1.",module,Magento_Paypal
 "IPN ""%1""","IPN ""%1""",module,Magento_Paypal
-"Payflow PNREF: #%1.","Payflow PNREF: #%1.",module,Magento_Paypal
-"Unable to fetch transaction details.","Unable to fetch transaction details.",module,Magento_Paypal
-"Invalid method %1::%2","Invalid method %1::%2",module,Magento_Paypal
-"Transaction has been declined","Transaction has been declined",module,Magento_Paypal
-"Error processing payment. Please try again later.","Error processing payment. Please try again later.",module,Magento_Paypal
-"We cannot send the new order email.","We cannot send the new order email.",module,Magento_Paypal
-"Payment error. %value was not found.","Payment error. %value was not found.",module,Magento_Paypal
-"You cannot void a verification transaction.","You cannot void a verification transaction.",module,Magento_Paypal
-"You need an authorization transaction to void.","You need an authorization transaction to void.",module,Magento_Paypal
-"We can't issue a refund transaction because there is no capture transaction.","We can't issue a refund transaction because there is no capture transaction.",module,Magento_Paypal
-"We cannot create a target file for reading reports.","We cannot create a target file for reading reports.",module,Magento_Paypal
-"Report Date","Report Date",module,Magento_Paypal
-"Merchant Account","Merchant Account",module,Magento_Paypal
-"Transaction ID","Transaction ID",module,Magento_Paypal
-"Invoice ID","Invoice ID",module,Magento_Paypal
-"PayPal Reference ID","PayPal Reference ID",module,Magento_Paypal
-"PayPal Reference ID Type","PayPal Reference ID Type",module,Magento_Paypal
-"Event Code","Event Code",module,Magento_Paypal
-Event,Event,module,Magento_Paypal
-"Start Date","Start Date",module,Magento_Paypal
-"Finish Date","Finish Date",module,Magento_Paypal
-"Debit or Credit","Debit or Credit",module,Magento_Paypal
-"Gross Amount","Gross Amount",module,Magento_Paypal
-"Fee Debit or Credit","Fee Debit or Credit",module,Magento_Paypal
-"Fee Amount","Fee Amount",module,Magento_Paypal
-Custom,Custom,module,Magento_Paypal
-"Order ID","Order ID",module,Magento_Paypal
-"Preapproved Payment ID","Preapproved Payment ID",module,Magento_Paypal
-"Subscription ID","Subscription ID",module,Magento_Paypal
-Credit,Credit,module,Magento_Paypal
-Debit,Debit,module,Magento_Paypal
-"ACH Deposit (Hold for Dispute or Other Investigation)","ACH Deposit (Hold for Dispute or Other Investigation)",module,Magento_Paypal
-"ACH Deposit (Reversal)","ACH Deposit (Reversal)",module,Magento_Paypal
-"ACH Funding for Funds Recovery from Account Balance","ACH Funding for Funds Recovery from Account Balance",module,Magento_Paypal
-"ACH Withdrawal","ACH Withdrawal",module,Magento_Paypal
-"Account-to-Account Payment, initiated by PayPal","Account-to-Account Payment, initiated by PayPal",module,Magento_Paypal
-"Auction Payment other than through eBay","Auction Payment other than through eBay",module,Magento_Paypal
-AutoSweep,AutoSweep,module,Magento_Paypal
-"Available Balance","Available Balance",module,Magento_Paypal
-"Balance Manager Account Bonus","Balance Manager Account Bonus",module,Magento_Paypal
-"Bonus for first ACH Use","Bonus for first ACH Use",module,Magento_Paypal
-"Buyer Credit Payment","Buyer Credit Payment",module,Magento_Paypal
-Charge-off,Charge-off,module,Magento_Paypal
-"Coupon Redemption","Coupon Redemption",module,Magento_Paypal
-"Currency Conversion required to cover negative balance","Currency Conversion required to cover negative balance",module,Magento_Paypal
-"Debit Card Cash Back","Debit Card Cash Back",module,Magento_Paypal
-"Debit Card Transaction","Debit Card Transaction",module,Magento_Paypal
-"Direct Payment API","Direct Payment API",module,Magento_Paypal
-"EFT Funding (German banking)","EFT Funding (German banking)",module,Magento_Paypal
-"Express Checkout APIs","Express Checkout APIs",module,Magento_Paypal
-"Fee Reversal","Fee Reversal",module,Magento_Paypal
-"Fee: Foreign ACH Withdrawal","Fee: Foreign ACH Withdrawal",module,Magento_Paypal
-"Fee: Mass Pay Request","Fee: Mass Pay Request",module,Magento_Paypal
-"Fee: Web Site Payments Pro Account Monthly","Fee: Web Site Payments Pro Account Monthly",module,Magento_Paypal
-"Fee: WorldLink Check Withdrawal","Fee: WorldLink Check Withdrawal",module,Magento_Paypal
-Funding,Funding,module,Magento_Paypal
-"General (Authorization)","General (Authorization)",module,Magento_Paypal
-"General (Dividend)","General (Dividend)",module,Magento_Paypal
-"General (Funds Transfer from PayPal Account to Another)","General (Funds Transfer from PayPal Account to Another)",module,Magento_Paypal
-"General (Purchase with a credit card)","General (Purchase with a credit card)",module,Magento_Paypal
-"General Adjustment without businessrelated event","General Adjustment without businessrelated event",module,Magento_Paypal
-"General Currency Conversion","General Currency Conversion",module,Magento_Paypal
-"General Funding of PayPal Account ","General Funding of PayPal Account ",module,Magento_Paypal
-"General Redemption","General Redemption",module,Magento_Paypal
-"General Withdrawal from PayPal Account","General Withdrawal from PayPal Account",module,Magento_Paypal
-"General. Product no longer supported","General. Product no longer supported",module,Magento_Paypal
-"General: Use of PayPal account for purchasing as well as receiving payments","General: Use of PayPal account for purchasing as well as receiving payments",module,Magento_Paypal
-"General: Withdrawal from PayPal Account","General: Withdrawal from PayPal Account",module,Magento_Paypal
-"General: Withdrawal to Non-Bank Entity","General: Withdrawal to Non-Bank Entity",module,Magento_Paypal
-"General: adjustment of a type not belonging to the other T12xx categories","General: adjustment of a type not belonging to the other T12xx categories",module,Magento_Paypal
-"General: bonus of a type not belonging to the other T08xx categories","General: bonus of a type not belonging to the other T08xx categories",module,Magento_Paypal
-"General: event not yet categorized","General: event not yet categorized",module,Magento_Paypal
-"General: non-payment fee of a type not belonging to the other T01xx categories","General: non-payment fee of a type not belonging to the other T01xx categories",module,Magento_Paypal
-"General: received payment of a type not belonging to the other T00xx categories","General: received payment of a type not belonging to the other T00xx categories",module,Magento_Paypal
-"General: reversal of a type not belonging to the other T11xx categories","General: reversal of a type not belonging to the other T11xx categories",module,Magento_Paypal
-"General: temporary hold of a type not belonging to the other T15xx categories","General: temporary hold of a type not belonging to the other T15xx categories",module,Magento_Paypal
-"Gift Certificate Payment: purchase of Gift Certificate","Gift Certificate Payment: purchase of Gift Certificate",module,Magento_Paypal
-"Gift Certificate Redemption","Gift Certificate Redemption",module,Magento_Paypal
-"Hidden Virtual PayPal Debit Card Transaction","Hidden Virtual PayPal Debit Card Transaction",module,Magento_Paypal
-"Hold for Dispute Investigation","Hold for Dispute Investigation",module,Magento_Paypal
-Incentive,Incentive,module,Magento_Paypal
-"Mass Pay Payment","Mass Pay Payment",module,Magento_Paypal
-"Merchant Referral Bonus","Merchant Referral Bonus",module,Magento_Paypal
-"Mobile Payment (made via a mobile phone)","Mobile Payment (made via a mobile phone)",module,Magento_Paypal
-"Negative Balance","Negative Balance",module,Magento_Paypal
-"Open Authorization","Open Authorization",module,Magento_Paypal
-"PayPal Balance Manager function of PayPal account","PayPal Balance Manager function of PayPal account",module,Magento_Paypal
-"PayPal Buyer Warranty Bonus","PayPal Buyer Warranty Bonus",module,Magento_Paypal
-"PayPal Debit Card Cash Advance","PayPal Debit Card Cash Advance",module,Magento_Paypal
-"PayPal Debit Card Withdrawal from ATM","PayPal Debit Card Withdrawal from ATM",module,Magento_Paypal
-"PayPal Protection Bonus","PayPal Protection Bonus",module,Magento_Paypal
-"Payment Refund initiated by merchant","Payment Refund initiated by merchant",module,Magento_Paypal
-"Points Incentive Redemption","Points Incentive Redemption",module,Magento_Paypal
-"Postage Payment to either USPS or UPS","Postage Payment to either USPS or UPS",module,Magento_Paypal
-"Preapproved Payment (BillUser API, either sent or received","Preapproved Payment (BillUser API, either sent or received",module,Magento_Paypal
-Reauthorization,Reauthorization,module,Magento_Paypal
-"Reimbursement of Chargeback","Reimbursement of Chargeback",module,Magento_Paypal
-Reversal,Reversal,module,Magento_Paypal
-"Reversal of General Account Hold","Reversal of General Account Hold",module,Magento_Paypal
-"Reversal of Points Usage","Reversal of Points Usage",module,Magento_Paypal
-"Reversal of hold for Dispute Investigation","Reversal of hold for Dispute Investigation",module,Magento_Paypal
-"Reward Voucher Redemption","Reward Voucher Redemption",module,Magento_Paypal
-"Settlement Consolidation","Settlement Consolidation",module,Magento_Paypal
-"Subscription Payment, either payment sent or payment received","Subscription Payment, either payment sent or payment received",module,Magento_Paypal
-"User-initiated Currency Conversion","User-initiated Currency Conversion",module,Magento_Paypal
-"Virtual PayPal Debit Card Transaction","Virtual PayPal Debit Card Transaction",module,Magento_Paypal
-"Virtual Terminal Payment","Virtual Terminal Payment",module,Magento_Paypal
-Void,Void,module,Magento_Paypal
-"WorldLink Withdrawal","WorldLink Withdrawal",module,Magento_Paypal
-"eBay Auction Payment","eBay Auction Payment",module,Magento_Paypal
-"The PayPal certificate file is empty.","The PayPal certificate file is empty.",module,Magento_Paypal
-"Header (center)","Header (center)",module,Magento_Paypal
-"Sidebar (right)","Sidebar (right)",module,Magento_Paypal
-"Near PayPal Credit checkout button","Near PayPal Credit checkout button",module,Magento_Paypal
-"--Please Select--","--Please Select--",module,Magento_Paypal
-Daily,Daily,module,Magento_Paypal
-"Every 3 days","Every 3 days",module,Magento_Paypal
-"Every 7 days","Every 7 days",module,Magento_Paypal
-"Every 10 days","Every 10 days",module,Magento_Paypal
-"Every 14 days","Every 14 days",module,Magento_Paypal
-"Every 30 days","Every 30 days",module,Magento_Paypal
-"Every 40 days","Every 40 days",module,Magento_Paypal
-"No Logo","No Logo",module,Magento_Paypal
-"Yes (PayPal recommends this option)","Yes (PayPal recommends this option)",module,Magento_Paypal
-"Created billing agreement #%1.","Created billing agreement #%1.",module,Magento_Paypal
-"We can't create a billing agreement for this order.","We can't create a billing agreement for this order.",module,Magento_Paypal
-"Pending PayPal","Pending PayPal",module,Magento_Paypal
-"PayPal Reversed","PayPal Reversed",module,Magento_Paypal
-"PayPal Canceled Reversal","PayPal Canceled Reversal",module,Magento_Paypal
+"Payflow PNREF: #%1.","Flujo de pago PNREF: #%1.",module,Magento_Paypal
+"Unable to fetch transaction details.","No se pueden obtener detalles de la transacción.",module,Magento_Paypal
+"Invalid method %1::%2","Método no válido %1::%2",module,Magento_Paypal
+"Transaction has been declined","La transacción ha sido declinada",module,Magento_Paypal
+"Error processing payment. Please try again later.","Error procesando el pago. Por favor intente más tarde.",module,Magento_Paypal
+"We cannot send the new order email.","No podemos enviar el email de la nueva orden.",module,Magento_Paypal
+"Payment error. %value was not found.","Error de pago. No se encontró %value.",module,Magento_Paypal
+"You cannot void a verification transaction.","No puede anular una transacción de verificación.",module,Magento_Paypal
+"You need an authorization transaction to void.","Necesita una transacción a anular.",module,Magento_Paypal
+"We can't issue a refund transaction because there is no capture transaction.","No podemos emitir una transacción de devolución de fondos porque no hay una transacción de captura.",module,Magento_Paypal
+"We cannot create a target file for reading reports.","No podemos crear un archivo de destino para reportes de lectura.",module,Magento_Paypal
+"Report Date","Fecha de Reporte",module,Magento_Paypal
+"Merchant Account","Cuenta de Comerciante",module,Magento_Paypal
+"Transaction ID","ID de Transacción",module,Magento_Paypal
+"Invoice ID","ID de Factura",module,Magento_Paypal
+"PayPal Reference ID","ID de Referencia de PayPal",module,Magento_Paypal
+"PayPal Reference ID Type","Tipo de ID de Referencia PayPal",module,Magento_Paypal
+"Event Code","Código de Evento",module,Magento_Paypal
+Event,Evento,module,Magento_Paypal
+"Start Date","Fecha de Inicio",module,Magento_Paypal
+"Finish Date","Fecha de Término",module,Magento_Paypal
+"Debit or Credit","Débito o Credito",module,Magento_Paypal
+"Gross Amount","Monto Bruto",module,Magento_Paypal
+"Fee Debit or Credit","Comisión de Débito o Crédito",module,Magento_Paypal
+"Fee Amount","Monto de Comisión",module,Magento_Paypal
+Custom,Personalizado,module,Magento_Paypal
+"Order ID","ID de Orden",module,Magento_Paypal
+"Preapproved Payment ID","ID de Pago Preaprobado",module,Magento_Paypal
+"Subscription ID","ID de Suscripción",module,Magento_Paypal
+Credit,Crédito,module,Magento_Paypal
+Debit,Débito,module,Magento_Paypal
+"ACH Deposit (Hold for Dispute or Other Investigation)","Depósito ACH (Retención por Disputa u Otra Investigación)",module,Magento_Paypal
+"ACH Deposit (Reversal)","Depósito ACH (Revés)",module,Magento_Paypal
+"ACH Funding for Funds Recovery from Account Balance","Fondeamiento ACH para Fondos de Recuperación del Balance de Cuenta",module,Magento_Paypal
+"ACH Withdrawal","Retiro ACH",module,Magento_Paypal
+"Account-to-Account Payment, initiated by PayPal","Pago cuenta a cuenta, inciado por PayPal",module,Magento_Paypal
+"Auction Payment other than through eBay","Pago de subasta de otros distintos a eBay",module,Magento_Paypal
+AutoSweep,AutoBarrido,module,Magento_Paypal
+"Available Balance","Balance Disponible",module,Magento_Paypal
+"Balance Manager Account Bonus","Bono de Cuenta de la Administración de Balance",module,Magento_Paypal
+"Bonus for first ACH Use","Bono por el primer uso ACH",module,Magento_Paypal
+"Buyer Credit Payment","Pago de Crédito de Comprador",module,Magento_Paypal
+Charge-off,Amortización,module,Magento_Paypal
+"Coupon Redemption","Redención de Cupón",module,Magento_Paypal
+"Currency Conversion required to cover negative balance","Se requiere una COnversión de Moneda para cubrir el balance negativo",module,Magento_Paypal
+"Debit Card Cash Back","Devolución de Efectivo de Tarjeta de Débito",module,Magento_Paypal
+"Debit Card Transaction","Transacción de Tarjeta de Débito",module,Magento_Paypal
+"Direct Payment API","API de Pago Directo",module,Magento_Paypal
+"EFT Funding (German banking)","Fondeamiento EFT (banca alemana)",module,Magento_Paypal
+"Express Checkout APIs","APIs de Pago Express",module,Magento_Paypal
+"Fee Reversal","Revés de Comisión",module,Magento_Paypal
+"Fee: Foreign ACH Withdrawal","Comisión: Retiro Foráneo ACH",module,Magento_Paypal
+"Fee: Mass Pay Request","Comisión: Solicitud de Pago Masivo",module,Magento_Paypal
+"Fee: Web Site Payments Pro Account Monthly","Comisión: Mensualidad de Pagos de Sitio Web Cuenta Pro",module,Magento_Paypal
+"Fee: WorldLink Check Withdrawal","Comisión: Retiro de Cheque WorldLink",module,Magento_Paypal
+Funding,Fondeamiento,module,Magento_Paypal
+"General (Authorization)","General (Authorización)",module,Magento_Paypal
+"General (Dividend)","General (Dividendo)",module,Magento_Paypal
+"General (Funds Transfer from PayPal Account to Another)","General (Transferencia de Fondos de Cuenta PayPal a Otra)",module,Magento_Paypal
+"General (Purchase with a credit card)","General (Compra con tarjeta de crédito)",module,Magento_Paypal
+"General Adjustment without businessrelated event","Ajuste General sin ser evento de negocio",module,Magento_Paypal
+"General Currency Conversion","Conversión de Moneda General",module,Magento_Paypal
+"General Funding of PayPal Account ","Fondeamiento General de Cuenta PayPal ",module,Magento_Paypal
+"General Redemption","Redención General",module,Magento_Paypal
+"General Withdrawal from PayPal Account","Retiro General de Cuenta PayPal",module,Magento_Paypal
+"General. Product no longer supported","General. El producto ya no está soportado",module,Magento_Paypal
+"General: Use of PayPal account for purchasing as well as receiving payments","General: Uso de cuenta PayPal tanto para comprar como para recibir pagos",module,Magento_Paypal
+"General: Withdrawal from PayPal Account","General: Retiro de Cuenta PayPal",module,Magento_Paypal
+"General: Withdrawal to Non-Bank Entity","General: Retiro a una Entidad No Bancaria",module,Magento_Paypal
+"General: adjustment of a type not belonging to the other T12xx categories","General: ajuste de un tipo que no pertenece a las otras categorías T12xx",module,Magento_Paypal
+"General: bonus of a type not belonging to the other T08xx categories","General: bono de un tipo que no pertenece a las otras categorías T08xx",module,Magento_Paypal
+"General: event not yet categorized","General: evento todavía sin categoría",module,Magento_Paypal
+"General: non-payment fee of a type not belonging to the other T01xx categories","General: comisión sin pago de un tipo que no pertenece a las otras categorías T01xx",module,Magento_Paypal
+"General: received payment of a type not belonging to the other T00xx categories","General: pago recibido de un tipo que no pertenece a las otras categorías T00xx",module,Magento_Paypal
+"General: reversal of a type not belonging to the other T11xx categories","General: reverso de un tipo que no pertenece a las otras categorías T11xx",module,Magento_Paypal
+"General: temporary hold of a type not belonging to the other T15xx categories","General: retención temporal de un tipo que no pertenece a las otras categorías T15xx",module,Magento_Paypal
+"Gift Certificate Payment: purchase of Gift Certificate","Pago de Certificado de Regalo: compra de un Certificado de Regalo",module,Magento_Paypal
+"Gift Certificate Redemption","Redención de Certificado de Regalo",module,Magento_Paypal
+"Hidden Virtual PayPal Debit Card Transaction","Transacción de Tarjeta de Débito PayPay Virtual Oculta",module,Magento_Paypal
+"Hold for Dispute Investigation","Retención de Investigación de Disputa",module,Magento_Paypal
+Incentive,Incentivo,module,Magento_Paypal
+"Mass Pay Payment","Pago de Pago Masivo",module,Magento_Paypal
+"Merchant Referral Bonus","Bono de Referencia de Comerciante",module,Magento_Paypal
+"Mobile Payment (made via a mobile phone)","Pago Móvil (realizado con teléfono móvil)",module,Magento_Paypal
+"Negative Balance","Balance Negativo",module,Magento_Paypal
+"Open Authorization","Autorización Abierta",module,Magento_Paypal
+"PayPal Balance Manager function of PayPal account","Función de Administrador de Balance PayPay de Cuenta PayPal",module,Magento_Paypal
+"PayPal Buyer Warranty Bonus","Bono de Garantía de Comprador PayPal",module,Magento_Paypal
+"PayPal Debit Card Cash Advance","Adelanto de Efectivo de Tarjeta de Débito PayPal",module,Magento_Paypal
+"PayPal Debit Card Withdrawal from ATM","Retiro de Tarjeta de Débito PayPal en Cajero Automático",module,Magento_Paypal
+"PayPal Protection Bonus","Bono de Protección PayPal",module,Magento_Paypal
+"Payment Refund initiated by merchant","Devolución de Pago iniciado por comerciante",module,Magento_Paypal
+"Points Incentive Redemption","Incentivo de Redención de Puntos",module,Magento_Paypal
+"Postage Payment to either USPS or UPS","Pago de Timbre USPS o UPS",module,Magento_Paypal
+"Preapproved Payment (BillUser API, either sent or received","Pago Preaprobado (BillUser API, ya sea enviado o recibido",module,Magento_Paypal
+Reauthorization,Reautorización,module,Magento_Paypal
+"Reimbursement of Chargeback","Reembolso o Cobro",module,Magento_Paypal
+Reversal,Revés,module,Magento_Paypal
+"Reversal of General Account Hold","Revés de Retención de Cuenta General",module,Magento_Paypal
+"Reversal of Points Usage","Uso de Puntos de Revés",module,Magento_Paypal
+"Reversal of hold for Dispute Investigation","Revés de Investigación de Disputa",module,Magento_Paypal
+"Reward Voucher Redemption","Redención de Vale de Recompensas",module,Magento_Paypal
+"Settlement Consolidation","Consolidación de Asentamiento",module,Magento_Paypal
+"Subscription Payment, either payment sent or payment received","Pago de Suscripción, ya sea pago enviado o pago recibido",module,Magento_Paypal
+"User-initiated Currency Conversion","Conversión de Moneda Iniciada por el Usuario",module,Magento_Paypal
+"Virtual PayPal Debit Card Transaction","Transacción de Tarjeta de Débito Virtual PayPal",module,Magento_Paypal
+"Virtual Terminal Payment","Pago en Terminal Virtual",module,Magento_Paypal
+Void,Nulo,module,Magento_Paypal
+"WorldLink Withdrawal","Retiro WorldLink",module,Magento_Paypal
+"eBay Auction Payment","Pago de Subasta eBay",module,Magento_Paypal
+"The PayPal certificate file is empty.","El archivo de certificado PayPay está vacío.",module,Magento_Paypal
+"Header (center)","Encabezado (centro)",module,Magento_Paypal
+"Sidebar (right)","Barra lateral (derecha)",module,Magento_Paypal
+"Near PayPal Credit checkout button","Cerca del botón de pago de Crédito PayPal",module,Magento_Paypal
+"--Please Select--","--Por favor Seleccione--",module,Magento_Paypal
+Daily,Diariamente,module,Magento_Paypal
+"Every 3 days","Cada 3 días",module,Magento_Paypal
+"Every 7 days","Cada 7 días",module,Magento_Paypal
+"Every 10 days","Cada 10 días",module,Magento_Paypal
+"Every 14 days","Cada 14 días",module,Magento_Paypal
+"Every 30 days","Cada 30 días",module,Magento_Paypal
+"Every 40 days","Cada 40 días",module,Magento_Paypal
+"No Logo","Sin Logo",module,Magento_Paypal
+"Yes (PayPal recommends this option)","Sí (PayPal recomienda esta opción)",module,Magento_Paypal
+"Created billing agreement #%1.","Fue creado el acuerdo de facturación #%1.",module,Magento_Paypal
+"We can't create a billing agreement for this order.","No podemos crear el acuerdo de facturación para esta orden.",module,Magento_Paypal
+"Pending PayPal","Esperando a PayPal",module,Magento_Paypal
+"PayPal Reversed","Reviró PayPal",module,Magento_Paypal
+"PayPal Canceled Reversal","PayPal Canceló el Revés",module,Magento_Paypal
 Error,Error,module,Magento_Paypal
-"Billing Agreement","Billing Agreement",module,Magento_Paypal
-"Please Select","Please Select",module,Magento_Paypal
-Customer,Customer,module,Magento_Paypal
-"Created At","Created At",module,Magento_Paypal
-"Updated At","Updated At",module,Magento_Paypal
-ending,ending,module,Magento_Paypal
-expires,expires,module,Magento_Paypal
-"Not sure what PayPal payment method to use? Click ","Not sure what PayPal payment method to use? Click ",module,Magento_Paypal
-here,here,module,Magento_Paypal
-" to learn more."," to learn more.",module,Magento_Paypal
-"Important: ","Important: ",module,Magento_Paypal
-"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.",module,Magento_Paypal
-"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
-"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.",module,Magento_Paypal
-"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
-"Credit Card Type","Credit Card Type",module,Magento_Paypal
+"Billing Agreement","Acuerdo de Facturación",module,Magento_Paypal
+"Please Select","Por favor Seleccione",module,Magento_Paypal
+Customer,Cliente,module,Magento_Paypal
+"Created At","Creado En",module,Magento_Paypal
+"Updated At","Actualizado En",module,Magento_Paypal
+ending,finalizando,module,Magento_Paypal
+expires,expira,module,Magento_Paypal
+"Not sure what PayPal payment method to use? Click ","¿No está seguro de que método de pago PayPay usar? Click ",module,Magento_Paypal
+here,aquí,module,Magento_Paypal
+" to learn more."," para enterarse de más.",module,Magento_Paypal
+"Important: ","Importante: ",module,Magento_Paypal
+"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Para usar Pagos Avanzados de PayPal, debe configurar su cuenta de Pagos Avanzados de PayPal en el sitio web de PayPal.",module,Magento_Paypal
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Una vez que ingrese a su cuenta Avanzada de PayPay, navegue a la Configuración del Servicio - Páginas de Pago Alojadas - Configurar en el menú y fije las opciones descritas abajo",module,Magento_Paypal
+"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Para usar la Liga de Flujo de Pagos PayPal, debe configurar su cuenta de Liga de Flujo de Pagos en el sitio web de PayPal.",module,Magento_Paypal
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Una vez que ingrese en su cuenta de Liga de Flujo de Pagos PayPal, navegue a la Configuración del Servicio - Páginas de Pago Alojadas - Configurar en el menúi y fije las opciones descritas abajo",module,Magento_Paypal
+"Credit Card Type","Tipo de Tarjeta de Crédito",module,Magento_Paypal
 "Credit Card Number","Credit Card Number",module,Magento_Paypal
 "Expiration Date","Expiration Date",module,Magento_Paypal
 "Card Verification Number","Card Verification Number",module,Magento_Paypal
