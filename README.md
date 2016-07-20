@@ -6,7 +6,7 @@ Status: 40% (first translation)
 
 Spanish:
 --------
-Paquete de lenguaje en español (español México) para Magento 2
+Paquete de lenguaje en español (español México) para Magento 2 Community Edition
 
 Instalación manual:
 * Copiar la carpeta el contenido de la carpeta app y sus subcarpetas en el directorio raíz de Magento/app
@@ -16,7 +16,7 @@ Instalación manual:
 
 English:
 --------
-Magento 2 Spanish language pack Spanish (español México)
+Magento 2 Community Edition Spanish language pack Spanish (español México)
 
 Manual installation:
 * Copy contents of app into Magento root directory/app
