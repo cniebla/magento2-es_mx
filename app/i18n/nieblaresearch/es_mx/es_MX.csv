@@ -3661,221 +3661,221 @@ here,aquí,module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Para usar la Liga de Flujo de Pagos PayPal, debe configurar su cuenta de Liga de Flujo de Pagos en el sitio web de PayPal.",module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Una vez que ingrese en su cuenta de Liga de Flujo de Pagos PayPal, navegue a la Configuración del Servicio - Páginas de Pago Alojadas - Configurar en el menúi y fije las opciones descritas abajo",module,Magento_Paypal
 "Credit Card Type","Tipo de Tarjeta de Crédito",module,Magento_Paypal
-"Credit Card Number","Credit Card Number",module,Magento_Paypal
-"Expiration Date","Expiration Date",module,Magento_Paypal
-"Card Verification Number","Card Verification Number",module,Magento_Paypal
-"Billing Agreement # ","Billing Agreement # ",module,Magento_Paypal
-"Agreement Information","Agreement Information",module,Magento_Paypal
-"Reference ID:","Reference ID:",module,Magento_Paypal
-Status:,Status:,module,Magento_Paypal
-Created:,Created:,module,Magento_Paypal
-Updated:,Updated:,module,Magento_Paypal
-"Payment Method:","Payment Method:",module,Magento_Paypal
-"Order #","Order #",module,Magento_Paypal
-Date,Date,module,Magento_Paypal
-"Ship To","Ship To",module,Magento_Paypal
-"Order Status","Order Status",module,Magento_Paypal
-"View Order","View Order",module,Magento_Paypal
-"Back to Billing Agreements","Back to Billing Agreements",module,Magento_Paypal
-"Payment Method","Payment Method",module,Magento_Paypal
-View,View,module,Magento_Paypal
-"There are no billing agreements yet.","There are no billing agreements yet.",module,Magento_Paypal
-"New Billing Agreement","New Billing Agreement",module,Magento_Paypal
-"You will be redirected to the payment system website.","You will be redirected to the payment system website.",module,Magento_Paypal
-"-- Please Select --","-- Please Select --",module,Magento_Paypal
-Create...,Create...,module,Magento_Paypal
-"Your credit card will be charged for","Your credit card will be charged for",module,Magento_Paypal
-"Your billing agreement # is: ","Your billing agreement # is: ",module,Magento_Paypal
-"Shipping Method","Shipping Method",module,Magento_Paypal
-"Please select a shipping method...","Please select a shipping method...",module,Magento_Paypal
-"Update Shipping Method","Update Shipping Method",module,Magento_Paypal
-"Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Paypal
-"Shipping Address","Shipping Address",module,Magento_Paypal
-Edit,Edit,module,Magento_Paypal
-"Buy now with PayPal","Buy now with PayPal",module,Magento_Paypal
-"Edit Payment Information","Edit Payment Information",module,Magento_Paypal
-"Items in Your Shopping Cart","Items in Your Shopping Cart",module,Magento_Paypal
-"Edit Shopping Cart","Edit Shopping Cart",module,Magento_Paypal
-"Place Order","Place Order",module,Magento_Paypal
-"Submitting order information...","Submitting order information...",module,Magento_Paypal
-Item,Item,module,Magento_Paypal
-Price,Price,module,Magento_Paypal
-Qty,Qty,module,Magento_Paypal
+"Credit Card Number","Número de Tarjeta de Crédito",module,Magento_Paypal
+"Expiration Date","Fecha de Expiración",module,Magento_Paypal
+"Card Verification Number","Número de Verificación de Tarjeta",module,Magento_Paypal
+"Billing Agreement # ","Acuerdo de Facturación # ",module,Magento_Paypal
+"Agreement Information","Información del Acuerdo",module,Magento_Paypal
+"Reference ID:","ID de referencia:",module,Magento_Paypal
+Status:,Estado:,module,Magento_Paypal
+Created:,Creado:,module,Magento_Paypal
+Updated:,Actualizado:,module,Magento_Paypal
+"Payment Method:","Método de Pago:",module,Magento_Paypal
+"Order #","Orden #",module,Magento_Paypal
+Date,Fecha,module,Magento_Paypal
+"Ship To","Enviar A",module,Magento_Paypal
+"Order Status","Estado de la Orden",module,Magento_Paypal
+"View Order","Ver Orden",module,Magento_Paypal
+"Back to Billing Agreements","Regresar a Acuerdos de Facturación",module,Magento_Paypal
+"Payment Method","Método de Pago",module,Magento_Paypal
+View,Ver,module,Magento_Paypal
+"There are no billing agreements yet.","Todavía no hay acuerdos de facturación.",module,Magento_Paypal
+"New Billing Agreement","Nuevo Acuerdo de Facturación",module,Magento_Paypal
+"You will be redirected to the payment system website.","Será redirigido al sitio web del sistema de pagos.",module,Magento_Paypal
+"-- Please Select --","-- Por favor Seleccione --",module,Magento_Paypal
+Create...,Crear...,module,Magento_Paypal
+"Your credit card will be charged for","Se hará un cargo a su tarjeta de crédito por",module,Magento_Paypal
+"Your billing agreement # is: ","Su # de acuerdo de facturación es: ",module,Magento_Paypal
+"Shipping Method","Método de Envío",module,Magento_Paypal
+"Please select a shipping method...","Por favor seleccione un método de envío...",module,Magento_Paypal
+"Update Shipping Method","Actualizar Método de Envío",module,Magento_Paypal
+"Sorry, no quotes are available for this order right now.","Lo sentimos, no hay cotizaciones disponibles para esta orden en este momento.",module,Magento_Paypal
+"Shipping Address","Dirección de Envío",module,Magento_Paypal
+Edit,Editar,module,Magento_Paypal
+"Buy now with PayPal","Compre ahora con PayPal",module,Magento_Paypal
+"Edit Payment Information","Editar Información de Pago",module,Magento_Paypal
+"Items in Your Shopping Cart","Artículos en su Carrito de Compreas,module,Magento_Paypal
+"Edit Shopping Cart","Editar Carrito de Compras",module,Magento_Paypal
+"Place Order","Colocar Orden",module,Magento_Paypal
+"Submitting order information...","Enviando información de orden...",module,Magento_Paypal
+Item,Artículo,module,Magento_Paypal
+Price,Precio,module,Magento_Paypal
+Qty,Cantidad,module,Magento_Paypal
 Subtotal,Subtotal,module,Magento_Paypal
-"Please update order data to get shipping methods and rates","Please update order data to get shipping methods and rates",module,Magento_Paypal
+"Please update order data to get shipping methods and rates","Por favor actualize sus datos para obtener métodos de pago y costos",module,Magento_Paypal
 or,or,module,Magento_Paypal
-"Checkout with PayPal","Checkout with PayPal",module,Magento_Paypal
-"Please do not refresh the page until you complete payment.","Please do not refresh the page until you complete payment.",module,Magento_Paypal
-"You will be required to enter your payment details after you place an order.","You will be required to enter your payment details after you place an order.",module,Magento_Paypal
-Continue,Continue,module,Magento_Paypal
-"Additional Options","Additional Options",module,Magento_Paypal
-"-- Please Select Billing Agreement--","-- Please Select Billing Agreement--",module,Magento_Paypal
-"Acceptance Mark","Acceptance Mark",module,Magento_Paypal
-"What is PayPal?","What is PayPal?",module,Magento_Paypal
-"Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
-"Not you?","Not you?",module,Magento_Persistent
-"Your shopping cart has been updated with new prices.","Your shopping cart has been updated with new prices.",module,Magento_Persistent
-"Welcome, %1!","Welcome, %1!",module,Magento_Persistent
-"We cannot load the configuration from file %1.","We cannot load the configuration from file %1.",module,Magento_Persistent
-"Method ""%1"" is not defined in ""%2""","Method ""%1"" is not defined in ""%2""",module,Magento_Persistent
-"To check out, please sign in using your email address.","To check out, please sign in using your email address.",module,Magento_Persistent
-"Remember Me","Remember Me",module,Magento_Persistent
-"What's this?","What's this?",module,Magento_Persistent
-"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
-"You saved the alert subscription.","You saved the alert subscription.",module,Magento_ProductAlert
-"There are not enough parameters.","There are not enough parameters.",module,Magento_ProductAlert
-"We can't update the alert subscription right now.","We can't update the alert subscription right now.",module,Magento_ProductAlert
-"Alert subscription has been saved.","Alert subscription has been saved.",module,Magento_ProductAlert
-"You deleted the alert subscription.","You deleted the alert subscription.",module,Magento_ProductAlert
-"We can't find the product.","We can't find the product.",module,Magento_ProductAlert
-"You will no longer receive price alerts for this product.","You will no longer receive price alerts for this product.",module,Magento_ProductAlert
-"Unable to update the alert subscription.","Unable to update the alert subscription.",module,Magento_ProductAlert
-"You will no longer receive stock alerts for this product.","You will no longer receive stock alerts for this product.",module,Magento_ProductAlert
-"The product was not found.","The product was not found.",module,Magento_ProductAlert
-"You will no longer receive stock alerts.","You will no longer receive stock alerts.",module,Magento_ProductAlert
-"Invalid block type: %1","Invalid block type: %1",module,Magento_ProductAlert
-"Price change alert! We wanted you to know that prices have changed for these products:","Price change alert! We wanted you to know that prices have changed for these products:",module,Magento_ProductAlert
-Price:,Price:,module,Magento_ProductAlert
-"Click here to stop alerts for this product.","Click here to stop alerts for this product.",module,Magento_ProductAlert
-"Unsubscribe from all price alerts","Unsubscribe from all price alerts",module,Magento_ProductAlert
-"In stock alert! We wanted you to know that these products are now available:","In stock alert! We wanted you to know that these products are now available:",module,Magento_ProductAlert
-"Unsubscribe from all stock alerts","Unsubscribe from all stock alerts",module,Magento_ProductAlert
-Url,Url,module,Magento_ProductVideo
-Title,Title,module,Magento_ProductVideo
-Description,Description,module,Magento_ProductVideo
-"Preview Image","Preview Image",module,Magento_ProductVideo
-"Get Video Information","Get Video Information",module,Magento_ProductVideo
-"Hide from Product Page","Hide from Product Page",module,Magento_ProductVideo
-Role,Role,module,Magento_ProductVideo
-"YouTube and Vimeo supported.","YouTube and Vimeo supported.",module,Magento_ProductVideo
-"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.",module,Magento_ProductVideo
-"Could not get preview image information. Please check your connection and try again.","Could not get preview image information. Please check your connection and try again.",module,Magento_ProductVideo
-"Add Video","Add Video",module,Magento_ProductVideo
-"Browse to find or drag image here","Browse to find or drag image here",module,Magento_ProductVideo
-"Delete video","Delete video",module,Magento_ProductVideo
-"Delete image","Delete image",module,Magento_ProductVideo
-Hidden,Hidden,module,Magento_ProductVideo
-"Alt Text","Alt Text",module,Magento_ProductVideo
-"Image Size","Image Size",module,Magento_ProductVideo
-{size},{size},module,Magento_ProductVideo
-"Image Resolution","Image Resolution",module,Magento_ProductVideo
-"{width}^{height} px","{width}^{height} px",module,Magento_ProductVideo
-Title:,Title:,module,Magento_ProductVideo
-Uploaded:,Uploaded:,module,Magento_ProductVideo
-Uploader:,Uploader:,module,Magento_ProductVideo
-Duration:,Duration:,module,Magento_ProductVideo
-"Unable to save address. Please check input data.","Unable to save address. Please check input data.",module,Magento_Quote
-"Cart %1 doesn't contain products","Cart %1 doesn't contain products",module,Magento_Quote
-"Could not apply coupon code","Could not apply coupon code",module,Magento_Quote
-"Coupon code is not valid","Coupon code is not valid",module,Magento_Quote
-"Could not delete coupon code","Could not delete coupon code",module,Magento_Quote
-"Cannot assign customer to the given cart. You don't have permission for this operation.","Cannot assign customer to the given cart. You don't have permission for this operation.",module,Magento_Quote
-"Shipping address is not set","Shipping address is not set",module,Magento_Quote
-"The requested Payment Method is not available.","The requested Payment Method is not available.",module,Magento_Quote
-"We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Quote
-"This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration.",module,Magento_Quote
-"This shipping method is not available. To use this shipping method, please contact us.","This shipping method is not available. To use this shipping method, please contact us.",module,Magento_Quote
-"The address model is not defined.","The address model is not defined.",module,Magento_Quote
+"Checkout with PayPal","Pagar con PayPal",module,Magento_Paypal
+"Please do not refresh the page until you complete payment.","Por favor no refresque la página hasta completar el pago.",module,Magento_Paypal
+"You will be required to enter your payment details after you place an order.","Se le requerirá introducir sus detalles de pago despues de colocar una orden.",module,Magento_Paypal
+Continue,Continuar,module,Magento_Paypal
+"Additional Options","Opciones Adicionales",module,Magento_Paypal
+"-- Please Select Billing Agreement--","-- Por favor Seleccione Acuerdo de Pago--",module,Magento_Paypal
+"Acceptance Mark","Marca de Aceptación",module,Magento_Paypal
+"What is PayPal?","¿Qué es PayPal?",module,Magento_Paypal
+"Sign a billing agreement to streamline further purchases  with PayPal.","Firme un acuerdo de facturación para facilitar sus compras futuras con PayPal.",module,Magento_Paypal
+"Not you?","¿No es usted?",module,Magento_Persistent
+"Your shopping cart has been updated with new prices.","Su carrito de compras ha sido actualizado con nuevos precios.",module,Magento_Persistent
+"Welcome, %1!","¡Bienvenido, %1!",module,Magento_Persistent
+"We cannot load the configuration from file %1.","No podemos cargar la configuración desde el archivo %1.",module,Magento_Persistent
+"Method ""%1"" is not defined in ""%2""","El método ""%1"" no está definido en ""%2""",module,Magento_Persistent
+"To check out, please sign in using your email address.","Para hacer el pedido, por favor ingrese usando su email.",module,Magento_Persistent
+"Remember Me",Recordarme,module,Magento_Persistent
+"What's this?","¿Qué es esto?",module,Magento_Persistent
+"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Marque &quot;Recordarme&quot; para accesar a su carrito de compras en este equipo aunque no haya ingresado.",module,Magento_Persistent
+"You saved the alert subscription.","Guardó la suscripción de alertas.",module,Magento_ProductAlert
+"There are not enough parameters.","No hay parámetros suficientes.",module,Magento_ProductAlert
+"We can't update the alert subscription right now.","No podemos actualizar la suscripción de alertas en este momento.",module,Magento_ProductAlert
+"Alert subscription has been saved.","Se guardó la suscripción de alertas.",module,Magento_ProductAlert
+"You deleted the alert subscription.","Borró la suscripción a las alertas.",module,Magento_ProductAlert
+"We can't find the product.","No podemos encontrar el producto.",module,Magento_ProductAlert
+"You will no longer receive price alerts for this product.","Ya no recibirá alertas de precio para este producto.",module,Magento_ProductAlert
+"Unable to update the alert subscription.","No se puede actualizar la suscripción de alerta.",module,Magento_ProductAlert
+"You will no longer receive stock alerts for this product.","Ya no recibirá alertas de existencias para este producto.",module,Magento_ProductAlert
+"The product was not found.","No se encontró el producto.",module,Magento_ProductAlert
+"You will no longer receive stock alerts.","Ya no recibirá alertas de existencias.",module,Magento_ProductAlert
+"Invalid block type: %1","Tipo de bloque no válido: %1",module,Magento_ProductAlert
+"Price change alert! We wanted you to know that prices have changed for these products:","¡Alerta de cambio de precio! Queremos que sepa que los precios han cambiado para estos productos:",module,Magento_ProductAlert
+Price:,Precio:,module,Magento_ProductAlert
+"Click here to stop alerts for this product.","Haga click aquí para detener las alertas para este producto.",module,Magento_ProductAlert
+"Unsubscribe from all price alerts","Desuscribirse de todas las alertas de precio",module,Magento_ProductAlert
+"In stock alert! We wanted you to know that these products are now available:","¡Alerta de existencias! Queremos que se entere que estos productos ya están disponibles:",module,Magento_ProductAlert
+"Unsubscribe from all stock alerts","Desuscribirse de todas las alertas de existencias",module,Magento_ProductAlert
+Url,URL,module,Magento_ProductVideo
+Title,Título,module,Magento_ProductVideo
+Description,Descripción,module,Magento_ProductVideo
+"Preview Image","Vista Previa de Imagen",module,Magento_ProductVideo
+"Get Video Information","Obtener Información del Video",module,Magento_ProductVideo
+"Hide from Product Page","Ocultar de la Página de Producto",module,Magento_ProductVideo
+Role,Rol,module,Magento_ProductVideo
+"YouTube and Vimeo supported.","YouTube y Vimeo están soportados.",module,Magento_ProductVideo
+"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo soportado.<br />Para añadir un video de YouTube, por favor <a href=""%1"">ingrese la llave de API de YouTube</a> primero.",module,Magento_ProductVideo
+"Could not get preview image information. Please check your connection and try again.","No se puede obtener la información de vista previa de imagen. Por favor revise su conexión e intente de nuevo.",module,Magento_ProductVideo
+"Add Video","Añadir Video",module,Magento_ProductVideo
+"Browse to find or drag image here","Navegue para encontrar o arrastre la imagen aquí",module,Magento_ProductVideo
+"Delete video","Borrar video",module,Magento_ProductVideo
+"Delete image","Borrar imagen",module,Magento_ProductVideo
+Hidden,Oculto,module,Magento_ProductVideo
+"Alt Text","Texto Alternativo",module,Magento_ProductVideo
+"Image Size","Tamaño de Imagen",module,Magento_ProductVideo
+{size},{tamaño},module,Magento_ProductVideo
+"Image Resolution","Resolución de Imagen",module,Magento_ProductVideo
+"{width}^{height} px","{ancho}^{alto} px",module,Magento_ProductVideo
+Title:,Título:,module,Magento_ProductVideo
+Uploaded:,Enviado:,module,Magento_ProductVideo
+Uploader:,"Subido por:",module,Magento_ProductVideo
+Duration:,Duración:,module,Magento_ProductVideo
+"Unable to save address. Please check input data.","No podemos guardar la dirección. Por favor revise los datos de entrada.",module,Magento_Quote
+"Cart %1 doesn't contain products","El carrito %1 no contiene productos",module,Magento_Quote
+"Could not apply coupon code","No se puede aplicar el código del cupón",module,Magento_Quote
+"Coupon code is not valid","El código del cupón no es válido",module,Magento_Quote
+"Could not delete coupon code","No se puede borrar el código del cupón",module,Magento_Quote
+"Cannot assign customer to the given cart. You don't have permission for this operation.","No podemos asignar un cliente al carrito.",module,Magento_Quote
+"Shipping address is not set","No se ha fijado una dirección de envío",module,Magento_Quote
+"The requested Payment Method is not available.","El Método de Pago solicitado no está disponible.",module,Magento_Quote
+"We found an invalid request for adding product to quote.","Encontramos una solicitud no válida para añadir un producto a la cotización.",module,Magento_Quote
+"This is the wrong quote item id to update configuration.","Este ID de artículo de cotización es incorrecto para actualizar la configuración.",module,Magento_Quote
+"This shipping method is not available. To use this shipping method, please contact us.","El método de envío no está disponible. Para usar este método de envío, por favor contáctenos.",module,Magento_Quote
+"The address model is not defined.","El modelo de dirección no está definido.",module,Magento_Quote
 "The address total model should be extended from
-                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from
+                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","El modelo total de dirección debe extenderse de
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
-"Grand Total","Grand Total",module,Magento_Quote
-"Shipping & Handling (%1)","Shipping & Handling (%1)",module,Magento_Quote
-"Shipping & Handling","Shipping & Handling",module,Magento_Quote
-Shipping,Shipping,module,Magento_Quote
+"Grand Total","Gran Total",module,Magento_Quote
+"Shipping & Handling (%1)","Manejo y Envío (%1)",module,Magento_Quote
+"Shipping & Handling","Manejo y Envío",module,Magento_Quote
+Shipping,Enviando,module,Magento_Quote
 Subtotal,Subtotal,module,Magento_Quote
-"We found an invalid item option format.","We found an invalid item option format.",module,Magento_Quote
-"An item option with code %1 already exists.","An item option with code %1 already exists.",module,Magento_Quote
-"Item qty declaration error","Item qty declaration error",module,Magento_Quote
-"Some of the products below do not have all the required options.","Some of the products below do not have all the required options.",module,Magento_Quote
-"Something went wrong during the item options declaration.","Something went wrong during the item options declaration.",module,Magento_Quote
-"We found an item options declaration error.","We found an item options declaration error.",module,Magento_Quote
-"Some of the selected options are not currently available.","Some of the selected options are not currently available.",module,Magento_Quote
-"Selected option(s) or their combination is not currently available.","Selected option(s) or their combination is not currently available.",module,Magento_Quote
-"Some item options or their combination are not currently available.","Some item options or their combination are not currently available.",module,Magento_Quote
-"Cart %1 does not contain item %2","Cart %1 does not contain item %2",module,Magento_Quote
-"Could not save quote","Could not save quote",module,Magento_Quote
-"Cart %1 doesn't contain item  %2","Cart %1 doesn't contain item  %2",module,Magento_Quote
-"Could not remove item from quote","Could not remove item from quote",module,Magento_Quote
-"The qty value is required to update quote item.","The qty value is required to update quote item.",module,Magento_Quote
-"Minimum order amount is %1","Minimum order amount is %1",module,Magento_Quote
-"Invalid customer id %1","Invalid customer id %1",module,Magento_Quote
-"Invalid address id %1","Invalid address id %1",module,Magento_Quote
-"Invalid customer address id %1","Invalid customer address id %1",module,Magento_Quote
-"Cannot create quote","Cannot create quote",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart belongs to different store.","Cannot assign customer to the given cart. The cart belongs to different store.",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart is not anonymous.","Cannot assign customer to the given cart. The cart is not anonymous.",module,Magento_Quote
-"Cannot assign customer to the given cart. Customer already has active cart.","Cannot assign customer to the given cart. Customer already has active cart.",module,Magento_Quote
-"Unable to place order. Please try again later.","Unable to place order. Please try again later.",module,Magento_Quote
-"Only 1 shipping assignment can be set","Only 1 shipping assignment can be set",module,Magento_Quote
-"This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout.",module,Magento_Quote
-"Please check the shipping address information. %1","Please check the shipping address information. %1",module,Magento_Quote
-"Please specify a shipping method.","Please specify a shipping method.",module,Magento_Quote
-"Please check the billing address information. %1","Please check the billing address information. %1",module,Magento_Quote
-"Please select a valid payment method.","Please select a valid payment method.",module,Magento_Quote
-"Store Credit","Store Credit",module,Magento_Quote
-Discount,Discount,module,Magento_Quote
-Tax,Tax,module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping address is not applicable.","Cart contains virtual product(s) only. Shipping address is not applicable.",module,Magento_Quote
-"Shipping address not set.","Shipping address not set.",module,Magento_Quote
-"Cannot set shipping method. %1","Cannot set shipping method. %1",module,Magento_Quote
-"Shipping method is not applicable for empty cart","Shipping method is not applicable for empty cart",module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping method is not applicable.","Cart contains virtual product(s) only. Shipping method is not applicable.",module,Magento_Quote
+"We found an invalid item option format.","Encontramos un formato de opción de artículo no válido.",module,Magento_Quote
+"An item option with code %1 already exists.","Ya existe una opción de artículo con el código %1.",module,Magento_Quote
+"Item qty declaration error","Error de declaración de cantidad de producto",module,Magento_Quote
+"Some of the products below do not have all the required options.","Algunos de los productos abajo no tienen todas las opciones requeridas.",module,Magento_Quote
+"Something went wrong during the item options declaration.","Algo ocurrió al intentar se declaraban las opciones de artículo.",module,Magento_Quote
+"We found an item options declaration error.","Encontramos un error de declaración de opciones de producto.",module,Magento_Quote
+"Some of the selected options are not currently available.","Algunas de las opciones seleccionadas no están disponibles ahora.",module,Magento_Quote
+"Selected option(s) or their combination is not currently available.","La(s) opción(es) seleccionada(s) o su combinación no está(n) disponible(s) ahora.",module,Magento_Quote
+"Some item options or their combination are not currently available.","Algunas de las opciones de artículo o su combinación no están disponibles ahora.",module,Magento_Quote
+"Cart %1 does not contain item %2","El carrito de compra %1 no contiene el artículo %2",module,Magento_Quote
+"Could not save quote","No se puede guardar la cotización",module,Magento_Quote
+"Cart %1 doesn't contain item  %2","El carrito %1 no contiene el artículo  %2",module,Magento_Quote
+"Could not remove item from quote","No se puede borrar el artículo de la cotización",module,Magento_Quote
+"The qty value is required to update quote item.","El valor de cantidad es necesario para actualizar la cotización del artículo.",module,Magento_Quote
+"Minimum order amount is %1","La cantidad mínima de orden es %1",module,Magento_Quote
+"Invalid customer id %1","El ID del cliente no es válido %1",module,Magento_Quote
+"Invalid address id %1","El ID de dirección no es válido %1",module,Magento_Quote
+"Invalid customer address id %1","El ID de dirección de cliente no es válido %1",module,Magento_Quote
+"Cannot create quote","No se puede crear la cotización",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart belongs to different store.","No podemos asignar el cliente al carrito. El carrito pertenece a una tienda diferente.",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart is not anonymous.","No podemos asignar el cliente al carrito. El carrito no es anónimo.",module,Magento_Quote
+"Cannot assign customer to the given cart. Customer already has active cart.","No podemos asignar el cliente al carrito. El cliente ya tiene un carrito activo.",module,Magento_Quote
+"Unable to place order. Please try again later.","No se puede colocar la orden. Por favor intente más tarde.",module,Magento_Quote
+"Only 1 shipping assignment can be set","Sólo se puede hacer una asignación de envío",module,Magento_Quote
+"This item price or quantity is not valid for checkout.","El precio de este artículo o su cantidad no son válidos para hacer el pedido.",module,Magento_Quote
+"Please check the shipping address information. %1","Por favor revise la información de dirección de envío. %1",module,Magento_Quote
+"Please specify a shipping method.","Por favor especifique un método de envío.",module,Magento_Quote
+"Please check the billing address information. %1","Por favor revise la información de dirección de facturación. %1",module,Magento_Quote
+"Please select a valid payment method.","Por favor seleccione un método de pago válido.",module,Magento_Quote
+"Store Credit","Crédito de Tienda",module,Magento_Quote
+Discount,Descuento,module,Magento_Quote
+Tax,Impuesto,module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping address is not applicable.","El carrito contiene sólo producto(s) virtual(es). No aplica una dirección de envío.",module,Magento_Quote
+"Shipping address not set.","No se ha fijado una dirección de envío.",module,Magento_Quote
+"Cannot set shipping method. %1","No se puede fijar una dirección de envío. %1",module,Magento_Quote
+"Shipping method is not applicable for empty cart","El método de envío no es aplicable a un carrito vacío",module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping method is not applicable.","El carrito contiene sólo producto(s) virtual(es). No aplica un método de envío.",module,Magento_Quote
 error123,error123,module,Magento_Quote
 error345,error345,module,Magento_Quote
-"New Accounts","New Accounts",module,Magento_Reports
-"Customers by number of orders","Customers by number of orders",module,Magento_Reports
-"Customers by Orders Total","Customers by Orders Total",module,Magento_Reports
-Filter,Filter,module,Magento_Reports
-"Date Used","Date Used",module,Magento_Reports
-Day,Day,module,Magento_Reports
-Month,Month,module,Magento_Reports
-Year,Year,module,Magento_Reports
-Period,Period,module,Magento_Reports
-From,From,module,Magento_Reports
-To,To,module,Magento_Reports
-Yes,Yes,module,Magento_Reports
+"New Accounts","Cuentas Nuevas",module,Magento_Reports
+"Customers by number of orders","Clientes por número de órdenes",module,Magento_Reports
+"Customers by Orders Total","Clientes por Total de ĺas Órdenes",module,Magento_Reports
+Filter,Filtro,module,Magento_Reports
+"Date Used","Fecha de Uso",module,Magento_Reports
+Day,Día,module,Magento_Reports
+Month,Mes,module,Magento_Reports
+Year,Año,module,Magento_Reports
+Period,Periodo,module,Magento_Reports
+From,De,module,Magento_Reports
+To,A,module,Magento_Reports
+Yes,Sí,module,Magento_Reports
 No,No,module,Magento_Reports
-"Empty Rows","Empty Rows",module,Magento_Reports
-"Invalid date specified","Invalid date specified",module,Magento_Reports
-Refresh,Refresh,module,Magento_Reports
-"We can't find records for this period.","We can't find records for this period.",module,Magento_Reports
-"Show Reviews","Show Reviews",module,Magento_Reports
-"Products Report","Products Report",module,Magento_Reports
-Downloads,Downloads,module,Magento_Reports
-Product,Product,module,Magento_Reports
-Link,Link,module,Magento_Reports
+"Empty Rows","Líneas Vacías",module,Magento_Reports
+"Invalid date specified","Fecha especificada no válida",module,Magento_Reports
+Refresh,Refrescar,module,Magento_Reports
+"We can't find records for this period.","No podemos encontrar registros para este periodo.",module,Magento_Reports
+"Show Reviews","Mostrar Opiniones",module,Magento_Reports
+"Products Report","Reporte de Productos",module,Magento_Reports
+Downloads,Descargas,module,Magento_Reports
+Product,Producto,module,Magento_Reports
+Link,Liga,module,Magento_Reports
 SKU,SKU,module,Magento_Reports
-Purchases,Purchases,module,Magento_Reports
+Purchases,Compras,module,Magento_Reports
 CSV,CSV,module,Magento_Reports
 "Excel XML","Excel XML",module,Magento_Reports
-Unlimited,Unlimited,module,Magento_Reports
-"Low stock","Low stock",module,Magento_Reports
-"Products Ordered","Products Ordered",module,Magento_Reports
-"Most Viewed","Most Viewed",module,Magento_Reports
-"Show Report","Show Report",module,Magento_Reports
-Interval,Interval,module,Magento_Reports
+Unlimited,Ilimitado,module,Magento_Reports
+"Low stock","Bajas existencias",module,Magento_Reports
+"Products Ordered","Productos Ordenados",module,Magento_Reports
+"Most Viewed","Más Vistos",module,Magento_Reports
+"Show Report","Mostrar Reporte",module,Magento_Reports
+Interval,Intervalo,module,Magento_Reports
 Total,Total,module,Magento_Reports
-Price,Price,module,Magento_Reports
-Views,Views,module,Magento_Reports
-"Refresh Statistics","Refresh Statistics",module,Magento_Reports
-"Customers Reviews","Customers Reviews",module,Magento_Reports
-"Reviews for %1","Reviews for %1",module,Magento_Reports
-Customer,Customer,module,Magento_Reports
-Title,Title,module,Magento_Reports
-Detail,Detail,module,Magento_Reports
-Created,Created,module,Magento_Reports
-"Products Reviews","Products Reviews",module,Magento_Reports
-"Products Bestsellers Report","Products Bestsellers Report",module,Magento_Reports
-"Order Quantity","Order Quantity",module,Magento_Reports
-"Coupons Usage Report","Coupons Usage Report",module,Magento_Reports
+Price,Precio,module,Magento_Reports
+Views,Vistas,module,Magento_Reports
+"Refresh Statistics","Refrescar Estadísticas",module,Magento_Reports
+"Customers Reviews","Opiniones de Clientes",module,Magento_Reports
+"Reviews for %1","Opiniones para %1",module,Magento_Reports
+Customer,Cliente,module,Magento_Reports
+Title,Título,module,Magento_Reports
+Detail,Detalle,module,Magento_Reports
+Created,Creado,module,Magento_Reports
+"Products Reviews","Opiniones de Productos",module,Magento_Reports
+"Products Bestsellers Report","Reporte de Productos Más Vendidos",module,Magento_Reports
+"Order Quantity","Cantidad de Orden",module,Magento_Reports
+"Coupons Usage Report","Reporte de Uso de Cupones",module,Magento_Reports
 Subtotal,Subtotal,module,Magento_Reports
-"Coupon Code","Coupon Code",module,Magento_Reports
-"Price Rule","Price Rule",module,Magento_Reports
-Uses,Uses,module,Magento_Reports
-"Sales Subtotal","Sales Subtotal",module,Magento_Reports
-"Sales Discount","Sales Discount",module,Magento_Reports
-"Sales Total","Sales Total",module,Magento_Reports
+"Coupon Code","Código de Cupón",module,Magento_Reports
+"Price Rule","Regla de Precio",module,Magento_Reports
+Uses,Usos,module,Magento_Reports
+"Sales Subtotal","Subtotal de Ventas",module,Magento_Reports
+"Sales Discount","Descuento de Ventas",module,Magento_Reports
+"Sales Total","Total de Ventas",module,Magento_Reports
 Discount,Discount,module,Magento_Reports
 "Total Invoiced vs. Paid Report","Total Invoiced vs. Paid Report",module,Magento_Reports
 Orders,Orders,module,Magento_Reports
