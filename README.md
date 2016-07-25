@@ -1,6 +1,10 @@
 # magento2-es_mx
 
+<<<<<<< HEAD
+Status: 58% (first translation)
+=======
 Status: 45% (first translation)
+>>>>>>> origin/test-edit
 #NO INSTALAR
 #NOT READY
 
