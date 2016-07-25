@@ -3876,6 +3876,7 @@ Uses,Usos,module,Magento_Reports
 "Sales Subtotal","Subtotal de Ventas",module,Magento_Reports
 "Sales Discount","Descuento de Ventas",module,Magento_Reports
 "Sales Total","Total de Ventas",module,Magento_Reports
+<<<<<<< HEAD
 Discount,Descuento,module,Magento_Reports
 "Total Invoiced vs. Paid Report","Total Facturado vs. Reporte de Pagos",module,Magento_Reports
 Orders,Órdenes,module,Magento_Reports
@@ -3909,6 +3910,41 @@ Carrier/Method,Transportista/Método,module,Magento_Reports
 Rate,Tarifa,module,Magento_Reports
 "Tax Amount","Monto de Impuesto",module,Magento_Reports
 "Abandoned carts","Carritos abandonados",module,Magento_Reports
+=======
+Discount,Discount,module,Magento_Reports
+"Total Invoiced vs. Paid Report","Total Invoiced vs. Paid Report",module,Magento_Reports
+Orders,Orders,module,Magento_Reports
+"Invoiced Orders","Invoiced Orders",module,Magento_Reports
+"Total Invoiced","Total Invoiced",module,Magento_Reports
+"Paid Invoices","Paid Invoices",module,Magento_Reports
+"Unpaid Invoices","Unpaid Invoices",module,Magento_Reports
+"Total Refunded Report","Total Refunded Report",module,Magento_Reports
+"Refunded Orders","Refunded Orders",module,Magento_Reports
+"Total Refunded","Total Refunded",module,Magento_Reports
+"Online Refunds","Online Refunds",module,Magento_Reports
+"Offline Refunds","Offline Refunds",module,Magento_Reports
+"Total Ordered Report","Total Ordered Report",module,Magento_Reports
+"Sales Items","Sales Items",module,Magento_Reports
+Items,Items,module,Magento_Reports
+Revenue,Revenue,module,Magento_Reports
+Profit,Profit,module,Magento_Reports
+Invoiced,Invoiced,module,Magento_Reports
+Paid,Paid,module,Magento_Reports
+Refunded,Refunded,module,Magento_Reports
+"Sales Tax","Sales Tax",module,Magento_Reports
+Tax,Tax,module,Magento_Reports
+"Sales Shipping","Sales Shipping",module,Magento_Reports
+Shipping,Shipping,module,Magento_Reports
+Canceled,Canceled,module,Magento_Reports
+"Total Shipped Report","Total Shipped Report",module,Magento_Reports
+Carrier/Method,Carrier/Method,module,Magento_Reports
+"Total Sales Shipping","Total Sales Shipping",module,Magento_Reports
+"Total Shipping","Total Shipping",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rate","Order Taxes Report Grouped by Tax Rate",module,Magento_Reports
+Rate,Rate,module,Magento_Reports
+"Tax Amount","Tax Amount",module,Magento_Reports
+"Abandoned carts","Abandoned carts",module,Magento_Reports
+>>>>>>> origin/test-edit
 Email,Email,module,Magento_Reports
 Products,Productos,module,Magento_Reports
 Quantity,Cantidad,module,Magento_Reports
