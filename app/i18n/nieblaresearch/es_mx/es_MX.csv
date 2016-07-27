@@ -6032,440 +6032,440 @@ Widgets,Widgets,module,Magento_Widget
 name,nombre,module,Magento_Widget
 description,descripción,module,Magento_Widget
 "We cannot create the widget instance because it is missing required information.","No podemos crear la instancia de widget porque le falta información que se requiere.",module,Magento_Widget
-None,None,module,Magento_Widget
+None,Ninguno,module,Magento_Widget
 %1,%1,module,Magento_Widget
-Container,Container,module,Magento_Widget
-Template,Template,module,Magento_Widget
-All,All,module,Magento_Widget
-"Specific %1","Specific %1",module,Magento_Widget
-"Open Chooser","Open Chooser",module,Magento_Widget
-Apply,Apply,module,Magento_Widget
-Page,Page,module,Magento_Widget
-"Wish List","Wish List",module,Magento_Wishlist
-"Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
-"My Wish List","My Wish List",module,Magento_Wishlist
-"%1's Wish List","%1's Wish List",module,Magento_Wishlist
-"Page not found.","Page not found.",module,Magento_Wishlist
-"We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
-"We can't add the item to Wish List right now: %1.","We can't add the item to Wish List right now: %1.",module,Magento_Wishlist
-"We can't add the item to Wish List right now.","We can't add the item to Wish List right now.",module,Magento_Wishlist
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_Wishlist
-"This product(s) is out of stock.","This product(s) is out of stock.",module,Magento_Wishlist
-"We can't add the item to the cart right now.","We can't add the item to the cart right now.",module,Magento_Wishlist
-"We can't load the Wish List item right now.","We can't load the Wish List item right now.",module,Magento_Wishlist
-"We can't configure the product right now.","We can't configure the product right now.",module,Magento_Wishlist
-"The requested cart item doesn't exist.","The requested cart item doesn't exist.",module,Magento_Wishlist
-"%1 has been moved to your wish list.","%1 has been moved to your wish list.",module,Magento_Wishlist
-"We can't move the item to the wish list.","We can't move the item to the wish list.",module,Magento_Wishlist
-"We can't delete the item from Wish List right now because of an error: %1.","We can't delete the item from Wish List right now because of an error: %1.",module,Magento_Wishlist
-"We can't delete the item from the Wish List right now.","We can't delete the item from the Wish List right now.",module,Magento_Wishlist
-"Message length must not exceed %1 symbols","Message length must not exceed %1 symbols",module,Magento_Wishlist
-"Please enter an email address.","Please enter an email address.",module,Magento_Wishlist
-"This wish list can be shared %1 more times.","This wish list can be shared %1 more times.",module,Magento_Wishlist
-"Please enter a valid email address.","Please enter a valid email address.",module,Magento_Wishlist
-"Your wish list has been shared.","Your wish list has been shared.",module,Magento_Wishlist
-"We can't delete item from Wish List right now.","We can't delete item from Wish List right now.",module,Magento_Wishlist
-"Can't save description %1","Can't save description %1",module,Magento_Wishlist
-"Can't update wish list","Can't update wish list",module,Magento_Wishlist
-"%1 has been updated in your Wish List.","%1 has been updated in your Wish List.",module,Magento_Wishlist
-"We can't update your Wish List right now.","We can't update your Wish List right now.",module,Magento_Wishlist
-"The requested Wish List doesn't exist.","The requested Wish List doesn't exist.",module,Magento_Wishlist
-"We can't create the Wish List right now.","We can't create the Wish List right now.",module,Magento_Wishlist
-"%1 items","%1 items",module,Magento_Wishlist
-"1 item","1 item",module,Magento_Wishlist
-Comment,Comment,module,Magento_Wishlist
-"Display number of items in wish list","Display number of items in wish list",module,Magento_Wishlist
-"Display item quantities","Display item quantities",module,Magento_Wishlist
-"An item option with code %1 already exists.","An item option with code %1 already exists.",module,Magento_Wishlist
-"We can't specify a wish list.","We can't specify a wish list.",module,Magento_Wishlist
-"Cannot specify product.","Cannot specify product.",module,Magento_Wishlist
-"Product is not salable.","Product is not salable.",module,Magento_Wishlist
-"Invalid item option format.","Invalid item option format.",module,Magento_Wishlist
-"%1 for ""%2"".","%1 for ""%2"".",module,Magento_Wishlist
-"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Wishlist
-"We couldn't add the following product(s) to the shopping cart: %1.","We couldn't add the following product(s) to the shopping cart: %1.",module,Magento_Wishlist
-"We can't update the Wish List right now.","We can't update the Wish List right now.",module,Magento_Wishlist
-"%1 product(s) have been added to shopping cart: %2.","%1 product(s) have been added to shopping cart: %2.",module,Magento_Wishlist
-Comment:,Comment:,module,Magento_Wishlist
-"We cannot retrieve the Wish List.","We cannot retrieve the Wish List.",module,Magento_Wishlist
-"%1's Wishlist","%1's Wishlist",module,Magento_Wishlist
-"We can't specify a wish list item.","We can't specify a wish list item.",module,Magento_Wishlist
-"The product does not exist.","The product does not exist.",module,Magento_Wishlist
-"Test Phrase","Test Phrase",module,Magento_Wishlist
-message,message,module,Magento_Wishlist
-Message,Message,module,Magento_Wishlist
-error-message,error-message,module,Magento_Wishlist
+Container,Contenedor,module,Magento_Widget
+Template,Plantilla,module,Magento_Widget
+All,Todos,module,Magento_Widget
+"Specific %1","%1 Específico",module,Magento_Widget
+"Open Chooser","Abrir Selector",module,Magento_Widget
+Apply,Aplicar,module,Magento_Widget
+Page,Página,module,Magento_Widget
+"Wish List","Lista de Deseos",module,Magento_Wishlist
+"Wish List Sharing","Compartir Lista de Deseos",module,Magento_Wishlist
+"My Wish List","Mi Lista de Deseos,module,Magento_Wishlist
+"%1's Wish List","Lista de Deseos de %1",module,Magento_Wishlist
+"Page not found.","Página no encontrada.",module,Magento_Wishlist
+"We can't specify a product.","No podemos especificar un producto.",module,Magento_Wishlist
+"We can't add the item to Wish List right now: %1.","No podemos añadir el artículo a la Lista de Deseos en este momento: %1.",module,Magento_Wishlist
+"We can't add the item to Wish List right now.","No podemos añadir el artículo a la Lista de Deseos en este momento.",module,Magento_Wishlist
+"You added %1 to your shopping cart.","Añadió %1 a su carrito de compras.",module,Magento_Wishlist
+"This product(s) is out of stock.","Este(os) producto(s) no está(n) en existencia.",module,Magento_Wishlist
+"We can't add the item to the cart right now.","No podemos añadir el artículo al carrito en este momento.",module,Magento_Wishlist
+"We can't load the Wish List item right now.","No podemos cargar el elemento de la Lista de Deseos en este momento.",module,Magento_Wishlist
+"We can't configure the product right now.","No podemos configurar el producto en este momento.",module,Magento_Wishlist
+"The requested cart item doesn't exist.","El artículo solicitado del carrito no existe.",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 ha sido movido a su lista de deseos.",module,Magento_Wishlist
+"We can't move the item to the wish list.","No podemos mover el artículo a la lista de deseos.",module,Magento_Wishlist
+"We can't delete the item from Wish List right now because of an error: %1.","No podemos borrar el artículo de la Lista de Deseos en este momento debido a un error: %1.",module,Magento_Wishlist
+"We can't delete the item from the Wish List right now.","No podemos borrar el artículo de la Lista de Deseos en este momento.",module,Magento_Wishlist
+"Message length must not exceed %1 symbols","La longitud del mensaje no debe exceder %1 símbolos",module,Magento_Wishlist
+"Please enter an email address.","Por favor ingrese un email.",module,Magento_Wishlist
+"This wish list can be shared %1 more times.","Esta lista de deseos puede compartirse %1 vez(ces) más.",module,Magento_Wishlist
+"Please enter a valid email address.","Por favor ingrese un email válido.",module,Magento_Wishlist
+"Your wish list has been shared.","Se ha compartido su lista de deseos.",module,Magento_Wishlist
+"We can't delete item from Wish List right now.","No podemos borrar el artículo de la Lista de Deseos en este momento.",module,Magento_Wishlist
+"Can't save description %1","No se puede guardar la descripción %1",module,Magento_Wishlist
+"Can't update wish list","No se puede actualizar la lista de deseos",module,Magento_Wishlist
+"%1 has been updated in your Wish List.","%1 se ha actualizado en su Lista de Deseos.",module,Magento_Wishlist
+"We can't update your Wish List right now.","No podemos actualizar su Lista de Deseos en este momento.",module,Magento_Wishlist
+"The requested Wish List doesn't exist.","La Lista de Deseos solicitada no existe.",module,Magento_Wishlist
+"We can't create the Wish List right now.","No podemos crear la Lista de Deseos en este momento.",module,Magento_Wishlist
+"%1 items","%1 artículos",module,Magento_Wishlist
+"1 item","1 artículo",module,Magento_Wishlist
+Comment,Comentario,module,Magento_Wishlist
+"Display number of items in wish list","Despliega el número de artículos en la lista de deseos",module,Magento_Wishlist
+"Display item quantities","Despliega las cantidades de artículos",module,Magento_Wishlist
+"An item option with code %1 already exists.","iYa existe una opción de artículo con el código %1.",module,Magento_Wishlist
+"We can't specify a wish list.","No podemos especificar una lista de deseos.",module,Magento_Wishlist
+"Cannot specify product.","No se puede especificar producto.",module,Magento_Wishlist
+"Product is not salable.","El producto no es vendible.",module,Magento_Wishlist
+"Invalid item option format.","Formato de opción de artículo no válido.",module,Magento_Wishlist
+"%1 for ""%2"".","%1 por ""%2"".",module,Magento_Wishlist
+"We can't add this item to your shopping cart right now.","No podemos añadir este artículo a su carrito de compras en este momento.",module,Magento_Wishlist
+"We couldn't add the following product(s) to the shopping cart: %1.","No podemos añadir el/los siguiente(s) producto(s) al carrito de compras: %1.",module,Magento_Wishlist
+"We can't update the Wish List right now.","No podemos actualizar la Lista de Deseos en este momento.",module,Magento_Wishlist
+"%1 product(s) have been added to shopping cart: %2.","Se añadió(eron) %1 product(os) al carrito de compras: %2.",module,Magento_Wishlist
+Comment:,Comentario:,module,Magento_Wishlist
+"We cannot retrieve the Wish List.","No podemos obtener la Lista de Deseos.",module,Magento_Wishlist
+"%1's Wishlist","Lista de Deseos de %1",module,Magento_Wishlist
+"We can't specify a wish list item.","No podemos especificar un artículo de la lista de deseos.",module,Magento_Wishlist
+"The product does not exist.","El producto no existe.",module,Magento_Wishlist
+"Test Phrase","Frase de Prueba",module,Magento_Wishlist
+message,mensaje,module,Magento_Wishlist
+Message,Mensaje,module,Magento_Wishlist
+error-message,"mensaje de error",module,Magento_Wishlist
 LocalizedException,LocalizedException,module,Magento_Wishlist
-"Product Exception.","Product Exception.",module,Magento_Wishlist
-"Localized Exception.","Localized Exception.",module,Magento_Wishlist
-"Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_Wishlist
-"Share Wish List","Share Wish List",module,Magento_Wishlist
-"Add All to Cart","Add All to Cart",module,Magento_Wishlist
-"Update Wish List","Update Wish List",module,Magento_Wishlist
-"Move to Wishlist","Move to Wishlist",module,Magento_Wishlist
-"View Product","View Product",module,Magento_Wishlist
-Qty,Qty,module,Magento_Wishlist
-"Add to Cart","Add to Cart",module,Magento_Wishlist
-Availability,Availability,module,Magento_Wishlist
-"In stock","In stock",module,Magento_Wishlist
-"Out of stock","Out of stock",module,Magento_Wishlist
-Edit,Edit,module,Magento_Wishlist
-"Remove Item","Remove Item",module,Magento_Wishlist
-"Remove item","Remove item",module,Magento_Wishlist
-"Add to Compare","Add to Compare",module,Magento_Wishlist
-"This Wish List has no Items","This Wish List has no Items",module,Magento_Wishlist
-"%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
-"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Wishlist
-"See Details","See Details",module,Magento_Wishlist
-"Options Details","Options Details",module,Magento_Wishlist
-"RSS link to %1's wishlist","RSS link to %1's wishlist",module,Magento_Wishlist
-"RSS Feed","RSS Feed",module,Magento_Wishlist
-Product,Product,module,Magento_Wishlist
-"Add to Wish List","Add to Wish List",module,Magento_Wishlist
-Back,Back,module,Magento_Wishlist
-"Wish List is empty now.","Wish List is empty now.",module,Magento_Wishlist
-"* Required Fields","* Required Fields",module,Magento_Wishlist
-"Sharing Information","Sharing Information",module,Magento_Wishlist
-"Email addresses, separated by commas","Email addresses, separated by commas",module,Magento_Wishlist
-"Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
-"Last Added Items","Last Added Items",module,Magento_Wishlist
-"Remove This Item","Remove This Item",module,Magento_Wishlist
-"Go to Wish List","Go to Wish List",module,Magento_Wishlist
-"You have no items in your wish list.","You have no items in your wish list.",module,Magento_Wishlist
-"Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
-Previous,Previous,theme,frontend/Magento/luma
-Remove,Remove,theme,frontend/Magento/luma
-"Remove This Item","Remove This Item",theme,frontend/Magento/luma
-"Shop By","Shop By",theme,frontend/Magento/luma
-"Clear All","Clear All",theme,frontend/Magento/luma
-"Shopping Options","Shopping Options",theme,frontend/Magento/luma
-"Place Order","Place Order",module,Magento_Authorizenet
-"Credit Card Information","Credit Card Information",module,Magento_Braintree
-"What is this?","What is this?",module,Magento_Braintree
-"Save for later use.","Save for later use.",module,Magento_Braintree
-"Place Order","Place Order",module,Magento_Braintree
-"Attention: Captcha is case sensitive.","Attention: Captcha is case sensitive.",module,Magento_Captcha
-"Payment Transaction Failed Reminder","Payment Transaction Failed Reminder",module,Magento_Checkout
-"Payment Transaction Failed","Payment Transaction Failed",module,Magento_Checkout
-Reason,Reason,module,Magento_Checkout
-"Checkout Type","Checkout Type",module,Magento_Checkout
-Customer:,Customer:,module,Magento_Checkout
-Items,Items,module,Magento_Checkout
+"Product Exception.","Excepción de Producto.",module,Magento_Wishlist
+"Localized Exception.","Excepción de Localización.",module,Magento_Wishlist
+"Are you sure you want to remove this item?","¿Está seguro de querer remover este artículo?",module,Magento_Wishlist
+"Share Wish List","Compartir Lista de Deseos",module,Magento_Wishlist
+"Add All to Cart","Añadir Todo al Carrito",module,Magento_Wishlist
+"Update Wish List","Actualizar Lista de Deseos",module,Magento_Wishlist
+"Move to Wishlist","Mover a Lista de Deseos",module,Magento_Wishlist
+"View Product","Ver Producto",module,Magento_Wishlist
+Qty,Cantidad,module,Magento_Wishlist
+"Add to Cart","Añadir al Carrito",module,Magento_Wishlist
+Availability,Disponibilidad,module,Magento_Wishlist
+"In stock","En Existencias",module,Magento_Wishlist
+"Out of stock","Sin Existencias",module,Magento_Wishlist
+Edit,Editar,module,Magento_Wishlist
+"Remove Item","Remover Artículo",module,Magento_Wishlist
+"Remove item","Remover artículo",module,Magento_Wishlist
+"Add to Compare","Añadir a Comparar",module,Magento_Wishlist
+"This Wish List has no Items","Esta Lista de Deseos no tiene Artículos",module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 se ha añadido a su Lista de Deseos.",module,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">aquí</a> para continuar comprando.",module,Magento_Wishlist
+"See Details","Ver Detalles",module,Magento_Wishlist
+"Options Details","Detalles de las Opciones",module,Magento_Wishlist
+"RSS link to %1's wishlist","Liga RSS a la lista de deseos de %1",module,Magento_Wishlist
+"RSS Feed","Feed RSS",module,Magento_Wishlist
+Product,Producto,module,Magento_Wishlist
+"Add to Wish List","Añadir a la Lista de Deseos",module,Magento_Wishlist
+Back,Regresar,module,Magento_Wishlist
+"Wish List is empty now.","La Lista de Deseos está limpia ahora.",module,Magento_Wishlist
+"* Required Fields","* Campos Obligatorios",module,Magento_Wishlist
+"Sharing Information","Información de Compartir",module,Magento_Wishlist
+"Email addresses, separated by commas","Emails, separados por comas",module,Magento_Wishlist
+"Check here to link an RSS feed to your Wish List.","Seleccione esta casilla para ligar un feed RSS a su Lista de Deseos.",module,Magento_Wishlist
+"Last Added Items","Artículos Añadidos Recientemente",module,Magento_Wishlist
+"Remove This Item","Remover Este Artículo",module,Magento_Wishlist
+"Go to Wish List","Ir a Lista de Deseos",module,Magento_Wishlist
+"You have no items in your wish list.","No tiene artículos en su lista de deseos.",module,Magento_Wishlist
+"Now Shopping by","Ahora Comprando por",theme,frontend/Magento/luma
+Previous,Anterior,theme,frontend/Magento/luma
+Remove,Remover,theme,frontend/Magento/luma
+"Remove This Item","Remover Este Artículo",theme,frontend/Magento/luma
+"Shop By","Comprar Por",theme,frontend/Magento/luma
+"Clear All","Limpiar Todo",theme,frontend/Magento/luma
+"Shopping Options","Opciones de Compra",theme,frontend/Magento/luma
+"Place Order","Colocar Orden",module,Magento_Authorizenet
+"Credit Card Information","Información de Tarjeta de Crédito",module,Magento_Braintree
+"What is this?","¿Qué es esto?",module,Magento_Braintree
+"Save for later use.","Guardar para uso posterior.",module,Magento_Braintree
+"Place Order","Colocar Orden",module,Magento_Braintree
+"Attention: Captcha is case sensitive.","Atencion: Captcha es sensible a mayúsculas/minúsculas.",module,Magento_Captcha
+"Payment Transaction Failed Reminder","Recordatorio de Fallo de Transacción de Pago",module,Magento_Checkout
+"Payment Transaction Failed","Falló la Transacción de Pago",module,Magento_Checkout
+Reason,Razón,module,Magento_Checkout
+"Checkout Type","Tipo de Compra",module,Magento_Checkout
+Customer:,Cliente:,module,Magento_Checkout
+Items,Artículos,module,Magento_Checkout
 Total:,Total:,module,Magento_Checkout
-"Billing Address:","Billing Address:",module,Magento_Checkout
-"Shipping Address:","Shipping Address:",module,Magento_Checkout
-"Shipping Method:","Shipping Method:",module,Magento_Checkout
-"Payment Method:","Payment Method:",module,Magento_Checkout
-"Date & Time:","Date & Time:",module,Magento_Checkout
-"Sign In","Sign In",module,Magento_Checkout
-"Email Address","Email Address",module,Magento_Checkout
-Password,Password,module,Magento_Checkout
-"Forgot Your Password?","Forgot Your Password?",module,Magento_Checkout
-"My billing and shipping address are the same","My billing and shipping address are the same",module,Magento_Checkout
-Update,Update,module,Magento_Checkout
-Cancel,Cancel,module,Magento_Checkout
-"Save in address book","Save in address book",module,Magento_Checkout
-"Estimated Total","Estimated Total",module,Magento_Checkout
-"You can create an account after checkout.","You can create an account after checkout.",module,Magento_Checkout
-"You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Magento_Checkout
-Login,Login,module,Magento_Checkout
-Close,Close,module,Magento_Checkout
-item,item,module,Magento_Checkout
-items,items,module,Magento_Checkout
-"Go to Checkout","Go to Checkout",module,Magento_Checkout
-"Recently added item(s)","Recently added item(s)",module,Magento_Checkout
-"View and edit cart","View and edit cart",module,Magento_Checkout
-"See Details","See Details",module,Magento_Checkout
-"Options Details","Options Details",module,Magento_Checkout
-Remove,Remove,module,Magento_Checkout
-"Cart Subtotal","Cart Subtotal",module,Magento_Checkout
-"No Payment Methods","No Payment Methods",module,Magento_Checkout
-"Payment Information","Payment Information",module,Magento_Checkout
-"No Payment method available.","No Payment method available.",module,Magento_Checkout
-"You can track your order status by creating an account.","You can track your order status by creating an account.",module,Magento_Checkout
-"Place Order","Place Order",module,Magento_Checkout
-"Forgot an Item?","Forgot an Item?",module,Magento_Checkout
-"Edit Your Cart","Edit Your Cart",module,Magento_Checkout
-"Ship Here","Ship Here",module,Magento_Checkout
-"Ship To:","Ship To:",module,Magento_Checkout
-edit,edit,module,Magento_Checkout
-"Shipping Address","Shipping Address",module,Magento_Checkout
-"New Address","New Address",module,Magento_Checkout
-"Shipping Methods","Shipping Methods",module,Magento_Checkout
-"Select Method","Select Method",module,Magento_Checkout
-"Method Title","Method Title",module,Magento_Checkout
-"Carrier Title","Carrier Title",module,Magento_Checkout
-Next,Next,module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
-"Order Summary","Order Summary",module,Magento_Checkout
-"Item in Cart","Item in Cart",module,Magento_Checkout
-"Items in Cart","Items in Cart",module,Magento_Checkout
-"View Details","View Details",module,Magento_Checkout
-"Contact Form","Contact Form",module,Magento_Contact
-"Name: %name","Name: %name",module,Magento_Contact
+"Billing Address:","Dirección de Facturación:",module,Magento_Checkout
+"Shipping Address:","Dirección de Envío:",module,Magento_Checkout
+"Shipping Method:","Método de Envío:",module,Magento_Checkout
+"Payment Method:","Método de Pago:",module,Magento_Checkout
+"Date & Time:","Fecha y Hora:",module,Magento_Checkout
+"Sign In","Ingresar",module,Magento_Checkout
+"Email Address","Email",module,Magento_Checkout
+Password,Contraseña,module,Magento_Checkout
+"Forgot Your Password?","¿Olvidó Su Contraseña?",module,Magento_Checkout
+"My billing and shipping address are the same","Mis direcciones de facturación y envío son la misma",module,Magento_Checkout
+Update,Actualizar,module,Magento_Checkout
+Cancel,Cancelar,module,Magento_Checkout
+"Save in address book","Guardar en libreta de direcciones",module,Magento_Checkout
+"Estimated Total","Total Estimado",module,Magento_Checkout
+"You can create an account after checkout.","Puede crear una cuenta despues de comprar.",module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.","Ya tiene una cuenta con nosotros. Ingrese o continue como invitado.",module,Magento_Checkout
+Login,Ingreso,module,Magento_Checkout
+Close,Cerrar,module,Magento_Checkout
+item,artículo,module,Magento_Checkout
+items,artículos,module,Magento_Checkout
+"Go to Checkout","Ir a ordenar",module,Magento_Checkout
+"Recently added item(s)","Artículo(s) recientemente ordenado(s)",module,Magento_Checkout
+"View and edit cart","Ver y editar carrito",module,Magento_Checkout
+"See Details","Ver Detalles",module,Magento_Checkout
+"Options Details","Detalles de Opciones",module,Magento_Checkout
+Remove,Remover,module,Magento_Checkout
+"Cart Subtotal","Subtotal del Carrito",module,Magento_Checkout
+"No Payment Methods","No Hay Métodos de Pago",module,Magento_Checkout
+"Payment Information","Información de Pago",module,Magento_Checkout
+"No Payment method available.","No hay un Método de Pago disponible.",module,Magento_Checkout
+"You can track your order status by creating an account.","Puede rastrear el estado de su orden creando una cuenta.",module,Magento_Checkout
+"Place Order","Colocar Orden",module,Magento_Checkout
+"Forgot an Item?","¿Olvidó un Artículo?",module,Magento_Checkout
+"Edit Your Cart","Editar Su Carrito",module,Magento_Checkout
+"Ship Here","Enviar Aquí",module,Magento_Checkout
+"Ship To:","Enviar A:",module,Magento_Checkout
+edit,editar,module,Magento_Checkout
+"Shipping Address","Dirección de Envío",module,Magento_Checkout
+"New Address","Nueva Dirección",module,Magento_Checkout
+"Shipping Methods","Métodos de Envío",module,Magento_Checkout
+"Select Method","Seleccionar Método",module,Magento_Checkout
+"Method Title","Título de Método",module,Magento_Checkout
+"Carrier Title","Título de Transportista",module,Magento_Checkout
+Next,Siguiente,module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Lo sentimos, no hay cotizaciones disponibles para esta orden en este momento",module,Magento_Checkout
+"Order Summary","Resumen de la Orden",module,Magento_Checkout
+"Item in Cart","Artículo en Carrito",module,Magento_Checkout
+"Items in Cart","Artículos en Carrito",module,Magento_Checkout
+"View Details","Ver Detalles",module,Magento_Checkout
+"Contact Form","Forma de Contacto",module,Magento_Contact
+"Name: %name","Nombre: %name",module,Magento_Contact
 "Email: %email","Email: %email",module,Magento_Contact
-"Phone Number: %telephone","Phone Number: %telephone",module,Magento_Contact
-"Comment: %comment","Comment: %comment",module,Magento_Contact
-"Welcome to %store_name","Welcome to %store_name",module,Magento_Customer
+"Phone Number: %telephone","Número Telefónico: %telephone",module,Magento_Contact
+"Comment: %comment","Comentario: %comment",module,Magento_Contact
+"Welcome to %store_name","Bienvenido a %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
-"Welcome to %store_name.","Welcome to %store_name.",module,Magento_Customer
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Customer
+"Welcome to %store_name.","Bienvenido a  %store_name.",module,Magento_Customer
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Para ingresar a nuestro sitio, use estras credenciales durante la orden o en la página <a href=""%customer_url"">Mi Cuenta</a> page:",module,Magento_Customer
 Email:,Email:,module,Magento_Customer
-Password:,Password:,module,Magento_Customer
-"Password you set when creating account","Password you set when creating account",module,Magento_Customer
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Customer
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Customer
-"Proceed through checkout faster","Proceed through checkout faster",module,Magento_Customer
-"Check the status of orders","Check the status of orders",module,Magento_Customer
-"View past orders","View past orders",module,Magento_Customer
-"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Customer
-"Please confirm your %store_name account","Please confirm your %store_name account",module,Magento_Customer
-"You must confirm your %customer_email email before you can sign in (link is only valid once):","You must confirm your %customer_email email before you can sign in (link is only valid once):",module,Magento_Customer
-"Confirm Your Account","Confirm Your Account",module,Magento_Customer
-"Thank you for confirming your %store_name account.","Thank you for confirming your %store_name account.",module,Magento_Customer
-"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:",module,Magento_Customer
-"Your %store_name email has been changed","Your %store_name email has been changed",module,Magento_Customer
-"Hello,","Hello,",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email.","We have received a request to change the following information associated with your account at %store_name: email.",module,Magento_Customer
-"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
-"Thanks,<br>%store_name","Thanks,<br>%store_name",module,Magento_Customer
-"Your %store_name email and password has been changed","Your %store_name email and password has been changed",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email, password.","We have received a request to change the following information associated with your account at %store_name: email, password.",module,Magento_Customer
-"Reset your %store_name password","Reset your %store_name password",module,Magento_Customer
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_Customer
-"If you requested this change, set a new password here:","If you requested this change, set a new password here:",module,Magento_Customer
-"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_Customer
-"Your %store_name password has been changed","Your %store_name password has been changed",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: password.","We have received a request to change the following information associated with your account at %store_name: password.",module,Magento_Customer
-"Checkout out as a new customer","Checkout out as a new customer",module,Magento_Customer
-"Creating an account has many benefits:","Creating an account has many benefits:",module,Magento_Customer
-"See order and shipping status","See order and shipping status",module,Magento_Customer
-"Track order history","Track order history",module,Magento_Customer
-"Check out faster","Check out faster",module,Magento_Customer
-"Checkout out using your account","Checkout out using your account",module,Magento_Customer
-"Email Address","Email Address",module,Magento_Customer
-"Currency Update Warnings","Currency Update Warnings",module,Magento_Directory
-Footer,Footer,module,Magento_Email
-"Thank you, %store_name","Thank you, %store_name",module,Magento_Email
-Header,Header,module,Magento_Email
-"Gift Message (optional)","Gift Message (optional)",module,Magento_GiftMessage
-To:,To:,module,Magento_GiftMessage
-From:,From:,module,Magento_GiftMessage
-Message:,Message:,module,Magento_GiftMessage
-Update,Update,module,Magento_GiftMessage
-"Gift options","Gift options",module,Magento_GiftMessage
-Edit,Edit,module,Magento_GiftMessage
-Delete,Delete,module,Magento_GiftMessage
-"Newsletter subscription confirmation","Newsletter subscription confirmation",module,Magento_Newsletter
-"Thank you for subscribing to our newsletter.","Thank you for subscribing to our newsletter.",module,Magento_Newsletter
-"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",module,Magento_Newsletter
-"Newsletter subscription success","Newsletter subscription success",module,Magento_Newsletter
-"You have been successfully subscribed to our newsletter.","You have been successfully subscribed to our newsletter.",module,Magento_Newsletter
-"Newsletter unsubscription success","Newsletter unsubscription success",module,Magento_Newsletter
-"You have been unsubscribed from the newsletter.","You have been unsubscribed from the newsletter.",module,Magento_Newsletter
-"Place Order","Place Order",module,Magento_OfflinePayments
-"Place Order","Place Order",module,Magento_Payment
-"Forgot an Item?","Forgot an Item?",module,Magento_Payment
-"Edit Your Cart","Edit Your Cart",module,Magento_Payment
-"Sign a billing agreement to streamline further purchases with PayPal.","Sign a billing agreement to streamline further purchases with PayPal.",module,Magento_Paypal
-"Continue to PayPal","Continue to PayPal",module,Magento_Paypal
-"Save credit card information for future use.","Save credit card information for future use.",module,Magento_Paypal
-"Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
-"Product alerts Cron error","Product alerts Cron error",module,Magento_ProductAlert
-"Product alerts cron warnings","Product alerts cron warnings",module,Magento_ProductAlert
-"Products price changed alert","Products price changed alert",module,Magento_ProductAlert
+Password:,Contraseña:,module,Magento_Customer
+"Password you set when creating account","La contraseña que usó al crear la cuenta",module,Magento_Customer
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","¿Olvidó la contraseña de su cuenta? Click <a href=""%reset_url"">aquí</a> para reiniciarla.",module,Magento_Customer
+"When you sign in to your account, you will be able to:","Cuando ingrese a su cuenta, usted podrá:",module,Magento_Customer
+"Proceed through checkout faster","Proceder más rápido con las órdenes",module,Magento_Customer
+"Check the status of orders","Revisar el estado de las órdenes",module,Magento_Customer
+"View past orders","Ver órdenes anteriores",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Dirección alternativa de la tienda (para envíos a varios miembros de la familia y amigos)",module,Magento_Customer
+"Please confirm your %store_name account","Por favor confirme su cuenta en %store_name",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","Debe confirmar eu email %customer_email antes de poder ingresar (la liga es válida sólo una vez):",module,Magento_Customer
+"Confirm Your Account","Confirme Su Cuenta",module,Magento_Customer
+"Thank you for confirming your %store_name account.","Gracias por confirmar su cuenta en %store_name.",module,Magento_Customer
+"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Para ingresear a nuestro sitio y fijar una contraseña, haga click en la <a href=""%create_password_url"">liga</a>:",module,Magento_Customer
+"Your %store_name email has been changed","Su email en %store_name ha cambiado",module,Magento_Customer
+"Hello,","Hola,",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email.","Recibimos una solicitud de cambio de la siguiente información asociada con su cuenta en %store_name: email.",module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Si usted no ha autorizado esta acción, por favor contáctenos de inmediato en <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","o llámenos al <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
+"Thanks,<br>%store_name","Gracias,<br>%store_name",module,Magento_Customer
+"Your %store_name email and password has been changed","Su email y contraseña en  %store_name han cambiado",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Recibimos una solicitud de cambio de la siguiente información asociada con su cuenta en  %store_name: email, contraseña.",module,Magento_Customer
+"Reset your %store_name password","Reiniciar su contraseña en %store_name",module,Magento_Customer
+"There was recently a request to change the password for your account.","Recientemente hubo una solicitud de cambio de la contraseña de su cuenta.",module,Magento_Customer
+"If you requested this change, set a new password here:","Si usted solicitó este cambio, fije una nueva contraseña aquí:",module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.","Si usted no hizo esta solicitud, puede ignorar este email y su contraseña seguirá siendo la misma.",module,Magento_Customer
+"Your %store_name password has been changed","Ha cambiado su contraseña en %store_name",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: password.","Recibimos una solicitud de cambio de la siguiente información asociada con su cuenta en  %store_name: contraseña.",module,Magento_Customer
+"Checkout out as a new customer","Ordenar como un nuevo cliente",module,Magento_Customer
+"Creating an account has many benefits:","Crear una cuenta tiene muchos beneficios:",module,Magento_Customer
+"See order and shipping status","Ver el estado de una orden y su envío",module,Magento_Customer
+"Track order history","Rastrear su historial de órdenes",module,Magento_Customer
+"Check out faster","Ordenar más rápido",module,Magento_Customer
+"Checkout out using your account","Ordenar usando su cuenta",module,Magento_Customer
+"Email Address","Email",module,Magento_Customer
+"Currency Update Warnings","Advertencias de Actualización de Monedas",module,Magento_Directory
+Footer,Pié,module,Magento_Email
+"Thank you, %store_name","Gracias, %store_name",module,Magento_Email
+Header,Encabezado,module,Magento_Email
+"Gift Message (optional)","Mensaje de Regalo (opcional)",module,Magento_GiftMessage
+To:,A:,module,Magento_GiftMessage
+From:,De:,module,Magento_GiftMessage
+Message:,Mensaje:,module,Magento_GiftMessage
+Update,Actualizar,module,Magento_GiftMessage
+"Gift options","Opciones de regalo",module,Magento_GiftMessage
+Edit,Editar,module,Magento_GiftMessage
+Delete,Borrar,module,Magento_GiftMessage
+"Newsletter subscription confirmation","Cofirmación de suscripción al boletín",module,Magento_Newsletter
+"Thank you for subscribing to our newsletter.","Gracias por su suscripción a nuestro boletín.",module,Magento_Newsletter
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Para empezar a recibir el boletín, primero debe confirmar su suscripción haciendo click en la siguiente liga:",module,Magento_Newsletter
+"Newsletter subscription success","Suscripción al boletín exitosa",module,Magento_Newsletter
+"You have been successfully subscribed to our newsletter.","Se ha suscrito a nuestro boletín con éxito.",module,Magento_Newsletter
+"Newsletter unsubscription success","Desuscripción del boletín exitosa",module,Magento_Newsletter
+"You have been unsubscribed from the newsletter.","Se ha desuscrito del boletín.",module,Magento_Newsletter
+"Place Order","Colocar Orden",module,Magento_OfflinePayments
+"Place Order","Colocar Orden",module,Magento_Payment
+"Forgot an Item?","¿Olvidó un Artículo?",module,Magento_Payment
+"Edit Your Cart","Editar Su Carrito",module,Magento_Payment
+"Sign a billing agreement to streamline further purchases with PayPal.","Firmar un acuerdo de facturación para facilitar compras futuras con PayPal.",module,Magento_Paypal
+"Continue to PayPal","Continuar a PayPal",module,Magento_Paypal
+"Save credit card information for future use.","Guardar información de tarjeta de crédito para uso futuro.",module,Magento_Paypal
+"Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Seleccione 'Recordarme' para accesar a su carrito de compras en esta computadora incluso sin haber ingresado.",module,Magento_Persistent
+"Product alerts Cron error","Error de Cron de alertas de Producto",module,Magento_ProductAlert
+"Product alerts cron warnings","Advertencias de cron de alertas de Producto",module,Magento_ProductAlert
+"Products price changed alert","Alertas de cambios de precio de Productos",module,Magento_ProductAlert
 "%name,","%name,",module,Magento_ProductAlert
-"Products back in stock alert","Products back in stock alert",module,Magento_ProductAlert
-"Apply Discount Code","Apply Discount Code",module,Magento_SalesRule
-"Enter discount code","Enter discount code",module,Magento_SalesRule
-"Apply Discount","Apply Discount",module,Magento_SalesRule
-"Cancel coupon","Cancel coupon",module,Magento_SalesRule
-"Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
+"Products back in stock alert","Alerta de productos de nuevo en existencia",module,Magento_ProductAlert
+"Apply Discount Code","Aplicar Código de Descuento",module,Magento_SalesRule
+"Enter discount code","Ingresar código de descuento",module,Magento_SalesRule
+"Apply Discount","Aplicar Descuento",module,Magento_SalesRule
+"Cancel coupon","Cancelar cupón",module,Magento_SalesRule
+"Credit memo for your %store_name order","Nota de crédito para su orden en %store_name",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
-"Thank you for your order from %store_name.","Thank you for your order from %store_name.",module,Magento_Sales
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
-"Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",module,Magento_Sales
-"Billing Info","Billing Info",module,Magento_Sales
-"Shipping Info","Shipping Info",module,Magento_Sales
-"Update to your %store_name credit memo","Update to your %store_name credit memo",module,Magento_Sales
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",module,Magento_Sales
-"Invoice for your %store_name order","Invoice for your %store_name order",module,Magento_Sales
-"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",module,Magento_Sales
-"Update to your %store_name invoice","Update to your %store_name invoice",module,Magento_Sales
-"Your %store_name order confirmation","Your %store_name order confirmation",module,Magento_Sales
+"Thank you for your order from %store_name.","Gracias por su orden de %store_name.",module,Magento_Sales
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Puede solicitar el estado de su orden <a href=""%account_url"">ingresando en su cuenta</a>.",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Si tiene preguntas acerca de su orden, puede contactarnos en el email <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","o llamarnos al <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+"Our hours are <span class=""no-link"">%store_hours</span>.","Nuestro horario es <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Su Nota de Crédito #%creditmemo_id para la Orden #%order_id",module,Magento_Sales
+"Billing Info","Información de Facturación",module,Magento_Sales
+"Shipping Info","Información de Envío",module,Magento_Sales
+"Update to your %store_name credit memo","Actualización de su nota de crédito en %store_name",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Su orden #%increment_id ha sido actualizada con un estado de  <strong>%order_status</strong>.",module,Magento_Sales
+"Invoice for your %store_name order","Factura para su orden en %store_name",module,Magento_Sales
+"Your Invoice #%invoice_id for Order #%order_id","Su Factura #%invoice_id para la Orden #%order_id",module,Magento_Sales
+"Update to your %store_name invoice","Actualización a su factura en %store_name",module,Magento_Sales
+"Your %store_name order confirmation","Su conformación de orden en %store_name",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
-"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",module,Magento_Sales
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
-"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order.",module,Magento_Sales
-"Update to your %store_name order","Update to your %store_name order",module,Magento_Sales
-"Your %store_name order has shipped","Your %store_name order has shipped",module,Magento_Sales
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",module,Magento_Sales
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",module,Magento_Sales
-"Update to your %store_name shipment","Update to your %store_name shipment",module,Magento_Sales
-"Welcome, %name","Welcome, %name",module,Magento_SendFriend
+"Once your package ships we will send you a tracking number.","Una vez que su paquete sea enviado le enviaremos una clave de rastreo.",module,Magento_Sales
+"Your Order <span class=""no-link"">#%increment_id</span>","Su Orden <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
+"Placed on <span class=""no-link"">%created_at</span>","Colocada en <span class=""no-link"">%created_at</span>",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Una vez que su paquete sea enviado le enviaremos un email con una liga para rastrear su orden.",module,Magento_Sales
+"Update to your %store_name order","Actualización a su orden en %store_name",module,Magento_Sales
+"Your %store_name order has shipped","Su orden en %store_name se ha enviado",module,Magento_Sales
+"Your shipping confirmation is below. Thank you again for your business.","Su confirmación de envío está abajo. Gracias de nuevo por su preferencia.",module,Magento_Sales
+"Your Shipment #%shipment_id for Order #%order_id","Su Envío #%shipment_id para la Orden #%order_id",module,Magento_Sales
+"Update to your %store_name shipment","Actualización a su envío en %store_name",module,Magento_Sales
+"Welcome, %name","Bienvenido, %name",module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
-"%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
-"Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
-"See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
-"Sitemap generate Warnings","Sitemap generate Warnings",module,Magento_Sitemap
-"Sitemap Generation Warnings","Sitemap Generation Warnings",module,Magento_Sitemap
+"%sender_name wants to share this product with you:","%sender_name quiere compartir este producto con usted:",module,Magento_SendFriend
+"Message from %sender_name:","Mensaje de from %sender_name:",module,Magento_SendFriend
+"See our Shipping Policy","Vea nuestra Política de Envíos",module,Magento_Shipping
+"Sitemap generate Warnings","Advertencias de generación de Mapa del Sitio",module,Magento_Sitemap
+"Sitemap Generation Warnings","Advertencias de Generación de Mapa del Sitio",module,Magento_Sitemap
 "%name,","%name,",module,Magento_Theme
-"Welcome to %store_name.","Welcome to %store_name.",module,Magento_Theme
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Theme
+"Welcome to %store_name.","Bienvenido a %store_name.",module,Magento_Theme
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Para ingresar a nuestro sitio, use estas credenciales durante su orden o en la página <a href=""%customer_url"">Mi Cuenta</a>:",module,Magento_Theme
 Email:,Email:,module,Magento_Theme
-Password:,Password:,module,Magento_Theme
-"Password you set when creating account","Password you set when creating account",module,Magento_Theme
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Theme
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Theme
-"Proceed through checkout faster","Proceed through checkout faster",module,Magento_Theme
-"Check the status of orders","Check the status of orders",module,Magento_Theme
-"View past orders","View past orders",module,Magento_Theme
-"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Theme
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Ui
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
-Assign,Assign,module,Magento_Ui
-Options,Options,module,Magento_Ui
-"records found","records found",module,Magento_Ui
-selected,selected,module,Magento_Ui
-of,of,module,Magento_Ui
-Filters,Filters,module,Magento_Ui
-"Password Reset Confirmation for %name","Password Reset Confirmation for %name",module,Magento_User
+Password:,Contraseña:,module,Magento_Theme
+"Password you set when creating account","La contraseña que fijó al creat la cuenta",module,Magento_Theme
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","¿Olvidó la contraseña de su cuenta? Click <a href=""%reset_url"">aquí</a> para reiniciarla.",module,Magento_Theme
+"When you sign in to your account, you will be able to:","Cuando ingrese a su cuenta, podrá:",module,Magento_Theme
+"Proceed through checkout faster","Ordenar más rápido",module,Magento_Theme
+"Check the status of orders","Revisar el estado de sus órdenes",module,Magento_Theme
+"View past orders","Ver órdenes anteriores",module,Magento_Theme
+"Store alternative addresses (for shipping to multiple family members and friends)","Direcciones alternativas de la tienda (para envíos a varios miembros de la familia y amigos)",module,Magento_Theme
+"Changes have been made to this section that have not been saved.","Se hicieron cambios a esta sección que no han sido guardados.",module,Magento_Ui
+"This tab contains invalid data. Please resolve this before saving.","Esta pestaña contiene datos no válidos. Por favor resuélvalos antes de guardar.",module,Magento_Ui
+Assign,Asignar,module,Magento_Ui
+Options,Opciones,module,Magento_Ui
+"records found","registros encontrados",module,Magento_Ui
+selected,seleccionados,module,Magento_Ui
+of,de,module,Magento_Ui
+Filters,Filtros,module,Magento_Ui
+"Password Reset Confirmation for %name","Confirmación de Reinicio de Contraseña para %name",module,Magento_User
 "%name,","%name,",module,Magento_User
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_User
-"If you requested this change, reset your password here:","If you requested this change, reset your password here:",module,Magento_User
-"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_User
-"Thank you,","Thank you,",module,Magento_User
-"New %changes for %user_name","New %changes for %user_name",module,Magento_User
-"Hello,","Hello,",module,Magento_User
-"We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User
-"If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
-"or call us at %store_phone","or call us at %store_phone",module,Magento_User
-"Thanks,","Thanks,",module,Magento_User
-"Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
-"%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
-"Message from %customer_name:","Message from %customer_name:",module,Magento_Wishlist
-"View all Wish List items","View all Wish List items",module,Magento_Wishlist
-"Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
+"There was recently a request to change the password for your account.","Recientemente hubo una solicitod de cambio de contraseña para su cuenta.",module,Magento_User
+"If you requested this change, reset your password here:","Si usted solicitó este cambio, reinicie su contraseña aquí:",module,Magento_User
+"If you did not make this request, you can ignore this email and your password will remain the same.","Si usted no hizo esta solicitud, puede ignorar este email y su contraseña seguirá siendo la misma.",module,Magento_User
+"Thank you,","Gracias,",module,Magento_User
+"New %changes for %user_name","Nuevos %changes para %user_name",module,Magento_User
+"Hello,","Hola,",module,Magento_User
+"We have received a request to change the following information associated with your account at %store_name: %changes.","Recibimos una solicitud de cambio de la siguiente información asociada con su cuenta en %store_name: %changes.",module,Magento_User
+"If you have not authorized this action, please contact us immediately at %store_email","Si usted no autorizó esta acción, por favor contáctenos de inmediato en %store_email",module,Magento_User
+"or call us at %store_phone","o llámenos al %store_phone",module,Magento_User
+"Thanks,","Gracias,",module,Magento_User
+"Take a look at %customer_name's Wish List","Heche un vistazo a la Lista de Deseos de %customer_name",module,Magento_Wishlist
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name quiere compartir esta Lista de Deseos de %store_name con usted:",module,Magento_Wishlist
+"Message from %customer_name:","Mensaje de %customer_name:",module,Magento_Wishlist
+"View all Wish List items","Ver todos los artículos de la Lista de Deseos",module,Magento_Wishlist
+"Welcome to %store_name","Bienvenido a %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","Welcome to %store_name.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend/Magento/luma
+"Welcome to %store_name.","Bienvenido a %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Para ingresar a nuestro sitio, use estas credenciales durante la compra o en la página <a href=""%customer_url"">Mi Cuenta</a>:",theme,frontend/Magento/luma
 Email:,Email:,theme,frontend/Magento/luma
-Password:,Password:,theme,frontend/Magento/luma
-"Password you set when creating account","Password you set when creating account",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend/Magento/luma
-"Quick Checkout","Quick Checkout",theme,frontend/Magento/luma
-"Proceed through checkout faster","Proceed through checkout faster",theme,frontend/Magento/luma
-"Order Status","Order Status",theme,frontend/Magento/luma
-"Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
-"Manage Addresses","Manage Addresses",theme,frontend/Magento/luma
-"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
-"Order History","Order History",theme,frontend/Magento/luma
-"View past orders","View past orders",theme,frontend/Magento/luma
-Footer,Footer,theme,frontend/Magento/luma
-"About Us","About Us",theme,frontend/Magento/luma
-"Customer Service","Customer Service",theme,frontend/Magento/luma
+Password:,Contraseña:,theme,frontend/Magento/luma
+"Password you set when creating account","La contraseña que fijó al crear la cuenta",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","¿Olvidó la contraseña de su cuenta? Click <a href=""%reset_url"">aquí</a> para reiniciarla.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Cuando ingrese a su cuenta, podrá:",theme,frontend/Magento/luma
+"Quick Checkout","Compra Rápida",theme,frontend/Magento/luma
+"Proceed through checkout faster","Comprar más rápido",theme,frontend/Magento/luma
+"Order Status","Estado de la Orden",theme,frontend/Magento/luma
+"Check the status of orders","Revisar el estado de las órdenes",theme,frontend/Magento/luma
+"Manage Addresses","Administrar Direcciones",theme,frontend/Magento/luma
+"Store alternative addresses","Guardar direcciones alternas",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Para envíos a varios miembros de la familia y amigos",theme,frontend/Magento/luma
+"Order History","Historial de Órdenes",theme,frontend/Magento/luma
+"View past orders","Ver órdenes anteriores",theme,frontend/Magento/luma
+Footer,Pié,theme,frontend/Magento/luma
+"About Us","Acerca de Notros",theme,frontend/Magento/luma
+"Customer Service","Servicio a Clientes",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
-"Billing Info","Billing Info",theme,frontend/Magento/luma
-"Shipping Info","Shipping Info",theme,frontend/Magento/luma
-"Payment Method","Payment Method",theme,frontend/Magento/luma
-"Shipping Method","Shipping Method",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horario de Operación:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Nota de crédito para su orden en %store_name",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Gracias por su orden en %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Puede ver el estado de su orden al <a href=""%account_url"">ingresar a su cuenta</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si tiene preguntas acerca de su orden, puede enviarnos un email a <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Su Nota de Crédito #%creditmemo_id para la Orden #%order_id",theme,frontend/Magento/luma
+"Billing Info","Información de Facturación",theme,frontend/Magento/luma
+"Shipping Info","Información de Envío",theme,frontend/Magento/luma
+"Payment Method","Método de Pago",theme,frontend/Magento/luma
+"Shipping Method","Método de Envío",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Actualización para su %store_name nota de crédito",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Su orden #%increment_id ha sido acualizada con el estado de <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Facturación para su orden en %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Su Factura #%invoice_id para la Orden #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Actualización para su factura en %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Su coinfirmación de orden en %store_name",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
-"Backup options","Backup options",lib,lib/web/mage/adminhtml/backup.js
-Warning,Warning,lib,lib/web/mage/adminhtml/backup.js
-Cancel,Cancel,lib,lib/web/mage/adminhtml/backup.js
+"Once your package ships we will send you a tracking number.","Una vez que su paquete sea enviado le enviaremos un número de rastreo.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Su Orden <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Colocada en <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Actualización para su orden en %store_name",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Su orden en %store_name ha sido enviada",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Si confirmación de envío está abajo. Gracias de nuevo por su preferencia.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Su Envío #%shipment_id para la Orden #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Actualización para su envío en %store_name",theme,frontend/Magento/luma
+"Backup options","Opciones de respaldo",lib,lib/web/mage/adminhtml/backup.js
+Warning,Advertencia,lib,lib/web/mage/adminhtml/backup.js
+Cancel,Cancelar,lib,lib/web/mage/adminhtml/backup.js
 Ok,Ok,lib,lib/web/mage/adminhtml/backup.js
-"Insert Widget...","Insert Widget...",lib,lib/web/mage/adminhtml/wysiwyg/widget.js
-"No records found.","No records found.",lib,lib/web/mage/backend/suggest.js
-"Recent items","Recent items",lib,lib/web/mage/backend/suggest.js
-"Show all...","Show all...",lib,lib/web/mage/backend/suggest.js
-"Method %s does not exist on jQuery.decorate","Method %s does not exist on jQuery.decorate",lib,lib/web/mage/decorate.js
-Close,Close,lib,lib/web/mage/dropdown.js
-Next,Next,lib,lib/web/mage/gallery/gallery.js
-Previous,Previous,lib,lib/web/mage/gallery/gallery.js
-"Please wait...","Please wait...",lib,lib/web/mage/loader.js
-Loading...,Loading...,lib,lib/web/mage/loader.js
-"Please wait...","Please wait...",lib,lib/web/mage/loader_old.js
-Loading...,Loading...,lib,lib/web/mage/loader_old.js
-"All ","All ",lib,lib/web/mage/menu.js
-more,more,lib,lib/web/mage/menu.js
-Cancel,Cancel,lib,lib/web/mage/translate-inline-vde.js
-Save,Save,lib,lib/web/mage/translate-inline-vde.js
-Translate,Translate,lib,lib/web/mage/translate-inline.js
-Submit,Submit,lib,lib/web/mage/translate-inline.js
-Close,Close,lib,lib/web/mage/translate-inline.js
-"Please enter a value less than or equal to %s.","Please enter a value less than or equal to %s.",lib,lib/web/mage/validation.js
-"Please enter a value greater than or equal to %s.","Please enter a value greater than or equal to %s.",lib,lib/web/mage/validation.js
-"Maximum length of this field must be equal or less than %1 symbols.","Maximum length of this field must be equal or less than %1 symbols.",lib,lib/web/mage/validation.js
-"This is a required field.","This is a required field.",lib,lib/web/mage/validation.js
-"Please enter a date between %min and %max.","Please enter a date between %min and %max.",lib,lib/web/mage/validation/validation.js
-"Please enter a valid year (1900-%1).","Please enter a valid year (1900-%1).",lib,lib/web/mage/validation/validation.js
-"Please enter a valid day (1-%1).","Please enter a valid day (1-%1).",lib,lib/web/mage/validation/validation.js
-"Please enter a date from the past.","Please enter a date from the past.",lib,lib/web/mage/validation/validation.js
-"We could not detect a size.","We could not detect a size.",module,Magento_Backend
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Backend
-"This payment is not available","This payment is not available",module,Magento_Braintree
+"Insert Widget...","Insertar Widget...",lib,lib/web/mage/adminhtml/wysiwyg/widget.js
+"No records found.","No se encontraron registros.",lib,lib/web/mage/backend/suggest.js
+"Recent items","Artículos recientes",lib,lib/web/mage/backend/suggest.js
+"Show all...","Mostrar todos...",lib,lib/web/mage/backend/suggest.js
+"Method %s does not exist on jQuery.decorate","El método %s no existe en jQuery.decorate",lib,lib/web/mage/decorate.js
+Close,Cerrar,lib,lib/web/mage/dropdown.js
+Next,Siguiente,lib,lib/web/mage/gallery/gallery.js
+Previous,Anterior,lib,lib/web/mage/gallery/gallery.js
+"Please wait...","Por favor espere...",lib,lib/web/mage/loader.js
+Loading...,Cargando...,lib,lib/web/mage/loader.js
+"Please wait...","Por favor espere...",lib,lib/web/mage/loader_old.js
+Loading...,Cargando...,lib,lib/web/mage/loader_old.js
+"All ","Todo ",lib,lib/web/mage/menu.js
+more,más,lib,lib/web/mage/menu.js
+Cancel,Cancelar,lib,lib/web/mage/translate-inline-vde.js
+Save,Guardar,lib,lib/web/mage/translate-inline-vde.js
+Translate,Traducir,lib,lib/web/mage/translate-inline.js
+Submit,Enviar,lib,lib/web/mage/translate-inline.js
+Close,Cerrar,lib,lib/web/mage/translate-inline.js
+"Please enter a value less than or equal to %s.","Por favor ingrese un valor menor o igual que %s.",lib,lib/web/mage/validation.js
+"Please enter a value greater than or equal to %s.","Por favor ingrese un valor mayor o igual que %s.",lib,lib/web/mage/validation.js
+"Maximum length of this field must be equal or less than %1 symbols.","La longitud máxima de este campo debe ser menor o igual que %1 símbolos.",lib,lib/web/mage/validation.js
+"This is a required field.","Este es un campo obligatorio.",lib,lib/web/mage/validation.js
+"Please enter a date between %min and %max.","Por favor ingrese una fecha entre %min y %max.",lib,lib/web/mage/validation/validation.js
+"Please enter a valid year (1900-%1).","Por favor ingrese un año válido (1900-%1).",lib,lib/web/mage/validation/validation.js
+"Please enter a valid day (1-%1).","Por favor ingrese un día válido (1-%1).",lib,lib/web/mage/validation/validation.js
+"Please enter a date from the past.","Por favor ingrese una fecha en el pasado.",lib,lib/web/mage/validation/validation.js
+"We could not detect a size.","No podemos detectar un tamaño.",module,Magento_Backend
+"We don't recognize or support this file extension type.","No reconocemos o soportamos este tipo de extensión de archivo.",module,Magento_Backend
+"This payment is not available","Este pago no está disponible",module,Magento_Braintree
 MM,MM,module,Magento_Braintree
-YY,YY,module,Magento_Braintree
-"Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_Braintree
-"Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_Braintree
-"Add Products to New Option","Add Products to New Option",module,Magento_Bundle
-"Add Products to Option ""%1""","Add Products to Option ""%1""",module,Magento_Bundle
-"Warning message","Warning message",module,Magento_Catalog
-Submit,Submit,module,Magento_Catalog
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Catalog
-"Configure Product","Configure Product",module,Magento_Catalog
+YY,AA,module,Magento_Braintree
+"Please try again with another form of payment.","Por intente de nuevo con otra forma de pago.",module,Magento_Braintree
+"Sorry, but something went wrong.","Lo sentimos, algo ocurrió.",module,Magento_Braintree
+"Add Products to New Option","Añadir Productos a la Nueva Opción",module,Magento_Bundle
+"Add Products to Option ""%1""","Añadir Productos a la Opción ""%1""",module,Magento_Bundle
+"Warning message","Mensaje de advertencia",module,Magento_Catalog
+Submit,Enviar,module,Magento_Catalog
+"We don't recognize or support this file extension type.","No reconocemos o soportamos este tipo de extensión de archivo.",module,Magento_Catalog
+"Configure Product","Configurar Producto",module,Magento_Catalog
 OK,OK,module,Magento_Catalog
-"Select type of option.","Select type of option.",module,Magento_Catalog
-"Please add rows to option.","Please add rows to option.",module,Magento_Catalog
-"Please select items.","Please select items.",module,Magento_Catalog
-"Choose existing category.","Choose existing category.",module,Magento_Catalog
-"Image Detail","Image Detail",module,Magento_Catalog
-Adding...,Adding...,module,Magento_Catalog
-Added,Added,module,Magento_Catalog
-"unselect all","unselect all",module,Magento_Catalog
-Close,Close,module,Magento_CheckoutAgreements
-"Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
-" Example: "," Example: ",module,Magento_Checkout
-"If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
-"Review & Payments","Review & Payments",module,Magento_Checkout
-Shipping,Shipping,module,Magento_Checkout
-"Save Address","Save Address",module,Magento_Checkout
-"We could not detect a size.","We could not detect a size.",module,Magento_Cms
-"New Product Review","New Product Review",module,Magento_ConfigurableProduct
-"Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_ConfigurableProduct
-"You created these products for this configuration.","You created these products for this configuration.",module,Magento_ConfigurableProduct
-"Disassociated Products","Disassociated Products",module,Magento_ConfigurableProduct
-"These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
-"Disable Product","Disable Product",module,Magento_ConfigurableProduct
-"Enable Product","Enable Product",module,Magento_ConfigurableProduct
-"Incl. Tax","Incl. Tax",module,Magento_ConfigurableProduct
+"Select type of option.","Seleccione tipo de opción.",module,Magento_Catalog
+"Please add rows to option.","Por favor añada líneas a la opción.",module,Magento_Catalog
+"Please select items.","Por favor seleccione artículos.",module,Magento_Catalog
+"Choose existing category.","Elija una categoría existente.",module,Magento_Catalog
+"Image Detail","Detalle de la Imagen",module,Magento_Catalog
+Adding...,Añadiendo...,module,Magento_Catalog
+Added,Añadido,module,Magento_Catalog
+"unselect all","deseleccionar todo",module,Magento_Catalog
+Close,Cerrar,module,Magento_CheckoutAgreements
+"Provided Zip/Postal Code seems to be invalid.","El Código Postal proporcionado parace no ser válido.",module,Magento_Checkout
+" Example: "," Ejemplo: ",module,Magento_Checkout
+"If you believe it is the right one you can ignore this notice.","Si cree que es el correcto puede ignorar este aviso.",module,Magento_Checkout
+"Review & Payments","Revisión y Pagos",module,Magento_Checkout
+Shipping,Envío,module,Magento_Checkout
+"Save Address","Guardar Dirección",module,Magento_Checkout
+"We could not detect a size.","No podemos detectar el tamaño.",module,Magento_Cms
+"New Product Review","Nueva Opinión de Producto",module,Magento_ConfigurableProduct
+"Here are the products you're about to create.","Aquí están los productos que está a punto de crear.",module,Magento_ConfigurableProduct
+"You created these products for this configuration.","Creó estos productos para esta configuración.",module,Magento_ConfigurableProduct
+"Disassociated Products","Productos Disasociados",module,Magento_ConfigurableProduct
+"These products are not associated.","Estos productos no están asociados.",module,Magento_ConfigurableProduct
+"Disable Product","Deshabilitar Producto",module,Magento_ConfigurableProduct
+"Enable Product","Habilitar Producto",module,Magento_ConfigurableProduct
+"Incl. Tax","Incl. Impuesto",module,Magento_ConfigurableProduct
 "An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
 "Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
 "Please select attribute for {section} section.","Please select attribute for {section} section.",module,Magento_ConfigurableProduct
