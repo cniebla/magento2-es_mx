@@ -6890,9 +6890,9 @@ Status,Estado,module,Magento_Braintree
 "Transaction ID","ID de Transacción",module,Magento_Braintree
 "Order ID","ID de Order",module,Magento_Braintree
 "Payment Type","Tipo de Pago",module,Magento_Braintree
-Type,Type,module,Magento_Braintree
-"Created At","Created At",module,Magento_Braintree
-Amount,Amount,module,Magento_Braintree
+Type,Tipo,module,Magento_Braintree
+"Created At","Creado en",module,Magento_Braintree
+Amount,Monto,module,Magento_Braintree
 "Settlement Code","Settlement Code",module,Magento_Braintree
 "Settlement Response Text","Settlement Response Text",module,Magento_Braintree
 "Refund Ids","Refund Ids",module,Magento_Braintree
