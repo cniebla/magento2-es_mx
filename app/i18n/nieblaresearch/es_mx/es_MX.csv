@@ -6894,7 +6894,7 @@ Type,Tipo,module,Magento_Braintree
 "Created At","Creado en",module,Magento_Braintree
 Amount,Monto,module,Magento_Braintree
 "Settlement Code","Código de Asentamiento",module,Magento_Braintree
-"Settlement Response Text","Settlement Response Text",module,Magento_Braintree
+"Settlement Response Text","Texto de Respuesta de Asentamiento",module,Magento_Braintree
 "Refund Ids","Refund Ids",module,Magento_Braintree
 "Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
 Currency,Currency,module,Magento_Braintree
