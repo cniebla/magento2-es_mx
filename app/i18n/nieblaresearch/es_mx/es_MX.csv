@@ -6895,8 +6895,8 @@ Type,Tipo,module,Magento_Braintree
 Amount,Monto,module,Magento_Braintree
 "Settlement Code","Código de Asentamiento",module,Magento_Braintree
 "Settlement Response Text","Texto de Respuesta de Asentamiento",module,Magento_Braintree
-"Refund Ids","Refund Ids",module,Magento_Braintree
-"Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
+"Refund Ids","IDs de Reembolso",module,Magento_Braintree
+"Settlement Batch ID","ID de Reembolso en Lote",module,Magento_Braintree
 Currency,Currency,module,Magento_Braintree
 Select...,Select...,module,Magento_Bundle
 Status,Status,module,Magento_Bundle
