@@ -6466,6 +6466,7 @@ Shipping,Envío,module,Magento_Checkout
 "Disable Product","Deshabilitar Producto",module,Magento_ConfigurableProduct
 "Enable Product","Habilitar Producto",module,Magento_ConfigurableProduct
 "Incl. Tax","Incl. Impuesto",module,Magento_ConfigurableProduct
+<<<<<<< HEAD
 "An attribute has been removed. This attribute will no longer appear in your configurations.","Se removió un atributo. Este atributo ya no aparecerá en sus configuraciones.",module,Magento_ConfigurableProduct
 "Select options for all attributes or remove unused attributes.","Seleccione opciones para todos los atributos o remueva los atributos sin uso.",module,Magento_ConfigurableProduct
 "Please select attribute for {section} section.","Por favor seleccione el atributo para la sección {section}.",module,Magento_ConfigurableProduct
@@ -6519,6 +6520,61 @@ Delete,Borrar,module,Magento_ProductVideo
 "Gift Options for ","Opciones de Regalo para ",module,Magento_Sales
 "Add Products","Añadir Productos",module,Magento_Sales
 "You have item changes","Tiene cambios de artículo",module,Magento_Sales
+=======
+"An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
+"Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
+"Please select attribute for {section} section.","Please select attribute for {section} section.",module,Magento_ConfigurableProduct
+"Please fill in the values for {section} section.","Please fill in the values for {section} section.",module,Magento_ConfigurableProduct
+"Please fill-in correct values.","Please fill-in correct values.",module,Magento_ConfigurableProduct
+"Please select image(s) for your attribute.","Please select image(s) for your attribute.",module,Magento_ConfigurableProduct
+"Please choose image(s).","Please choose image(s).",module,Magento_ConfigurableProduct
+"We could not detect a size.","We could not detect a size.",module,Magento_ConfigurableProduct
+"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_ConfigurableProduct
+"Please select attribute(s).","Please select attribute(s).",module,Magento_ConfigurableProduct
+"Generate Products","Generate Products",module,Magento_ConfigurableProduct
+"Something went wrong.","Something went wrong.",module,Magento_ConfigurableProduct
+"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Customer
+"Are you sure you want to delete this address?","Are you sure you want to delete this address?",module,Magento_Customer
+Weak,Weak,module,Magento_Customer
+Medium,Medium,module,Magento_Customer
+Strong,Strong,module,Magento_Customer
+"Very Strong","Very Strong",module,Magento_Customer
+"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
+"Field ","Field ",module,Magento_Dhl
+" is required."," is required.",module,Magento_Dhl
+"We could not detect a size.","We could not detect a size.",module,Magento_Downloadable
+"Field ","Field ",module,Magento_Fedex
+" is required."," is required.",module,Magento_Fedex
+"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Integration
+"Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
+Allow,Allow,module,Magento_Integration
+Done,Done,module,Magento_Integration
+"We can't complete your order because you don't have a payment method set up.","We can't complete your order because you don't have a payment method set up.",module,Magento_Multishipping
+"Please choose a payment method.","Please choose a payment method.",module,Magento_Multishipping
+"Field ","Field ",module,Magento_OfflineShipping
+" is required."," is required.",module,Magento_OfflineShipping
+"Unable to place order. Please try again later.","Unable to place order. Please try again later.",module,Magento_Payment
+"Sorry, something went wrong.","Sorry, something went wrong.",module,Magento_Paypal
+"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Paypal
+"Video Error","Video Error",module,Magento_ProductVideo
+"Unknown video type","Unknown video type",module,Magento_ProductVideo
+"Invalid video url","Invalid video url",module,Magento_ProductVideo
+"Youtube API key is invalid","Youtube API key is invalid",module,Magento_ProductVideo
+"Video cant be shown due to the following reason: ","Video cant be shown due to the following reason: ",module,Magento_ProductVideo
+"Video not found","Video not found",module,Magento_ProductVideo
+"New Video","New Video",module,Magento_ProductVideo
+Save,Save,module,Magento_ProductVideo
+Cancel,Cancel,module,Magento_ProductVideo
+Delete,Delete,module,Magento_ProductVideo
+"Edit Video","Edit Video",module,Magento_ProductVideo
+"Images and Videos","Images and Videos",module,Magento_ProductVideo
+"This won't take long . . .","This won't take long . . .",module,Magento_Rule
+"Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
+"Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
+"Gift Options for ","Gift Options for ",module,Magento_Sales
+"Add Products","Add Products",module,Magento_Sales
+"You have item changes","You have item changes",module,Magento_Sales
+>>>>>>> master
 Ok,Ok,module,Magento_Sales
 "These changes affect all related products.","Estos cambios afectarán a todos los productos relacionados.",module,Magento_Swatches
 "We could not detect a size.","No podemos detectar un tamaño.",module,Magento_Theme

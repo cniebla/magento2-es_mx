@@ -1,7 +1,11 @@
 # magento2-es_mx
 
+<<<<<<< HEAD
 Status: 80% (first translation - see roadmap on Wiki)
 
+=======
+Status: 75% (first translation)
+>>>>>>> master
 #NO INSTALAR
 #NOT READY
 
