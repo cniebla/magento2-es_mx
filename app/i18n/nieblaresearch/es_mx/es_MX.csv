@@ -6466,470 +6466,470 @@ Shipping,Envío,module,Magento_Checkout
 "Disable Product","Deshabilitar Producto",module,Magento_ConfigurableProduct
 "Enable Product","Habilitar Producto",module,Magento_ConfigurableProduct
 "Incl. Tax","Incl. Impuesto",module,Magento_ConfigurableProduct
-"An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
-"Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
-"Please select attribute for {section} section.","Please select attribute for {section} section.",module,Magento_ConfigurableProduct
-"Please fill in the values for {section} section.","Please fill in the values for {section} section.",module,Magento_ConfigurableProduct
-"Please fill-in correct values.","Please fill-in correct values.",module,Magento_ConfigurableProduct
-"Please select image(s) for your attribute.","Please select image(s) for your attribute.",module,Magento_ConfigurableProduct
-"Please choose image(s).","Please choose image(s).",module,Magento_ConfigurableProduct
-"We could not detect a size.","We could not detect a size.",module,Magento_ConfigurableProduct
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_ConfigurableProduct
-"Please select attribute(s).","Please select attribute(s).",module,Magento_ConfigurableProduct
-"Generate Products","Generate Products",module,Magento_ConfigurableProduct
-"Something went wrong.","Something went wrong.",module,Magento_ConfigurableProduct
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Customer
-"Are you sure you want to delete this address?","Are you sure you want to delete this address?",module,Magento_Customer
-Weak,Weak,module,Magento_Customer
-Medium,Medium,module,Magento_Customer
-Strong,Strong,module,Magento_Customer
-"Very Strong","Very Strong",module,Magento_Customer
-"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
-"Field ","Field ",module,Magento_Dhl
-" is required."," is required.",module,Magento_Dhl
-"We could not detect a size.","We could not detect a size.",module,Magento_Downloadable
-"Field ","Field ",module,Magento_Fedex
-" is required."," is required.",module,Magento_Fedex
-"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Integration
-"Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
-Allow,Allow,module,Magento_Integration
-Done,Done,module,Magento_Integration
-"We can't complete your order because you don't have a payment method set up.","We can't complete your order because you don't have a payment method set up.",module,Magento_Multishipping
-"Please choose a payment method.","Please choose a payment method.",module,Magento_Multishipping
-"Field ","Field ",module,Magento_OfflineShipping
-" is required."," is required.",module,Magento_OfflineShipping
-"Unable to place order. Please try again later.","Unable to place order. Please try again later.",module,Magento_Payment
-"Sorry, something went wrong.","Sorry, something went wrong.",module,Magento_Paypal
-"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Paypal
-"Video Error","Video Error",module,Magento_ProductVideo
-"Unknown video type","Unknown video type",module,Magento_ProductVideo
-"Invalid video url","Invalid video url",module,Magento_ProductVideo
-"Youtube API key is invalid","Youtube API key is invalid",module,Magento_ProductVideo
-"Video cant be shown due to the following reason: ","Video cant be shown due to the following reason: ",module,Magento_ProductVideo
-"Video not found","Video not found",module,Magento_ProductVideo
-"New Video","New Video",module,Magento_ProductVideo
-Save,Save,module,Magento_ProductVideo
-Cancel,Cancel,module,Magento_ProductVideo
-Delete,Delete,module,Magento_ProductVideo
-"Edit Video","Edit Video",module,Magento_ProductVideo
-"Images and Videos","Images and Videos",module,Magento_ProductVideo
-"This won't take long . . .","This won't take long . . .",module,Magento_Rule
-"Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
-"Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
-"Gift Options for ","Gift Options for ",module,Magento_Sales
-"Add Products","Add Products",module,Magento_Sales
-"You have item changes","You have item changes",module,Magento_Sales
+"An attribute has been removed. This attribute will no longer appear in your configurations.","Se removió un atributo. Este atributo ya no aparecerá en sus configuraciones.",module,Magento_ConfigurableProduct
+"Select options for all attributes or remove unused attributes.","Seleccione opciones para todos los atributos o remueva los atributos sin uso.",module,Magento_ConfigurableProduct
+"Please select attribute for {section} section.","Por favor seleccione el atributo para la sección {section}.",module,Magento_ConfigurableProduct
+"Please fill in the values for {section} section.","Por favor ingrese los valores para la sección {section}.",module,Magento_ConfigurableProduct
+"Please fill-in correct values.","Por favor ingrese valores correctos.",module,Magento_ConfigurableProduct
+"Please select image(s) for your attribute.","Por favor seleccione la(s) imagen(es) para su atributo.",module,Magento_ConfigurableProduct
+"Please choose image(s).","Por favor seleccione imagen(es).",module,Magento_ConfigurableProduct
+"We could not detect a size.","No podemos detectar un tamaño.",module,Magento_ConfigurableProduct
+"We don't recognize or support this file extension type.","No reconocemos o soportamos este tipo de extensión de archivo.",module,Magento_ConfigurableProduct
+"Please select attribute(s).","Por favor seleccione atributo(s).",module,Magento_ConfigurableProduct
+"Generate Products","Generar Productos",module,Magento_ConfigurableProduct
+"Something went wrong.","Algo ocurrió.",module,Magento_ConfigurableProduct
+"Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_Customer
+"Are you sure you want to delete this address?","¿Está seguro de querer borrar esta dirección?",module,Magento_Customer
+Weak,Débil,module,Magento_Customer
+Medium,Media,module,Magento_Customer
+Strong,Fuerte,module,Magento_Customer
+"Very Strong","Muy Fuerte",module,Magento_Customer
+"Guest checkout is disabled.","La compra de invitado está deshabilitada.",module,Magento_Customer
+"Field ","Campo ",module,Magento_Dhl
+" es obligatorio."," is required.",module,Magento_Dhl
+"We could not detect a size.","No podemos detectar un tamaño.",module,Magento_Downloadable
+"Field ","Campo ",module,Magento_Fedex
+" es obligatorio."," is required.",module,Magento_Fedex
+"Sorry, something went wrong. Please try again later.","Lo sentimos, algo ucurrió. Por favor intente más tarde.",module,Magento_Integration
+"Popup Blocker is enabled! Please add this site to your exception list.","¡Está habilitado un bloqueador de ventanas emergentes! Por favor añada este sitio al listado de sitios permitidos.",module,Magento_Integration
+Allow,Permitir,module,Magento_Integration
+Done,Hecho,module,Magento_Integration
+"We can't complete your order because you don't have a payment method set up.","No podemos completar su orden porque no tiene definido un métido de pago.",module,Magento_Multishipping
+"Please choose a payment method.","Por favor seleccione un método de pago.",module,Magento_Multishipping
+"Field ","Campo ",module,Magento_OfflineShipping
+" is required."," es obligatorio.",module,Magento_OfflineShipping
+"Unable to place order. Please try again later.","No se puede colocar la orden. Por favor intente más tarde.",module,Magento_Payment
+"Sorry, something went wrong.","Lo sentimos, algo ocurrió.",module,Magento_Paypal
+"Sorry, something went wrong. Please try again later.","Lo sentimos, algo ocurrió. Por favor intente más tarde.",module,Magento_Paypal
+"Video Error","Error de Video",module,Magento_ProductVideo
+"Unknown video type","Tipo desconocido de video",module,Magento_ProductVideo
+"Invalid video url","URL de video no válido",module,Magento_ProductVideo
+"Youtube API key is invalid","La llave API de YouTube no es válida",module,Magento_ProductVideo
+"Video cant be shown due to the following reason: ","No se puede mostrar el video por la siguiente razón: ",module,Magento_ProductVideo
+"Video not found","Video no encontrado",module,Magento_ProductVideo
+"New Video","Nuevo Video",module,Magento_ProductVideo
+Save,Guardar,module,Magento_ProductVideo
+Cancel,Cancelar,module,Magento_ProductVideo
+Delete,Borrar,module,Magento_ProductVideo
+"Edit Video","Editar Video",module,Magento_ProductVideo
+"Images and Videos","Imágenes y Videos",module,Magento_ProductVideo
+"This won't take long . . .","Esto no demorará mucho . . .",module,Magento_Rule
+"Your coupon was successfully removed.","Su cupón ha sido removido con éxito.",module,Magento_SalesRule
+"Your coupon was successfully applied.","Su cupón ha sido aplicado con éxito.",module,Magento_SalesRule
+"Gift Options for ","Opciones de Regalo para ",module,Magento_Sales
+"Add Products","Añadir Productos",module,Magento_Sales
+"You have item changes","Tiene cambios de artículo",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
-"These changes affect all related products.","These changes affect all related products.",module,Magento_Swatches
-"We could not detect a size.","We could not detect a size.",module,Magento_Theme
-"We don't recognize this file extension.","We don't recognize this file extension.",module,Magento_Theme
-Add,Add,module,Magento_Ui
-"Something went wrong.","Something went wrong.",module,Magento_Ui
-Yes,Yes,module,Magento_Ui
+"These changes affect all related products.","Estos cambios afectarán a todos los productos relacionados.",module,Magento_Swatches
+"We could not detect a size.","No podemos detectar un tamaño.",module,Magento_Theme
+"We don't recognize this file extension.","No reconocemos esta extensión de archivo.",module,Magento_Theme
+Add,Añadir,module,Magento_Ui
+"Something went wrong.","Algo ocurrió.",module,Magento_Ui
+Yes,Sí,module,Magento_Ui
 No,No,module,Magento_Ui
-Done,Done,module,Magento_Ui
-options,options,module,Magento_Ui
-Select...,Select...,module,Magento_Ui
-Selected,Selected,module,Magento_Ui
-"Select All","Select All",module,Magento_Ui
-"Deselect All","Deselect All",module,Magento_Ui
-"Select All on This Page","Select All on This Page",module,Magento_Ui
-"Deselect All on This Page","Deselect All on This Page",module,Magento_Ui
-On,On,module,Magento_Ui
-Off,Off,module,Magento_Ui
-"Go to Details Page","Go to Details Page",module,Magento_Ui
-"New View","New View",module,Magento_Ui
-"Default View","Default View",module,Magento_Ui
-"${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
-"You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
-"You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
-"Search by keyword","Search by keyword",module,Magento_Ui
-Keyword,Keyword,module,Magento_Ui
-"Select Date","Select Date",module,Magento_Ui
-"Please enter more or equal than {0} symbols.","Please enter more or equal than {0} symbols.",module,Magento_Ui
-"Please enter less or equal than {0} symbols.","Please enter less or equal than {0} symbols.",module,Magento_Ui
-"Please enter {0} words or less.","Please enter {0} words or less.",module,Magento_Ui
-"Please enter at least {0} words.","Please enter at least {0} words.",module,Magento_Ui
-"Please enter between {0} and {1} words.","Please enter between {0} and {1} words.",module,Magento_Ui
-"Letters or punctuation only please","Letters or punctuation only please",module,Magento_Ui
-"Letters, numbers, spaces or underscores only please","Letters, numbers, spaces or underscores only please",module,Magento_Ui
-"Letters only please","Letters only please",module,Magento_Ui
-"No white space please","No white space please",module,Magento_Ui
-"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx",module,Magento_Ui
-"A positive or negative non-decimal number please","A positive or negative non-decimal number please",module,Magento_Ui
-"The specified vehicle identification number (VIN) is invalid.","The specified vehicle identification number (VIN) is invalid.",module,Magento_Ui
-"Please enter a correct date","Please enter a correct date",module,Magento_Ui
+Done,Hecho,module,Magento_Ui
+options,opciones,module,Magento_Ui
+Select...,Seleccionar...,module,Magento_Ui
+Selected,Seleccionado,module,Magento_Ui
+"Select All","Seleccionar Todo",module,Magento_Ui
+"Deselect All","Deseleccionar Todo",module,Magento_Ui
+"Select All on This Page","Seleccionar Todo en Esta Página",module,Magento_Ui
+"Deselect All on This Page","Deseleccionar Todo en Esta Página",module,Magento_Ui
+On,Encendido,module,Magento_Ui
+Off,Apagado,module,Magento_Ui
+"Go to Details Page","Ir a la Página de Detalles",module,Magento_Ui
+"New View","Nueva Vista",module,Magento_Ui
+"Default View","Vista por Defecto",module,Magento_Ui
+"${ $.visible } out of ${ $.total } visible","${ $.visible } de ${ $.total } visible",module,Magento_Ui
+"You have successfully saved your edits.","Ha guardado sus ediciones con éxito.",module,Magento_Ui
+"You haven't selected any items!","¡No ha seleccionado artículos!",module,Magento_Ui
+"Search by keyword","Buscar por palabra clave",module,Magento_Ui
+Keyword,"Palabra clave",module,Magento_Ui
+"Select Date","Seleccionar Fecha",module,Magento_Ui
+"Please enter more or equal than {0} symbols.","Por favor ingrese más o igual de {0} símbolos.",module,Magento_Ui
+"Please enter less or equal than {0} symbols.","Por favor ingrese menos o igual de {0} símbolos.",module,Magento_Ui
+"Please enter {0} words or less.","Por favor igrese {0} palabras o menos.",module,Magento_Ui
+"Please enter at least {0} words.","Por favor ingrese al menos {0} palabras.",module,Magento_Ui
+"Please enter between {0} and {1} words.","Por favor ingrese entre {0} y {1} palabras.",module,Magento_Ui
+"Letters or punctuation only please","Sólo palabras y puntuación por favor",module,Magento_Ui
+"Letters, numbers, spaces or underscores only please","Sólo letras, números, espacios o bajo guines por favor",module,Magento_Ui
+"Letters only please","Sólo letras por favor",module,Magento_Ui
+"No white space please","Sin espacios por favor",module,Magento_Ui
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Su Código Postal debe estar en el rango de 902xx-xxxx a 905-xx-xxxx",module,Magento_Ui
+"A positive or negative non-decimal number please","Un número positivo sin decimales por favor",module,Magento_Ui
+"The specified vehicle identification number (VIN) is invalid.","El número de identificación vehicular (VIN) no es válido.",module,Magento_Ui
+"Please enter a correct date","Por favor ingrese una fecha correcta",module,Magento_Ui
 "Vul hier een geldige datum in.","Vul hier een geldige datum in.",module,Magento_Ui
-"Please enter a valid time, between 00:00 and 23:59","Please enter a valid time, between 00:00 and 23:59",module,Magento_Ui
-"Please enter a valid time, between 00:00 am and 12:00 pm","Please enter a valid time, between 00:00 am and 12:00 pm",module,Magento_Ui
-"Please specify a valid phone number","Please specify a valid phone number",module,Magento_Ui
-"Please specify a valid mobile number","Please specify a valid mobile number",module,Magento_Ui
-"Please enter at least {0} characters","Please enter at least {0} characters",module,Magento_Ui
-"Please enter a valid credit card number.","Please enter a valid credit card number.",module,Magento_Ui
-"Please enter a valid IP v4 address.","Please enter a valid IP v4 address.",module,Magento_Ui
-"Please enter a valid IP v6 address.","Please enter a valid IP v6 address.",module,Magento_Ui
-"Invalid format.","Invalid format.",module,Magento_Ui
-"HTML tags are not allowed.","HTML tags are not allowed.",module,Magento_Ui
-"Please select an option.","Please select an option.",module,Magento_Ui
-"Empty Value.","Empty Value.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.",module,Magento_Ui
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.",module,Magento_Ui
-"Please enter a valid fax number (Ex: 123-456-7890).","Please enter a valid fax number (Ex: 123-456-7890).",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com).","Please enter a valid email address (Ex: johndoe@domain.com).",module,Magento_Ui
-"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored.",module,Magento_Ui
-"Please enter 7 or more characters, using both numeric and alphabetic.","Please enter 7 or more characters, using both numeric and alphabetic.",module,Magento_Ui
-"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://).",module,Magento_Ui
-"Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com.",module,Magento_Ui
-"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Please enter a valid XML-identifier (Ex: something_1, block5, id-4).",module,Magento_Ui
-"Please enter a valid social security number (Ex: 123-45-6789).","Please enter a valid social security number (Ex: 123-45-6789).",module,Magento_Ui
-"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Please enter a valid zip code (Ex: 90602 or 90602-1234).",module,Magento_Ui
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",module,Magento_Ui
-"Please enter a valid $ amount. For example $100.00.","Please enter a valid $ amount. For example $100.00.",module,Magento_Ui
-"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field.",module,Magento_Ui
-"Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field.",module,Magento_Ui
-"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).",module,Magento_Ui
-"Please enter a valid number in this field.","Please enter a valid number in this field.",module,Magento_Ui
-"The value is not within the specified range.","The value is not within the specified range.",module,Magento_Ui
-"Please use letters only (a-z or A-Z) in this field.","Please use letters only (a-z or A-Z) in this field.",module,Magento_Ui
-"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Ui
-"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.",module,Magento_Ui
-"Please enter a valid date.","Please enter a valid date.",module,Magento_Ui
-"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").",module,Magento_Ui
-"Please enter a valid zip code.","Please enter a valid zip code.",module,Magento_Ui
-"Please select State/Province.","Please select State/Province.",module,Magento_Ui
-"Please enter a value less than or equal to {0}.","Please enter a value less than or equal to {0}.",module,Magento_Ui
-"Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}.",module,Magento_Ui
-"Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",module,Magento_Ui
-"This is a required field.","This is a required field.",module,Magento_Ui
-"Please enter positive number in this field.","Please enter positive number in this field.",module,Magento_Ui
-"Please enter a valid value, ex: 10,20,30","Please enter a valid value, ex: 10,20,30",module,Magento_Ui
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Ui
-"File you are trying to upload exceeds maximum file size limit.","File you are trying to upload exceeds maximum file size limit.",module,Magento_Ui
-"Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.",module,Magento_Ui
-"The date is not within the specified range.","The date is not within the specified range.",module,Magento_Ui
-Attention,Attention,module,Magento_Ui
+"Please enter a valid time, between 00:00 and 23:59","Por favor ingrese una hora correcta, entre 00:00 y 23:59",module,Magento_Ui
+"Please enter a valid time, between 00:00 am and 12:00 pm","Por favor ingrese una hora correcta, entre 00:00 am y 12:00 pm",module,Magento_Ui
+"Please specify a valid phone number","Por favor especifique un número telefónico válido",module,Magento_Ui
+"Please specify a valid mobile number","Por favor especifique un número telefónico móvil válido",module,Magento_Ui
+"Please enter at least {0} characters","Por favor ingrese al menos {0} caracteres",module,Magento_Ui
+"Please enter a valid credit card number.","Por favor ingrese un número válido de tarjeta de crédito.",module,Magento_Ui
+"Please enter a valid IP v4 address.","Por favor ingrese una dirección IP v4 válida.",module,Magento_Ui
+"Please enter a valid IP v6 address.","Por favor ingrese una dirección IP v6 válida.",module,Magento_Ui
+"Invalid format.","Formato no válido.",module,Magento_Ui
+"HTML tags are not allowed.","No están permitidas etiquetas HTML.",module,Magento_Ui
+"Please select an option.","Por favor seleccione una opción.",module,Magento_Ui
+"Empty Value.","Valor Vacío.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Por favor sólo use letras (a-z or A-Z), números (0-9) o espacios en este campo.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Por favor sólo use letras (a-z or A-Z), números (0-9) o bajo guiones (_) en este campo, y el primer caracter debe ser una letra.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Por favor sólo use letras (a-z or A-Z), números (0-9), espacios y ""#"" en este campo.",module,Magento_Ui
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Por favor ingrese un número telefónico válido. Por ejemplo (123) 456-7890 o 123-456-7890.",module,Magento_Ui
+"Please enter a valid fax number (Ex: 123-456-7890).","Por favor ingrese un número de fax válido (Ej: 123-456-7890).",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","Por favor ingrese un email válido (Ej: juan@dominio.com).",module,Magento_Ui
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Por favor ingrese 6 o más caracteres. Los espacios al inicio y final serán ignorados.",module,Magento_Ui
+"Please enter 7 or more characters, using both numeric and alphabetic.","Por favor ingrese 7 o más caracteres, siendo numéricos y alfabéticos.",module,Magento_Ui
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Por favor ingrese un URL válido. Protocolo obligatorio (http://, https:// or ftp://).",module,Magento_Ui
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","Por favor ingrese un URL válido. Por ejemplo http://www.ejemplo.com or www.ejemplo.com.",module,Magento_Ui
+"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Por favor ingrese un identificador XML válido (Ej: algo_1, bloque5, id-4).",module,Magento_Ui
+"Please enter a valid social security number (Ex: 123-45-6789).","Por favor ingrese un número de seguridad social válido (Ej: 123-45-6789).",module,Magento_Ui
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Por favor ingrese un código postal válido (Ej: 90602 o 90602-1234).",module,Magento_Ui
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Por favor use este formato de fecha: dd/mm/aaaa. Por ejemplo 17/03/2006 Para el 17 de Marzo de 2006.",module,Magento_Ui
+"Please enter a valid $ amount. For example $100.00.","Por favor ingrese un $ monto válido. Por ejemplo $100.00.",module,Magento_Ui
+"Please enter a number 0 or greater in this field.","Por favor ingrese un número 0 o mayor en este campo.",module,Magento_Ui
+"Please enter a number greater than 0 in this field.","Por favor ingrese un número mayor que 0 en este campo.",module,Magento_Ui
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Por favor ingrese un número de longitud CSS válido (Ej: 100px, 77pt, 20em, .5ex or 50%).",module,Magento_Ui
+"Please enter a valid number in this field.","Por favor ingrese un número válido en este campo.",module,Magento_Ui
+"The value is not within the specified range.","El valor no está dentro del rango especificado.",module,Magento_Ui
+"Please use letters only (a-z or A-Z) in this field.","Por favor sólo use letras (a-z or A-Z) en ese campo.",module,Magento_Ui
+"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Por favor sólo use letras (a-z), números (0-9) o bajo guiones (_) en este campo, y el primer caracter debe ser una letra.",module,Magento_Ui
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Por favor sólo use letras (a-z or A-Z) o números (0-9) en este campo. No se permiten espacios u otros caracteres.",module,Magento_Ui
+"Please enter a valid date.","Por favor ingrese una fecha válida.",module,Magento_Ui
+"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Por favor ingrese una llave URL válida (Ej: ""muestra-ejemplo"", ""muestra-ejemplo.html"" o ""otronivel/muestra-ejemplo"").",module,Magento_Ui
+"Please enter a valid zip code.","Por favor ingrese un código postal válido.",module,Magento_Ui
+"Please select State/Province.","Por favor seleccione Estado/Provincia.",module,Magento_Ui
+"Please enter a value less than or equal to {0}.","Por favor ingrese un valor menor o igual a {0}.",module,Magento_Ui
+"Please enter a value greater than or equal to {0}.","Por favor ingrese un valor mayor o igual a {0}.",module,Magento_Ui
+"Please enter issue number or start date for switch/solo card type.","Por favor ingres eun número de asunto o una fecha de inicio para el tipo de tarjeta switch/solo.",module,Magento_Ui
+"This is a required field.","Este es un campo obligatorio.",module,Magento_Ui
+"Please enter positive number in this field.","Por favor ingrese un número positivo en este campo.",module,Magento_Ui
+"Please enter a valid value, ex: 10,20,30","Por favor ingrese un valor válido, ej: 10,20,30",module,Magento_Ui
+"We don't recognize or support this file extension type.","No reconocemos o soportamos este tipo de extensión de archivo.",module,Magento_Ui
+"File you are trying to upload exceeds maximum file size limit.","El archivo que está intentando enviar excede el límite máximo de tamaño de archivo.",module,Magento_Ui
+"Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Por favor use la etiqueta SCRIPT con el atributo SRC o con el contenido apropiado para incluir JavaScript en el documento.",module,Magento_Ui
+"The date is not within the specified range.","La fecha no está en el rango especificado.",module,Magento_Ui
+Attention,Atención,module,Magento_Ui
 OK,OK,module,Magento_Ui
-Close,Close,module,Magento_Ui
+Close,Cerrar,module,Magento_Ui
 Ok,Ok,module,Magento_Ui
-"Field ","Field ",module,Magento_Ups
-" is required."," is required.",module,Magento_Ups
-"Field ","Field ",module,Magento_Usps
-" is required."," is required.",module,Magento_Usps
-Cancel,Cancel,module,Magento_Vault
+"Field ","Campo ",module,Magento_Ups
+" es obligatorio."," is required.",module,Magento_Ups
+"Field ","Campo ",module,Magento_Usps
+" es obligatorio."," is required.",module,Magento_Usps
+Cancel,Cancelar,module,Magento_Vault
 "Gmail/Google Apps SMTP Pro","Gmail/Google Apps SMTP Pro",module,MagePal_GmailSmtpApp
-"Authentication method","Authentication method",module,MagePal_GmailSmtpApp
-"SSL type","SSL type",module,MagePal_GmailSmtpApp
-"SMTP Host","SMTP Host",module,MagePal_GmailSmtpApp
-Username,Username,module,MagePal_GmailSmtpApp
-Password,Password,module,MagePal_GmailSmtpApp
-"Set Reply-to","Set Reply-to",module,MagePal_GmailSmtpApp
-"Set Return-Path","Set Return-Path",module,MagePal_GmailSmtpApp
-"Return-Path Email","Return-Path Email",module,MagePal_GmailSmtpApp
-"Test Settings","Test Settings",module,MagePal_GmailSmtpApp
-"Email address","Email address",module,MagePal_GmailSmtpApp
-"Email address to send test to.","Email address to send test to.",module,MagePal_GmailSmtpApp
-"From Email Address","From Email Address",module,MagePal_GmailSmtpApp
-"Leave blank to use Username instead","Leave blank to use Username instead",module,MagePal_GmailSmtpApp
-"Show Toolbar","Show Toolbar",module,Magento_AdminNotification
-"Show List","Show List",module,Magento_AdminNotification
-"Use HTTPS to Get Feed","Use HTTPS to Get Feed",module,Magento_AdminNotification
-"Update Frequency","Update Frequency",module,Magento_AdminNotification
-"Last Update","Last Update",module,Magento_AdminNotification
-Severity,Severity,module,Magento_AdminNotification
-"Date Added","Date Added",module,Magento_AdminNotification
-Message,Message,module,Magento_AdminNotification
-Actions,Actions,module,Magento_AdminNotification
-"Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
-Enabled,Enabled,module,Magento_Authorizenet
-"Payment Action","Payment Action",module,Magento_Authorizenet
-Title,Title,module,Magento_Authorizenet
-"API Login ID","API Login ID",module,Magento_Authorizenet
-"Transaction Key","Transaction Key",module,Magento_Authorizenet
-"Merchant MD5","Merchant MD5",module,Magento_Authorizenet
-"New Order Status","New Order Status",module,Magento_Authorizenet
-"Test Mode","Test Mode",module,Magento_Authorizenet
-"Gateway URL","Gateway URL",module,Magento_Authorizenet
-"Transaction Details URL","Transaction Details URL",module,Magento_Authorizenet
-"Accepted Currency","Accepted Currency",module,Magento_Authorizenet
-Debug,Debug,module,Magento_Authorizenet
-"Email Customer","Email Customer",module,Magento_Authorizenet
-"Merchant's Email","Merchant's Email",module,Magento_Authorizenet
-"Credit Card Types","Credit Card Types",module,Magento_Authorizenet
-"Credit Card Verification","Credit Card Verification",module,Magento_Authorizenet
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Authorizenet
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Authorizenet
-"Minimum Order Total","Minimum Order Total",module,Magento_Authorizenet
-"Maximum Order Total","Maximum Order Total",module,Magento_Authorizenet
-"Sort Order","Sort Order",module,Magento_Authorizenet
-"Allow everything","Allow everything",module,Magento_Backend
-"Magento Admin","Magento Admin",module,Magento_Backend
-"Global Search","Global Search",module,Magento_Backend
+"Authentication method","Método de autenticación",module,MagePal_GmailSmtpApp
+"SSL type","Tipo SSL",module,MagePal_GmailSmtpApp
+"SMTP Host","Servidor SMTP",module,MagePal_GmailSmtpApp
+Username,Usuario,module,MagePal_GmailSmtpApp
+Password,Contraseña,module,MagePal_GmailSmtpApp
+"Set Reply-to","Fijar Responder-A (Reply-to)",module,MagePal_GmailSmtpApp
+"Set Return-Path","Fijar Dirección-Orígen (Return-Path)",module,MagePal_GmailSmtpApp
+"Return-Path Email","Email Dirección-Origen (Return-Path Email)",module,MagePal_GmailSmtpApp
+"Test Settings","Probar Configuraciones",module,MagePal_GmailSmtpApp
+"Email address","Email",module,MagePal_GmailSmtpApp
+"Email address to send test to.","Email destino.",module,MagePal_GmailSmtpApp
+"From Email Address","Email Remitente",module,MagePal_GmailSmtpApp
+"Leave blank to use Username instead","Dejar en blanco para usar Usuario",module,MagePal_GmailSmtpApp
+"Show Toolbar","Mostrar Barra de Herramientas",module,Magento_AdminNotification
+"Show List","Mostrar Lista",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","Usar HTTPS Para Obtener Feed",module,Magento_AdminNotification
+"Update Frequency","Frecuencia de Actualización",module,Magento_AdminNotification
+"Last Update","Última Actualización",module,Magento_AdminNotification
+Severity,Severidad,module,Magento_AdminNotification
+"Date Added","Fecha Añadido",module,Magento_AdminNotification
+Message,Mensaje,module,Magento_AdminNotification
+Actions,Acciones,module,Magento_AdminNotification
+"Authorize.net Direct Post","Envío Directo Authorize.net",module,Magento_Authorizenet
+Enabled,Habilitado,module,Magento_Authorizenet
+"Payment Action","Acción de Pago",module,Magento_Authorizenet
+Title,Título,module,Magento_Authorizenet
+"API Login ID","ID de Ingreso de API",module,Magento_Authorizenet
+"Transaction Key","Llave de Transacción",module,Magento_Authorizenet
+"Merchant MD5","MD5 de Comerciante",module,Magento_Authorizenet
+"New Order Status","Nuevo Estado de la Orden",module,Magento_Authorizenet
+"Test Mode","Modo de Pruebas",module,Magento_Authorizenet
+"Gateway URL","URL de Puerta de Enlace",module,Magento_Authorizenet
+"Transaction Details URL","URL de Detalles de Transacción",module,Magento_Authorizenet
+"Accepted Currency","Monedas Aceptadas",module,Magento_Authorizenet
+Debug,Depurar,module,Magento_Authorizenet
+"Email Customer","Email a Cliente",module,Magento_Authorizenet
+"Merchant's Email","Email de Comerciante",module,Magento_Authorizenet
+"Credit Card Types","Tipos de Tarjeta de Crédito",module,Magento_Authorizenet
+"Credit Card Verification","Verificación de Tarjeta de Crédito",module,Magento_Authorizenet
+"Payment from Applicable Countries","Pago dede Países Aplicables",module,Magento_Authorizenet
+"Payment from Specific Countries","Pago desde Países Específicos",module,Magento_Authorizenet
+"Minimum Order Total","Total Mínimo de Orden",module,Magento_Authorizenet
+"Maximum Order Total","Total Máximo de Orden",module,Magento_Authorizenet
+"Sort Order","Orden de Clasificación",module,Magento_Authorizenet
+"Allow everything","Permitir todo",module,Magento_Backend
+"Magento Admin","Administración de Magento",module,Magento_Backend
+"Global Search","Búsqueda Global",module,Magento_Backend
 Marketing,Marketing,module,Magento_Backend
-"SEO & Search","SEO & Search",module,Magento_Backend
-"User Content","User Content",module,Magento_Backend
-Content,Content,module,Magento_Backend
-Elements,Elements,module,Magento_Backend
-Design,Design,module,Magento_Backend
-Schedule,Schedule,module,Magento_Backend
-Settings,Settings,module,Magento_Backend
-"All Stores","All Stores",module,Magento_Backend
-Attributes,Attributes,module,Magento_Backend
-"Other Settings","Other Settings",module,Magento_Backend
-"Data Transfer","Data Transfer",module,Magento_Backend
+"SEO & Search","SEO y Búsqueda",module,Magento_Backend
+"User Content","Contenido de Usuario",module,Magento_Backend
+Content,Contenido,module,Magento_Backend
+Elements,Elementos,module,Magento_Backend
+Design,Diseño,module,Magento_Backend
+Schedule,Agenda,module,Magento_Backend
+Settings,Configuración,module,Magento_Backend
+"All Stores","Todas las Tiendas",module,Magento_Backend
+Attributes,Atributos,module,Magento_Backend
+"Other Settings","Otras Configuraciones",module,Magento_Backend
+"Data Transfer","Transferencia de Datos",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
-"Connect Manager","Connect Manager",module,Magento_Backend
-"Package Extensions","Package Extensions",module,Magento_Backend
-Tools,Tools,module,Magento_Backend
-"Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
-Currency,Currency,module,Magento_Backend
-Communications,Communications,module,Magento_Backend
-Services,Services,module,Magento_Backend
-Advanced,Advanced,module,Magento_Backend
-"Disable Modules Output","Disable Modules Output",module,Magento_Backend
-"Store Email Addresses","Store Email Addresses",module,Magento_Backend
-"Custom Email 1","Custom Email 1",module,Magento_Backend
-"Sender Email","Sender Email",module,Magento_Backend
-"Sender Name","Sender Name",module,Magento_Backend
-"Custom Email 2","Custom Email 2",module,Magento_Backend
-"General Contact","General Contact",module,Magento_Backend
-"Sales Representative","Sales Representative",module,Magento_Backend
-"Customer Support","Customer Support",module,Magento_Backend
-Developer,Developer,module,Magento_Backend
-Debug,Debug,module,Magento_Backend
-"Enabled Template Path Hints for Storefront","Enabled Template Path Hints for Storefront",module,Magento_Backend
-"Enabled Template Path Hints for Admin","Enabled Template Path Hints for Admin",module,Magento_Backend
-"Add Block Names to Hints","Add Block Names to Hints",module,Magento_Backend
-"Template Settings","Template Settings",module,Magento_Backend
-"Allow Symlinks","Allow Symlinks",module,Magento_Backend
-"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.",module,Magento_Backend
-"Minify Html","Minify Html",module,Magento_Backend
-"Minification is not applied in developer mode.","Minification is not applied in developer mode.",module,Magento_Backend
-"Translate Inline","Translate Inline",module,Magento_Backend
-"Enabled for Storefront","Enabled for Storefront",module,Magento_Backend
-"Enabled for Admin","Enabled for Admin",module,Magento_Backend
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",module,Magento_Backend
-"JavaScript Settings","JavaScript Settings",module,Magento_Backend
-"Merge JavaScript Files","Merge JavaScript Files",module,Magento_Backend
-"Enable JavaScript Bundling","Enable JavaScript Bundling",module,Magento_Backend
-"Minify JavaScript Files","Minify JavaScript Files",module,Magento_Backend
-"CSS Settings","CSS Settings",module,Magento_Backend
-"Merge CSS Files","Merge CSS Files",module,Magento_Backend
-"Minify CSS Files","Minify CSS Files",module,Magento_Backend
-"Image Processing Settings","Image Processing Settings",module,Magento_Backend
-"Image Adapter","Image Adapter",module,Magento_Backend
-"Static Files Settings","Static Files Settings",module,Magento_Backend
-"Sign Static Files","Sign Static Files",module,Magento_Backend
-"Country Options","Country Options",module,Magento_Backend
-"Allow Countries","Allow Countries",module,Magento_Backend
-"Default Country","Default Country",module,Magento_Backend
-"European Union Countries","European Union Countries",module,Magento_Backend
-"Top destinations","Top destinations",module,Magento_Backend
-"Locale Options","Locale Options",module,Magento_Backend
-Timezone,Timezone,module,Magento_Backend
-Locale,Locale,module,Magento_Backend
-"First Day of Week","First Day of Week",module,Magento_Backend
-"Weekend Days","Weekend Days",module,Magento_Backend
-"Store Name","Store Name",module,Magento_Backend
-"Store Phone Number","Store Phone Number",module,Magento_Backend
-"Store Hours of Operation","Store Hours of Operation",module,Magento_Backend
-Country,Country,module,Magento_Backend
-Region/State,Region/State,module,Magento_Backend
-"ZIP/Postal Code","ZIP/Postal Code",module,Magento_Backend
-City,City,module,Magento_Backend
-"Street Address","Street Address",module,Magento_Backend
-"Street Address Line 2","Street Address Line 2",module,Magento_Backend
-"VAT Number","VAT Number",module,Magento_Backend
-"Single-Store Mode","Single-Store Mode",module,Magento_Backend
-"Enable Single-Store Mode","Enable Single-Store Mode",module,Magento_Backend
-"This setting will not be taken into account if system has more than one store view.","This setting will not be taken into account if system has more than one store view.",module,Magento_Backend
-"Mail Sending Settings","Mail Sending Settings",module,Magento_Backend
-"Disable Email Communications","Disable Email Communications",module,Magento_Backend
-Host,Host,module,Magento_Backend
-"Port (25)","Port (25)",module,Magento_Backend
-"Set Return-Path","Set Return-Path",module,Magento_Backend
-"Return-Path Email","Return-Path Email",module,Magento_Backend
-Admin,Admin,module,Magento_Backend
-"Admin User Emails","Admin User Emails",module,Magento_Backend
-"Forgot Password Email Template","Forgot Password Email Template",module,Magento_Backend
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Backend
-"Forgot and Reset Email Sender","Forgot and Reset Email Sender",module,Magento_Backend
-"Startup Page","Startup Page",module,Magento_Backend
-"Admin Base URL","Admin Base URL",module,Magento_Backend
-"Use Custom Admin URL","Use Custom Admin URL",module,Magento_Backend
-"Custom Admin URL","Custom Admin URL",module,Magento_Backend
-"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/",module,Magento_Backend
-"Use Custom Admin Path","Use Custom Admin Path",module,Magento_Backend
-"Custom Admin Path","Custom Admin Path",module,Magento_Backend
-"You will have to sign in after you save your custom admin path.","You will have to sign in after you save your custom admin path.",module,Magento_Backend
-Security,Security,module,Magento_Backend
-"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Backend
-"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field.",module,Magento_Backend
-"Add Secret Key to URLs","Add Secret Key to URLs",module,Magento_Backend
-"Login is Case Sensitive","Login is Case Sensitive",module,Magento_Backend
-"Admin Session Lifetime (seconds)","Admin Session Lifetime (seconds)",module,Magento_Backend
-"Please enter at least 60 and at most 31536000 (one year).","Please enter at least 60 and at most 31536000 (one year).",module,Magento_Backend
-"Enable Charts","Enable Charts",module,Magento_Backend
+"Connect Manager","Administración de Connect",module,Magento_Backend
+"Package Extensions","Extensiones de Paquete",module,Magento_Backend
+Tools,Herramientas,module,Magento_Backend
+"Web Setup Wizard","Asistente de Configuración de Sitio Web",module,Magento_Backend
+Currency,Moneda,module,Magento_Backend
+Communications,Comunicaciones,module,Magento_Backend
+Services,Servicios,module,Magento_Backend
+Advanced,Avanzado,module,Magento_Backend
+"Disable Modules Output","Deshabilitar Salida de Módulos",module,Magento_Backend
+"Store Email Addresses","Emails de la Tienda",module,Magento_Backend
+"Custom Email 1","Email Personalizado 1",module,Magento_Backend
+"Sender Email","Email de Remitente",module,Magento_Backend
+"Sender Name","Nombre de Remitente",module,Magento_Backend
+"Custom Email 2","Email Personalizado 2",module,Magento_Backend
+"General Contact","Contacto General",module,Magento_Backend
+"Sales Representative","Representante de Ventas",module,Magento_Backend
+"Customer Support","Soporte a Clientes",module,Magento_Backend
+Developer,Desarrollador,module,Magento_Backend
+Debug,Depurar,module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Consejos de Ruta de Plantilla Habilitados para Escaparate",module,Magento_Backend
+"Enabled Template Path Hints for Admin","Consejos de Ruta de Plantilla Habilitados para Admin",module,Magento_Backend
+"Add Block Names to Hints","Añadir Nombres de Bloque a Consejos",module,Magento_Backend
+"Template Settings","Configuraciones de Plantilla",module,Magento_Backend
+"Allow Symlinks","Permitir Enlaces Simbólicos",module,Magento_Backend
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","¡Advertencia! Habilitar esta característica no está recomendado en ambientes de producción porque representa un riego potencial de seguridad.",module,Magento_Backend
+"Minify Html","Minimizar HTML",module,Magento_Backend
+"Minification is not applied in developer mode.","No se aplica minimizar en modo desarrollador.",module,Magento_Backend
+"Translate Inline","Traducir En Línea",module,Magento_Backend
+"Enabled for Storefront","Habilitado para Escaparate",module,Magento_Backend
+"Enabled for Admin","Habilitado para Admin",module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Los cachés de salida para traducción, bloques y otros deben deshabilitarse en las traducciones en línea tanto para Escaparate como para Admin.",module,Magento_Backend
+"JavaScript Settings","Configuraciones JavaScript",module,Magento_Backend
+"Merge JavaScript Files","Unir Adchivos JavaScript",module,Magento_Backend
+"Enable JavaScript Bundling","Habilitar Paquetización JavaScript",module,Magento_Backend
+"Minify JavaScript Files","Minimizar Archivos JavaScript",module,Magento_Backend
+"CSS Settings","Configuraciones CSS",module,Magento_Backend
+"Merge CSS Files","Unir Archivos CSS",module,Magento_Backend
+"Minify CSS Files","Minimizar Archivos CSS",module,Magento_Backend
+"Image Processing Settings","Configuraciones de Procesamiento de Imagen",module,Magento_Backend
+"Image Adapter","Adaptador de Imagen",module,Magento_Backend
+"Static Files Settings","Configuraciones de Archivos Estáticos",module,Magento_Backend
+"Sign Static Files","Firmar Archivos Estáticos",module,Magento_Backend
+"Country Options","Opciones de País",module,Magento_Backend
+"Allow Countries","Países Permitidos",module,Magento_Backend
+"Default Country","País por Defecto",module,Magento_Backend
+"European Union Countries","Países de la Unión Europea",module,Magento_Backend
+"Top destinations","Principales destinos",module,Magento_Backend
+"Locale Options","Opciones de Localización",module,Magento_Backend
+Timezone,"Zona Horaria",module,Magento_Backend
+Locale,Localización,module,Magento_Backend
+"First Day of Week","Primer Día de la Semana",module,Magento_Backend
+"Weekend Days","Días de Fin de Semana",module,Magento_Backend
+"Store Name","Nombre de la Tienda",module,Magento_Backend
+"Store Phone Number","Número Telefónico de la Tienda",module,Magento_Backend
+"Store Hours of Operation","Horario de Operación de la Tienda",module,Magento_Backend
+Country,País,module,Magento_Backend
+Region/State,Región/Estado,module,Magento_Backend
+"ZIP/Postal Code","Código Postal",module,Magento_Backend
+City,Ciudad,module,Magento_Backend
+"Street Address","Dirección 1",module,Magento_Backend
+"Street Address Line 2","Dirección 2",module,Magento_Backend
+"VAT Number","RFC",module,Magento_Backend
+"Single-Store Mode","Modo Mono-Tienda",module,Magento_Backend
+"Enable Single-Store Mode","Habilitar Modo Mono-Tienda",module,Magento_Backend
+"This setting will not be taken into account if system has more than one store view.","Esta configuración no será tomada en cuenta si el sistema tiene más de una vista de tienda.",module,Magento_Backend
+"Mail Sending Settings","Configuraciones de Envío de Email",module,Magento_Backend
+"Disable Email Communications","Deshabilitar Comunicaciones de Email",module,Magento_Backend
+Host,Servidor,module,Magento_Backend
+"Port (25)","Puerto (25)",module,Magento_Backend
+"Set Return-Path","Fijar Dirección-Origen (Return-Path)",module,Magento_Backend
+"Return-Path Email","Email de Origen (Return-Path Email)",module,Magento_Backend
+Admin,Administración,module,Magento_Backend
+"Admin User Emails","Administrar Emails de Usuario",module,Magento_Backend
+"Forgot Password Email Template","Plantilla de Contraseña Olvidada",module,Magento_Backend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_Backend
+"Forgot and Reset Email Sender","Remitente de Email de Olvido y Reinicio",module,Magento_Backend
+"Startup Page","Página de Puesta en Marcha",module,Magento_Backend
+"Admin Base URL","URL Base de Administración",module,Magento_Backend
+"Use Custom Admin URL","Usar URL Personalizada de Administración",module,Magento_Backend
+"Custom Admin URL","URL Personalizada de Administración",module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Asegúrese de que el URL base termina con '/' (diagonal), e.g. http://sudominio/magento/",module,Magento_Backend
+"Use Custom Admin Path","Usar Ruta Personalizada de Administración",module,Magento_Backend
+"Custom Admin Path","Ruta Personlizada de Administración",module,Magento_Backend
+"You will have to sign in after you save your custom admin path.","Tendrá que ingresar luego de guardar su ruta personalizada de administración.",module,Magento_Backend
+Security,Seguridad,module,Magento_Backend
+"Recovery Link Expiration Period (hours)","Periodo de Expiración de Liga de Recuperación (horas)",module,Magento_Backend
+"Please enter a number 1 or greater in this field.","Por favor ingrese un número 1 o superior en este campo.",module,Magento_Backend
+"Add Secret Key to URLs","Añadir Llave Secreta a URLs",module,Magento_Backend
+"Login is Case Sensitive","El ingreso es Sensible a Mayúsculas y Minúsculas",module,Magento_Backend
+"Admin Session Lifetime (seconds)","Tiempo de Vida de Sesión de Administración (segundos)",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","Por favor ingrese por lo menos 60 y a lo mucho 31536000 (un año).",module,Magento_Backend
+"Enable Charts","Habilitar Gráficas",module,Magento_Backend
 Web,Web,module,Magento_Backend
-"Url Options","Url Options",module,Magento_Backend
-"Add Store Code to Urls","Add Store Code to Urls",module,Magento_Backend
+"Url Options","Opciones de URL",module,Magento_Backend
+"Add Store Code to Urls","Añadir Código de Tienda a URLs",module,Magento_Backend
 "
                         <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
                     ","
-                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                        <strong style=""color:red"">¡Advertencia!</strong> Al usar Código de Tienda en URLs, en algunos casos el sistema puede no funcionar de forma apropiada si son especificados los URLs sin Códigos de Tienda en servicios de terceros (ej. PayPal etc.).
                     ",module,Magento_Backend
-"Auto-redirect to Base URL","Auto-redirect to Base URL",module,Magento_Backend
+"Auto-redirect to Base URL","Auto-redirigir a URL Base",module,Magento_Backend
 "Search Engine Optimization","Search Engine Optimization",module,Magento_Backend
-"Use Web Server Rewrites","Use Web Server Rewrites",module,Magento_Backend
-"Base URLs","Base URLs",module,Magento_Backend
-"Base URL","Base URL",module,Magento_Backend
-"Specify URL or {{base_url}} placeholder.","Specify URL or {{base_url}} placeholder.",module,Magento_Backend
-"Base Link URL","Base Link URL",module,Magento_Backend
-"Base URL for Static View Files","Base URL for Static View Files",module,Magento_Backend
-"May be empty or start with {{unsecure_base_url}} placeholder.","May be empty or start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Base URL for User Media Files","Base URL for User Media Files",module,Magento_Backend
-"Base URLs (Secure)","Base URLs (Secure)",module,Magento_Backend
-"Secure Base URL","Secure Base URL",module,Magento_Backend
-"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Secure Base Link URL","Secure Base Link URL",module,Magento_Backend
-"Secure Base URL for Static View Files","Secure Base URL for Static View Files",module,Magento_Backend
-"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Secure Base URL for User Media Files","Secure Base URL for User Media Files",module,Magento_Backend
-"Use Secure URLs on Storefront","Use Secure URLs on Storefront",module,Magento_Backend
-"Use Secure URLs in Admin","Use Secure URLs in Admin",module,Magento_Backend
-"Enable HTTP Strict Transport Security (HSTS)","Enable HTTP Strict Transport Security (HSTS)",module,Magento_Backend
-"Upgrade Insecure Requests","Upgrade Insecure Requests",module,Magento_Backend
-"Offloader header","Offloader header",module,Magento_Backend
-"Default Pages","Default Pages",module,Magento_Backend
-"Default Web URL","Default Web URL",module,Magento_Backend
-"Default No-route URL","Default No-route URL",module,Magento_Backend
-"Session Validation Settings","Session Validation Settings",module,Magento_Backend
-"Validate REMOTE_ADDR","Validate REMOTE_ADDR",module,Magento_Backend
-"Validate HTTP_VIA","Validate HTTP_VIA",module,Magento_Backend
-"Validate HTTP_X_FORWARDED_FOR","Validate HTTP_X_FORWARDED_FOR",module,Magento_Backend
-"Validate HTTP_USER_AGENT","Validate HTTP_USER_AGENT",module,Magento_Backend
-"Use SID on Storefront","Use SID on Storefront",module,Magento_Backend
-"Allows customers to stay logged in when switching between different stores.","Allows customers to stay logged in when switching between different stores.",module,Magento_Backend
-"Cache Type","Cache Type",module,Magento_Backend
-Description,Description,module,Magento_Backend
-Tags,Tags,module,Magento_Backend
-"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>",module,Magento_Backend
+"Use Web Server Rewrites","Usar Reescritura del Servidor Web",module,Magento_Backend
+"Base URLs","URLs Base",module,Magento_Backend
+"Base URL","URL Base",module,Magento_Backend
+"Specify URL or {{base_url}} placeholder.","Especificar URL o marcador de posición {{base_url}}.",module,Magento_Backend
+"Base Link URL","Liga de Base URL",module,Magento_Backend
+"Base URL for Static View Files","URL Base para Archivos de Vista Estáticos",module,Magento_Backend
+"May be empty or start with {{unsecure_base_url}} placeholder.","Puede estar vacío o comenzar con el marcador de posición {{unsecure_base_url}}.",module,Magento_Backend
+"Base URL for User Media Files","URL Base para Archivos de Medios de Usuario",module,Magento_Backend
+"Base URLs (Secure)","URLs Base (Seguros)",module,Magento_Backend
+"Secure Base URL","URL Base Seguro",module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Especificar URL o {{base_url}}, o marcador de posición {{unsecure_base_url}}.",module,Magento_Backend
+"Secure Base Link URL","Liga de Base URL Segura",module,Magento_Backend
+"Secure Base URL for Static View Files","Base URL Seguro para Archivos de Vista Estáticos",module,Magento_Backend
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Puede estar vacío o comenzar con {{secure_base_url}}, o marcador de posición {{unsecure_base_url}}.",module,Magento_Backend
+"Secure Base URL for User Media Files","URL Base Seguro para Archivos de Medios de Usuario",module,Magento_Backend
+"Use Secure URLs on Storefront","Usar URLs Seguros en Escaparate",module,Magento_Backend
+"Use Secure URLs in Admin","Usar URLs Seguros en Administración",module,Magento_Backend
+"Enable HTTP Strict Transport Security (HSTS)","Habilitar Seguridad de Transporte Estricta HTTP (HSTS)",module,Magento_Backend
+"Upgrade Insecure Requests","iMejorar Solicitudes Inseguras",module,Magento_Backend
+"Offloader header","Encabezado de liberador de carga",module,Magento_Backend
+"Default Pages","Páginas por Defecto",module,Magento_Backend
+"Default Web URL","URL de Sitio Web por Defecto",module,Magento_Backend
+"Default No-route URL","URL por Defecto Sin-ruta",module,Magento_Backend
+"Session Validation Settings","Configuraciones de Validación de Sesión",module,Magento_Backend
+"Validate REMOTE_ADDR","Validar REMOTE_ADDR",module,Magento_Backend
+"Validate HTTP_VIA","Validar HTTP_VIA",module,Magento_Backend
+"Validate HTTP_X_FORWARDED_FOR","Validar HTTP_X_FORWARDED_FOR",module,Magento_Backend
+"Validate HTTP_USER_AGENT","Validar HTTP_USER_AGENT",module,Magento_Backend
+"Use SID on Storefront","Usar SID en Escaparate",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.","Permite a los clientes continuar sin salir cuando cambian entre tiendas diferentes.",module,Magento_Backend
+"Cache Type","Tipo de Caché",module,Magento_Backend
+Description,Descripción,module,Magento_Backend
+Tags,Etiquetas,module,Magento_Backend
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Error 404 </h1><p>Página no encontrada.</p>",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
-"Default Theme","Default Theme",module,Magento_Backend
-"Applied Theme","Applied Theme",module,Magento_Backend
-"If no value is specified, the system default is used. The system default may be modified by third party extensions.","If no value is specified, the system default is used. The system default may be modified by third party extensions.",module,Magento_Backend
-"Design Rule","Design Rule",module,Magento_Backend
-"User Agent Rules","User Agent Rules",module,Magento_Backend
+"Default Theme","Tema por Defecto",module,Magento_Backend
+"Applied Theme","Tema Aplicado",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Si no se especifica un valor, se usa el valor de sistema por defecto. El valor por defecto de sistema puede ser modificado por extensiones de terceros.",module,Magento_Backend
+"Design Rule","Regla de Diseño",module,Magento_Backend
+"User Agent Rules","Reglas de Agente de Usuario",module,Magento_Backend
 Magento_Ui/js/dynamic-rows/record,Magento_Ui/js/dynamic-rows/record,module,Magento_Backend
-Pagination,Pagination,module,Magento_Backend
-"Pagination Frame","Pagination Frame",module,Magento_Backend
-"How many links to display at once.","How many links to display at once.",module,Magento_Backend
-"Pagination Frame Skip","Pagination Frame Skip",module,Magento_Backend
-"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",module,Magento_Backend
-"Anchor Text for Previous","Anchor Text for Previous",module,Magento_Backend
-"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",module,Magento_Backend
-"Anchor Text for Next","Anchor Text for Next",module,Magento_Backend
-"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",module,Magento_Backend
-"Theme Name","Theme Name",module,Magento_Backend
-Rollback,Rollback,module,Magento_Backup
-"Scheduled Backup Settings","Scheduled Backup Settings",module,Magento_Backup
-"Enable Scheduled Backup","Enable Scheduled Backup",module,Magento_Backup
-"Backup Type","Backup Type",module,Magento_Backup
-"Start Time","Start Time",module,Magento_Backup
-Frequency,Frequency,module,Magento_Backup
-"Maintenance Mode","Maintenance Mode",module,Magento_Backup
-Delete,Delete,module,Magento_Backup
-"Are you sure you want to delete the selected backup(s)?","Are you sure you want to delete the selected backup(s)?",module,Magento_Backup
-Time,Time,module,Magento_Backup
-Name,Name,module,Magento_Backup
-Size(bytes),Size(bytes),module,Magento_Backup
-Type,Type,module,Magento_Backup
-Download,Download,module,Magento_Backup
-Action,Action,module,Magento_Backup
+Pagination,Paginación,module,Magento_Backend
+"Pagination Frame","Marco de Paginación",module,Magento_Backend
+"How many links to display at once.","Cuantas ligas mostrar a la vez.",module,Magento_Backend
+"Pagination Frame Skip","Saltar Cuadro de Paginación",module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Si la posición del marco actual no cubre la mayoría de las páginas, despliega la liga a la posición actual más/menos este valor.",module,Magento_Backend
+"Anchor Text for Previous","Texto de Anclaje para Anterior",module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Texto alternativo para la liga de páginas anteriores en el menú de paginación. Si está vacío, se usa la imagen por defecto de flecha izquierda.",module,Magento_Backend
+"Anchor Text for Next","Texto de Anclaje para Siguiente",module,Magento_Backend
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Texto alternativo para la liga de páginas siguientes. Si está vaćio, se usa la imagen por defecho de flecha derecha.",module,Magento_Backend
+"Theme Name","Nombre de Tema",module,Magento_Backend
+Rollback,Retornar,module,Magento_Backup
+"Scheduled Backup Settings","Configuraciones de Respaldo Agendado",module,Magento_Backup
+"Enable Scheduled Backup","Habilitar Respaldo Agendado",module,Magento_Backup
+"Backup Type","Tipo de Respaldo",module,Magento_Backup
+"Start Time","Hora de Inicio",module,Magento_Backup
+Frequency,Frecuencia,module,Magento_Backup
+"Maintenance Mode","Modo de Mantenimiento",module,Magento_Backup
+Delete,Borrar,module,Magento_Backup
+"Are you sure you want to delete the selected backup(s)?","¿Está seguro de querer borrar el/los respaldo(s) seleccionado(s)?",module,Magento_Backup
+Time,Tiempo,module,Magento_Backup
+Name,Nombre,module,Magento_Backup
+Size(bytes),Tamaño(bytes),module,Magento_Backup
+Type,Tipo,module,Magento_Backup
+Download,Descargar,module,Magento_Backup
+Action,Acción,module,Magento_Backup
 Braintree,Braintree,module,Magento_Braintree
 &nbsp;,&nbsp;,module,Magento_Braintree
-"Enable this Solution","Enable this Solution",module,Magento_Braintree
-"Enable PayPal through Braintree","Enable PayPal through Braintree",module,Magento_Braintree
-"Vault enabled","Vault enabled",module,Magento_Braintree
-"Basic Braintree Settings","Basic Braintree Settings",module,Magento_Braintree
-Title,Title,module,Magento_Braintree
-Environment,Environment,module,Magento_Braintree
-"Payment Action","Payment Action",module,Magento_Braintree
-"Merchant ID","Merchant ID",module,Magento_Braintree
-"Public Key","Public Key",module,Magento_Braintree
-"Private Key","Private Key",module,Magento_Braintree
-"Advanced Braintree Settings","Advanced Braintree Settings",module,Magento_Braintree
-"Vault Title","Vault Title",module,Magento_Braintree
-"Merchant Account ID","Merchant Account ID",module,Magento_Braintree
-"Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_Braintree
-"Kount Merchant ID","Kount Merchant ID",module,Magento_Braintree
-Debug,Debug,module,Magento_Braintree
-"CVV Verification","CVV Verification",module,Magento_Braintree
-"Credit Card Types","Credit Card Types",module,Magento_Braintree
-"Sort Order","Sort Order",module,Magento_Braintree
-"Country Specific Settings","Country Specific Settings",module,Magento_Braintree
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Braintree
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Braintree
-"Country Specific Credit Card Types","Country Specific Credit Card Types",module,Magento_Braintree
-"PayPal through Braintree","PayPal through Braintree",module,Magento_Braintree
-"Override Merchant Name","Override Merchant Name",module,Magento_Braintree
-"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_Braintree
-"Display on Shopping Cart","Display on Shopping Cart",module,Magento_Braintree
-"3D Secure Verification Settings","3D Secure Verification Settings",module,Magento_Braintree
-"3D Secure Verification","3D Secure Verification",module,Magento_Braintree
-"Threshold Amount","Threshold Amount",module,Magento_Braintree
-"Verify for Applicable Countries","Verify for Applicable Countries",module,Magento_Braintree
-"Verify for Specific Countries","Verify for Specific Countries",module,Magento_Braintree
-"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_Braintree
-Select...,Select...,module,Magento_Braintree
-Status,Status,module,Magento_Braintree
-"Transaction Type","Transaction Type",module,Magento_Braintree
-"PayPal Payment ID","PayPal Payment ID",module,Magento_Braintree
-"Transaction ID","Transaction ID",module,Magento_Braintree
-"Order ID","Order ID",module,Magento_Braintree
-"Payment Type","Payment Type",module,Magento_Braintree
-Type,Type,module,Magento_Braintree
-"Created At","Created At",module,Magento_Braintree
-Amount,Amount,module,Magento_Braintree
-"Settlement Code","Settlement Code",module,Magento_Braintree
-"Settlement Response Text","Settlement Response Text",module,Magento_Braintree
-"Refund Ids","Refund Ids",module,Magento_Braintree
-"Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
-Currency,Currency,module,Magento_Braintree
-Select...,Select...,module,Magento_Bundle
-Status,Status,module,Magento_Bundle
-Thumbnail,Thumbnail,module,Magento_Bundle
-Type,Type,module,Magento_Bundle
+"Enable this Solution","Habilitar esta Solución",module,Magento_Braintree
+"Enable PayPal through Braintree","Habilitar PayPal a través de Braintree",module,Magento_Braintree
+"Vault enabled","Bóveda habilitada",module,Magento_Braintree
+"Basic Braintree Settings","Configuraciones Básicas de Braintree",module,Magento_Braintree
+Title,Título,module,Magento_Braintree
+Environment,Ambiente,module,Magento_Braintree
+"Payment Action","Acciónd de Pago",module,Magento_Braintree
+"Merchant ID","ID de Comerciante",module,Magento_Braintree
+"Public Key","Llave Pública",module,Magento_Braintree
+"Private Key","Llave Privada",module,Magento_Braintree
+"Advanced Braintree Settings","Configuraciones Avanzadas de Braintree",module,Magento_Braintree
+"Vault Title","Título de Bóveda",module,Magento_Braintree
+"Merchant Account ID","ID de Cuenta de Comerciante",module,Magento_Braintree
+"Advanced Fraud Protection","Protección Avanzada contra Fraude",module,Magento_Braintree
+"Kount Merchant ID","ID de Comerciante Kount",module,Magento_Braintree
+Debug,Depurar,module,Magento_Braintree
+"CVV Verification","Verificación CVV",module,Magento_Braintree
+"Credit Card Types","Tipos de Tarjeta de Crédito",module,Magento_Braintree
+"Sort Order","Ordenamiento",module,Magento_Braintree
+"Country Specific Settings","Configuraciones Específicas de País",module,Magento_Braintree
+"Payment from Applicable Countries","Pago de Países Aplicables",module,Magento_Braintree
+"Payment from Specific Countries","Pago de Países Específicos",module,Magento_Braintree
+"Country Specific Credit Card Types","Tipos de Tarjeta Específicos de País",module,Magento_Braintree
+"PayPal through Braintree","PayPal a través de Braintree",module,Magento_Braintree
+"Override Merchant Name","Anular Nombre de Comerciante",module,Magento_Braintree
+"Require Customer's Billing Address","Requerir Dirección de Facturación del Cliente",module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Permitir Editar la Dirección de Envío Ingresada Durante la Compra del Lado de PayPal",module,Magento_Braintree
+"Display on Shopping Cart","Mostrar en Carrito de Compras",module,Magento_Braintree
+"3D Secure Verification Settings","Configuraciones de Verificación Segura 3D",module,Magento_Braintree
+"3D Secure Verification","Verificación Segura 3D",module,Magento_Braintree
+"Threshold Amount","Monto Límite",module,Magento_Braintree
+"Verify for Applicable Countries","Verificar para Países Aplicables",module,Magento_Braintree
+"Verify for Specific Countries","Verificar para Países Específicos",module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Aplicar filtros para tener resultados. Sólo los primeros 100 registros son mostrados en la cuadrícula, podrá descargar la versión completa del reporte en formato .csv.",module,Magento_Braintree
+Select...,Seleccionar...,module,Magento_Braintree
+Status,Estado,module,Magento_Braintree
+"Transaction Type","Tipo de Transacción",module,Magento_Braintree
+"PayPal Payment ID","ID de Pago de PayPal",module,Magento_Braintree
+"Transaction ID","ID de Transacción",module,Magento_Braintree
+"Order ID","ID de Order",module,Magento_Braintree
+"Payment Type","Tipo de Pago",module,Magento_Braintree
+Type,Tipo,module,Magento_Braintree
+"Created At","Creado en",module,Magento_Braintree
+Amount,Monto,module,Magento_Braintree
+"Settlement Code","Código de Asentamiento",module,Magento_Braintree
+"Settlement Response Text","Texto de Respuesta de Asentamiento",module,Magento_Braintree
+"Refund Ids","IDs de Reembolso",module,Magento_Braintree
+"Settlement Batch ID","ID de Reembolso en Lote",module,Magento_Braintree
+Currency,Moneda,module,Magento_Braintree
+Select...,Seleccionar...,module,Magento_Bundle
+Status,Estado,module,Magento_Bundle
+Thumbnail,"Vista Miniatura",module,Magento_Bundle
+Type,Tipo,module,Magento_Bundle
 CAPTCHA,CAPTCHA,module,Magento_Captcha
-"Enable CAPTCHA in Admin","Enable CAPTCHA in Admin",module,Magento_Captcha
-Font,Font,module,Magento_Captcha
-Forms,Forms,module,Magento_Captcha
-"Displaying Mode","Displaying Mode",module,Magento_Captcha
-"Number of Unsuccessful Attempts to Login","Number of Unsuccessful Attempts to Login",module,Magento_Captcha
-"If 0 is specified, CAPTCHA on the Login form will be always available.","If 0 is specified, CAPTCHA on the Login form will be always available.",module,Magento_Captcha
-"CAPTCHA Timeout (minutes)","CAPTCHA Timeout (minutes)",module,Magento_Captcha
-"Number of Symbols","Number of Symbols",module,Magento_Captcha
-"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Please specify 8 symbols at the most. Range allowed (e.g. 3-5)",module,Magento_Captcha
-"Symbols Used in CAPTCHA","Symbols Used in CAPTCHA",module,Magento_Captcha
+"Enable CAPTCHA in Admin","Habilitar CAPTCHA en Admin",module,Magento_Captcha
+Font,Fuente,module,Magento_Captcha
+Forms,Formatos,module,Magento_Captcha
+"Displaying Mode","Modo de Despliegue",module,Magento_Captcha
+"Number of Unsuccessful Attempts to Login","Número de Intentos Fallidos de Ingreso",module,Magento_Captcha
+"If 0 is specified, CAPTCHA on the Login form will be always available.","Si se especifica 0, siempre estará disponible el CAPTCHA en el formato de ingreso.",module,Magento_Captcha
+"CAPTCHA Timeout (minutes)","Caducidad CAPTCHA (minutos)",module,Magento_Captcha
+"Number of Symbols","Número de Símbolos",module,Magento_Captcha
+"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Por favor especifique como mucho 8 símbolos. Se permite rango (ej. 3-5)",module,Magento_Captcha
+"Symbols Used in CAPTCHA","Símbolos Usados en CAPTCHA",module,Magento_Captcha
 "
                         Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
                     ","
-                        Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
+                        Por favor sólo use letras (a-z or A-Z) o números (0-9) en este campo. No se permiten espacios u otros caracteres.<br />Caracteres con apariencia similar (ej. ""i"", ""l"", ""1"") hacen más difícil que el cliente lo reconozca correctamente.
                     ",module,Magento_Captcha
-"Case Sensitive","Case Sensitive",module,Magento_Captcha
-"Enable CAPTCHA on Storefront","Enable CAPTCHA on Storefront",module,Magento_Captcha
-"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.",module,Magento_Captcha
-"Inventory Section","Inventory Section",module,Magento_CatalogInventory
-Inventory,Inventory,module,Magento_CatalogInventory
-"Stock Options","Stock Options",module,Magento_CatalogInventory
-"Decrease Stock When Order is Placed","Decrease Stock When Order is Placed",module,Magento_CatalogInventory
-"Set Items' Status to be In Stock When Order is Cancelled","Set Items' Status to be In Stock When Order is Cancelled",module,Magento_CatalogInventory
-"Display Out of Stock Products","Display Out of Stock Products",module,Magento_CatalogInventory
-"Products will still be shown by direct product URLs.","Products will still be shown by direct product URLs.",module,Magento_CatalogInventory
-"Only X left Threshold","Only X left Threshold",module,Magento_CatalogInventory
-"Display Products Availability in Stock on Storefront","Display Products Availability in Stock on Storefront",module,Magento_CatalogInventory
+"Case Sensitive","Reconocer Mayúsculas y Minúsculas",module,Magento_Captcha
+"Enable CAPTCHA on Storefront","Habilitar CAPTCHA En Escaparate",module,Magento_Captcha
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA para los formatos ""Crear usuario"" y ""Olvido de Contraseña"" están siempre disponibles si se elije.",module,Magento_Captcha
+"Inventory Section","Sección de Inventario",module,Magento_CatalogInventory
+Inventory,Inventario,module,Magento_CatalogInventory
+"Stock Options","Opciones de Existencias",module,Magento_CatalogInventory
+"Decrease Stock When Order is Placed","Disminuir Existencias al Colocar Orden",module,Magento_CatalogInventory
+"Set Items' Status to be In Stock When Order is Cancelled","Fijar el Estado del Artículo a En Existencia Cuando Se Cancela la Orden",module,Magento_CatalogInventory
+"Display Out of Stock Products","Mostrar Productos Sin Existencia",module,Magento_CatalogInventory
+"Products will still be shown by direct product URLs.","Los productos se mostrarán de todas formas en los URLs directos de producto.",module,Magento_CatalogInventory
+"Only X left Threshold","Límite para Sólo X disponibles",module,Magento_CatalogInventory
+"Display Products Availability in Stock on Storefront","Mostrar Disponibilidad de Productos en Existencias en Escaparate",module,Magento_CatalogInventory
 "Product Stock Options","Product Stock Options",module,Magento_CatalogInventory
 "
                     Please note that these settings apply to individual items in the cart, not to the entire cart.
