@@ -6897,31 +6897,31 @@ Amount,Monto,module,Magento_Braintree
 "Settlement Response Text","Texto de Respuesta de Asentamiento",module,Magento_Braintree
 "Refund Ids","IDs de Reembolso",module,Magento_Braintree
 "Settlement Batch ID","ID de Reembolso en Lote",module,Magento_Braintree
-Currency,Currency,module,Magento_Braintree
-Select...,Select...,module,Magento_Bundle
-Status,Status,module,Magento_Bundle
-Thumbnail,Thumbnail,module,Magento_Bundle
-Type,Type,module,Magento_Bundle
+Currency,Moneda,module,Magento_Braintree
+Select...,Seleccionar...,module,Magento_Bundle
+Status,Estado,module,Magento_Bundle
+Thumbnail,"Vista Miniatura",module,Magento_Bundle
+Type,Tipo,module,Magento_Bundle
 CAPTCHA,CAPTCHA,module,Magento_Captcha
-"Enable CAPTCHA in Admin","Enable CAPTCHA in Admin",module,Magento_Captcha
-Font,Font,module,Magento_Captcha
-Forms,Forms,module,Magento_Captcha
-"Displaying Mode","Displaying Mode",module,Magento_Captcha
-"Number of Unsuccessful Attempts to Login","Number of Unsuccessful Attempts to Login",module,Magento_Captcha
-"If 0 is specified, CAPTCHA on the Login form will be always available.","If 0 is specified, CAPTCHA on the Login form will be always available.",module,Magento_Captcha
-"CAPTCHA Timeout (minutes)","CAPTCHA Timeout (minutes)",module,Magento_Captcha
-"Number of Symbols","Number of Symbols",module,Magento_Captcha
-"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Please specify 8 symbols at the most. Range allowed (e.g. 3-5)",module,Magento_Captcha
-"Symbols Used in CAPTCHA","Symbols Used in CAPTCHA",module,Magento_Captcha
+"Enable CAPTCHA in Admin","Habilitar CAPTCHA en Admin",module,Magento_Captcha
+Font,Fuente,module,Magento_Captcha
+Forms,Formatos,module,Magento_Captcha
+"Displaying Mode","Modo de Despliegue",module,Magento_Captcha
+"Number of Unsuccessful Attempts to Login","Número de Intentos Fallidos de Ingreso",module,Magento_Captcha
+"If 0 is specified, CAPTCHA on the Login form will be always available.","Si se especifica 0, siempre estará disponible el CAPTCHA en el formato de ingreso.",module,Magento_Captcha
+"CAPTCHA Timeout (minutes)","Caducidad CAPTCHA (minutos)",module,Magento_Captcha
+"Number of Symbols","Número de Símbolos",module,Magento_Captcha
+"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Por favor especifique como mucho 8 símbolos. Se permite rango (ej. 3-5)",module,Magento_Captcha
+"Symbols Used in CAPTCHA","Símbolos Usados en CAPTCHA",module,Magento_Captcha
 "
                         Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
                     ","
-                        Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
+                        Por favor sólo use letras (a-z or A-Z) o números (0-9) en este campo. No se permiten espacios u otros caracteres.<br />Caracteres con apariencia similar (ej. ""i"", ""l"", ""1"") hacen más difícil que el cliente lo reconozca correctamente.
                     ",module,Magento_Captcha
-"Case Sensitive","Case Sensitive",module,Magento_Captcha
-"Enable CAPTCHA on Storefront","Enable CAPTCHA on Storefront",module,Magento_Captcha
-"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.",module,Magento_Captcha
-"Inventory Section","Inventory Section",module,Magento_CatalogInventory
+"Case Sensitive","Reconocer Mayúsculas y Minúsculas",module,Magento_Captcha
+"Enable CAPTCHA on Storefront","Habilitar CAPTCHA En Escaparate",module,Magento_Captcha
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA para los formatos ""Crear usuario"" y ""Olvido de Contraseña"" están siempre disponibles si se elije.",module,Magento_Captcha
+"Inventory Section","Sección de Inventario",module,Magento_CatalogInventory
 Inventory,Inventory,module,Magento_CatalogInventory
 "Stock Options","Stock Options",module,Magento_CatalogInventory
 "Decrease Stock When Order is Placed","Decrease Stock When Order is Placed",module,Magento_CatalogInventory
