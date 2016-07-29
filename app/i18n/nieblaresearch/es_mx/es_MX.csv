@@ -6922,14 +6922,14 @@ Forms,Formatos,module,Magento_Captcha
 "Enable CAPTCHA on Storefront","Habilitar CAPTCHA En Escaparate",module,Magento_Captcha
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA para los formatos ""Crear usuario"" y ""Olvido de Contraseña"" están siempre disponibles si se elije.",module,Magento_Captcha
 "Inventory Section","Sección de Inventario",module,Magento_CatalogInventory
-Inventory,Inventory,module,Magento_CatalogInventory
-"Stock Options","Stock Options",module,Magento_CatalogInventory
-"Decrease Stock When Order is Placed","Decrease Stock When Order is Placed",module,Magento_CatalogInventory
-"Set Items' Status to be In Stock When Order is Cancelled","Set Items' Status to be In Stock When Order is Cancelled",module,Magento_CatalogInventory
-"Display Out of Stock Products","Display Out of Stock Products",module,Magento_CatalogInventory
-"Products will still be shown by direct product URLs.","Products will still be shown by direct product URLs.",module,Magento_CatalogInventory
-"Only X left Threshold","Only X left Threshold",module,Magento_CatalogInventory
-"Display Products Availability in Stock on Storefront","Display Products Availability in Stock on Storefront",module,Magento_CatalogInventory
+Inventory,Inventario,module,Magento_CatalogInventory
+"Stock Options","Opciones de Existencias",module,Magento_CatalogInventory
+"Decrease Stock When Order is Placed","Disminuir Existencias al Colocar Orden",module,Magento_CatalogInventory
+"Set Items' Status to be In Stock When Order is Cancelled","Fijar el Estado del Artículo a En Existencia Cuando Se Cancela la Orden",module,Magento_CatalogInventory
+"Display Out of Stock Products","Mostrar Productos Sin Existencia",module,Magento_CatalogInventory
+"Products will still be shown by direct product URLs.","Los productos se mostrarán de todas formas en los URLs directos de producto.",module,Magento_CatalogInventory
+"Only X left Threshold","Límite para Sólo X disponibles",module,Magento_CatalogInventory
+"Display Products Availability in Stock on Storefront","Mostrar Disponibilidad de Productos en Existencias en Escaparate",module,Magento_CatalogInventory
 "Product Stock Options","Product Stock Options",module,Magento_CatalogInventory
 "
                     Please note that these settings apply to individual items in the cart, not to the entire cart.
