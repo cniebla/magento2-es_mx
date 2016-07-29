@@ -6930,24 +6930,24 @@ Inventory,Inventario,module,Magento_CatalogInventory
 "Products will still be shown by direct product URLs.","Los productos se mostrarán de todas formas en los URLs directos de producto.",module,Magento_CatalogInventory
 "Only X left Threshold","Límite para Sólo X disponibles",module,Magento_CatalogInventory
 "Display Products Availability in Stock on Storefront","Mostrar Disponibilidad de Productos en Existencias en Escaparate",module,Magento_CatalogInventory
-"Product Stock Options","Product Stock Options",module,Magento_CatalogInventory
+"Product Stock Options","Opciones de Existencias de Producto",module,Magento_CatalogInventory
 "
                     Please note that these settings apply to individual items in the cart, not to the entire cart.
                 ","
-                    Please note that these settings apply to individual items in the cart, not to the entire cart.
+                    Por favor observe que estas configuraciones aplican a artículos individuales en el carrito, no al carrito entero.
                 ",module,Magento_CatalogInventory
-"Manage Stock","Manage Stock",module,Magento_CatalogInventory
-Backorders,Backorders,module,Magento_CatalogInventory
-"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart",module,Magento_CatalogInventory
-"Out-of-Stock Threshold","Out-of-Stock Threshold",module,Magento_CatalogInventory
-"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart",module,Magento_CatalogInventory
-"Notify for Quantity Below","Notify for Quantity Below",module,Magento_CatalogInventory
-"Automatically Return Credit Memo Item to Stock","Automatically Return Credit Memo Item to Stock",module,Magento_CatalogInventory
-"Enable Qty Increments","Enable Qty Increments",module,Magento_CatalogInventory
-"Qty Increments","Qty Increments",module,Magento_CatalogInventory
-Stock,Stock,module,Magento_CatalogInventory
-"Index stock","Index stock",module,Magento_CatalogInventory
-"Use Config Settings","Use Config Settings",module,Magento_CatalogInventory
+"Manage Stock","Administrar Existencias",module,Magento_CatalogInventory
+Backorders,"Pedidos Pendientes",module,Magento_CatalogInventory
+"Maximum Qty Allowed in Shopping Cart","Cantidad Máxima Permitida en Carrito de Compras",module,Magento_CatalogInventory
+"Out-of-Stock Threshold","Límite de Sin Existencias",module,Magento_CatalogInventory
+"Minimum Qty Allowed in Shopping Cart","Cantidad Mínima Permitida en Carrito de Compras",module,Magento_CatalogInventory
+"Notify for Quantity Below","Notificar Cuando Cantidad Menor",module,Magento_CatalogInventory
+"Automatically Return Credit Memo Item to Stock","Regresar Automáticamente a Existencias Artículo en Nota de Crédito",module,Magento_CatalogInventory
+"Enable Qty Increments","Habilitar Incrementos de Cantidad",module,Magento_CatalogInventory
+"Qty Increments","Incrementos de Cantidad",module,Magento_CatalogInventory
+Stock,Existencias,module,Magento_CatalogInventory
+"Index stock","Indizar Existencias",module,Magento_CatalogInventory
+"Use Config Settings","Usar Configuraciones de Configuración",module,Magento_CatalogInventory
 "Qty Uses Decimals","Qty Uses Decimals",module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping",module,Magento_CatalogInventory
 "Use Deferred Stock Update","Use Deferred Stock Update",module,Magento_CatalogInventory
