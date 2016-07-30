@@ -6947,287 +6947,287 @@ Backorders,"Pedidos Pendientes",module,Magento_CatalogInventory
 "Qty Increments","Incrementos de Cantidad",module,Magento_CatalogInventory
 Stock,Existencias,module,Magento_CatalogInventory
 "Index stock","Indizar Existencias",module,Magento_CatalogInventory
-"Use Config Settings","Usar Configuraciones de Configuración",module,Magento_CatalogInventory
-"Qty Uses Decimals","Qty Uses Decimals",module,Magento_CatalogInventory
-"Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping",module,Magento_CatalogInventory
-"Use Deferred Stock Update","Use Deferred Stock Update",module,Magento_CatalogInventory
-"Catalog Rule Product","Catalog Rule Product",module,Magento_CatalogRule
-"Indexed rule/product association","Indexed rule/product association",module,Magento_CatalogRule
-"Catalog Product Rule","Catalog Product Rule",module,Magento_CatalogRule
-"Indexed product/rule association","Indexed product/rule association",module,Magento_CatalogRule
-Rule,Rule,module,Magento_CatalogRule
-Start,Start,module,Magento_CatalogRule
-End,End,module,Magento_CatalogRule
-Status,Status,module,Magento_CatalogRule
-Active,Active,module,Magento_CatalogRule
-Inactive,Inactive,module,Magento_CatalogRule
-"Web Site","Web Site",module,Magento_CatalogRule
-Back,Back,module,Magento_CatalogRule
-"Rule Information","Rule Information",module,Magento_CatalogRule
-Actions,Actions,module,Magento_CatalogRule
-Yes,Yes,module,Magento_CatalogRule
+"Use Config Settings","Usar Parámetros de Configuración",module,Magento_CatalogInventory
+"Qty Uses Decimals","La Cantidad Usa Decimales",module,Magento_CatalogInventory
+"Allow Multiple Boxes for Shipping","Permitir Varias Cajas para Envío",module,Magento_CatalogInventory
+"Use Deferred Stock Update","Usar Actualización de Existencias Diferida",module,Magento_CatalogInventory
+"Catalog Rule Product","Regla de Producto de Catálogo",module,Magento_CatalogRule
+"Indexed rule/product association","Asociación regla/producto indizada",module,Magento_CatalogRule
+"Catalog Product Rule","Regla de Catálogo de Producto",module,Magento_CatalogRule
+"Indexed product/rule association","Asociación producto/regla indizada",module,Magento_CatalogRule
+Rule,Regla,module,Magento_CatalogRule
+Start,Comienzo,module,Magento_CatalogRule
+End,Fin,module,Magento_CatalogRule
+Status,Estado,module,Magento_CatalogRule
+Active,Activa,module,Magento_CatalogRule
+Inactive,Inactiva,module,Magento_CatalogRule
+"Web Site","Sitio Web",module,Magento_CatalogRule
+Back,Atrás,module,Magento_CatalogRule
+"Rule Information","Información de Regla",module,Magento_CatalogRule
+Actions,Acciones,module,Magento_CatalogRule
+Yes,Sí,module,Magento_CatalogRule
 No,No,module,Magento_CatalogRule
-"Popular Search Terms","Popular Search Terms",module,Magento_CatalogSearch
-"Catalog Search","Catalog Search",module,Magento_CatalogSearch
-"Minimal Query Length","Minimal Query Length",module,Magento_CatalogSearch
-"Maximum Query Length","Maximum Query Length",module,Magento_CatalogSearch
-"Rebuild Catalog product fulltext search index","Rebuild Catalog product fulltext search index",module,Magento_CatalogSearch
-"Category URL Suffix","Category URL Suffix",module,Magento_CatalogUrlRewrite
-"You need to refresh the cache.","You need to refresh the cache.",module,Magento_CatalogUrlRewrite
-"Product URL Suffix","Product URL Suffix",module,Magento_CatalogUrlRewrite
-"Use Categories Path for Product URLs","Use Categories Path for Product URLs",module,Magento_CatalogUrlRewrite
-"Create Permanent Redirect for URLs if URL Key Changed","Create Permanent Redirect for URLs if URL Key Changed",module,Magento_CatalogUrlRewrite
-"Catalog Products List","Catalog Products List",module,Magento_CatalogWidget
-"List of Products","List of Products",module,Magento_CatalogWidget
-Title,Title,module,Magento_CatalogWidget
-"Display Page Control","Display Page Control",module,Magento_CatalogWidget
-"Number of Products per Page","Number of Products per Page",module,Magento_CatalogWidget
-"Number of Products to Display","Number of Products to Display",module,Magento_CatalogWidget
-Template,Template,module,Magento_CatalogWidget
-"Products Grid Template","Products Grid Template",module,Magento_CatalogWidget
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_CatalogWidget
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Magento_CatalogWidget
-Conditions,Conditions,module,Magento_CatalogWidget
-Inventory,Inventory,module,Magento_Catalog
-"Catalog Section","Catalog Section",module,Magento_Catalog
-"Product Fields Auto-Generation","Product Fields Auto-Generation",module,Magento_Catalog
-"Mask for SKU","Mask for SKU",module,Magento_Catalog
-"Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder",module,Magento_Catalog
-"Mask for Meta Title","Mask for Meta Title",module,Magento_Catalog
-"Mask for Meta Keywords","Mask for Meta Keywords",module,Magento_Catalog
-"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Use {{name}} as Product Name or {{sku}} as Product SKU placeholders",module,Magento_Catalog
-"Mask for Meta Description","Mask for Meta Description",module,Magento_Catalog
-"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders",module,Magento_Catalog
-Storefront,Storefront,module,Magento_Catalog
-"List Mode","List Mode",module,Magento_Catalog
-"Products per Page on Grid Allowed Values","Products per Page on Grid Allowed Values",module,Magento_Catalog
-Comma-separated.,Comma-separated.,module,Magento_Catalog
-"Products per Page on Grid Default Value","Products per Page on Grid Default Value",module,Magento_Catalog
-"Must be in the allowed values list","Must be in the allowed values list",module,Magento_Catalog
-"Products per Page on List Allowed Values","Products per Page on List Allowed Values",module,Magento_Catalog
-"Products per Page on List Default Value","Products per Page on List Default Value",module,Magento_Catalog
-"Use Flat Catalog Category","Use Flat Catalog Category",module,Magento_Catalog
-"Use Flat Catalog Product","Use Flat Catalog Product",module,Magento_Catalog
-"Product Listing Sort by","Product Listing Sort by",module,Magento_Catalog
-"Allow All Products per Page","Allow All Products per Page",module,Magento_Catalog
-"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Whether to show ""All"" option in the ""Show X Per Page"" dropdown",module,Magento_Catalog
-"Allow Dynamic Media URLs in Products and Categories","Allow Dynamic Media URLs in Products and Categories",module,Magento_Catalog
-"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.",module,Magento_Catalog
-"Product Image Placeholders","Product Image Placeholders",module,Magento_Catalog
+"Popular Search Terms","Términos de Búsqueda Populares",module,Magento_CatalogSearch
+"Catalog Search","Búsqueda de Catálogo",module,Magento_CatalogSearch
+"Minimal Query Length","Longitud Mínima de Búsqueda",module,Magento_CatalogSearch
+"Maximum Query Length","Longitud Máxima de Búsqueda",module,Magento_CatalogSearch
+"Rebuild Catalog product fulltext search index","Reconstruir Índice de búsqueda de texto completo del Catálogo",module,Magento_CatalogSearch
+"Category URL Suffix","Sufijo URL de Categoría",module,Magento_CatalogUrlRewrite
+"You need to refresh the cache.","Necesita refrescar el caché.",module,Magento_CatalogUrlRewrite
+"Product URL Suffix","Sufijo URL de Producto",module,Magento_CatalogUrlRewrite
+"Use Categories Path for Product URLs","Usar Ruta de Categorías para URLs de Producto",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for URLs if URL Key Changed","Crear Redirección Permanente para URLs si Cambió la Llave URL",module,Magento_CatalogUrlRewrite
+"Catalog Products List","Lista de Productos de Catálogo",module,Magento_CatalogWidget
+"List of Products","Lista de Productos",module,Magento_CatalogWidget
+Title,Título,module,Magento_CatalogWidget
+"Display Page Control","Mostrar Control de Página",module,Magento_CatalogWidget
+"Number of Products per Page","Número de Productos por Página",module,Magento_CatalogWidget
+"Number of Products to Display","Número de Productos a Desplegar",module,Magento_CatalogWidget
+Template,Plantilla,module,Magento_CatalogWidget
+"Products Grid Template","Plantilla de Cuadrícula de Productos",module,Magento_CatalogWidget
+"Cache Lifetime (Seconds)","Permanencia del Caché (Segundos)",module,Magento_CatalogWidget
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 por defecto, si no se ha fijado. Para refrescar instantáneamente, limpie la Salida de caché de Bloques HTML.",module,Magento_CatalogWidget
+Conditions,Condiciones,module,Magento_CatalogWidget
+Inventory,Inventario,module,Magento_Catalog
+"Catalog Section","Sección de Catálogo",module,Magento_Catalog
+"Product Fields Auto-Generation","Auto Generación de Campos de Producto",module,Magento_Catalog
+"Mask for SKU","Máscara para SKU",module,Magento_Catalog
+"Use {{name}} as Product Name placeholder","Usar {{name}} como Marcador de Posición de Nombre de Producto",module,Magento_Catalog
+"Mask for Meta Title","Máscara para Meta Título",module,Magento_Catalog
+"Mask for Meta Keywords","Máscara para Meta Palabras Clave",module,Magento_Catalog
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Usar {{name}} como Nombre de Producto o {{sku}} como marcadores de posición de SKU de Producto",module,Magento_Catalog
+"Mask for Meta Description","Máscara para Meta Descripción",module,Magento_Catalog
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Usar {{name}} y {{description}} como marcadores de posición de Nombre de Producto y Descripción de Producto",module,Magento_Catalog
+Storefront,Escaparate,module,Magento_Catalog
+"List Mode","Modo de Lista",module,Magento_Catalog
+"Products per Page on Grid Allowed Values","Valores Permitidos para Productos por Página en Cuadrícula",module,Magento_Catalog
+Comma-separated.,"Separados por comas".,module,Magento_Catalog
+"Products per Page on Grid Default Value","Valor por Defecto para Productos por Página en Cuadrícula",module,Magento_Catalog
+"Must be in the allowed values list","Debe estar en la lista de valores permitidos",module,Magento_Catalog
+"Products per Page on List Allowed Values","Valores Permitidos para Productos por Página en Lista",module,Magento_Catalog
+"Products per Page on List Default Value","Valor por Defecto para Productos por Página en Lista",module,Magento_Catalog
+"Use Flat Catalog Category","Usar Categoría de Catálogo Plano",module,Magento_Catalog
+"Use Flat Catalog Product","Usar Producto de Catálogo Plano",module,Magento_Catalog
+"Product Listing Sort by","Ordenamiento de Listado de Productos",module,Magento_Catalog
+"Allow All Products per Page","Permitir Todos los Productos por Página",module,Magento_Catalog
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Sí o no mostrar la opción ""Todos"" en ""Mostrar X Por Página"" dropdown",module,Magento_Catalog
+"Allow Dynamic Media URLs in Products and Categories","Permitir URLs de Medios Dinámicos en Productos y Categorías",module,Magento_Catalog
+"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","Ej. {{media url=""rota/a/imagen.jpg""}} {{skin url=""ruta/a/imagen.gif""}}. El análisis sintático de directivas dinámicas impacta la eficiencia del catálogo.",module,Magento_Catalog
+"Product Image Placeholders","Marcadores de Posición de Imágenes de Producto",module,Magento_Catalog
 "Search Engine Optimization","Search Engine Optimization",module,Magento_Catalog
-"Page Title Separator","Page Title Separator",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Categories","Use Canonical Link Meta Tag For Categories",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Products","Use Canonical Link Meta Tag For Products",module,Magento_Catalog
-"Catalog Price Scope","Catalog Price Scope",module,Magento_Catalog
-"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").",module,Magento_Catalog
-"Category Top Navigation","Category Top Navigation",module,Magento_Catalog
-"Maximal Depth","Maximal Depth",module,Magento_Catalog
-"Date & Time Custom Options","Date & Time Custom Options",module,Magento_Catalog
-"Use JavaScript Calendar","Use JavaScript Calendar",module,Magento_Catalog
-"Date Fields Order","Date Fields Order",module,Magento_Catalog
-"Time Format","Time Format",module,Magento_Catalog
-"Year Range","Year Range",module,Magento_Catalog
-"Please use a four-digit year format.","Please use a four-digit year format.",module,Magento_Catalog
-"Use Static URLs for Media Content in WYSIWYG for Catalog","Use Static URLs for Media Content in WYSIWYG for Catalog",module,Magento_Catalog
-"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
-"Top Level Category","Top Level Category",module,Magento_Catalog
-"Product Flat Data","Product Flat Data",module,Magento_Catalog
-"Reorganize EAV product structure to flat structure","Reorganize EAV product structure to flat structure",module,Magento_Catalog
-"Category Flat Data","Category Flat Data",module,Magento_Catalog
-"Reorganize EAV category structure to flat structure","Reorganize EAV category structure to flat structure",module,Magento_Catalog
-"Category Products","Category Products",module,Magento_Catalog
-"Indexed category/products association","Indexed category/products association",module,Magento_Catalog
-"Product Categories","Product Categories",module,Magento_Catalog
-"Indexed product/categories association","Indexed product/categories association",module,Magento_Catalog
-"Product Price","Product Price",module,Magento_Catalog
-"Index product prices","Index product prices",module,Magento_Catalog
-"Product EAV","Product EAV",module,Magento_Catalog
-"Index product EAV","Index product EAV",module,Magento_Catalog
-"Catalog New Products List","Catalog New Products List",module,Magento_Catalog
-"List of Products that are set as New","List of Products that are set as New",module,Magento_Catalog
-"Display Type","Display Type",module,Magento_Catalog
-"All products - recently added products, New products - products marked as new","All products - recently added products, New products - products marked as new",module,Magento_Catalog
-"All products","All products",module,Magento_Catalog
-"New products","New products",module,Magento_Catalog
-"Display Page Control","Display Page Control",module,Magento_Catalog
-"Number of Products per Page","Number of Products per Page",module,Magento_Catalog
-"Number of Products to Display","Number of Products to Display",module,Magento_Catalog
-Template,Template,module,Magento_Catalog
-"New Products Grid Template","New Products Grid Template",module,Magento_Catalog
-"New Products List Template","New Products List Template",module,Magento_Catalog
-"New Products Images and Names Template","New Products Images and Names Template",module,Magento_Catalog
-"New Products Names Only Template","New Products Names Only Template",module,Magento_Catalog
-"New Products Images Only Template","New Products Images Only Template",module,Magento_Catalog
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_Catalog
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Magento_Catalog
-"Catalog Product Link","Catalog Product Link",module,Magento_Catalog
-"Link to a Specified Product","Link to a Specified Product",module,Magento_Catalog
-"Select Product...","Select Product...",module,Magento_Catalog
-"Anchor Custom Text","Anchor Custom Text",module,Magento_Catalog
-"If empty, we'll use the product name here.","If empty, we'll use the product name here.",module,Magento_Catalog
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Catalog
-"Product Link Block Template","Product Link Block Template",module,Magento_Catalog
-"Product Link Inline Template","Product Link Inline Template",module,Magento_Catalog
-"Catalog Category Link","Catalog Category Link",module,Magento_Catalog
-"Link to a Specified Category","Link to a Specified Category",module,Magento_Catalog
-"Select Category...","Select Category...",module,Magento_Catalog
-"If empty, we'll use the category name here.","If empty, we'll use the category name here.",module,Magento_Catalog
-"Category Link Block Template","Category Link Block Template",module,Magento_Catalog
-"Category Link Inline Template","Category Link Inline Template",module,Magento_Catalog
-Set,Set,module,Magento_Catalog
-"Category Information","Category Information",module,Magento_Catalog
-"Enable Category","Enable Category",module,Magento_Catalog
-"Include in Menu","Include in Menu",module,Magento_Catalog
-Content,Content,module,Magento_Catalog
-"Category Image","Category Image",module,Magento_Catalog
-"Add CMS Block","Add CMS Block",module,Magento_Catalog
-"Display Settings","Display Settings",module,Magento_Catalog
-Anchor,Anchor,module,Magento_Catalog
-"Sort Products By","Sort Products By",module,Magento_Catalog
-"Use All","Use All",module,Magento_Catalog
-"Default Product Sorting","Default Product Sorting",module,Magento_Catalog
-"Layered Navigation Price Step","Layered Navigation Price Step",module,Magento_Catalog
-"URL Key","URL Key",module,Magento_Catalog
-"Meta Title","Meta Title",module,Magento_Catalog
-"Meta Keywords","Meta Keywords",module,Magento_Catalog
-"Meta Description","Meta Description",module,Magento_Catalog
-"Products in Category","Products in Category",module,Magento_Catalog
-Design,Design,module,Magento_Catalog
-"Use Parent Category Settings","Use Parent Category Settings",module,Magento_Catalog
-Theme,Theme,module,Magento_Catalog
-Layout,Layout,module,Magento_Catalog
-"Layout Update XML","Layout Update XML",module,Magento_Catalog
-"Apply Design to Products","Apply Design to Products",module,Magento_Catalog
-"Schedule Design Update","Schedule Design Update",module,Magento_Catalog
+"Page Title Separator","Separador de Títulos de Página",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Categories","Usar Meta Etiquetas de Ligas Canónicas para Categorías",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Products","Usar Meta Etiquetas de Ligas Canónicas para Productos",module,Magento_Catalog
+"Catalog Price Scope","Alcance de Precio de Catálogo",module,Magento_Catalog
+"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","Esto define el alcance de la moneda base (""Ajuste de Moneda"" > ""Opciones de Moneda"" > ""Base Currency"").",module,Magento_Catalog
+"Category Top Navigation","Navegación Principal de Categoría",module,Magento_Catalog
+"Maximal Depth","Profundidad Máxima",module,Magento_Catalog
+"Date & Time Custom Options","Opciones Personalizadas de Fecha y Hora",module,Magento_Catalog
+"Use JavaScript Calendar","Usar Calendario JavaScript",module,Magento_Catalog
+"Date Fields Order","Ordenamiento de Campos de Fecha",module,Magento_Catalog
+"Time Format","Formato de Hora",module,Magento_Catalog
+"Year Range","Rango de Años",module,Magento_Catalog
+"Please use a four-digit year format.","Por favor use un formato de año de 4 dígitos.",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG for Catalog","Usar URLs Estáticos para Contenidos de Medios en WYSIWYG para Catálogo",module,Magento_Catalog
+"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Esto aplica sólo a productos de catálogo y categorías. Los contenidos de medios serán insertados en el editor como URL estático. Los contenidos de medios no son actualizados si la configuración de URL base del sistema cambia.",module,Magento_Catalog
+"Top Level Category","Categoría de Nivel Superior",module,Magento_Catalog
+"Product Flat Data","Datos Planos de Producto",module,Magento_Catalog
+"Reorganize EAV product structure to flat structure","Reorganizar la estructura de producto EAV como estructura plana",module,Magento_Catalog
+"Category Flat Data","Datos Planos de Categoría",module,Magento_Catalog
+"Reorganize EAV category structure to flat structure","Reorganizar la estructura de categoría EAV como estructura plana",module,Magento_Catalog
+"Category Products","Productos de Categoría",module,Magento_Catalog
+"Indexed category/products association","Asociación indizada categoría/productos",module,Magento_Catalog
+"Product Categories","Categorías de Producto",module,Magento_Catalog
+"Indexed product/categories association","Asociación indizada producto/categorías",module,Magento_Catalog
+"Product Price","Precio de Producto",module,Magento_Catalog
+"Index product prices","Indizar precios de producto",module,Magento_Catalog
+"Product EAV","EAV de Producto",module,Magento_Catalog
+"Index product EAV","Indizar EAV de producto",module,Magento_Catalog
+"Catalog New Products List","Lista de Nuevos Productos de Catálogo",module,Magento_Catalog
+"List of Products that are set as New","Lista de Productos que se marcaron como Nuevos",module,Magento_Catalog
+"Display Type","Tipo de Despliegue",module,Magento_Catalog
+"All products - recently added products, New products - products marked as new","Todos los productos - productos recientemente añadidos, Nuevos productos - productos marcados como nuevos",module,Magento_Catalog
+"All products","Todos los productos",module,Magento_Catalog
+"New products","Nuevos productos",module,Magento_Catalog
+"Display Page Control","Control de Despliegue de Página",module,Magento_Catalog
+"Number of Products per Page","Número de Productos por Página",module,Magento_Catalog
+"Number of Products to Display","Número de Productos a Desplegar",module,Magento_Catalog
+Template,Plantilla,module,Magento_Catalog
+"New Products Grid Template","Plantilla de Cuadrícula de Nuevos Productos",module,Magento_Catalog
+"New Products List Template","Plantilla de Lista de Nuevos Productos",module,Magento_Catalog
+"New Products Images and Names Template","Plantilla de Imágenes y Nombres de Nuevos Productos",module,Magento_Catalog
+"New Products Names Only Template","Plantilla de Sólo Nombres de Nuevos Productos",module,Magento_Catalog
+"New Products Images Only Template","Plantilla de Sólo Imágenes de Nuevos Productos",module,Magento_Catalog
+"Cache Lifetime (Seconds)","Permanencia de Caché (Segundos)",module,Magento_Catalog
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 por defecto, si no se ha fijado. Para refrescar instantáneamente, limpie la Salida de caché de Bloques HTML.",module,Magento_Catalog
+"Catalog Product Link","Liga de Catálogo de Productos",module,Magento_Catalog
+"Link to a Specified Product","Liga a Producto Especificado",module,Magento_Catalog
+"Select Product...","Seleccione Producto...",module,Magento_Catalog
+"Anchor Custom Text","Texto Personalizado de Anclaje",module,Magento_Catalog
+"If empty, we'll use the product name here.","Si está vacío, aquí usaremos el nombre del producto.",module,Magento_Catalog
+"Anchor Custom Title","Título Personalizado de Anclaje",module,Magento_Catalog
+"Product Link Block Template","Plantilla de Liga de Bloque de Producto",module,Magento_Catalog
+"Product Link Inline Template","Plantilla de Liga en Línea de Producto",module,Magento_Catalog
+"Catalog Category Link","Liga de Cateogía de Catálogo",module,Magento_Catalog
+"Link to a Specified Category","Liga a una Categoría Especificada",module,Magento_Catalog
+"Select Category...","Seleccione Categoría...",module,Magento_Catalog
+"If empty, we'll use the category name here.","Si está vacía, aquí usaremos el nombre de la categoría.",module,Magento_Catalog
+"Category Link Block Template","Plantilla de Liga de Bloque de Categoría",module,Magento_Catalog
+"Category Link Inline Template","Plantilla de Liga en Línea de Categoría",module,Magento_Catalog
+Set,Juego,module,Magento_Catalog
+"Category Information","Información de Categoría",module,Magento_Catalog
+"Enable Category","Habilitar Categoría",module,Magento_Catalog
+"Include in Menu","Incluir en el Menú",module,Magento_Catalog
+Content,Contenido,module,Magento_Catalog
+"Category Image","Imagen de Categoría",module,Magento_Catalog
+"Add CMS Block","Añadir Bloque CMS",module,Magento_Catalog
+"Display Settings","Configuraciones de Despliegue",module,Magento_Catalog
+Anchor,Anclaje,module,Magento_Catalog
+"Sort Products By","Ordenar Productos Por",module,Magento_Catalog
+"Use All","Usar Todos",module,Magento_Catalog
+"Default Product Sorting","Ordenamiento por Defecto de Productos",module,Magento_Catalog
+"Layered Navigation Price Step","Precio Incremental de Navegación por Capas",module,Magento_Catalog
+"URL Key","Llave URL",module,Magento_Catalog
+"Meta Title","Meta Título",module,Magento_Catalog
+"Meta Keywords","Meta Términos",module,Magento_Catalog
+"Meta Description","Meta Descripción",module,Magento_Catalog
+"Products in Category","Productos en Categoría",module,Magento_Catalog
+Design,Diseño,module,Magento_Catalog
+"Use Parent Category Settings","Usar Configuraciones de Categoría Superior",module,Magento_Catalog
+Theme,Tema,module,Magento_Catalog
+Layout,Diseño,module,Magento_Catalog
+"Layout Update XML","XML de Actualización de Diseño",module,Magento_Catalog
+"Apply Design to Products","Aplicar Diseño a Productos",module,Magento_Catalog
+"Schedule Design Update","Agendar Actualización de Diseño",module,Magento_Catalog
 AttributeSetText,AttributeSetText,module,Magento_Catalog
 StatusText,StatusText,module,Magento_Catalog
-"Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
+"Product Image Watermarks","Marcas de Agua para Imagen de Producto",module,Magento_Catalog
 Base,Base,module,Magento_Catalog
-Image,Image,module,Magento_Catalog
-"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Catalog
-"Image Opacity","Image Opacity",module,Magento_Catalog
-"Example format: 200x300.","Example format: 200x300.",module,Magento_Catalog
-"Image Position","Image Position",module,Magento_Catalog
-Small,Small,module,Magento_Catalog
-"Attribute Properties","Attribute Properties",module,Magento_Catalog
-"Attribute Label","Attribute Label",module,Magento_Catalog
-"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
-Values,Values,module,Magento_Catalog
-"Add this attribute to the list of column options in the product grid.","Add this attribute to the list of column options in the product grid.",module,Magento_Catalog
-"Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
-System,System,module,Magento_Catalog
-"All Store Views","All Store Views",module,Magento_Catalog
-"Delete items","Delete items",module,Magento_Catalog
-"Delete selected items?","Delete selected items?",module,Magento_Catalog
-"Change status","Change status",module,Magento_Catalog
-Enable,Enable,module,Magento_Catalog
-Disable,Disable,module,Magento_Catalog
-"Update attributes","Update attributes",module,Magento_Catalog
-none,none,module,Magento_Catalog
-Overview,Overview,module,Magento_Catalog
-Details,Details,module,Magento_Catalog
-"Terms & Conditions","Terms & Conditions",module,Magento_CheckoutAgreements
-"Enable Terms and Conditions","Enable Terms and Conditions",module,Magento_CheckoutAgreements
-"Checkout Options","Checkout Options",module,Magento_Checkout
-"Enable Onepage Checkout","Enable Onepage Checkout",module,Magento_Checkout
-"Allow Guest Checkout","Allow Guest Checkout",module,Magento_Checkout
-"Quote Lifetime (days)","Quote Lifetime (days)",module,Magento_Checkout
-"After Adding a Product Redirect to Shopping Cart","After Adding a Product Redirect to Shopping Cart",module,Magento_Checkout
-"My Cart Link","My Cart Link",module,Magento_Checkout
-"Display Cart Summary","Display Cart Summary",module,Magento_Checkout
-"Shopping Cart Sidebar","Shopping Cart Sidebar",module,Magento_Checkout
-"Display Shopping Cart Sidebar","Display Shopping Cart Sidebar",module,Magento_Checkout
-"Maximum Display Recently Added Item(s)","Maximum Display Recently Added Item(s)",module,Magento_Checkout
-"Payment Failed Emails","Payment Failed Emails",module,Magento_Checkout
-"Payment Failed Email Sender","Payment Failed Email Sender",module,Magento_Checkout
-"Payment Failed Email Receiver","Payment Failed Email Receiver",module,Magento_Checkout
-"Payment Failed Template","Payment Failed Template",module,Magento_Checkout
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Checkout
-"Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
-"Separate by "","".","Separate by "","".",module,Magento_Checkout
-"Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method",module,Magento_Checkout
-Summary,Summary,module,Magento_Checkout
-"Order Total","Order Total",module,Magento_Checkout
-"We'll send your order confirmation here.","We'll send your order confirmation here.",module,Magento_Checkout
-Payment,Payment,module,Magento_Checkout
-"Not yet calculated","Not yet calculated",module,Magento_Checkout
-"We received your order!","We received your order!",module,Magento_Checkout
-"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
-"Media Gallery","Media Gallery",module,Magento_Cms
-"Content Management","Content Management",module,Magento_Cms
-"CMS Home Page","CMS Home Page",module,Magento_Cms
-"CMS No Route Page","CMS No Route Page",module,Magento_Cms
-"CMS No Cookies Page","CMS No Cookies Page",module,Magento_Cms
-"Show Breadcrumbs for CMS Pages","Show Breadcrumbs for CMS Pages",module,Magento_Cms
-"Browser Capabilities Detection","Browser Capabilities Detection",module,Magento_Cms
-"Redirect to CMS-page if Cookies are Disabled","Redirect to CMS-page if Cookies are Disabled",module,Magento_Cms
-"Show Notice if JavaScript is Disabled","Show Notice if JavaScript is Disabled",module,Magento_Cms
-"Show Notice if Local Storage is Disabled","Show Notice if Local Storage is Disabled",module,Magento_Cms
-"WYSIWYG Options","WYSIWYG Options",module,Magento_Cms
-"Enable WYSIWYG Editor","Enable WYSIWYG Editor",module,Magento_Cms
-"CMS Page Link","CMS Page Link",module,Magento_Cms
-"Link to a CMS Page","Link to a CMS Page",module,Magento_Cms
-"CMS Page","CMS Page",module,Magento_Cms
-"Select Page...","Select Page...",module,Magento_Cms
-"Anchor Custom Text","Anchor Custom Text",module,Magento_Cms
-"If empty, the Page Title will be used","If empty, the Page Title will be used",module,Magento_Cms
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Cms
-Template,Template,module,Magento_Cms
-"CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_Cms
-"CMS Page Link Inline Template","CMS Page Link Inline Template",module,Magento_Cms
-"CMS Static Block","CMS Static Block",module,Magento_Cms
-"Contents of a Static Block","Contents of a Static Block",module,Magento_Cms
-Block,Block,module,Magento_Cms
-"Select Block...","Select Block...",module,Magento_Cms
-"CMS Static Block Default Template","CMS Static Block Default Template",module,Magento_Cms
-"General Information","General Information",module,Magento_Cms
-"Enable Block","Enable Block",module,Magento_Cms
-"Block Title","Block Title",module,Magento_Cms
-"Delete items","Delete items",module,Magento_Cms
-"Are you sure you wan't to delete selected items?","Are you sure you wan't to delete selected items?",module,Magento_Cms
-"Page Information","Page Information",module,Magento_Cms
-"Enable Page","Enable Page",module,Magento_Cms
-Content,Content,module,Magento_Cms
-"Content Heading","Content Heading",module,Magento_Cms
+Image,Imagen,module,Magento_Catalog
+"Allowed file types: jpeg, gif, png.","Tipos de archivo permitidos: jpeg, gif, png.",module,Magento_Catalog
+"Image Opacity","Opacidad de Imagen",module,Magento_Catalog
+"Example format: 200x300.","Formato de ejemplo: 200x300.",module,Magento_Catalog
+"Image Position","Posición de Imagen",module,Magento_Catalog
+Small,Pequeña,module,Magento_Catalog
+"Attribute Properties","Propiedades de Atributo",module,Magento_Catalog
+"Attribute Label","Etiqueta de Atributo",module,Magento_Catalog
+"Catalog Input Type for Store Owner","Tipo de Entrada de Catálogo para Dueño de Tienda",module,Magento_Catalog
+Values,Valores,module,Magento_Catalog
+"Add this attribute to the list of column options in the product grid.","Añadir este atributo a la lista de opciones de columna en la cuadrícula de producto.",module,Magento_Catalog
+"Add this attribute to the list of filter options in the product grid.","Añadir este atributo a la lista de opciones de filtro en la cuadrícula de producto.",module,Magento_Catalog
+System,Sistema,module,Magento_Catalog
+"All Store Views","Todas las Vistas de Tienda",module,Magento_Catalog
+"Delete items","Borrar artículos",module,Magento_Catalog
+"Delete selected items?","¿Borrar artículos seleccionados?",module,Magento_Catalog
+"Change status","Cambiar estado",module,Magento_Catalog
+Enable,Habilitar,module,Magento_Catalog
+Disable,Deshabilitar,module,Magento_Catalog
+"Update attributes","Actualizar atributos",module,Magento_Catalog
+none,ninguno,module,Magento_Catalog
+Overview,"Visión General",module,Magento_Catalog
+Details,Detalles,module,Magento_Catalog
+"Terms & Conditions","Términos y Condiciones",module,Magento_CheckoutAgreements
+"Enable Terms and Conditions","Habilitar Términos y Condiciones",module,Magento_CheckoutAgreements
+"Checkout Options","Opciones de Ordenar",module,Magento_Checkout
+"Enable Onepage Checkout","Habilitar Ordenar en Una Página",module,Magento_Checkout
+"Allow Guest Checkout","Permitir Ordenar como Invitado",module,Magento_Checkout
+"Quote Lifetime (days)","Permanencia de Cotización (días)",module,Magento_Checkout
+"After Adding a Product Redirect to Shopping Cart","Redirigir a Carrito de Compras Luego de Añadir Producto",module,Magento_Checkout
+"My Cart Link","Liga a Mi Carrito",module,Magento_Checkout
+"Display Cart Summary","Mostrar Resumen de Carrito",module,Magento_Checkout
+"Shopping Cart Sidebar","Barra Lateral de Carrito",module,Magento_Checkout
+"Display Shopping Cart Sidebar","Mostrar Barra Lateral de Carrito",module,Magento_Checkout
+"Maximum Display Recently Added Item(s)","Despliegue Máximo de Artículo(s) Recientemente Añadido(s)",module,Magento_Checkout
+"Payment Failed Emails","Emails de Pago No Exitoso",module,Magento_Checkout
+"Payment Failed Email Sender","Remitente de Email de Pago No Exitoso",module,Magento_Checkout
+"Payment Failed Email Receiver","Receptor de Email de Pago No Exitoso",module,Magento_Checkout
+"Payment Failed Template","Plantilla de Pago No Exitoso",module,Magento_Checkout
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de Email elegida con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Enviar Email de Pago No Exitoso con Copia Para",module,Magento_Checkout
+"Separate by "","".","Separar por "","".",module,Magento_Checkout
+"Send Payment Failed Email Copy Method","Método de Envío de Email de Pago No exitoso con Copia",module,Magento_Checkout
+Summary,Resumen,module,Magento_Checkout
+"Order Total","Total de Orden",module,Magento_Checkout
+"We'll send your order confirmation here.","Aquí le enviaremos su confirmación de orden.",module,Magento_Checkout
+Payment,Pago,module,Magento_Checkout
+"Not yet calculated","Sin calcular todavía",module,Magento_Checkout
+"We received your order!","¡Recibimos su orden!",module,Magento_Checkout
+"Thank you for your purchase!","¡Gracias por su compra!",module,Magento_Checkout
+"Media Gallery","Galería de Medios",module,Magento_Cms
+"Content Management","Administración de Contenidos",module,Magento_Cms
+"CMS Home Page","Página de Inicio CMS",module,Magento_Cms
+"CMS No Route Page","Página Sin Ruta CMS",module,Magento_Cms
+"CMS No Cookies Page","Página Sin Cookies CMS",module,Magento_Cms
+"Show Breadcrumbs for CMS Pages","Mostrar la Ruta de Exploración en Páginas CMS",module,Magento_Cms
+"Browser Capabilities Detection","Detección de Capacidades de Navegador",module,Magento_Cms
+"Redirect to CMS-page if Cookies are Disabled","Redirigir a Página CMS si Están Deshabilitadas las Cookies",module,Magento_Cms
+"Show Notice if JavaScript is Disabled","Mostrar Anuncio si JavaScript Está Deshabilitado",module,Magento_Cms
+"Show Notice if Local Storage is Disabled","Mostrar Anuncio si el Almacenamiento Local Está Deshabilitado",module,Magento_Cms
+"WYSIWYG Options","Opciones WYSIWYG",module,Magento_Cms
+"Enable WYSIWYG Editor","Habilitar Editor WYSIWYG",module,Magento_Cms
+"CMS Page Link","Liga de Página CMS",module,Magento_Cms
+"Link to a CMS Page","Liga a Página CMS",module,Magento_Cms
+"CMS Page","Página CMS",module,Magento_Cms
+"Select Page...","Seleccionar Página...",module,Magento_Cms
+"Anchor Custom Text","Texto Personalizado de Anclaje",module,Magento_Cms
+"If empty, the Page Title will be used","Si está vacío, se usará el Título de Página",module,Magento_Cms
+"Anchor Custom Title","Título Personalizado de Anclaje",module,Magento_Cms
+Template,Plantilla,module,Magento_Cms
+"CMS Page Link Block Template","Plantilla de Liga de Bloque de Página CMS",module,Magento_Cms
+"CMS Page Link Inline Template","Plantilla de Liga en Línea de Página CMS",module,Magento_Cms
+"CMS Static Block","Bloque Estático CMS",module,Magento_Cms
+"Contents of a Static Block","Contenidos de un Bloque Estático",module,Magento_Cms
+Block,Bloque,module,Magento_Cms
+"Select Block...","Seleccionar Bloque...",module,Magento_Cms
+"CMS Static Block Default Template","Plantilla Por Defecto de Bloque Estátito CMS",module,Magento_Cms
+"General Information","Información General",module,Magento_Cms
+"Enable Block","Habilitar Bloque",module,Magento_Cms
+"Block Title","Título de Bloque",module,Magento_Cms
+"Delete items","Borrar artículos",module,Magento_Cms
+"Are you sure you wan't to delete selected items?","¿Está seguro de querer borrar los artículos seleccionados?",module,Magento_Cms
+"Page Information","Información de Página",module,Magento_Cms
+"Enable Page","Habilitar Página",module,Magento_Cms
+Content,Contenido,module,Magento_Cms
+"Content Heading","Encabezado de Contenido",module,Magento_Cms
 "Search Engine Optimisation","Search Engine Optimisation",module,Magento_Cms
-"Meta Title","Meta Title",module,Magento_Cms
-"Meta Keywords","Meta Keywords",module,Magento_Cms
-"Meta Description","Meta Description",module,Magento_Cms
-"Page in Websites","Page in Websites",module,Magento_Cms
-Design,Design,module,Magento_Cms
-"Layout Update XML","Layout Update XML",module,Magento_Cms
-"Custom Design Update","Custom Design Update",module,Magento_Cms
-From,From,module,Magento_Cms
-To,To,module,Magento_Cms
-"New Theme","New Theme",module,Magento_Cms
-"-- Please Select --","-- Please Select --",module,Magento_Cms
-"New Layout","New Layout",module,Magento_Cms
-Disable,Disable,module,Magento_Cms
-Enable,Enable,module,Magento_Cms
-"Custom design from","Custom design from",module,Magento_Cms
-"Custom design to","Custom design to",module,Magento_Cms
-"Custom Theme","Custom Theme",module,Magento_Cms
-"Custom Layout","Custom Layout",module,Magento_Cms
-"Group Label","Group Label",module,Magento_Config
-"Some Label","Some Label",module,Magento_Config
-"Tab Label","Tab Label",module,Magento_Config
-"Allow everything","Allow everything",module,Magento_Config
-"Magento Admin","Magento Admin",module,Magento_Config
-Dashboard,Dashboard,module,Magento_Config
-"Manage Stores","Manage Stores",module,Magento_Config
-"Field 2","Field 2",module,Magento_Config
-"Field 3","Field 3",module,Magento_Config
-"Field 3.1","Field 3.1",module,Magento_Config
-"Field 3.1.1","Field 3.1.1",module,Magento_Config
-"Field 4","Field 4",module,Magento_Config
-"Advanced Section","Advanced Section",module,Magento_Config
-"Advanced Admin Section","Advanced Admin Section",module,Magento_Config
-"Design Section","Design Section",module,Magento_Config
-"General Section","General Section",module,Magento_Config
-"System Section","System Section",module,Magento_Config
-"Currency Setup Section","Currency Setup Section",module,Magento_Config
-"Developer Section","Developer Section",module,Magento_Config
-"Web Section","Web Section",module,Magento_Config
+"Meta Title","Meta Título",module,Magento_Cms
+"Meta Keywords","Meta Términos",module,Magento_Cms
+"Meta Description","Meta Descripción",module,Magento_Cms
+"Page in Websites","Página en Sitios Web",module,Magento_Cms
+Design,Diseño,module,Magento_Cms
+"Layout Update XML","XML de Actualización de Diseño",module,Magento_Cms
+"Custom Design Update","Actualización Personalizada de Diseño",module,Magento_Cms
+From,De,module,Magento_Cms
+To,A,module,Magento_Cms
+"New Theme","Nuevo Tema",module,Magento_Cms
+"-- Por favor Seleccione --","-- Please Select --",module,Magento_Cms
+"New Layout","Nuevo Diseño",module,Magento_Cms
+Disable,Deshabilitar,module,Magento_Cms
+Enable,Habilitar,module,Magento_Cms
+"Custom design from","Diseño personalizado desde",module,Magento_Cms
+"Custom design to","Diseño personalizado hasta",module,Magento_Cms
+"Custom Theme","Tema Personalizado",module,Magento_Cms
+"Custom Layout","Diseño Personalizado",module,Magento_Cms
+"Group Label","Etiqueta de Grupo",module,Magento_Config
+"Some Label","Alguna Etiqueta",module,Magento_Config
+"Tab Label","Etiqueta de Pestaña",module,Magento_Config
+"Allow everything","Permitir todo",module,Magento_Config
+"Magento Admin","Administración de Magento",module,Magento_Config
+Dashboard,Tablero,module,Magento_Config
+"Manage Stores","Administrar Tiendas",module,Magento_Config
+"Field 2","Campo 2",module,Magento_Config
+"Field 3","Campo 3",module,Magento_Config
+"Field 3.1","Campo 3.1",module,Magento_Config
+"Field 3.1.1","Campo 3.1.1",module,Magento_Config
+"Field 4","Campo 4",module,Magento_Config
+"Advanced Section","Sección Avanzada",module,Magento_Config
+"Advanced Admin Section","Sección de Administración Avanzada",module,Magento_Config
+"Design Section","Sección de Diseño",module,Magento_Config
+"General Section","Sección General",module,Magento_Config
+"System Section","Sección de Sistema",module,Magento_Config
+"Currency Setup Section","Sección de Configuración de Moneda",module,Magento_Config
+"Developer Section","Sección de Desarrollador",module,Magento_Config
+"Web Section","Sección Web",module,Magento_Config
 "Store Email Addresses Section","Store Email Addresses Section",module,Magento_Config
 "Email to a Friend","Email to a Friend",module,Magento_Config
 "Configurable Product Image","Configurable Product Image",module,Magento_ConfigurableProduct
