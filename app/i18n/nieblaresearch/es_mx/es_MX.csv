@@ -7228,63 +7228,63 @@ Dashboard,Tablero,module,Magento_Config
 "Currency Setup Section","Sección de Configuración de Moneda",module,Magento_Config
 "Developer Section","Sección de Desarrollador",module,Magento_Config
 "Web Section","Sección Web",module,Magento_Config
-"Store Email Addresses Section","Store Email Addresses Section",module,Magento_Config
-"Email to a Friend","Email to a Friend",module,Magento_Config
-"Configurable Product Image","Configurable Product Image",module,Magento_ConfigurableProduct
-Select...,Select...,module,Magento_ConfigurableProduct
+"Store Email Addresses Section","Sección de Emails de Tienda",module,Magento_Config
+"Email to a Friend","Email a un Amigo",module,Magento_Config
+"Configurable Product Image","Imagen de Producto Configurable",module,Magento_ConfigurableProduct
+Select...,Seleccionar...,module,Magento_ConfigurableProduct
 ID,ID,module,Magento_ConfigurableProduct
-Thumbnail,Thumbnail,module,Magento_ConfigurableProduct
-"Attribute Code","Attribute Code",module,Magento_ConfigurableProduct
-"Attribute Label","Attribute Label",module,Magento_ConfigurableProduct
-Required,Required,module,Magento_ConfigurableProduct
-System,System,module,Magento_ConfigurableProduct
+Thumbnail,"Vista Miniatura",module,Magento_ConfigurableProduct
+"Attribute Code","Código de Atributo",module,Magento_ConfigurableProduct
+"Attribute Label","Etiqueta de Atributo",module,Magento_ConfigurableProduct
+Required,Obligatorio,module,Magento_ConfigurableProduct
+System,Sistema,module,Magento_ConfigurableProduct
 Visible,Visible,module,Magento_ConfigurableProduct
-Scope,Scope,module,Magento_ConfigurableProduct
-Searchable,Searchable,module,Magento_ConfigurableProduct
+Scope,Alcance,module,Magento_ConfigurableProduct
+Searchable,Buscable,module,Magento_ConfigurableProduct
 Comparable,Comparable,module,Magento_ConfigurableProduct
-"Contacts Section","Contacts Section",module,Magento_Contact
-Contacts,Contacts,module,Magento_Contact
-"Contact Us","Contact Us",module,Magento_Contact
-"Enable Contact Us","Enable Contact Us",module,Magento_Contact
-"Email Options","Email Options",module,Magento_Contact
-"Send Emails To","Send Emails To",module,Magento_Contact
-"Email Sender","Email Sender",module,Magento_Contact
-"Email Template","Email Template",module,Magento_Contact
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Contact
-"Default Cookie Settings","Default Cookie Settings",module,Magento_Cookie
-"Cookie Lifetime","Cookie Lifetime",module,Magento_Cookie
-"Cookie Path","Cookie Path",module,Magento_Cookie
-"Cookie Domain","Cookie Domain",module,Magento_Cookie
-"Use HTTP Only","Use HTTP Only",module,Magento_Cookie
-"Cookie Restriction Mode","Cookie Restriction Mode",module,Magento_Cookie
-"Cron (Scheduled Tasks)","Cron (Scheduled Tasks)",module,Magento_Cron
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.",module,Magento_Cron
-"Cron configuration options for group: ","Cron configuration options for group: ",module,Magento_Cron
-"Generate Schedules Every","Generate Schedules Every",module,Magento_Cron
-"Schedule Ahead for","Schedule Ahead for",module,Magento_Cron
-"Missed if Not Run Within","Missed if Not Run Within",module,Magento_Cron
-"History Cleanup Every","History Cleanup Every",module,Magento_Cron
-"Success History Lifetime","Success History Lifetime",module,Magento_Cron
-"Failure History Lifetime","Failure History Lifetime",module,Magento_Cron
-"Use Separate Process","Use Separate Process",module,Magento_Cron
-Currency,Currency,module,Magento_CurrencySymbol
+"Contacts Section","Sección de COntactos",module,Magento_Contact
+Contacts,Contactos,module,Magento_Contact
+"Contact Us",Contáctenos,module,Magento_Contact
+"Enable Contact Us","Habilitar COntáctenos",module,Magento_Contact
+"Email Options","Opciones de Email",module,Magento_Contact
+"Send Emails To","Enviar Emails A",module,Magento_Contact
+"Email Sender","Remitente de Email",module,Magento_Contact
+"Email Template","Plantilla de Email",module,Magento_Contact
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_Contact
+"Default Cookie Settings","Configuraciones de Cookie por Defecto",module,Magento_Cookie
+"Cookie Lifetime","Persistencia de Cookie",module,Magento_Cookie
+"Cookie Path","Ruta de Cookie",module,Magento_Cookie
+"Cookie Domain","Dominio de Cookie",module,Magento_Cookie
+"Use HTTP Only","Usar Sólo HTTP",module,Magento_Cookie
+"Cookie Restriction Mode","Modo de Restricción de Cookie",module,Magento_Cookie
+"Cron (Scheduled Tasks)","Cron (Tareas Agendadas)",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Para que se generen URLs correctas durante la operación de cron asegúrse de que los URLs de Web Seguros e Inseguros estén fijados explícitamente.",module,Magento_Cron
+"Cron configuration options for group: ","Opciones de configuración de cron para el grupo: ",module,Magento_Cron
+"Generate Schedules Every","Generar Agendas Cada",module,Magento_Cron
+"Schedule Ahead for","Agendar Desde Antes por",module,Magento_Cron
+"Missed if Not Run Within","Perdido si No se Ejecutó Dentro De",module,Magento_Cron
+"History Cleanup Every","Limpieza de Historial Cada",module,Magento_Cron
+"Success History Lifetime","Persistencia de Historial de Éxitos",module,Magento_Cron
+"Failure History Lifetime","Persistencia de Historial de Fallas",module,Magento_Cron
+"Use Separate Process","Usar Proceso Separado",module,Magento_Cron
+Currency,Moneda,module,Magento_CurrencySymbol
 CSV,CSV,module,Magento_CustomerImportExport
 "Excel XML","Excel XML",module,Magento_CustomerImportExport
-"All Customers","All Customers",module,Magento_Customer
-"Now Online","Now Online",module,Magento_Customer
-"Customers Section","Customers Section",module,Magento_Customer
-"Customer Configuration","Customer Configuration",module,Magento_Customer
-"Account Sharing Options","Account Sharing Options",module,Magento_Customer
-"Share Customer Accounts","Share Customer Accounts",module,Magento_Customer
-"Create New Account Options","Create New Account Options",module,Magento_Customer
-"Enable Automatic Assignment to Customer Group","Enable Automatic Assignment to Customer Group",module,Magento_Customer
-"Tax Calculation Based On","Tax Calculation Based On",module,Magento_Customer
-"Default Group","Default Group",module,Magento_Customer
-"Group for Valid VAT ID - Domestic","Group for Valid VAT ID - Domestic",module,Magento_Customer
-"Group for Valid VAT ID - Intra-Union","Group for Valid VAT ID - Intra-Union",module,Magento_Customer
-"Group for Invalid VAT ID","Group for Invalid VAT ID",module,Magento_Customer
-"Validation Error Group","Validation Error Group",module,Magento_Customer
-"Validate on Each Transaction","Validate on Each Transaction",module,Magento_Customer
+"All Customers","Todos los Clientes",module,Magento_Customer
+"Now Online","Ahora en Línea",module,Magento_Customer
+"Customers Section","Sección de Clientes",module,Magento_Customer
+"Customer Configuration","Configuración de Cliente",module,Magento_Customer
+"Account Sharing Options","Opciones de Compartir Cuenta",module,Magento_Customer
+"Share Customer Accounts","Compartir Cuentas de Cliente",module,Magento_Customer
+"Create New Account Options","Opcioens de Crear Nueva Cuenta",module,Magento_Customer
+"Enable Automatic Assignment to Customer Group","Habilitar Asignación Automática de Grupo de Cliente",module,Magento_Customer
+"Tax Calculation Based On","Cálculo de Impuestos Basado En",module,Magento_Customer
+"Default Group","Grupo por Defecto",module,Magento_Customer
+"Group for Valid VAT ID - Domestic","Grupo para VAT ID Válido - Doméstico",module,Magento_Customer
+"Group for Valid VAT ID - Intra-Union","Grupo para VAT ID Válido - Intra-Union",module,Magento_Customer
+"Group for Invalid VAT ID","Grupo para VAT ID No Válido",module,Magento_Customer
+"Validation Error Group","Grupo de Error de Validación",module,Magento_Customer
+"Validate on Each Transaction","Validar en Cada Transacción",module,Magento_Customer
 "Default Value for Disable Automatic Group Changes Based on VAT ID","Default Value for Disable Automatic Group Changes Based on VAT ID",module,Magento_Customer
 "Show VAT Number on Storefront","Show VAT Number on Storefront",module,Magento_Customer
 "To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.",module,Magento_Customer
