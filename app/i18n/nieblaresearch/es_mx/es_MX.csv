@@ -7285,440 +7285,440 @@ CSV,CSV,module,Magento_CustomerImportExport
 "Group for Invalid VAT ID","Grupo para VAT ID No Válido",module,Magento_Customer
 "Validation Error Group","Grupo de Error de Validación",module,Magento_Customer
 "Validate on Each Transaction","Validar en Cada Transacción",module,Magento_Customer
-"Default Value for Disable Automatic Group Changes Based on VAT ID","Default Value for Disable Automatic Group Changes Based on VAT ID",module,Magento_Customer
-"Show VAT Number on Storefront","Show VAT Number on Storefront",module,Magento_Customer
-"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.",module,Magento_Customer
-"Default Email Domain","Default Email Domain",module,Magento_Customer
-"Default Welcome Email","Default Welcome Email",module,Magento_Customer
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Customer
-"Default Welcome Email Without Password","Default Welcome Email Without Password",module,Magento_Customer
+"Default Value for Disable Automatic Group Changes Based on VAT ID","Valor por Defecto para Deshabilitar Cambios Automáticos de Grupo con Base en RFC",module,Magento_Customer
+"Show VAT Number on Storefront","Mostrar RFC en Escaparate",module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Para mostrar el RFC en Escaparate, fije la opción Mostrar RFC en Escaparate a Sí.",module,Magento_Customer
+"Default Email Domain","Dominio de Email por Defecto",module,Magento_Customer
+"Default Welcome Email","Email de Bienvenida por Defecto",module,Magento_Customer
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_Customer
+"Default Welcome Email Without Password","Email de Bienvenida por Defecto Sin Contraseña",module,Magento_Customer
 "
                         This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.
                     ","
-                        This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected.
+                        Este email será enviado en vez del Email de Bienvenida por Defecto, si se creó un cliente sin contraseña. <br /><br />
+                        Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".
                     ",module,Magento_Customer
-"Email Sender","Email Sender",module,Magento_Customer
-"Require Emails Confirmation","Require Emails Confirmation",module,Magento_Customer
-"Confirmation Link Email","Confirmation Link Email",module,Magento_Customer
-"Welcome Email","Welcome Email",module,Magento_Customer
+"Email Sender","Remitente de Email",module,Magento_Customer
+"Require Emails Confirmation","Requerir Confirmación por Email",module,Magento_Customer
+"Confirmation Link Email","Email de Liga de Confirmación",module,Magento_Customer
+"Welcome Email","Email de Bienvenida",module,Magento_Customer
 "
                         This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.
                     ","
-                        This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected.
+                        Este email será enviado en vez del Email de Bienvenida por Defecto, después de la confirmación de cuenta. <br /><br />
+                        Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".
                     ",module,Magento_Customer
-"Generate Human-Friendly Customer ID","Generate Human-Friendly Customer ID",module,Magento_Customer
-"Password Options","Password Options",module,Magento_Customer
-"Forgot Email Template","Forgot Email Template",module,Magento_Customer
-"Remind Email Template","Remind Email Template",module,Magento_Customer
-"Reset Password Template","Reset Password Template",module,Magento_Customer
-"Password Template Email Sender","Password Template Email Sender",module,Magento_Customer
-"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Customer
-"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field.",module,Magento_Customer
-"Number of Required Character Classes","Number of Required Character Classes",module,Magento_Customer
-"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.",module,Magento_Customer
-"Minimum Password Length","Minimum Password Length",module,Magento_Customer
-"Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_Customer
-"Use 0 to disable account locking.","Use 0 to disable account locking.",module,Magento_Customer
-"Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_Customer
-"Name and Address Options","Name and Address Options",module,Magento_Customer
-"Number of Lines in a Street Address","Number of Lines in a Street Address",module,Magento_Customer
-"Leave empty for default (2). Valid range: 1-4","Leave empty for default (2). Valid range: 1-4",module,Magento_Customer
-"Show Prefix","Show Prefix",module,Magento_Customer
-"The title that goes before name (Mr., Mrs., etc.)","The title that goes before name (Mr., Mrs., etc.)",module,Magento_Customer
-"Prefix Dropdown Options","Prefix Dropdown Options",module,Magento_Customer
+"Generate Human-Friendly Customer ID","Generar ID de Cliente Amigable",module,Magento_Customer
+"Password Options","Opciones de Contraseña",module,Magento_Customer
+"Forgot Email Template","Plantilla de Olvido de Email",module,Magento_Customer
+"Remind Email Template","Plantilla de Recordatorio de Email",module,Magento_Customer
+"Reset Password Template","Plantilla de Reiniciar Contraseña",module,Magento_Customer
+"Password Template Email Sender","Remitente de Email de Plantilla de Contraseña",module,Magento_Customer
+"Recovery Link Expiration Period (hours)","Periodo de Expiración de Liga de Recuperación (horas)",module,Magento_Customer
+"Please enter a number 1 or greater in this field.","Por fafor ingrese un número 1 o superior en este campo.",module,Magento_Customer
+"Number of Required Character Classes","Número Requerido de Clases de Caracteres",module,Magento_Customer
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Número de diferentes clases de caracteres requeridas en la contraseña: Minúsculas, Mayúsculas, Dígitos, Caracteres Especiales.",module,Magento_Customer
+"Minimum Password Length","Longitud Mínima de Contraseña",module,Magento_Customer
+"Maximum Login Failures to Lockout Account","Fallas Máximas de Ingreso para Bloquear Cuenta",module,Magento_Customer
+"Use 0 to disable account locking.","Usar 0 para deshabilitar bloqueo de cuentas.",module,Magento_Customer
+"Lockout Time (minutes)","Tiempo de Bloqueo (minutos)",module,Magento_Customer
+"Name and Address Options","Opciones de Nombre y Dirección",module,Magento_Customer
+"Number of Lines in a Street Address","Número de Líneas en una Dirección",module,Magento_Customer
+"Leave empty for default (2). Valid range: 1-4","Dejar vacío para usar la opción por defecto (2). Rango válido: 1-4",module,Magento_Customer
+"Show Prefix","Mostrar Prefijo",module,Magento_Customer
+"The title that goes before name (Mr., Mrs., etc.)","El título que va antes del nombre (Sr., Sra., etc.)",module,Magento_Customer
+"Prefix Dropdown Options","Opciones de Prefijo Desplegable",module,Magento_Customer
 "
                         Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
                     ","
-                        Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
+                        Valores separados por punto y coma (;).<br/>Coloque un punto y coma al inicio para que la primera opción esté vacía.<br/>Dejar vacío para un campo de texto abierto.
                     ",module,Magento_Customer
-"Show Middle Name (initial)","Show Middle Name (initial)",module,Magento_Customer
-"Always optional.","Always optional.",module,Magento_Customer
-"Show Suffix","Show Suffix",module,Magento_Customer
-"The suffix that goes after name (Jr., Sr., etc.)","The suffix that goes after name (Jr., Sr., etc.)",module,Magento_Customer
-"Suffix Dropdown Options","Suffix Dropdown Options",module,Magento_Customer
-"Show Date of Birth","Show Date of Birth",module,Magento_Customer
-"Show Tax/VAT Number","Show Tax/VAT Number",module,Magento_Customer
-"Show Gender","Show Gender",module,Magento_Customer
-"Login Options","Login Options",module,Magento_Customer
-"Redirect Customer to Account Dashboard after Logging in","Redirect Customer to Account Dashboard after Logging in",module,Magento_Customer
-"Customer will stay on the current page if ""No"" is selected.","Customer will stay on the current page if ""No"" is selected.",module,Magento_Customer
-"Address Templates","Address Templates",module,Magento_Customer
-"Online Customers Options","Online Customers Options",module,Magento_Customer
-"Online Minutes Interval","Online Minutes Interval",module,Magento_Customer
-"Leave empty for default (15 minutes).","Leave empty for default (15 minutes).",module,Magento_Customer
-"Enable Autocomplete on login/forgot password forms","Enable Autocomplete on login/forgot password forms",module,Magento_Customer
-"Customer Notification","Customer Notification",module,Magento_Customer
-"Customer Grid","Customer Grid",module,Magento_Customer
-"Rebuild Customer grid index","Rebuild Customer grid index",module,Magento_Customer
-Group,Group,module,Magento_Customer
-"Add New Customer","Add New Customer",module,Magento_Customer
-"Delete items","Delete items",module,Magento_Customer
-"Are you sure to delete selected customers?","Are you sure to delete selected customers?",module,Magento_Customer
-"Subscribe to Newsletter","Subscribe to Newsletter",module,Magento_Customer
-"Unsubscribe from Newsletter","Unsubscribe from Newsletter",module,Magento_Customer
-"Are you sure to unsubscribe selected customers from newsletter?","Are you sure to unsubscribe selected customers from newsletter?",module,Magento_Customer
-"Assign a Customer Group","Assign a Customer Group",module,Magento_Customer
-"Are you sure to assign selected customers to new group?","Are you sure to assign selected customers to new group?",module,Magento_Customer
-Phone,Phone,module,Magento_Customer
-ZIP,ZIP,module,Magento_Customer
-"Customer Since","Customer Since",module,Magento_Customer
-"Confirmed email","Confirmed email",module,Magento_Customer
-"Account Created in","Account Created in",module,Magento_Customer
-"Tax VAT Number","Tax VAT Number",module,Magento_Customer
-"Billing Firstname","Billing Firstname",module,Magento_Customer
-"Billing Lastname","Billing Lastname",module,Magento_Customer
-"Account Lock","Account Lock",module,Magento_Customer
-"First Name","First Name",module,Magento_Customer
-"Last Name","Last Name",module,Magento_Customer
-"Last Activity","Last Activity",module,Magento_Customer
-Type,Type,module,Magento_Customer
-"Customer Information","Customer Information",module,Magento_Customer
-"If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view.",module,Magento_Customer
-"Disable Automatic Group Change Based on VAT ID","Disable Automatic Group Change Based on VAT ID",module,Magento_Customer
-"Send Welcome Email From","Send Welcome Email From",module,Magento_Customer
-Addresses,Addresses,module,Magento_Customer
-"Are you sure you want to delete this item?","Are you sure you want to delete this item?",module,Magento_Customer
-"Account Dashboard","Account Dashboard",module,Magento_Customer
-"Edit Account Information","Edit Account Information",module,Magento_Customer
-"Password forgotten","Password forgotten",module,Magento_Customer
-"My Dashboard","My Dashboard",module,Magento_Customer
-"You are signed out","You are signed out",module,Magento_Customer
-"Frontend Development Workflow","Frontend Development Workflow",module,Magento_Developer
-"Workflow type","Workflow type",module,Magento_Developer
-"Not available in production mode","Not available in production mode",module,Magento_Developer
-"Developer Client Restrictions","Developer Client Restrictions",module,Magento_Developer
-"Allowed IPs (comma separated)","Allowed IPs (comma separated)",module,Magento_Developer
-"Leave empty for access from any location.","Leave empty for access from any location.",module,Magento_Developer
-"Enabled for Checkout","Enabled for Checkout",module,Magento_Dhl
-"Gateway URL","Gateway URL",module,Magento_Dhl
-Title,Title,module,Magento_Dhl
-"Access ID","Access ID",module,Magento_Dhl
-Password,Password,module,Magento_Dhl
-"Account Number","Account Number",module,Magento_Dhl
-"Content Type","Content Type",module,Magento_Dhl
-"Calculate Handling Fee","Calculate Handling Fee",module,Magento_Dhl
-"Handling Applied","Handling Applied",module,Magento_Dhl
-"""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.",module,Magento_Dhl
-"Handling Fee","Handling Fee",module,Magento_Dhl
-"Divide Order Weight","Divide Order Weight",module,Magento_Dhl
-"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.",module,Magento_Dhl
-"Weight Unit","Weight Unit",module,Magento_Dhl
-Size,Size,module,Magento_Dhl
-"Allowed Methods","Allowed Methods",module,Magento_Dhl
-"Displayed Error Message","Displayed Error Message",module,Magento_Dhl
-"Free Method","Free Method",module,Magento_Dhl
-"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Dhl
-"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Dhl
-"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Dhl
-"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Dhl
-"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Dhl
-"Sort Order","Sort Order",module,Magento_Dhl
-Debug,Debug,module,Magento_Dhl
-"Currency Setup","Currency Setup",module,Magento_Directory
-"Currency Options","Currency Options",module,Magento_Directory
-"Base Currency","Base Currency",module,Magento_Directory
+"Show Middle Name (initial)","Mostrar Nombre (inicial)",module,Magento_Customer
+"Always optional.","Opcional siempre.",module,Magento_Customer
+"Show Suffix","Mostrar Sufijo",module,Magento_Customer
+"The suffix that goes after name (Jr., Sr., etc.)","El sufijo que va después del nombre (Jr., Sr., etc.)",module,Magento_Customer
+"Suffix Dropdown Options","Opciones de Sufijo Desplegable",module,Magento_Customer
+"Show Date of Birth","Mostrar Fecha de Nacimiento",module,Magento_Customer
+"Show Tax/VAT Number","Mostrar RFC",module,Magento_Customer
+"Show Gender","Mostrar Género",module,Magento_Customer
+"Login Options","Opciones de Ingreso",module,Magento_Customer
+"Redirect Customer to Account Dashboard after Logging in","Redirigir al Cliente al Tablero de Cuenta despues de Ingresar",module,Magento_Customer
+"Customer will stay on the current page if ""No"" is selected.","El ciente permanecerá en la página actual si se selecciona ""No"".",module,Magento_Customer
+"Address Templates","Plantillas de Dirección",module,Magento_Customer
+"Online Customers Options","Opciones de Clientes en Línea",module,Magento_Customer
+"Online Minutes Interval","Intervalo de Minutos en Línea",module,Magento_Customer
+"Leave empty for default (15 minutes).","Dejar vacío para usar la opción por defecto (15 minutos).",module,Magento_Customer
+"Enable Autocomplete on login/forgot password forms","Habilitar Autocompletar en formatos de ingreso/contraseña olvidada forms",module,Magento_Customer
+"Customer Notification","Notificación de Cliente",module,Magento_Customer
+"Customer Grid","Cuadrícula de Clientes",module,Magento_Customer
+"Rebuild Customer grid index","Reconstruir índice de cuadrícula de Clientes",module,Magento_Customer
+Group,Grupo,module,Magento_Customer
+"Add New Customer","Añadir Nuevo Cliente",module,Magento_Customer
+"Delete items","Borrar artículos",module,Magento_Customer
+"Are you sure to delete selected customers?","¿Está seguro de borrar los clientes seleccionados?",module,Magento_Customer
+"Subscribe to Newsletter","Suscribir a Boletín",module,Magento_Customer
+"Unsubscribe from Newsletter","Desuscribir de Boletín",module,Magento_Customer
+"Are you sure to unsubscribe selected customers from newsletter?","¿Está seguro de desuscribir a los clientes seleccionados del boletín?",module,Magento_Customer
+"Assign a Customer Group","Asignar un Grupo de Clientes",module,Magento_Customer
+"Are you sure to assign selected customers to new group?","¿Está seguro de asignar a los clientes seleccionados al nuevo grupo?",module,Magento_Customer
+Phone,Teléfono,module,Magento_Customer
+ZIP,CP,module,Magento_Customer
+"Customer Since","Cliente Desde",module,Magento_Customer
+"Confirmed email","Email confirmado",module,Magento_Customer
+"Account Created in","Cuenta Creada en",module,Magento_Customer
+"Tax VAT Number","RFC",module,Magento_Customer
+"Billing Firstname","Nombre de Facturación",module,Magento_Customer
+"Billing Lastname","Apellido de Facturación",module,Magento_Customer
+"Account Lock","Bloqueo de Cuenta",module,Magento_Customer
+"First Name","Nombre",module,Magento_Customer
+"Last Name","Apellido",module,Magento_Customer
+"Last Activity","Última Actividad",module,Magento_Customer
+Type,Tipo,module,Magento_Customer
+"Customer Information","Información de Cliente",module,Magento_Customer
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","Si su Magento tiene varias vistas, puede fijar el alcance a aplicar a una vista específica.",module,Magento_Customer
+"Disable Automatic Group Change Based on VAT ID","Deshabilitar Cambio de Grupo Automático con Base en RFC",module,Magento_Customer
+"Send Welcome Email From","Enviar Email de Bienvenida Desde",module,Magento_Customer
+Addresses,Direcciones,module,Magento_Customer
+"Are you sure you want to delete this item?","¿Está seguro de queres borrar este artículo?",module,Magento_Customer
+"Account Dashboard","Tablero de Cuenta",module,Magento_Customer
+"Edit Account Information","Editar Información de Cuenta",module,Magento_Customer
+"Password forgotten","Olvido de Contraseña",module,Magento_Customer
+"My Dashboard","Mi Tablero",module,Magento_Customer
+"You are signed out","Ha salido",module,Magento_Customer
+"Frontend Development Workflow","Flujo de Trabajo de Desarrollo de Escaparate",module,Magento_Developer
+"Workflow type","Tipo de flujo de trabajo",module,Magento_Developer
+"Not available in production mode","No está disponible en modo de producción",module,Magento_Developer
+"Developer Client Restrictions","Restricciones de Cliente de Desarrollo",module,Magento_Developer
+"Allowed IPs (comma separated)","IPs permitidas (separadas por coma)",module,Magento_Developer
+"Leave empty for access from any location.","Dejar en blanco para acceder desde cualquier dirección.",module,Magento_Developer
+"Enabled for Checkout","Habilitado para Ordenar",module,Magento_Dhl
+"Gateway URL","URL de Puerta de Enlace",module,Magento_Dhl
+Title,Título,module,Magento_Dhl
+"Access ID","ID de Acceso",module,Magento_Dhl
+Password,Contraseña,module,Magento_Dhl
+"Account Number","Número de Cuenta",module,Magento_Dhl
+"Content Type","Tipo de Contenido",module,Magento_Dhl
+"Calculate Handling Fee","Calcular Tarifa de Manejo",module,Magento_Dhl
+"Handling Applied","Se Aplicó Manejo",module,Magento_Dhl
+"""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Por Orden"" permite un sólo manejo para la orden entera. ""Por Paquete"" permite una tarifa de manejo por cada paquete.",module,Magento_Dhl
+"Handling Fee","Tarifa de Manejo",module,Magento_Dhl
+"Divide Order Weight","Dividir el Peso de la Orden",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Seleccione esto para permitir a DHL optimizar los cargos de envío dividiendo la orden si excede 70 kg.",module,Magento_Dhl
+"Weight Unit","Unidad de Peso",module,Magento_Dhl
+Size,Tamaño,module,Magento_Dhl
+"Allowed Methods","Métodos Permitidos",module,Magento_Dhl
+"Displayed Error Message","Mensaje de Error Mostrado",module,Magento_Dhl
+"Free Method","Método Libre",module,Magento_Dhl
+"Enable Free Shipping Threshold","Habilitar Límite de Envío Gratuito",module,Magento_Dhl
+"Free Shipping Amount Threshold","Límite de Cantidad de Envío Gratuito",module,Magento_Dhl
+"Ship to Applicable Countries","Enviar a Países Aplicables",module,Magento_Dhl
+"Ship to Specific Countries","Enviar a Países Específicos",module,Magento_Dhl
+"Show Method if Not Applicable","Mostrar Métido si No Es Aplicable",module,Magento_Dhl
+"Sort Order","Orden de Clasificación",module,Magento_Dhl
+Debug,Depurar,module,Magento_Dhl
+"Currency Setup","Configuración de Moneda",module,Magento_Directory
+"Currency Options","Opciones de Moneda",module,Magento_Directory
+"Base Currency","Moneda Base",module,Magento_Directory
 "
                         Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
                     ","
-                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                        La moneda base es usada para todas las transacciones de pago en línea. El alcance de la moneda base está definido por el alcance de precio de catálogo (""Catálogo"" > ""Precio"" > ""Alcance de Precio de Catálogo"").
                     ",module,Magento_Directory
-"Default Display Currency","Default Display Currency",module,Magento_Directory
-"Allowed Currencies","Allowed Currencies",module,Magento_Directory
+"Default Display Currency","Moneda por Defecto para Despliegue",module,Magento_Directory
+"Allowed Currencies","Monedas Permitidas",module,Magento_Directory
 "Yahoo Finance Exchange","Yahoo Finance Exchange",module,Magento_Directory
-"Connection Timeout in Seconds","Connection Timeout in Seconds",module,Magento_Directory
+"Connection Timeout in Seconds","Tiempo Límite de Conexión en Segundos",module,Magento_Directory
 Fixer.io,Fixer.io,module,Magento_Directory
 Webservicex,Webservicex,module,Magento_Directory
-"Scheduled Import Settings","Scheduled Import Settings",module,Magento_Directory
-Enabled,Enabled,module,Magento_Directory
-"Error Email Recipient","Error Email Recipient",module,Magento_Directory
-"Error Email Sender","Error Email Sender",module,Magento_Directory
-"Error Email Template","Error Email Template",module,Magento_Directory
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Directory
-Frequency,Frequency,module,Magento_Directory
-Service,Service,module,Magento_Directory
-"Start Time","Start Time",module,Magento_Directory
-"Installed Currencies","Installed Currencies",module,Magento_Directory
-"Zip/Postal Code is Optional for","Zip/Postal Code is Optional for",module,Magento_Directory
-"State Options","State Options",module,Magento_Directory
-"State is Required for","State is Required for",module,Magento_Directory
-"Allow to Choose State if It is Optional for Country","Allow to Choose State if It is Optional for Country",module,Magento_Directory
-"Weight Unit","Weight Unit",module,Magento_Directory
-"Downloadable Product Section","Downloadable Product Section",module,Magento_Downloadable
-Downloads,Downloads,module,Magento_Downloadable
-"Downloadable Product Options","Downloadable Product Options",module,Magento_Downloadable
-"Order Item Status to Enable Downloads","Order Item Status to Enable Downloads",module,Magento_Downloadable
-"Default Maximum Number of Downloads","Default Maximum Number of Downloads",module,Magento_Downloadable
-"Default Sample Title","Default Sample Title",module,Magento_Downloadable
-"Default Link Title","Default Link Title",module,Magento_Downloadable
-"Open Links in New Window","Open Links in New Window",module,Magento_Downloadable
-"Use Content-Disposition","Use Content-Disposition",module,Magento_Downloadable
-"Disable Guest Checkout if Cart Contains Downloadable Items","Disable Guest Checkout if Cart Contains Downloadable Items",module,Magento_Downloadable
-"Guest checkout will only work with shareable.","Guest checkout will only work with shareable.",module,Magento_Downloadable
-"EAV types and attributes","EAV types and attributes",module,Magento_Eav
-"Entity types declaration cache","Entity types declaration cache",module,Magento_Eav
-Communications,Communications,module,Magento_Email
-"No Templates Found","No Templates Found",module,Magento_Email
+"Scheduled Import Settings","Configuraciones de Importación Agendada",module,Magento_Directory
+Enabled,Habilitada,module,Magento_Directory
+"Error Email Recipient","Error Receptor Email",module,Magento_Directory
+"Error Email Sender","Error Remitente Email",module,Magento_Directory
+"Error Email Template","Error Plantilla Email",module,Magento_Directory
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_Directory
+Frequency,Frecuencia,module,Magento_Directory
+Service,Servicio,module,Magento_Directory
+"Start Time","Tiempo de Comienzo",module,Magento_Directory
+"Installed Currencies","Monedas Instaladas",module,Magento_Directory
+"Zip/Postal Code is Optional for","El Código Postal es opcional para",module,Magento_Directory
+"State Options","Opciones de Estado",module,Magento_Directory
+"State is Required for","El Estado es Obligatorio para",module,Magento_Directory
+"Allow to Choose State if It is Optional for Country","Permitir Seleccionar Estado si Es Opcional para el País",module,Magento_Directory
+"Weight Unit","Unidad de Peso",module,Magento_Directory
+"Downloadable Product Section","Sección de Producto Descargable",module,Magento_Downloadable
+Downloads,Descargas,module,Magento_Downloadable
+"Downloadable Product Options","Opciones de Producto Descargable",module,Magento_Downloadable
+"Order Item Status to Enable Downloads","Estado del Artículo de la Orden para Habilitar Descargas",module,Magento_Downloadable
+"Default Maximum Number of Downloads","Número Máximo de Descargas por Defecto",module,Magento_Downloadable
+"Default Sample Title","Título de Muestra por Defecto",module,Magento_Downloadable
+"Default Link Title","Liga de Título por Defecto",module,Magento_Downloadable
+"Open Links in New Window","Abrir Ligas en Nueva Ventana",module,Magento_Downloadable
+"Use Content-Disposition","Usar Content-Disposition",module,Magento_Downloadable
+"Disable Guest Checkout if Cart Contains Downloadable Items","Deshabilitar Orenar por Invitado si el Carrito Contiene Artículos Descargables",module,Magento_Downloadable
+"Guest checkout will only work with shareable.","Ordenar por invitado sólo funcionara con compartible.",module,Magento_Downloadable
+"EAV types and attributes","Tipos y Atributos EAV",module,Magento_Eav
+"Entity types declaration cache","Caché de declaración de tipos de entidad",module,Magento_Eav
+Communications,Comunicaciones,module,Magento_Email
+"No Templates Found","No se Encontraron Plantillas",module,Magento_Email
 ID,ID,module,Magento_Email
-Added,Added,module,Magento_Email
-Updated,Updated,module,Magento_Email
-Subject,Subject,module,Magento_Email
-"Template Type","Template Type",module,Magento_Email
-Action,Action,module,Magento_Email
-"Logo Image","Logo Image",module,Magento_Email
-"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.",module,Magento_Email
-"Logo Image Alt","Logo Image Alt",module,Magento_Email
-"Logo Width","Logo Width",module,Magento_Email
-"Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".",module,Magento_Email
-"Logo Height","Logo Height",module,Magento_Email
-"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".",module,Magento_Email
-"Header Template","Header Template",module,Magento_Email
-"Email template chosen based on theme fallback, when the ""Default"" option is selected.","Email template chosen based on theme fallback, when the ""Default"" option is selected.",module,Magento_Email
-"Footer Template","Footer Template",module,Magento_Email
-"Manage Encryption Key","Manage Encryption Key",module,Magento_EncryptionKey
+Added,Añadido,module,Magento_Email
+Updated,Actualizado,module,Magento_Email
+Subject,Asunto,module,Magento_Email
+"Template Type","Tipo de Plantilla",module,Magento_Email
+Action,Acción,module,Magento_Email
+"Logo Image","Imagen de Logotipo",module,Magento_Email
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Tipos de archivo permitidos: jpg, jpeg, gif, png. Para optimizar el logotipo en pantallas de alta resolución, envíe una imagen que es 3x más grande de lo normal y luego especifique una dimensión 1x en los campos de ancho/alto de abajo.",module,Magento_Email
+"Logo Image Alt","Texto Alternativo de Imagen de Logotipo",module,Magento_Email
+"Logo Width","Ancho de Logotipo",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Sólo es necesario si se ha enviado una imagen arriba. Ingrese el número de pixels, sin añadir ""px"".",module,Magento_Email
+"Logo Height","Altura de Logotipo",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Sólo es necesario si se ha enviado una imagen arriba. Ingrese la altura de la imagen en pixels sin añadir ""px"".",module,Magento_Email
+"Header Template","Plantilla de Encabezado",module,Magento_Email
+"Email template chosen based on theme fallback, when the ""Default"" option is selected.","Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_Email
+"Footer Template","Plantilla de Pie",module,Magento_Email
+"Manage Encryption Key","Administrar Llave de Encriptación",module,Magento_EncryptionKey
 FedEx,FedEx,module,Magento_Fedex
-"Enabled for Checkout","Enabled for Checkout",module,Magento_Fedex
-Title,Title,module,Magento_Fedex
-"Account ID","Account ID",module,Magento_Fedex
-"Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed.",module,Magento_Fedex
-"Meter Number","Meter Number",module,Magento_Fedex
-Key,Key,module,Magento_Fedex
-Password,Password,module,Magento_Fedex
-"Sandbox Mode","Sandbox Mode",module,Magento_Fedex
-"Web-Services URL (Production)","Web-Services URL (Production)",module,Magento_Fedex
-"Web-Services URL (Sandbox)","Web-Services URL (Sandbox)",module,Magento_Fedex
-"Packages Request Type","Packages Request Type",module,Magento_Fedex
-Packaging,Packaging,module,Magento_Fedex
-Dropoff,Dropoff,module,Magento_Fedex
-"Weight Unit","Weight Unit",module,Magento_Fedex
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Fedex
-"Calculate Handling Fee","Calculate Handling Fee",module,Magento_Fedex
-"Handling Applied","Handling Applied",module,Magento_Fedex
-"Handling Fee","Handling Fee",module,Magento_Fedex
-"Residential Delivery","Residential Delivery",module,Magento_Fedex
-"Allowed Methods","Allowed Methods",module,Magento_Fedex
-"Hub ID","Hub ID",module,Magento_Fedex
-"The field is applicable if the Smart Post method is selected.","The field is applicable if the Smart Post method is selected.",module,Magento_Fedex
-"Free Method","Free Method",module,Magento_Fedex
-"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Fedex
-"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Fedex
-"Displayed Error Message","Displayed Error Message",module,Magento_Fedex
-"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Fedex
-"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Fedex
-Debug,Debug,module,Magento_Fedex
-"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Fedex
-"Sort Order","Sort Order",module,Magento_Fedex
-"Allow Gift Messages on Order Level","Allow Gift Messages on Order Level",module,Magento_GiftMessage
-"Allow Gift Messages for Order Items","Allow Gift Messages for Order Items",module,Magento_GiftMessage
+"Enabled for Checkout","Habilitado para Ordenar",module,Magento_Fedex
+Title,Título,module,Magento_Fedex
+"Account ID","ID de Cuenta",module,Magento_Fedex
+"Please make sure to use only digits here. No dashes are allowed.","Asegúrese de usar sólo dígitos aquí. No se permiten guiones.",module,Magento_Fedex
+"Meter Number","Número de Metro",module,Magento_Fedex
+Key,Llave,module,Magento_Fedex
+Password,Contraseña,module,Magento_Fedex
+"Sandbox Mode","Modo Sandbox",module,Magento_Fedex
+"Web-Services URL (Production)","URL de Sevicios Web (Producción)",module,Magento_Fedex
+"Web-Services URL (Sandbox)","URL de Servicios Web (Sandbox)",module,Magento_Fedex
+"Packages Request Type","Tipo de Solicitud de Paquetes",module,Magento_Fedex
+Packaging,Empacado,module,Magento_Fedex
+Dropoff,Dejar,module,Magento_Fedex
+"Weight Unit","Unidad de Peso",module,Magento_Fedex
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Peso Máximo de Paquete (por favor consulte a su transportista para el peso máximo soportado)",module,Magento_Fedex
+"Calculate Handling Fee","Calcular Tarifa de Manejo",module,Magento_Fedex
+"Handling Applied","Manejo Aplicado",module,Magento_Fedex
+"Handling Fee","Tarifa de Manejo",module,Magento_Fedex
+"Residential Delivery","Entrega Residencial",module,Magento_Fedex
+"Allowed Methods","Métodos Permitidos",module,Magento_Fedex
+"Hub ID","ID de hub",module,Magento_Fedex
+"The field is applicable if the Smart Post method is selected.","El campo es aplicable si se ha seleccionado el método Smart Post.",module,Magento_Fedex
+"Free Method","Método Libre",module,Magento_Fedex
+"Free Shipping Amount Threshold","Límite de Cantidad de Envío Gratuito",module,Magento_Fedex
+"Enable Free Shipping Threshold","Habilitar Límite de Envío Gratuito",module,Magento_Fedex
+"Displayed Error Message","Mensaje de Error Mostrado",module,Magento_Fedex
+"Ship to Applicable Countries","Enviar a Países Aplicables",module,Magento_Fedex
+"Ship to Specific Countries","Enviar a Países Específicos",module,Magento_Fedex
+Debug,Depurar,module,Magento_Fedex
+"Show Method if Not Applicable","Mostrar Métido si No Es Aplicable",module,Magento_Fedex
+"Sort Order","Orden de Clasificación",module,Magento_Fedex
+"Allow Gift Messages on Order Level","Permitir Mensajes de Regalo en Nivel de Orden",module,Magento_GiftMessage
+"Allow Gift Messages for Order Items","Permitor Mensajes de Regalo para Artículos de la Orden",module,Magento_GiftMessage
 "Google AdWords","Google AdWords",module,Magento_GoogleAdwords
-Enable,Enable,module,Magento_GoogleAdwords
-"Conversion ID","Conversion ID",module,Magento_GoogleAdwords
-"Conversion Language","Conversion Language",module,Magento_GoogleAdwords
-"Conversion Format","Conversion Format",module,Magento_GoogleAdwords
-"Conversion Color","Conversion Color",module,Magento_GoogleAdwords
-"Conversion Label","Conversion Label",module,Magento_GoogleAdwords
-"Conversion Value Type","Conversion Value Type",module,Magento_GoogleAdwords
-"Conversion Value","Conversion Value",module,Magento_GoogleAdwords
+Enable,Habilitar,module,Magento_GoogleAdwords
+"Conversion ID","ID de Conversión",module,Magento_GoogleAdwords
+"Conversion Language","Lenguage de Conversión",module,Magento_GoogleAdwords
+"Conversion Format","Formato de Conversión",module,Magento_GoogleAdwords
+"Conversion Color","Color de Conversión",module,Magento_GoogleAdwords
+"Conversion Label","Etiqueta de Conversión",module,Magento_GoogleAdwords
+"Conversion Value Type","Tipo de Valor de Conversión",module,Magento_GoogleAdwords
+"Conversion Value","Valor de Conversión",module,Magento_GoogleAdwords
 "Google API","Google API",module,Magento_GoogleAnalytics
 "Google Analytics","Google Analytics",module,Magento_GoogleAnalytics
-Enable,Enable,module,Magento_GoogleAnalytics
-"Account Number","Account Number",module,Magento_GoogleAnalytics
-"Enable Content Experiments","Enable Content Experiments",module,Magento_GoogleOptimizer
-"Category View Optimization","Category View Optimization",module,Magento_GoogleOptimizer
-"Grouped Product Image","Grouped Product Image",module,Magento_GroupedProduct
-Select...,Select...,module,Magento_GroupedProduct
-Type,Type,module,Magento_GroupedProduct
-Quantity,Quantity,module,Magento_GroupedProduct
+Enable,Habilitar,module,Magento_GoogleAnalytics
+"Account Number","Número de Cuenta",module,Magento_GoogleAnalytics
+"Enable Content Experiments","Habilitar Experimentos de Contenido",module,Magento_GoogleOptimizer
+"Category View Optimization","Optimización de Vista de Categoría",module,Magento_GoogleOptimizer
+"Grouped Product Image","Imagen de Producto Agrupado",module,Magento_GroupedProduct
+Select...,Seleccionar...,module,Magento_GroupedProduct
+Type,Tipo,module,Magento_GroupedProduct
+Quantity,Cantidad,module,Magento_GroupedProduct
 AttributeSetText,AttributeSetText,module,Magento_GroupedProduct
 StatusText,StatusText,module,Magento_GroupedProduct
 ID,ID,module,Magento_ImportExport
-"Start Date&Time","Start Date&Time",module,Magento_ImportExport
-User,User,module,Magento_ImportExport
-"Imported File","Imported File",module,Magento_ImportExport
-"Error File","Error File",module,Magento_ImportExport
-"Execution Time","Execution Time",module,Magento_ImportExport
-Summary,Summary,module,Magento_ImportExport
-"Change indexer mode","Change indexer mode",module,Magento_Indexer
-Indexer,Indexer,module,Magento_Indexer
-Description,Description,module,Magento_Indexer
-Mode,Mode,module,Magento_Indexer
-Status,Status,module,Magento_Indexer
-Updated,Updated,module,Magento_Indexer
-Extensions,Extensions,module,Magento_Integration
+"Start Date&Time","Fecha de Inicio",module,Magento_ImportExport
+User,Usuario,module,Magento_ImportExport
+"Imported File","Archivo Importado",module,Magento_ImportExport
+"Error File","Archivo de Error",module,Magento_ImportExport
+"Execution Time","Tiempo de Ejecución",module,Magento_ImportExport
+Summary,Resumen,module,Magento_ImportExport
+"Change indexer mode","Cambiar modo de indizador",module,Magento_Indexer
+Indexer,Indizador,module,Magento_Indexer
+Description,Descripción,module,Magento_Indexer
+Mode,Modo,module,Magento_Indexer
+Status,Estado,module,Magento_Indexer
+Updated,Actualizado,module,Magento_Indexer
+Extensions,Extensiones,module,Magento_Integration
 OAuth,OAuth,module,Magento_Integration
-"Cleanup Settings","Cleanup Settings",module,Magento_Integration
-"Cleanup Probability","Cleanup Probability",module,Magento_Integration
-"Expiration Period","Expiration Period",module,Magento_Integration
-"Consumer Settings","Consumer Settings",module,Magento_Integration
-"OAuth consumer credentials HTTP Post maxredirects","OAuth consumer credentials HTTP Post maxredirects",module,Magento_Integration
-"OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout",module,Magento_Integration
-"Integrations Configuration","Integrations Configuration",module,Magento_Integration
-"Integration configuration file","Integration configuration file",module,Magento_Integration
-"Integrations API Configuration","Integrations API Configuration",module,Magento_Integration
-"Integrations API configuration file","Integrations API configuration file",module,Magento_Integration
-"We couldn't find any records.","We couldn't find any records.",module,Magento_Integration
-Status,Status,module,Magento_Integration
-"Layered Navigation","Layered Navigation",module,Magento_LayeredNavigation
-"Display Product Count","Display Product Count",module,Magento_LayeredNavigation
-"Price Navigation Step Calculation","Price Navigation Step Calculation",module,Magento_LayeredNavigation
-"Default Price Navigation Step","Default Price Navigation Step",module,Magento_LayeredNavigation
-"Maximum Number of Price Intervals","Maximum Number of Price Intervals",module,Magento_LayeredNavigation
-"Maximum number of price intervals is 100","Maximum number of price intervals is 100",module,Magento_LayeredNavigation
-"Display Price Interval as One Price","Display Price Interval as One Price",module,Magento_LayeredNavigation
-"This setting will be applied when all prices in the specific price interval are equal.","This setting will be applied when all prices in the specific price interval are equal.",module,Magento_LayeredNavigation
-"Interval Division Limit","Interval Division Limit",module,Magento_LayeredNavigation
-"Please specify the number of products, that will not be divided into subintervals.","Please specify the number of products, that will not be divided into subintervals.",module,Magento_LayeredNavigation
-"Storage Configuration for Media","Storage Configuration for Media",module,Magento_MediaStorage
-"Media Storage","Media Storage",module,Magento_MediaStorage
-"Select Media Database","Select Media Database",module,Magento_MediaStorage
-"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.",module,Magento_MediaStorage
-"Environment Update Time","Environment Update Time",module,Magento_MediaStorage
-"Minimum Advertised Price","Minimum Advertised Price",module,Magento_Msrp
-"Enable MAP","Enable MAP",module,Magento_Msrp
-"Display Actual Price","Display Actual Price",module,Magento_Msrp
-"Default Popup Text Message","Default Popup Text Message",module,Magento_Msrp
-"Default ""What's This"" Text Message","Default ""What's This"" Text Message",module,Magento_Msrp
-"Multishipping Settings Section","Multishipping Settings Section",module,Magento_Multishipping
-"Multishipping Settings","Multishipping Settings",module,Magento_Multishipping
-Options,Options,module,Magento_Multishipping
-"Allow Shipping to Multiple Addresses","Allow Shipping to Multiple Addresses",module,Magento_Multishipping
-"Maximum Qty Allowed for Shipping to Multiple Addresses","Maximum Qty Allowed for Shipping to Multiple Addresses",module,Magento_Multishipping
-"Review Order","Review Order",module,Magento_Multishipping
-"Select Shipping Method","Select Shipping Method",module,Magento_Multishipping
-"We received your order!","We received your order!",module,Magento_Multishipping
-"New Relic Reporting Section","New Relic Reporting Section",module,Magento_NewRelicReporting
-"New Relic Reporting","New Relic Reporting",module,Magento_NewRelicReporting
+"Cleanup Settings","Limpiar COnfiguraciones",module,Magento_Integration
+"Cleanup Probability","Limpiar Probabilidad",module,Magento_Integration
+"Expiration Period","Periodo de Expiración",module,Magento_Integration
+"Consumer Settings","Configuraciones de Cliente",module,Magento_Integration
+"OAuth consumer credentials HTTP Post maxredirects","Credenciales de cliente OAuth HTTP Post maxredirects",module,Magento_Integration
+"OAuth consumer credentials HTTP Post timeout","Credenciales de cliente OAuth HTTP Post timeout",module,Magento_Integration
+"Integrations Configuration","Configuración de Integraciones",module,Magento_Integration
+"Integration configuration file","Archivo de configuración de integraciones",module,Magento_Integration
+"Integrations API Configuration","Configuración de API de Integraciones",module,Magento_Integration
+"Integrations API configuration file","Archivo de configuración de API de Integraciones",module,Magento_Integration
+"We couldn't find any records.","No pudimos encontrar ningún registro.",module,Magento_Integration
+Status,Estado,module,Magento_Integration
+"Layered Navigation","Navegación por Capas",module,Magento_LayeredNavigation
+"Display Product Count","Desplegar Conteo de Productos",module,Magento_LayeredNavigation
+"Price Navigation Step Calculation","Cálculo de Paso de Navegación por Capas",module,Magento_LayeredNavigation
+"Default Price Navigation Step","Precio por Defecto de Paso de Navegación",module,Magento_LayeredNavigation
+"Maximum Number of Price Intervals","Número Máximo de Intervalos de Precio",module,Magento_LayeredNavigation
+"Maximum number of price intervals is 100","El número máximo de intervalos de precio es de 100",module,Magento_LayeredNavigation
+"Display Price Interval as One Price","Desplegar el Intervalo de Precio como Un Precio",module,Magento_LayeredNavigation
+"This setting will be applied when all prices in the specific price interval are equal.","Esta configuración se aplicará cuando todos los precios en el intervalo de precio son iguales.",module,Magento_LayeredNavigation
+"Interval Division Limit","Límite de División de Intervalo",module,Magento_LayeredNavigation
+"Please specify the number of products, that will not be divided into subintervals.","Por favor especifique el número de productos, que no será dividido en sub intervalos.",module,Magento_LayeredNavigation
+"Storage Configuration for Media","Configuración de Almacenamiento para Medios",module,Magento_MediaStorage
+"Media Storage","Almacenamiento de Medios",module,Magento_MediaStorage
+"Select Media Database","Seleccionar Base de Datos de Medios",module,Magento_MediaStorage
+"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Despues de seleccionar un lugar de almacenamiento de medios, presione el botón Sincronizar para transferir todos los medios a ese lugar. Los medios no estarán disponibles en el nuevo lugar hasta que el proceso de sincronización se haya completado.",module,Magento_MediaStorage
+"Environment Update Time","Tiempo de Actualización de Ambiente",module,Magento_MediaStorage
+"Minimum Advertised Price","Precio Mínimo Publicado",module,Magento_Msrp
+"Enable MAP","Habilitar MAP",module,Magento_Msrp
+"Display Actual Price","Desplegar Precio Actual",module,Magento_Msrp
+"Default Popup Text Message","Mensaje de Texto Emergente por Defecto",module,Magento_Msrp
+"Default ""What's This"" Text Message","Mensaje de Texto ""Qué es Esto"" Por Defecto",module,Magento_Msrp
+"Multishipping Settings Section","Sección de Configuraciones de Multienvíos",module,Magento_Multishipping
+"Multishipping Settings","Configuraciones de Multienvíos",module,Magento_Multishipping
+Options,Opciones,module,Magento_Multishipping
+"Allow Shipping to Multiple Addresses","Permitir Enviar a Varias Direcciones",module,Magento_Multishipping
+"Maximum Qty Allowed for Shipping to Multiple Addresses","Cantidad Máxima Permitida para Envios a Varias Direcciones",module,Magento_Multishipping
+"Review Order","Revisar Orden",module,Magento_Multishipping
+"Select Shipping Method","Seleccionar Método de Envío",module,Magento_Multishipping
+"We received your order!","¡Recibimos su orden!",module,Magento_Multishipping
+"New Relic Reporting Section","Sección de Reportes de New Relic",module,Magento_NewRelicReporting
+"New Relic Reporting","Reportes New Relic",module,Magento_NewRelicReporting
 General,General,module,Magento_NewRelicReporting
-"Enable New Relic Integration","Enable New Relic Integration",module,Magento_NewRelicReporting
-"New Relic API URL","New Relic API URL",module,Magento_NewRelicReporting
-"Insights API URL","Insights API URL",module,Magento_NewRelicReporting
-"Use %s to replace the account ID in the URL","Use %s to replace the account ID in the URL",module,Magento_NewRelicReporting
-"New Relic Account ID","New Relic Account ID",module,Magento_NewRelicReporting
-"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one",module,Magento_NewRelicReporting
-"New Relic Application ID","New Relic Application ID",module,Magento_NewRelicReporting
-"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","This can commonly be found at the end of the URL when viewing the APM after ""/applications/""",module,Magento_NewRelicReporting
-"New Relic API Key","New Relic API Key",module,Magento_NewRelicReporting
-"This is located by navigating to Events -> Deployments from the New Relic APM website","This is located by navigating to Events -> Deployments from the New Relic APM website",module,Magento_NewRelicReporting
-"Insights API Key","Insights API Key",module,Magento_NewRelicReporting
-"Generated under Insights in Manage data -> API Keys -> Insert Keys","Generated under Insights in Manage data -> API Keys -> Insert Keys",module,Magento_NewRelicReporting
-"New Relic Application Name","New Relic Application Name",module,Magento_NewRelicReporting
-"This is located by navigating to Settings from the New Relic APM website","This is located by navigating to Settings from the New Relic APM website",module,Magento_NewRelicReporting
+"Enable New Relic Integration","Habilitar Integración New Relic",module,Magento_NewRelicReporting
+"New Relic API URL","URL de API New Relic",module,Magento_NewRelicReporting
+"Insights API URL","URL de API de Insights",module,Magento_NewRelicReporting
+"Use %s to replace the account ID in the URL","Use %s para reemplazar el ID de la cuenta en el URL",module,Magento_NewRelicReporting
+"New Relic Account ID","ID de Cuenta New Relic",module,Magento_NewRelicReporting
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""¿Necesita una cuenta New Relic? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Haga click aquí para obtener una",module,Magento_NewRelicReporting
+"New Relic Application ID","ID de Aplicación New Relic",module,Magento_NewRelicReporting
+"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","Esto se puede encontrar comúnmente al final del URL cuando se está viendo el APM después de ""/applications/""",module,Magento_NewRelicReporting
+"New Relic API Key","Llave de API de New Relic",module,Magento_NewRelicReporting
+"This is located by navigating to Events -> Deployments from the New Relic APM website","Esto se localiza navegando en Eventos -> Implementaciones desde el sitio web de APM de New Relic",module,Magento_NewRelicReporting
+"Insights API Key","Llave de API de Insights",module,Magento_NewRelicReporting
+"Generated under Insights in Manage data -> API Keys -> Insert Keys","Generada bajo Insights en Administrar datos -> Llaves de API -> Insertar Llaves",module,Magento_NewRelicReporting
+"New Relic Application Name","Nombre de Aplicación New Relic",module,Magento_NewRelicReporting
+"This is located by navigating to Settings from the New Relic APM website","Esto se encuenta navegando en las Configuraciones del sitio web APM de New Relic",module,Magento_NewRelicReporting
 Cron,Cron,module,Magento_NewRelicReporting
-"Enable Cron","Enable Cron",module,Magento_NewRelicReporting
-"Newsletter Template","Newsletter Template",module,Magento_Newsletter
-"Newsletter Section","Newsletter Section",module,Magento_Newsletter
-"Subscription Options","Subscription Options",module,Magento_Newsletter
-"Allow Guest Subscription","Allow Guest Subscription",module,Magento_Newsletter
-"Need to Confirm","Need to Confirm",module,Magento_Newsletter
-"Confirmation Email Sender","Confirmation Email Sender",module,Magento_Newsletter
-"Confirmation Email Template","Confirmation Email Template",module,Magento_Newsletter
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Newsletter
-"Success Email Sender","Success Email Sender",module,Magento_Newsletter
-"Success Email Template","Success Email Template",module,Magento_Newsletter
-"Unsubscription Email Sender","Unsubscription Email Sender",module,Magento_Newsletter
-"Unsubscription Email Template","Unsubscription Email Template",module,Magento_Newsletter
-"We found no problems.","We found no problems.",module,Magento_Newsletter
-Subscriber,Subscriber,module,Magento_Newsletter
-"Queue Start Date","Queue Start Date",module,Magento_Newsletter
-"Queue Subject","Queue Subject",module,Magento_Newsletter
-"Error Code","Error Code",module,Magento_Newsletter
-"Error Text","Error Text",module,Magento_Newsletter
-"Queue Start","Queue Start",module,Magento_Newsletter
-"Queue End","Queue End",module,Magento_Newsletter
-Status,Status,module,Magento_Newsletter
-Processed,Processed,module,Magento_Newsletter
-Recipients,Recipients,module,Magento_Newsletter
-Unsubscribe,Unsubscribe,module,Magento_Newsletter
-Delete,Delete,module,Magento_Newsletter
+"Enable Cron","Habilitar Cron",module,Magento_NewRelicReporting
+"Newsletter Template","Plantilla de Boletín",module,Magento_Newsletter
+"Newsletter Section","Sección de Boletín",module,Magento_Newsletter
+"Subscription Options","Opciones de Suscripción",module,Magento_Newsletter
+"Allow Guest Subscription","Permitir Suscripción de Invitado",module,Magento_Newsletter
+"Need to Confirm","Necesidad de Confirmación",module,Magento_Newsletter
+"Confirmation Email Sender","Remitente de Email de Confirmación",module,Magento_Newsletter
+"Confirmation Email Template","Plantilla de Email de Confirmación",module,Magento_Newsletter
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_Newsletter
+"Success Email Sender","Remitente de Email de Éxito",module,Magento_Newsletter
+"Success Email Template","Plantilla de Email de Éxito",module,Magento_Newsletter
+"Unsubscription Email Sender","Remitente de Email de Desuscripción",module,Magento_Newsletter
+"Unsubscription Email Template","Plantilla de Email de Desuscripción",module,Magento_Newsletter
+"We found no problems.","No encontramos problemas.",module,Magento_Newsletter
+Subscriber,Suscriptor,module,Magento_Newsletter
+"Queue Start Date","Fecha de Inicio de Fila",module,Magento_Newsletter
+"Queue Subject","Asunto de Fila",module,Magento_Newsletter
+"Error Code","Código de Error",module,Magento_Newsletter
+"Error Text","Texto de Error",module,Magento_Newsletter
+"Queue Start","Comienzo de Fila",module,Magento_Newsletter
+"Queue End","Fin de Fila",module,Magento_Newsletter
+Status,Estado,module,Magento_Newsletter
+Processed,Procesado,module,Magento_Newsletter
+Recipients,Receptores,module,Magento_Newsletter
+Unsubscribe,Desuscribir,module,Magento_Newsletter
+Delete,Borrar,module,Magento_Newsletter
 CSV,CSV,module,Magento_Newsletter
 "Excel XML","Excel XML",module,Magento_Newsletter
 Email,Email,module,Magento_Newsletter
-Type,Type,module,Magento_Newsletter
-Guest,Guest,module,Magento_Newsletter
-Customer,Customer,module,Magento_Newsletter
-"Customer First Name","Customer First Name",module,Magento_Newsletter
-"Customer Last Name","Customer Last Name",module,Magento_Newsletter
-"Not Activated","Not Activated",module,Magento_Newsletter
-Subscribed,Subscribed,module,Magento_Newsletter
-Unsubscribed,Unsubscribed,module,Magento_Newsletter
-Unconfirmed,Unconfirmed,module,Magento_Newsletter
-"Web Site","Web Site",module,Magento_Newsletter
-Store,Store,module,Magento_Newsletter
-"Store View","Store View",module,Magento_Newsletter
-"Newsletter Subscriptions","Newsletter Subscriptions",module,Magento_Newsletter
-"Check / Money Order","Check / Money Order",module,Magento_OfflinePayments
-Enabled,Enabled,module,Magento_OfflinePayments
-"New Order Status","New Order Status",module,Magento_OfflinePayments
-"Sort Order","Sort Order",module,Magento_OfflinePayments
-Title,Title,module,Magento_OfflinePayments
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_OfflinePayments
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_OfflinePayments
-"Make Check Payable to","Make Check Payable to",module,Magento_OfflinePayments
-"Minimum Order Total","Minimum Order Total",module,Magento_OfflinePayments
-"Maximum Order Total","Maximum Order Total",module,Magento_OfflinePayments
-"Purchase Order","Purchase Order",module,Magento_OfflinePayments
-"Bank Transfer Payment","Bank Transfer Payment",module,Magento_OfflinePayments
-Instructions,Instructions,module,Magento_OfflinePayments
-"Cash On Delivery Payment","Cash On Delivery Payment",module,Magento_OfflinePayments
-"Zero Subtotal Checkout","Zero Subtotal Checkout",module,Magento_OfflinePayments
-"Automatically Invoice All Items","Automatically Invoice All Items",module,Magento_OfflinePayments
-"Flat Rate","Flat Rate",module,Magento_OfflineShipping
-Enabled,Enabled,module,Magento_OfflineShipping
-"Method Name","Method Name",module,Magento_OfflineShipping
-Price,Price,module,Magento_OfflineShipping
-"Calculate Handling Fee","Calculate Handling Fee",module,Magento_OfflineShipping
-"Handling Fee","Handling Fee",module,Magento_OfflineShipping
-"Sort Order","Sort Order",module,Magento_OfflineShipping
-Title,Title,module,Magento_OfflineShipping
-Type,Type,module,Magento_OfflineShipping
-"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_OfflineShipping
-"Ship to Specific Countries","Ship to Specific Countries",module,Magento_OfflineShipping
-"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_OfflineShipping
-"Displayed Error Message","Displayed Error Message",module,Magento_OfflineShipping
-"Table Rates","Table Rates",module,Magento_OfflineShipping
-Condition,Condition,module,Magento_OfflineShipping
-"Include Virtual Products in Price Calculation","Include Virtual Products in Price Calculation",module,Magento_OfflineShipping
-Export,Export,module,Magento_OfflineShipping
-Import,Import,module,Magento_OfflineShipping
-"Free Shipping","Free Shipping",module,Magento_OfflineShipping
-"Minimum Order Amount","Minimum Order Amount",module,Magento_OfflineShipping
-"-- Please Select --","-- Please Select --",module,Magento_OfflineShipping
-"Full Page Cache","Full Page Cache",module,Magento_PageCache
-"Caching Application","Caching Application",module,Magento_PageCache
-"Varnish Configuration","Varnish Configuration",module,Magento_PageCache
-"Access list","Access list",module,Magento_PageCache
+Type,Tipo,module,Magento_Newsletter
+Guest,Invitado,module,Magento_Newsletter
+Customer,Cliente,module,Magento_Newsletter
+"Customer First Name","Nombre de Cliente",module,Magento_Newsletter
+"Customer Last Name","Apellido de Cliente",module,Magento_Newsletter
+"Not Activated","Sin Activar",module,Magento_Newsletter
+Subscribed,Suscrito,module,Magento_Newsletter
+Unsubscribed,Desuscripto,module,Magento_Newsletter
+Unconfirmed,"Sin confirmar",module,Magento_Newsletter
+"Web Site","Sitio Web",module,Magento_Newsletter
+Store,Tienda,module,Magento_Newsletter
+"Store View","Vista de Tienda",module,Magento_Newsletter
+"Newsletter Subscriptions","Suscripciones al Boletín",module,Magento_Newsletter
+"Check / Money Order","Cheque / Money Order",module,Magento_OfflinePayments
+Enabled,Habilitado,module,Magento_OfflinePayments
+"New Order Status","Nuevo Estado de Orden",module,Magento_OfflinePayments
+"Sort Order","Orden de Clasificación",module,Magento_OfflinePayments
+Title,Título,module,Magento_OfflinePayments
+"Payment from Applicable Countries","Pago de Países Aplicables",module,Magento_OfflinePayments
+"Payment from Specific Countries","Pago de Países Específicos",module,Magento_OfflinePayments
+"Make Check Payable to","Haga el Cheque a Nombre de ",module,Magento_OfflinePayments
+"Minimum Order Total","Total Mínimo de Orden",module,Magento_OfflinePayments
+"Maximum Order Total","Total Máximo de Orden",module,Magento_OfflinePayments
+"Purchase Order","Orden de Compra",module,Magento_OfflinePayments
+"Bank Transfer Payment","Pago de Transferencia Bancaria",module,Magento_OfflinePayments
+Instructions,Instrucciones,module,Magento_OfflinePayments
+"Cash On Delivery Payment","Pago al Recibir",module,Magento_OfflinePayments
+"Zero Subtotal Checkout","Orden con Subtotal Cero",module,Magento_OfflinePayments
+"Automatically Invoice All Items","Facturar Automáticamene Todos los Artículos",module,Magento_OfflinePayments
+"Flat Rate","Tarifa Plana",module,Magento_OfflineShipping
+Enabled,Habilitado,module,Magento_OfflineShipping
+"Method Name","Nombre de Método",module,Magento_OfflineShipping
+Price,Precio,module,Magento_OfflineShipping
+"Calculate Handling Fee","Calcular Tarifa de Manejo",module,Magento_OfflineShipping
+"Handling Fee","Tarifa de Manejo",module,Magento_OfflineShipping
+"Sort Order","Orden de Clasificación",module,Magento_OfflineShipping
+Title,Título,module,Magento_OfflineShipping
+Type,Tipo,module,Magento_OfflineShipping
+"Ship to Applicable Countries","Enviar a Países Aplicables",module,Magento_OfflineShipping
+"Ship to Specific Countries","Enviar a Países Específicos",module,Magento_OfflineShipping
+"Show Method if Not Applicable","Mostrar Método si No Es Aplicable",module,Magento_OfflineShipping
+"Displayed Error Message","Mensaje de Error Desplegado",module,Magento_OfflineShipping
+"Table Rates","Tarifa Tabulada",module,Magento_OfflineShipping
+Condition,Condición,module,Magento_OfflineShipping
+"Include Virtual Products in Price Calculation","Incluir Productos Virtuales en Cálculo de Precio",module,Magento_OfflineShipping
+Export,Exportar,module,Magento_OfflineShipping
+Import,Importar,module,Magento_OfflineShipping
+"Free Shipping","Envío Gratuito",module,Magento_OfflineShipping
+"Minimum Order Amount","Monto Mínimo de Orden",module,Magento_OfflineShipping
+"-- Please Select --","-- Por favor Seleccione --",module,Magento_OfflineShipping
+"Full Page Cache","Caché de Página Completa",module,Magento_PageCache
+"Caching Application","Aplicación de Caché",module,Magento_PageCache
+"Varnish Configuration","COnfiguración de Varnish",module,Magento_PageCache
+"Access list","Lista de Acceso",module,Magento_PageCache
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.","IPs access list separated with ',' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.",module,Magento_PageCache
-"Backend host","Backend host",module,Magento_PageCache
-"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Specify backend host for config file generation. If field is empty default value localhost will be saved.",module,Magento_PageCache
-"Backend port","Backend port",module,Magento_PageCache
-"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Specify backend port for config file generation. If field is empty default value 8080 will be saved.",module,Magento_PageCache
-"TTL for public content","TTL for public content",module,Magento_PageCache
-"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ",module,Magento_PageCache
-"Page Cache","Page Cache",module,Magento_PageCache
-"Full page caching","Full page caching",module,Magento_PageCache
-"Payment Methods Section","Payment Methods Section",module,Magento_Payment
-"Payment Services","Payment Services",module,Magento_Payment
-"Payment Methods","Payment Methods",module,Magento_Payment
-"PayPal Section","PayPal Section",module,Magento_Paypal
-"PayPal Settlement","PayPal Settlement",module,Magento_Paypal
-Fetch,Fetch,module,Magento_Paypal
-Actions,Actions,module,Magento_Paypal
-Manage,Manage,module,Magento_Paypal
-"Place Order Using Billing Agreements","Place Order Using Billing Agreements",module,Magento_Paypal
-"Merchant Location","Merchant Location",module,Magento_Paypal
-"Merchant Country","Merchant Country",module,Magento_Paypal
-"If not specified, Default Country from General Config will be used","If not specified, Default Country from General Config will be used",module,Magento_Paypal
+                            If field is empty default value localhost will be saved.","Lista de acceso de IPs separadas por ',' que pueden purgar la configuración de Varnish para la generación de archivo de configuración.
+                            Si el campo está vacío se guardará el valor por defecto localhost.",module,Magento_PageCache
+"Backend host","Servidor de Backend",module,Magento_PageCache
+"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Especificar el servidor de backend para la generación de archivo de configuración. Si el campo está vacío se guardará el valor por defecto localhost.",module,Magento_PageCache
+"Backend port","Puerto de Backend",module,Magento_PageCache
+"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Especificar el puerto de backend para el archivo de configuración. Si el campo está vacío se guardará el valor por defecto 8080.",module,Magento_PageCache
+"TTL for public content","TTL para contenido público",module,Magento_PageCache
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Caducidad del contenido público en segundos. Si el campo está vacío se guardará el valor por defecto 86400. ",module,Magento_PageCache
+"Page Cache","Caché de Página",module,Magento_PageCache
+"Full page caching","Caché de página completa",module,Magento_PageCache
+"Payment Methods Section","Sección de Métodos de Pago",module,Magento_Payment
+"Payment Services","Servicios de Pago",module,Magento_Payment
+"Payment Methods","Métodos de Pago",module,Magento_Payment
+"PayPal Section","Sección de PayPal",module,Magento_Paypal
+"PayPal Settlement","Asentamiento PayPal",module,Magento_Paypal
+Fetch,Recibir,module,Magento_Paypal
+Actions,Acciones,module,Magento_Paypal
+Manage,Administrar,module,Magento_Paypal
+"Place Order Using Billing Agreements","Colocar Orden Usando Acuerdos de Facturación",module,Magento_Paypal
+"Merchant Location","Localidad del Comerciante",module,Magento_Paypal
+"Merchant Country","País del Comerciante",module,Magento_Paypal
+"If not specified, Default Country from General Config will be used","Si no se especifica, se usará el País por Defecto de la Configuración General",module,Magento_Paypal
 "
                     PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>
                 ","
-                    PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>
+                    Soluciones de Pago Todo-en-Uno de PayPal&nbsp;&nbsp;<i>Acepte y procese tarjetas de crédito y pagos PayPal.</i>
                 ",module,Magento_Paypal
-"Choose a secure bundled payment solution for your business.","Choose a secure bundled payment solution for your business.",module,Magento_Paypal
+"Choose a secure bundled payment solution for your business.","Elija una solución integrada segura de pagos para su negocio.",module,Magento_Paypal
 "Payments Pro and Express Checkout","Payments Pro and Express Checkout",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro","Basic Settings - PayPal Payments Pro",module,Magento_Paypal
 "PayPal Payment Gateways","PayPal Payment Gateways",module,Magento_Paypal
