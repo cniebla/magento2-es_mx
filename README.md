@@ -1,6 +1,6 @@
 # magento2-es_mx
 
-Status: 90% (first translation - see roadmap on Wiki)
+Status: 90% (first translation - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki)
 
 #NO INSTALAR
 #NOT READY
@@ -23,3 +23,10 @@ Manual installation:
 * Copy contents of app into Magento root directory/app
 * Select spanish/México language on Magento
 * Flush cache
+
+Support this project
+--------
+upport this project, donate as little as $ 20 MXN (a little over 1 USD). Soporta este proyecto, donando tan poco como $ 20 MXN.
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZBU5RDV2456QN)
+
