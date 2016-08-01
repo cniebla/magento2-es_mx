@@ -7719,53 +7719,53 @@ Manage,Administrar,module,Magento_Paypal
                     Soluciones de Pago Todo-en-Uno de PayPal&nbsp;&nbsp;<i>Acepte y procese tarjetas de crédito y pagos PayPal.</i>
                 ",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.","Elija una solución integrada segura de pagos para su negocio.",module,Magento_Paypal
-"Payments Pro and Express Checkout","Payments Pro and Express Checkout",module,Magento_Paypal
-"Basic Settings - PayPal Payments Pro","Basic Settings - PayPal Payments Pro",module,Magento_Paypal
-"PayPal Payment Gateways","PayPal Payment Gateways",module,Magento_Paypal
-"Process payments using your own internet merchant account.","Process payments using your own internet merchant account.",module,Magento_Paypal
-"PayPal Express Checkout","PayPal Express Checkout",module,Magento_Paypal
-"Add another payment method to your existing solution or as a stand-alone option.","Add another payment method to your existing solution or as a stand-alone option.",module,Magento_Paypal
+"Payments Pro and Express Checkout","Compras Payments Pro y Express",module,Magento_Paypal
+"Basic Settings - PayPal Payments Pro","Configuraciones básicas - PayPal Payments Pro",module,Magento_Paypal
+"PayPal Payment Gateways","Puertas de Enlace de Pago PayPal",module,Magento_Paypal
+"Process payments using your own internet merchant account.","Procesar pagos usando su propia cuenta de comerciante de internet.",module,Magento_Paypal
+"PayPal Express Checkout","Compra PayPal Express",module,Magento_Paypal
+"Add another payment method to your existing solution or as a stand-alone option.","Añadir otro método de pago a su solución existente o como una opción independiente.",module,Magento_Paypal
 1,1,module,Magento_Paypal
-"Accept payments with a completely customizable checkout page.","Accept payments with a completely customizable checkout page.",module,Magento_Paypal
-"PayPal Payment Solutions","PayPal Payment Solutions",module,Magento_Paypal
-"Express Checkout","Express Checkout",module,Magento_Paypal
-"Add PayPal as an additional payment method to your checkout page.","Add PayPal as an additional payment method to your checkout page.",module,Magento_Paypal
-"Required PayPal Settings","Required PayPal Settings",module,Magento_Paypal
-"Email Associated with PayPal Merchant Account","Email Associated with PayPal Merchant Account",module,Magento_Paypal
+"Accept payments with a completely customizable checkout page.","Aceptar pagos con una página de compras completamente personalizable.",module,Magento_Paypal
+"PayPal Payment Solutions","Soluciones de Pago PayPal",module,Magento_Paypal
+"Express Checkout","Compra Express",module,Magento_Paypal
+"Add PayPal as an additional payment method to your checkout page.","Añadir PayPal como un método de pago adicional a su página de compras.",module,Magento_Paypal
+"Required PayPal Settings","Configuraciones Obligatorias de PayPal",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account","Email Asociado a la Cuenta de Comerciante PayPal",module,Magento_Paypal
 "
                         <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
                     ","
-                        <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
+                        <a href=""http://www.magentocommerce.com/paypal"">¡Comenzar a aceptar pagos con PayPal!</a>
                     ",module,Magento_Paypal
-"Don't have a PayPal account? Simply enter your email address.","Don't have a PayPal account? Simply enter your email address.",module,Magento_Paypal
-"API Authentication Methods","API Authentication Methods",module,Magento_Paypal
-"API Username","API Username",module,Magento_Paypal
-"API Password","API Password",module,Magento_Paypal
-"Get Credentials from PayPal","Get Credentials from PayPal",module,Magento_Paypal
-"Sandbox Mode","Sandbox Mode",module,Magento_Paypal
-"API Uses Proxy","API Uses Proxy",module,Magento_Paypal
-"Proxy Host","Proxy Host",module,Magento_Paypal
-"Proxy Port","Proxy Port",module,Magento_Paypal
-"Enable this Solution","Enable this Solution",module,Magento_Paypal
-"Enable In-Context Checkout Experience","Enable In-Context Checkout Experience",module,Magento_Paypal
+"Don't have a PayPal account? Simply enter your email address.","¿No tiene una cuenta PayPal? Simplemente ingrese su email.",module,Magento_Paypal
+"API Authentication Methods","Métodos de Autenticación API",module,Magento_Paypal
+"API Username","Usuario API",module,Magento_Paypal
+"API Password","Contraseña API",module,Magento_Paypal
+"Get Credentials from PayPal","Obtener Credenciales de PayPal",module,Magento_Paypal
+"Sandbox Mode","Modo Sandbox",module,Magento_Paypal
+"API Uses Proxy","El API Usa Proxy",module,Magento_Paypal
+"Proxy Host","Servidor Proxy",module,Magento_Paypal
+"Proxy Port","Puerto Proxy",module,Magento_Paypal
+"Enable this Solution","Habilitar esta Solución",module,Magento_Paypal
+"Enable In-Context Checkout Experience","Habilitar Experiencia de Compras en contexto",module,Magento_Paypal
 "
                     See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
                 ","
-                    See PayPal Feature Support details and list of supported regions
-                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                    Ver Detalles de Soporte de Característica de PayPal y lista de regiones soportadas
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">aquí</a>.
                 ",module,Magento_Paypal
-"Merchant Account ID","Merchant Account ID",module,Magento_Paypal
-"Enable PayPal Credit","Enable PayPal Credit",module,Magento_Paypal
+"Merchant Account ID","ID de Cuenta de Comerciante",module,Magento_Paypal
+"Enable PayPal Credit","Habilitar Crédito PayPal",module,Magento_Paypal
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
-                ","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
-                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
+                ","Compras PayPal Express le permite a sus clientes acceder a financiamiento de Crédito PayPal - sin costo adicional para usted.
+                        Se le paga de inmediato. Un botón pre integrado le permite a sus clientes pagar rápidamente con Crédito PayPal.
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Entérese de más</a>
                 ",module,Magento_Paypal
-"Sort Order PayPal Credit","Sort Order PayPal Credit",module,Magento_Paypal
-"Advertise PayPal Credit","Advertise PayPal Credit",module,Magento_Paypal
+"Sort Order PayPal Credit","Orden de Clasificación de Crédito de PayPal",module,Magento_Paypal
+"Advertise PayPal Credit","Anuncie Crédito PayPal",module,Magento_Paypal
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -7774,120 +7774,120 @@ Manage,Administrar,module,Magento_Paypal
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                         or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","
-                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">¿Porqué anunciar financiamiento?</a><br/>
+                        <strong>De un impulso a sus ventas cuando anuncie financiamiento.</strong><br/>PayPal ayuda a convertir a visitantes en compradores con financiamiento
+                        de Crédito PayPal. Sus clientes tienen más tiempo para pagar, mientras recibe pagos de inmediato – sin costo adicional para usted.
+                        Use los cintillos gratuitos de PayPal que le permiten anunciar el financiamiento de Crédito PayPal como opción de pagocuando sus clientes compren con PayPal.
+                        El Programa de Anuncios de PayPal ha mostrado que genera compras adicionales además de incrementar el promedio de compras en un 15%
+                        o más. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Ver Detalles</a>.
                 ",module,Magento_Paypal
-"Publisher ID","Publisher ID",module,Magento_Paypal
-"Required to display a banner","Required to display a banner",module,Magento_Paypal
-"Get Publisher ID from PayPal","Get Publisher ID from PayPal",module,Magento_Paypal
-"Home Page","Home Page",module,Magento_Paypal
-Display,Display,module,Magento_Paypal
-Position,Position,module,Magento_Paypal
-Size,Size,module,Magento_Paypal
-"Catalog Category Page","Catalog Category Page",module,Magento_Paypal
-"Catalog Product Page","Catalog Product Page",module,Magento_Paypal
-"Checkout Cart Page","Checkout Cart Page",module,Magento_Paypal
-"Basic Settings - PayPal Express Checkout","Basic Settings - PayPal Express Checkout",module,Magento_Paypal
-Title,Title,module,Magento_Paypal
-"It is recommended to set this value to ""PayPal"" per store views.","It is recommended to set this value to ""PayPal"" per store views.",module,Magento_Paypal
-"Sort Order","Sort Order",module,Magento_Paypal
-"Payment Action","Payment Action",module,Magento_Paypal
-"Display on Product Details Page","Display on Product Details Page",module,Magento_Paypal
-"Authorization Honor Period (days)","Authorization Honor Period (days)",module,Magento_Paypal
-"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.",module,Magento_Paypal
-"Order Valid Period (days)","Order Valid Period (days)",module,Magento_Paypal
-"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.",module,Magento_Paypal
-"Number of Child Authorizations","Number of Child Authorizations",module,Magento_Paypal
-"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.",module,Magento_Paypal
-"Advanced Settings","Advanced Settings",module,Magento_Paypal
-"Display on Shopping Cart","Display on Shopping Cart",module,Magento_Paypal
-"Also affects mini-shopping cart.","Also affects mini-shopping cart.",module,Magento_Paypal
-"Payment Applicable From","Payment Applicable From",module,Magento_Paypal
-"Countries Payment Applicable From","Countries Payment Applicable From",module,Magento_Paypal
-"Debug Mode","Debug Mode",module,Magento_Paypal
-"Enable SSL verification","Enable SSL verification",module,Magento_Paypal
-"Transfer Cart Line Items","Transfer Cart Line Items",module,Magento_Paypal
-"Transfer Shipping Options","Transfer Shipping Options",module,Magento_Paypal
-"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.",module,Magento_Paypal
-"Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.",module,Magento_Paypal
-"Shortcut Buttons Flavor","Shortcut Buttons Flavor",module,Magento_Paypal
-"Enable PayPal Guest Checkout","Enable PayPal Guest Checkout",module,Magento_Paypal
-"Ability for buyer to purchase without PayPal account.","Ability for buyer to purchase without PayPal account.",module,Magento_Paypal
-"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Paypal
-"This feature needs be enabled first for the merchant account through PayPal technical support.","This feature needs be enabled first for the merchant account through PayPal technical support.",module,Magento_Paypal
-"Billing Agreement Signup","Billing Agreement Signup",module,Magento_Paypal
-"Whether to create a billing agreement, if there are no active billing agreements available.","Whether to create a billing agreement, if there are no active billing agreements available.",module,Magento_Paypal
+"Publisher ID","ID de Publicista",module,Magento_Paypal
+"Required to display a banner","Obligatorio para mostrar un cintillo",module,Magento_Paypal
+"Get Publisher ID from PayPal","Obtener un ID de Publicista de PayPal",module,Magento_Paypal
+"Home Page","Página de Inicio",module,Magento_Paypal
+Display,Despliegue,module,Magento_Paypal
+Position,Posición,module,Magento_Paypal
+Size,Tamaño,module,Magento_Paypal
+"Catalog Category Page","Página de Categoría de Catálogo",module,Magento_Paypal
+"Catalog Product Page","Página de Producto de Catálogo",module,Magento_Paypal
+"Checkout Cart Page","Página de Ordenar en Carrito",module,Magento_Paypal
+"Basic Settings - PayPal Express Checkout","Configuraciones Básicas - Compras PayPal Express",module,Magento_Paypal
+Title,Título,module,Magento_Paypal
+"It is recommended to set this value to ""PayPal"" per store views.","Se recomienda fijar este valor como ""PayPal"" en vistas de tienda.",module,Magento_Paypal
+"Sort Order","Orden de Clasificación",module,Magento_Paypal
+"Payment Action","Acción de Pago",module,Magento_Paypal
+"Display on Product Details Page","Mostrar en Página de Detalles de Producto",module,Magento_Paypal
+"Authorization Honor Period (days)","Periodo de Honor de Autorización (días)",module,Magento_Paypal
+"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Especifica cual es el Periodo de Honor de Autorización en la cuenta de comerciante de PayPal. Debe ser igual a la configuración en PayPal.",module,Magento_Paypal
+"Order Valid Period (days)","Periodo de Orden Válida (días)",module,Magento_Paypal
+"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Especifica cual es el Periodo de Orden Válida en PayPal. Debe ser igual a la configuración en PayPal.",module,Magento_Paypal
+"Number of Child Authorizations","Número de Autorizaciones Dependientes",module,Magento_Paypal
+"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","El número ipor defecto de autorizaciones dependientes en su cuenta PayPal es de 1. Para hacer varias autorizaciones por favor contacte a PayPal para solicitar un incremento.",module,Magento_Paypal
+"Advanced Settings","Configuraciones Avanzadas",module,Magento_Paypal
+"Display on Shopping Cart","Mostrar en Carrito de Compras",module,Magento_Paypal
+"Also affects mini-shopping cart.","También afecta al mini carrito de compras.",module,Magento_Paypal
+"Payment Applicable From","Pago Aplicable Desde",module,Magento_Paypal
+"Countries Payment Applicable From","Países de Pago Aplicable Desde",module,Magento_Paypal
+"Debug Mode","Modo Depuración",module,Magento_Paypal
+"Enable SSL verification","Habilitar verificación SSL",module,Magento_Paypal
+"Transfer Cart Line Items","Transferir Artículos de Línea de Carrito",module,Magento_Paypal
+"Transfer Shipping Options","Transferir Opciones de Envío",module,Magento_Paypal
+"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Si esta opción está habilitada, el cliente puede cambiar la dirección de envío y el método de envío en el sitio web de PayPal. En modo directo sólo funciona por el protocolo HTTPS.",module,Magento_Paypal
+"Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Note que PayPay puede manejar hasta 10 opciones de envío. Por esto Magento va a transferir sólo las 10 opciones de envío más económicas si hay más de 10 disponibles.",module,Magento_Paypal
+"Shortcut Buttons Flavor","Variedad de Botones de Atajos",module,Magento_Paypal
+"Enable PayPal Guest Checkout","Habilitar Ordenar como Invitado en PayPal",module,Magento_Paypal
+"Ability for buyer to purchase without PayPal account.","La capacidad de un comprador de hacer compras sin una cuenta de PayPal.",module,Magento_Paypal
+"Require Customer's Billing Address","Requerir la Dirección de Facturación del Cliente",module,Magento_Paypal
+"This feature needs be enabled first for the merchant account through PayPal technical support.","Esta característica necesita habilitarse primero para la cuenta de comerciante a través del soporte técnico de PayPal.",module,Magento_Paypal
+"Billing Agreement Signup","Inscripción a Acuerdo de Pagos",module,Magento_Paypal
+"Whether to create a billing agreement, if there are no active billing agreements available.","Crear un acuerdo de pagos, si no hay acuerdos de pagos activos disponibles.",module,Magento_Paypal
 "
                         Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
                     ","
-                        Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
+                        Los comerciantes necesitan solicitar a PayPay para habilitar la característica de acuerdos de pagos. No habilite esta opción hasta que PayPal confirme que los acuerdos de pagos están habilitados para su cuenta de comerciante.
                     ",module,Magento_Paypal
-"Skip Order Review Step","Skip Order Review Step",module,Magento_Paypal
-"PayPal Billing Agreement Settings","PayPal Billing Agreement Settings",module,Magento_Paypal
+"Skip Order Review Step","Saltar el Paso de Revisión de Orden",module,Magento_Paypal
+"PayPal Billing Agreement Settings","Configuraciones de Acuerdos de Pagos de PayPal",module,Magento_Paypal
 Enabled,Enabled,module,Magento_Paypal
 "
                             Will appear as a payment option only for customers who have at least one active billing agreement.
                         ","
-                            Will appear as a payment option only for customers who have at least one active billing agreement.
+                            Aparecerá como una opción de pago sólo a los clientes que tienen al menos un acuerdo de pago activo.
                         ",module,Magento_Paypal
-"Allow in Billing Agreement Wizard","Allow in Billing Agreement Wizard",module,Magento_Paypal
-"Settlement Report Settings","Settlement Report Settings",module,Magento_Paypal
-"SFTP Credentials","SFTP Credentials",module,Magento_Paypal
-Login,Login,module,Magento_Paypal
-Password,Password,module,Magento_Paypal
-"Custom Endpoint Hostname or IP-Address","Custom Endpoint Hostname or IP-Address",module,Magento_Paypal
-"By default it is ""reports.paypal.com"".","By default it is ""reports.paypal.com"".",module,Magento_Paypal
-"Use colon to specify port. For example: ""test.example.com:5224"".","Use colon to specify port. For example: ""test.example.com:5224"".",module,Magento_Paypal
-"Custom Path","Custom Path",module,Magento_Paypal
-"Scheduled Fetching","Scheduled Fetching",module,Magento_Paypal
-"Enable Automatic Fetching","Enable Automatic Fetching",module,Magento_Paypal
-Schedule,Schedule,module,Magento_Paypal
-"PayPal retains reports for 45 days.","PayPal retains reports for 45 days.",module,Magento_Paypal
-"Time of Day","Time of Day",module,Magento_Paypal
-"Frontend Experience Settings","Frontend Experience Settings",module,Magento_Paypal
-"PayPal Product Logo","PayPal Product Logo",module,Magento_Paypal
-"Displays on catalog pages and homepage.","Displays on catalog pages and homepage.",module,Magento_Paypal
-"PayPal Merchant Pages Style","PayPal Merchant Pages Style",module,Magento_Paypal
-"Page Style","Page Style",module,Magento_Paypal
+"Allow in Billing Agreement Wizard","Permitir en Asistente de Acuerdo de Pago",module,Magento_Paypal
+"Settlement Report Settings","Configuraciones de Reporte de Asentamiento",module,Magento_Paypal
+"SFTP Credentials","Credenciales SFTP",module,Magento_Paypal
+Login,Ingresar,module,Magento_Paypal
+Password,Contraseña,module,Magento_Paypal
+"Custom Endpoint Hostname or IP-Address","Punto de Origen o dirección IP",module,Magento_Paypal
+"By default it is ""reports.paypal.com"".",Por defecto es ""reports.paypal.com"".",module,Magento_Paypal
+"Use colon to specify port. For example: ""test.example.com:5224"".","Use los dos puntos para especificar puerto. Por ejemplo: ""prueba.ejemplo.com:5224"".",module,Magento_Paypal
+"Custom Path","Ruta Personalizada",module,Magento_Paypal
+"Scheduled Fetching","Obtención Agendada",module,Magento_Paypal
+"Enable Automatic Fetching","Habilitar Obtención Automática",module,Magento_Paypal
+Schedule,Agenda,module,Magento_Paypal
+"PayPal retains reports for 45 days.","PayPal retiene reportes por 45 días.",module,Magento_Paypal
+"Time of Day","Horario del Día",module,Magento_Paypal
+"Frontend Experience Settings","Configuraciones de Experiencia de Interfaz",module,Magento_Paypal
+"PayPal Product Logo","Logotipo de Producto PayPal",module,Magento_Paypal
+"Displays on catalog pages and homepage.","Se muestra en páginas de catálogo y página de inicio.",module,Magento_Paypal
+"PayPal Merchant Pages Style","Estilo de Páginas de Comerciante PayPal",module,Magento_Paypal
+"Page Style","Estilo de Página",module,Magento_Paypal
 "
                             Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
                         ","
-                            Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
+                            Valores Permitidos: ""paypal"", ""primary"" (por defecto), su_valor_personalizado (un estilo personalizado de página de su perfil de cuenta de comerciante).
                         ",module,Magento_Paypal
-"Header Image URL","Header Image URL",module,Magento_Paypal
+"Header Image URL","URL de Imagen de Encabezado",module,Magento_Paypal
 "
                             The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.
                         ","
-                            The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.
+                            La imagen en la parte superior izquierda de la página de ordenar. El tamaño máximo es 750x90-pixel. Es muy aconsejable usar <strong style=""color:red"">https</strong>.
                         ",module,Magento_Paypal
-"Header Background Color","Header Background Color",module,Magento_Paypal
+"Header Background Color","Color de FOndo de Encabezado",module,Magento_Paypal
 "
                             The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
                         ","
-                            The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
+                            El color de fondo para el encabezado de la página de comprar. Código de color hexadecimal HTML de 6 caracteres no sensible a mayúsculas o minúsculas en ASCII.
                         ",module,Magento_Paypal
-"Header Border Color","Header Border Color",module,Magento_Paypal
-"2-pixel perimeter around the header space.","2-pixel perimeter around the header space.",module,Magento_Paypal
-"Page Background Color","Page Background Color",module,Magento_Paypal
+"Header Border Color","Color del Borde del Encabezaso",module,Magento_Paypal
+"2-pixel perimeter around the header space.","El perímetro de 2-pixelis alrededor del espacio del encabezado.",module,Magento_Paypal
+"Page Background Color","Color de Fondo de Página",module,Magento_Paypal
 "
                             The background color for the checkout page around the header and payment form.
                         ","
-                            The background color for the checkout page around the header and payment form.
+                            El color de fondo de la página de comprar alrededor del encabezado y el formato de pago.
                         ",module,Magento_Paypal
-"Payments Advanced (Includes Express Checkout)","Payments Advanced (Includes Express Checkout)",module,Magento_Paypal
-"Accept payments with a PCI-compliant checkout that keeps customers on your site.","Accept payments with a PCI-compliant checkout that keeps customers on your site.",module,Magento_Paypal
-"Payments Advanced and Express Checkout","Payments Advanced and Express Checkout",module,Magento_Paypal
-Partner,Partner,module,Magento_Paypal
-Vendor,Vendor,module,Magento_Paypal
-User,User,module,Magento_Paypal
-"PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal recommends that you set up an additional User on your account at manager.paypal.com",module,Magento_Paypal
-"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.",module,Magento_Paypal
-"Test Mode","Test Mode",module,Magento_Paypal
-"Use Proxy","Use Proxy",module,Magento_Paypal
+"Payments Advanced (Includes Express Checkout)","Pagos Avanzados (Incluye Compras Express)",module,Magento_Paypal
+"Accept payments with a PCI-compliant checkout that keeps customers on your site.","Aceptar pagos con compras que cumplen con PCI que mantiene a los clientes en su sitio.",module,Magento_Paypal
+"Payments Advanced and Express Checkout","Pagos Avanzados y Compras Express",module,Magento_Paypal
+Partner,Socio,module,Magento_Paypal
+Vendor,Vendedor,module,Magento_Paypal
+User,Usuario,module,Magento_Paypal
+"PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal le recomienda que configure información adicional de Usuario en su cuenta en manager.paypal.com",module,Magento_Paypal
+"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal le recomienda que configure informacion adicional de Usuario en su cuenta en manager.paypal.com, en lugar de ingresar su nombre de usuario de administrador y contraseña aquí. Esto mejorará la seguridad y prevendrá interrupciones al servicio si despues cambia su contraseña. Si no desea configurar un Usuario adicional, puede reingresar si Acceso de Comerciante aquí.",module,Magento_Paypal
+"Test Mode","Modo Pruebas",module,Magento_Paypal
+"Use Proxy","Usar Proxy",module,Magento_Paypal
 "
                     <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
