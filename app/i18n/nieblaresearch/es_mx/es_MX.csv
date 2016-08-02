@@ -7897,29 +7897,29 @@ User,Usuario,module,Magento_Paypal
                                             or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","
                     <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                                            <strong>De a sus ventas un impulso al anunciar financiamiento.</strong><br/>PayPal ayuda a convertir visitantes en compradores con financiamiento
+                                            de Crédito PayPal. Sus clientes tienen más tiempo para pagar, mientras recibe pagos de inmediato – sin costo adicional para usted.
+                                            Use los cintillos gratuitos de PayPal que le permiten anunciar el financiamiento de Crédito PayPal como opción de pagocuando sus clientes compren con PayPal.
+                                            El Programa de Anuncios de PayPal ha mostrado que genera compras adicionales además de incrementar el promedio de compras en un 15% 
+                                            o más. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Ver Detalles</a>.
                 ",module,Magento_Paypal
-"Basic Settings - PayPal Payments Advanced","Basic Settings - PayPal Payments Advanced",module,Magento_Paypal
-"It is recommended to set this value to ""Debit or Credit Card"" per store views.","It is recommended to set this value to ""Debit or Credit Card"" per store views.",module,Magento_Paypal
-"CVV Entry is Editable","CVV Entry is Editable",module,Magento_Paypal
-"Require CVV Entry","Require CVV Entry",module,Magento_Paypal
-"Send Email Confirmation","Send Email Confirmation",module,Magento_Paypal
-"URL method for Cancel URL and Return URL","URL method for Cancel URL and Return URL",module,Magento_Paypal
-"Payflow Link (Includes Express Checkout)","Payflow Link (Includes Express Checkout)",module,Magento_Paypal
-"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.",module,Magento_Paypal
-"Payflow Link and Express Checkout","Payflow Link and Express Checkout",module,Magento_Paypal
-"Email Associated with PayPal Merchant Account (Optional)","Email Associated with PayPal Merchant Account (Optional)",module,Magento_Paypal
-"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.",module,Magento_Paypal
-"Enable Payflow Link","Enable Payflow Link",module,Magento_Paypal
-"Enable Express Checkout","Enable Express Checkout",module,Magento_Paypal
-"Basic Settings - PayPal Payflow Link","Basic Settings - PayPal Payflow Link",module,Magento_Paypal
-"Website Payments Pro Hosted Solution","Website Payments Pro Hosted Solution",module,Magento_Paypal
-"Accept payments with a PCI compliant checkout that keeps customers on your site.","Accept payments with a PCI compliant checkout that keeps customers on your site.",module,Magento_Paypal
-"Payments Pro Hosted Solution","Payments Pro Hosted Solution",module,Magento_Paypal
+"Basic Settings - PayPal Payments Advanced","Configuraciones Básicas - Pagos PayPal Avanzados",module,Magento_Paypal
+"It is recommended to set this value to ""Debit or Credit Card"" per store views.","Es recomendable fijar este valor como ""Tarjeta de Crédito o Débito"" en vistas de tienda.",module,Magento_Paypal
+"CVV Entry is Editable","El ingreso de CVV es Editable",module,Magento_Paypal
+"Require CVV Entry","Requiere Ingresar CVV",module,Magento_Paypal
+"Send Email Confirmation","Enviar Confirmación por Email",module,Magento_Paypal
+"URL method for Cancel URL and Return URL","Método URL para Cancelar URL y Regrear URL",module,Magento_Paypal
+"Payflow Link (Includes Express Checkout)","Liga de Flujo de Pago (Incluye Compra Express)",module,Magento_Paypal
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Conecte si cuenta de comerciante con una puerta de enlace compatible con PCI qie le permite a sus clientes pagar sin dejar su sitio.",module,Magento_Paypal
+"Payflow Link and Express Checkout","Liga de Flujo de Pago y Compra Express",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account (Optional)","Email Asociado con Cuenta de Comerciante de PayPal (Opcional)",module,Magento_Paypal
+"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Si no tiene varios usuarios en su cuenta, por favor reingrese su Acceso de Vendedor/Comerciante aquí.",module,Magento_Paypal
+"Enable Payflow Link","Habilitar Liga de Flujo de Pago",module,Magento_Paypal
+"Enable Express Checkout","Habilitar Compra Express",module,Magento_Paypal
+"Basic Settings - PayPal Payflow Link","Configuraciones Básicas - Liga de Flujo de Pago PayPal",module,Magento_Paypal
+"Website Payments Pro Hosted Solution","Solución Profesional Alojada de Pagos en Sitio Web",module,Magento_Paypal
+"Accept payments with a PCI compliant checkout that keeps customers on your site.","Aceptar pagos con compras compatibles con PCI que mantiene a los clientes en su sitio.",module,Magento_Paypal
+"Payments Pro Hosted Solution","Solución Profesional Alojada de Pagos",module,Magento_Paypal
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -7928,37 +7928,37 @@ User,Usuario,module,Magento_Paypal
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                             or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","
-                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">¿Porqué anunciar financiamiento?</a><br/>
+                            <strong>De un impulso a sus ventas cuando anuncie financiamiento.</strong><br/>PayPal ayuda a convertir a visitantes en compradores con financiamiento
+                            de Crédito PayPal. Sus clientes tienen más tiempo para pagar, mientras recibe pagos de inmediato – sin costo adicional para usted.
+                            Use los cintillos gratuitos de PayPal que le permiten anunciar el financiamiento de Crédito PayPal como opción de pagocuando sus clientes compren con PayPal.
+                            El Programa de Anuncios de PayPal ha mostrado que genera compras adicionales además de incrementar el promedio de compras en un 15%
+                            o más. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Ver Detalles</a>.
                 ",module,Magento_Paypal
-"Basic Settings - PayPal Payments Pro Hosted Solution","Basic Settings - PayPal Payments Pro Hosted Solution",module,Magento_Paypal
-"Display Express Checkout in the Payment Information step","Display Express Checkout in the Payment Information step",module,Magento_Paypal
-"Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution and Express Checkout",module,Magento_Paypal
-"Basic Settings - PayPal Website Payments Pro Hosted Solution","Basic Settings - PayPal Website Payments Pro Hosted Solution",module,Magento_Paypal
-"Payflow Pro","Payflow Pro",module,Magento_Paypal
-"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.",module,Magento_Paypal
-"Vault enabled","Vault enabled",module,Magento_Paypal
-"Basic Settings - PayPal Payflow Pro","Basic Settings - PayPal Payflow Pro",module,Magento_Paypal
-"Vault Title","Vault Title",module,Magento_Paypal
-"Credit Card Settings","Credit Card Settings",module,Magento_Paypal
-"Allowed Credit Card Types","Allowed Credit Card Types",module,Magento_Paypal
+"Basic Settings - PayPal Payments Pro Hosted Solution","Configuraciones Básicas - Solución Profesional Alojada de Pagos PayPal",module,Magento_Paypal
+"Display Express Checkout in the Payment Information step","Mostrar Compra Express en el paso de Infirmación de Pago",module,Magento_Paypal
+"Website Payments Pro Hosted Solution and Express Checkout","Solución Profesional Alojada de Pagos y Compra",module,Magento_Paypal
+"Basic Settings - PayPal Website Payments Pro Hosted Solution","Configuraciones Básicas - Solución Profesional Alojada de Pagos PayPal",module,Magento_Paypal
+"Payflow Pro","Flujo de Pago Pro",module,Magento_Paypal
+"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Conete su cuenta de comerciante con una puerta de enlace completamente personalizable que permite a los clientes pagar sin dejar su sitio.",module,Magento_Paypal
+"Vault enabled","Bóveda habilitada",module,Magento_Paypal
+"Basic Settings - PayPal Payflow Pro","Configuraciones Básicas - Flujo de Pago PayPal Pro",module,Magento_Paypal
+"Vault Title","Título de Bóveda",module,Magento_Paypal
+"Credit Card Settings","Configuraciones de Tarjeta de Crédito",module,Magento_Paypal
+"Allowed Credit Card Types","Tipos de Tarjeta de Crédito Autorizados",module,Magento_Paypal
 "
                     Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
                 ","
-                    Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
+                    El Soporte de Tarjetas American Express requiere de un acuerdo adicional. Entérese de más en <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
                 ",module,Magento_Paypal
-"CVV and AVS Settings","CVV and AVS Settings",module,Magento_Paypal
-"Reject Transaction if:","Reject Transaction if:",module,Magento_Paypal
-"AVS Street Does Not Match","AVS Street Does Not Match",module,Magento_Paypal
-"AVS Zip Does Not Match","AVS Zip Does Not Match",module,Magento_Paypal
-"International AVS Indicator Does Not Match","International AVS Indicator Does Not Match",module,Magento_Paypal
-"Card Security Code Does Not Match","Card Security Code Does Not Match",module,Magento_Paypal
-"Payflow Pro (Includes Express Checkout)","Payflow Pro (Includes Express Checkout)",module,Magento_Paypal
-"Payflow Pro and Express Checkout","Payflow Pro and Express Checkout",module,Magento_Paypal
+"CVV and AVS Settings","Configuraciones CVV y AVS",module,Magento_Paypal
+"Reject Transaction if:","Rechazar Transacción si:",module,Magento_Paypal
+"AVS Street Does Not Match","La calle AVS No Coincide",module,Magento_Paypal
+"AVS Zip Does Not Match","El Código Postal AVS No Coincide",module,Magento_Paypal
+"International AVS Indicator Does Not Match","El Indicador Internacional AVS No Coincide",module,Magento_Paypal
+"Card Security Code Does Not Match","El Código de Seguridad No Coincide",module,Magento_Paypal
+"Payflow Pro (Includes Express Checkout)","Fujo de Pago Pro (Incluye Compra Express)",module,Magento_Paypal
+"Payflow Pro and Express Checkout","Flujo de Pago Pro y Compra Express",module,Magento_Paypal
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -7967,89 +7967,89 @@ User,Usuario,module,Magento_Paypal
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","
-                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">¿Porqué anunciar financiamiento?</a><br/>
+                                <strong>De un impulso a sus ventas cuando anuncie financiamiento.</strong><br/>PayPal ayuda a convertir a visitantes en compradores con financiamiento
+                                de Crédito PayPal. Sus clientes tienen más tiempo para pagar, mientras recibe pagos de inmediato – sin costo adicional para usted.
+                                Use los cintillos gratuitos de PayPal que le permiten anunciar el financiamiento de Crédito PayPal como opción de pagocuando sus clientes compren con PayPal.
+                                El Programa de Anuncios de PayPal ha mostrado que genera compras adicionales además de incrementar el promedio de compras en un 15%
+                                o más. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Ver Detalles</a>.
                 ",module,Magento_Paypal
-"Persistent Shopping Cart","Persistent Shopping Cart",module,Magento_Persistent
-"General Options","General Options",module,Magento_Persistent
-"Enable Persistence","Enable Persistence",module,Magento_Persistent
-"Persistence Lifetime (seconds)","Persistence Lifetime (seconds)",module,Magento_Persistent
-"Enable ""Remember Me""","Enable ""Remember Me""",module,Magento_Persistent
-"""Remember Me"" Default Value","""Remember Me"" Default Value",module,Magento_Persistent
-"Clear Persistence on Sign Out","Clear Persistence on Sign Out",module,Magento_Persistent
-"Persist Shopping Cart","Persist Shopping Cart",module,Magento_Persistent
-"Product Alerts","Product Alerts",module,Magento_ProductAlert
-"Allow Alert When Product Price Changes","Allow Alert When Product Price Changes",module,Magento_ProductAlert
-"Allow Alert When Product Comes Back in Stock","Allow Alert When Product Comes Back in Stock",module,Magento_ProductAlert
-"Price Alert Email Template","Price Alert Email Template",module,Magento_ProductAlert
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_ProductAlert
-"Stock Alert Email Template","Stock Alert Email Template",module,Magento_ProductAlert
-"Alert Email Sender","Alert Email Sender",module,Magento_ProductAlert
-"Product Alerts Run Settings","Product Alerts Run Settings",module,Magento_ProductAlert
-Frequency,Frequency,module,Magento_ProductAlert
-"Start Time","Start Time",module,Magento_ProductAlert
-"Error Email Recipient","Error Email Recipient",module,Magento_ProductAlert
-"Error Email Sender","Error Email Sender",module,Magento_ProductAlert
-"Error Email Template","Error Email Template",module,Magento_ProductAlert
-"Notify me when the price drops","Notify me when the price drops",module,Magento_ProductAlert
-"Notify me when this product is in stock","Notify me when this product is in stock",module,Magento_ProductAlert
-"Product Video","Product Video",module,Magento_ProductVideo
-"YouTube API Key","YouTube API Key",module,Magento_ProductVideo
-"Autostart base video","Autostart base video",module,Magento_ProductVideo
-"Show related video","Show related video",module,Magento_ProductVideo
-"Auto restart video","Auto restart video",module,Magento_ProductVideo
-"Images And Videos","Images And Videos",module,Magento_ProductVideo
-Carts,Carts,module,Magento_Quote
-"Manage carts","Manage carts",module,Magento_Quote
-Marketing,Marketing,module,Magento_Reports
-"Products in Cart","Products in Cart",module,Magento_Reports
-"Abandoned Cart","Abandoned Cart",module,Magento_Reports
-"Search Terms","Search Terms",module,Magento_Reports
-"By Customers","By Customers",module,Magento_Reports
-"By Products","By Products",module,Magento_Reports
-Refunds,Refunds,module,Magento_Reports
-"Order Total","Order Total",module,Magento_Reports
-"Order Count","Order Count",module,Magento_Reports
-New,New,module,Magento_Reports
-Ordered,Ordered,module,Magento_Reports
-"Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Reports
-"Show for Current","Show for Current",module,Magento_Reports
-"Default Recently Viewed Products Count","Default Recently Viewed Products Count",module,Magento_Reports
-"Default Recently Compared Products Count","Default Recently Compared Products Count",module,Magento_Reports
-Dashboard,Dashboard,module,Magento_Reports
-"Year-To-Date Starts","Year-To-Date Starts",module,Magento_Reports
-"Current Month Starts","Current Month Starts",module,Magento_Reports
-"Select day of the month.","Select day of the month.",module,Magento_Reports
-"Recently Viewed Products","Recently Viewed Products",module,Magento_Reports
-"List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor",module,Magento_Reports
-"Number of Products to display","Number of Products to display",module,Magento_Reports
-"Viewed Products Grid Template","Viewed Products Grid Template",module,Magento_Reports
-"Viewed Products List Template","Viewed Products List Template",module,Magento_Reports
-"Viewed Products Images and Names Template","Viewed Products Images and Names Template",module,Magento_Reports
-"Viewed Products Names Only Template","Viewed Products Names Only Template",module,Magento_Reports
-"Viewed Products Images Only Template","Viewed Products Images Only Template",module,Magento_Reports
-"Recently Compared Products","Recently Compared Products",module,Magento_Reports
-"List of Products Recently Compared and Removed from the Compare List by Visitor","List of Products Recently Compared and Removed from the Compare List by Visitor",module,Magento_Reports
-"Compared Products Grid Template","Compared Products Grid Template",module,Magento_Reports
-"Compared Products List Template","Compared Products List Template",module,Magento_Reports
-"Compared Products Images and Names Template","Compared Products Images and Names Template",module,Magento_Reports
-"Compared Product Names Only Template","Compared Product Names Only Template",module,Magento_Reports
-"Compared Product Images Only Template","Compared Product Images Only Template",module,Magento_Reports
-Average,Average,module,Magento_Reports
-"Stock Quantity","Stock Quantity",module,Magento_Reports
-"Ordered Quantity","Ordered Quantity",module,Magento_Reports
-"The report displays the top 5 most viewed products for each interval.","The report displays the top 5 most viewed products for each interval.",module,Magento_Reports
-"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",module,Magento_Reports
-Guest,Guest,module,Magento_Reports
-Action,Action,module,Magento_Reports
-"Average (Approved)","Average (Approved)",module,Magento_Reports
-"Last Review","Last Review",module,Magento_Reports
-"Order Created","Order Created",module,Magento_Reports
-"Order Updated","Order Updated",module,Magento_Reports
+"Persistent Shopping Cart","Carrito de Compras Persistente",module,Magento_Persistent
+"General Options","Opciones Generales",module,Magento_Persistent
+"Enable Persistence","Habilitar Persistencia",module,Magento_Persistent
+"Persistence Lifetime (seconds)","Caducidad de Persistencia (segundos)",module,Magento_Persistent
+"Enable ""Remember Me""","Habilitar ""Recordarme""",module,Magento_Persistent
+"""Remember Me"" Default Value","Valor por Defecto de ""Recordarme""",module,Magento_Persistent
+"Clear Persistence on Sign Out","Limpiar Persistencia al Salir",module,Magento_Persistent
+"Persist Shopping Cart","Carrito de Compras Persistente",module,Magento_Persistent
+"Product Alerts","Alertas de Producto",module,Magento_ProductAlert
+"Allow Alert When Product Price Changes","Permitir Alerta Cuando el Precio de Producto Cambie",module,Magento_ProductAlert
+"Allow Alert When Product Comes Back in Stock","Permitir Alerta Cuando el Producto Regresa a Existencias",module,Magento_ProductAlert
+"Price Alert Email Template","Plantilla de Email de Alerta de Precio",module,Magento_ProductAlert
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_ProductAlert
+"Stock Alert Email Template","Plantilla de Email de Alerta de Existencias",module,Magento_ProductAlert
+"Alert Email Sender","Remitente de Email de Alerta",module,Magento_ProductAlert
+"Product Alerts Run Settings","Configuraciones de Funcionamiento de Alertas de Producto",module,Magento_ProductAlert
+Frequency,Frecuencia,module,Magento_ProductAlert
+"Start Time","Hora de Comienzo",module,Magento_ProductAlert
+"Error Email Recipient","Receptor de Email de Error",module,Magento_ProductAlert
+"Error Email Sender","Remitente de Email de Error",module,Magento_ProductAlert
+"Error Email Template","Plantilla de Email de Error",module,Magento_ProductAlert
+"Notify me when the price drops","Notificarme cuando baje el precio",module,Magento_ProductAlert
+"Notify me when this product is in stock","Notificarme cuando este producto esté en existencia",module,Magento_ProductAlert
+"Product Video","Video de Producto",module,Magento_ProductVideo
+"YouTube API Key","Llave API de YouTube",module,Magento_ProductVideo
+"Autostart base video","Autocomenzar video base",module,Magento_ProductVideo
+"Show related video","Mostrar video relacionado",module,Magento_ProductVideo
+"Auto restart video","Auto reiniciar video",module,Magento_ProductVideo
+"Images And Videos","Imágenes y Videos",module,Magento_ProductVideo
+Carts,Carrritos,module,Magento_Quote
+"Manage carts","Administrar carritos",module,Magento_Quote
+Marketing,Publicidad,module,Magento_Reports
+"Products in Cart","Productos en Carrito",module,Magento_Reports
+"Abandoned Cart","Carrito Abandonado",module,Magento_Reports
+"Search Terms","Términos de Búsqueda",module,Magento_Reports
+"By Customers","Por Clientes",module,Magento_Reports
+"By Products","Por Productos",module,Magento_Reports
+Refunds,Reembolsos,module,Magento_Reports
+"Order Total","Total de Orden",module,Magento_Reports
+"Order Count","Cuenta de Orden",module,Magento_Reports
+New,Nuevo,module,Magento_Reports
+Ordered,Ordenado,module,Magento_Reports
+"Recently Viewed/Compared Products","Productos Recientemente Vistos/Comparados",module,Magento_Reports
+"Show for Current","Mostrar para Actual",module,Magento_Reports
+"Default Recently Viewed Products Count","Cuenta por Defecto de Productos Recientemente Vistos",module,Magento_Reports
+"Default Recently Compared Products Count","Cuenta por Defecto de Productos Recientemente Comparados",module,Magento_Reports
+Dashboard,Tablero,module,Magento_Reports
+"Year-To-Date Starts","Comienzo de Año A Fecha",module,Magento_Reports
+"Current Month Starts","Comienzo de Mes Actual",module,Magento_Reports
+"Select day of the month.","Selecconionar día del mes.",module,Magento_Reports
+"Recently Viewed Products","Productos Recientemente Vistos",module,Magento_Reports
+"List of Products Recently Viewed by Visitor","Listar Productos Recientemente Vistos por el Visitante",module,Magento_Reports
+"Number of Products to display","Número de Productos a mostrar",module,Magento_Reports
+"Viewed Products Grid Template","Plantilla de Cuadrícula de Productos Visitados",module,Magento_Reports
+"Viewed Products List Template","Plantilla de Lista de Productos Visitados",module,Magento_Reports
+"Viewed Products Images and Names Template","Plantilla de Imágenes y Nombres de Productos Visitados",module,Magento_Reports
+"Viewed Products Names Only Template","Plantilla de Sólo Nombres de Productos Visitados",module,Magento_Reports
+"Viewed Products Images Only Template","Plantilla de Sólo Imágenes de Productos Visitados",module,Magento_Reports
+"Recently Compared Products","Productos Recientemente Comparados",module,Magento_Reports
+"List of Products Recently Compared and Removed from the Compare List by Visitor","Lista de Productos Recientemente Comparados y Removidos de la Lista de Comparación por Visitante",module,Magento_Reports
+"Compared Products Grid Template","Plantilla de Cuadrícula de Productos Comparados",module,Magento_Reports
+"Compared Products List Template","Plantilla de Lista de Productos Comparados",module,Magento_Reports
+"Compared Products Images and Names Template","Plantilla de Imágenes y Nombres de Productos Comparados",module,Magento_Reports
+"Compared Product Names Only Template","Plantilla de Sólo Nombres de Productos Comparados",module,Magento_Reports
+"Compared Product Images Only Template","Plantilla de Sólo Imágenes de Productos Comparados",module,Magento_Reports
+Average,Promedio,module,Magento_Reports
+"Stock Quantity","Cantidad de Existencia",module,Magento_Reports
+"Ordered Quantity","Canditad Ordenada",module,Magento_Reports
+"The report displays the top 5 most viewed products for each interval.","El reporte muesta los 5 productos más visitados por cada intervalo.",module,Magento_Reports
+"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","Para un reporte acertado, asegúrse de regrescar las estadísticas siempre que cambie de zona horaria.",module,Magento_Reports
+Guest,Invitado,module,Magento_Reports
+Action,Acción,module,Magento_Reports
+"Average (Approved)","Promedio (Aprobado)",module,Magento_Reports
+"Last Review","Última Opinión",module,Magento_Reports
+"Order Created","Orden Creada",module,Magento_Reports
+"Order Updated","Orden Actualizada",module,Magento_Reports
 "The Order Updated report is created in real time and does not require a refresh.","The Order Updated report is created in real time and does not require a refresh.",module,Magento_Reports
 "Last Invoice Created Date","Last Invoice Created Date",module,Magento_Reports
 "Last Credit Memo Created Date","Last Credit Memo Created Date",module,Magento_Reports
