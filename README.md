@@ -1,6 +1,6 @@
 # magento2-es_mx
 
-Status: 94% (first translation - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki)
+Status: 96% (first translation - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki)
 
 #NO INSTALAR
 #NOT READY
