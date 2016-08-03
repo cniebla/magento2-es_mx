@@ -8572,7 +8572,7 @@ Enabled,Habilitado,module,Magento_Wishlist
 "My Wish List Link","Liga a Mi Lista de Deseos",module,Magento_Wishlist
 "Display Wish List Summary","Desplegar Resumen de Lista de Deseos",module,Magento_Wishlist
 "Enable RSS","Habilitar RSS",module,Magento_Wishlist
-"No Items Found","No se Encontraron Artículos",module,Magento_Wishlist
+"No Items Found","No se Encontraron Elementos",module,Magento_Wishlist
 "Product Name","Nombre de Producto",module,Magento_Wishlist
 "User Description","Descripción de Usuario",module,Magento_Wishlist
 Quantity,Cantidad,module,Magento_Wishlist
