@@ -1,7 +1,8 @@
 # magento2-es_mx
 
 Status: 100% first translation
-Currently at 0% proofreading and normalization - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki
+
+Currently at 1% proofreading and normalization - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki
 
 # NOT READY - NO INSTALAR
 
