@@ -1,8 +1,11 @@
 # magento2-es_mx
 
-Status: 100% first translation
+Status
+--------
+100% first translation
+100% normalization
 
-Currently at 1% proofreading and normalization - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki
+Currently at 1% proofreading - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki
 
 # NOT READY - NO INSTALAR
 
@@ -13,7 +16,7 @@ Paquete de lenguaje en español (español México) para Magento 2 Community Edit
 Instalación manual:
 * Copiar la carpeta el contenido de la carpeta app y sus subcarpetas en el directorio raíz de Magento/app
 * Seleccionar el idioma español/México en Magento
-* Reiniciar el caché
+* Reiniciar la caché
 
 
 English:
