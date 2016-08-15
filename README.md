@@ -7,8 +7,6 @@ Status
 
 Currently at 1% proofreading - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki
 
-# NOT READY - NO INSTALAR
-
 Spanish:
 --------
 Paquete de lenguaje en español (español México) para Magento 2 Community Edition
