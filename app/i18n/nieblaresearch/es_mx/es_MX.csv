@@ -3,7 +3,7 @@
 "Sent... Please check your email","Enviado... Por favor revise su email",module,MagePal_GmailSmtpApp
 "Read Details","Leer Detalles",module,Magento_AdminNotification
 "Mark as Read","Marcar como Leído",module,Magento_AdminNotification
-"Are you sure?","¿Está seguro?",module,Magento_AdminNotification
+"Are you sure?","¿Está seguro(a)?",module,Magento_AdminNotification
 Remove,Remover,module,Magento_AdminNotification
 "Messages Inbox","Mensajes en Carpeta de Entrada",module,Magento_AdminNotification
 "You have %1 new system messages","Usted tiene %1 mensajes de sistema nuevos",module,Magento_AdminNotification
@@ -29,7 +29,7 @@ minor,menor,module,Magento_AdminNotification
 notice,noticia,module,Magento_AdminNotification
 "Wrong message type","Mensaje de tipo equivocado",module,Magento_AdminNotification
 "Wrong notification ID specified.","Se ha especificado un ID de notificación equivocado.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} no se recomienda en un entorno de producción declarar el URL Base Inseguro URL / URL Base Seguro. Recomendamos ampliamente cambiar este valor en su <a href=""%1"">configuración</a> de Magento.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} no se recomienda en un entorno de producción declarar el URL Base Inseguro / URL Base Seguro. Recomendamos ampliamente cambiar este valor en su <a href=""%1"">configuración</a> de Magento.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","Uno o más de los Tipos de Caché han sido invalidados: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Por favor diríjase a la <a href=""%1"">Administración de la Caché</a> y refresque los tipos de caché.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","No hemos podido sincronizar uno o más archivos de medios. Por favor refiérase a la bitácora para ver detalles.",module,Magento_AdminNotification
@@ -43,8 +43,8 @@ Close,Cerrar,module,Magento_AdminNotification
 "See All (","Ver todos (",module,Magento_AdminNotification
 " unread)"," sin leer)",module,Magento_AdminNotification
 "Please correct the data sent.","Por favor corrija los datos enviados.",module,Magento_AdvancedPricingImportExport
-"Entity type model '%1' is not found","No se ha encontrado el tipo de identidad '%1'",module,Magento_AdvancedPricingImportExport
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","El tipo de identidad debe ser una instancia de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"Entity type model '%1' is not found","No se ha encontrado el tipo de entidad '%1'",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","El tipo de entidad debe ser una instancia de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","No hay tipos de producto disponibles para exportar",module,Magento_AdvancedPricingImportExport
 "We can't find the role for the user you wanted.","No hemos podido encontrar el rol para el usuario que quería.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Algo incorrecto ha ocurrido al compilar una lista de los recursos permitidos. Puede encontrar más en la bitácora de excepciones.",module,Magento_Authorization
@@ -75,10 +75,10 @@ void,inválido,module,Magento_Authorizenet
 "This payment didn't work out because we can't find this order.","Este pago ha fallado porque no podemos encontrar esta orden.",module,Magento_Authorizenet
 "There was a payment authorization error.","Ha ocurrido un error en la autorización del pago.",module,Magento_Authorizenet
 "Please enter a transaction ID to authorize this payment.","Por favor ingrese un ID de transacción para autorizar este pago.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Ha ocurrido algo incorrecto: la cantidad del pago no coincide con la cantidad de la orden. Por favor corrija e intente de nuevo.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Algo salió mal: la cantidad del pago no coincide con la cantidad de la orden. Por favor corrija e intente de nuevo.",module,Magento_Authorizenet
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","La transacción %1 ha sido aprobada. Cantidad %2. El estado de la transacción es ""%3""",module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","La transacción %1 ha sido invalidada/declinada. El estado de la transacción es ""%2"". Cantidad %3.",module,Magento_Authorizenet
-"Authorize Only","Sólo autorización",module,Magento_Authorizenet
+"Authorize Only","Sólo autorizar",module,Magento_Authorizenet
 "Authorize and Capture","Autorizar y Capturar",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","No ha sido posible obtener los detalles de la transacción. Intente de nuevo más tarde.",module,Magento_Authorizenet
 "Credit Card Type","Tipo de Tarjeta de Crédito",module,Magento_Authorizenet
