@@ -93,10 +93,10 @@ void,inválido,module,Magento_Authorizenet
 "Fraud Filters","Filtros de Fraude",module,Magento_Authorizenet
 "Invalid Form Key. Please refresh the page.","Llave de Formato No Válida. Por favor vuelva a cargar la página.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Ha ingresado una Llave Secreta no válida. Por favor vuelva a cargar la página.",module,Magento_Backend
-"Cache Storage Management","Administración de Almacenamiento de Caché",module,Magento_Backend
-"Flush Magento Cache","Limpiar el Caché de Magento",module,Magento_Backend
-"The cache storage may contain additional data. Are you sure that you want to flush it?","El almacenamiento de la caché puede contener datos adicionales. ¿Está seguro de limpiarlo?",module,Magento_Backend
-"Flush Cache Storage","Limpiar el Almacenamiento de Caché",module,Magento_Backend
+"Cache Storage Management","Administración de Almacenamiento de la Caché",module,Magento_Backend
+"Flush Magento Cache","Limpiar la Caché de Magento",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","El almacenamiento de la caché puede contener datos adicionales. ¿Está seguro(a) de limpiarlo?",module,Magento_Backend
+"Flush Cache Storage","Limpiar el Almacenamiento de la Caché",module,Magento_Backend
 Invalidated,Invalidado,module,Magento_Backend
 Orders,Órdenes,module,Magento_Backend
 Amounts,Cantidades,module,Magento_Backend
@@ -148,15 +148,15 @@ Rebuild,Reconstruir,module,Magento_Backend
 "Rebuild Catalog Index","Reconstruir Índice de Catálogo",module,Magento_Backend
 "Rebuild Flat Catalog Category","Reconstruir Categoría de Catálogo Plano",module,Magento_Backend
 "Rebuild Flat Catalog Product","Reconstruir Producto de Catálogo Plano",module,Magento_Backend
-"Cache Control","Control de Caché",module,Magento_Backend
-"All Cache","Todo el Caché",module,Magento_Backend
+"Cache Control","Control de la Caché",module,Magento_Backend
+"All Cache","Toda la Caché",module,Magento_Backend
 "No change","Sin cambio",module,Magento_Backend
 Disable,Desactivar,module,Magento_Backend
 Enable,Activar,module,Magento_Backend
 "Add Design Change","Añadir Cambio de Diseño",module,Magento_Backend
 Back,Atrás,module,Magento_Backend
 Delete,Borrar,module,Magento_Backend
-"Are you sure?","¿Está seguro?",module,Magento_Backend
+"Are you sure?","¿Está seguro(a)?",module,Magento_Backend
 Save,Guardar,module,Magento_Backend
 "Edit Design Change","Editar Cambio de Diseño",module,Magento_Backend
 "New Store Design Change","Nuevo Cambio de Diseño de Tienda",module,Magento_Backend
@@ -208,7 +208,7 @@ Stores,Tiendas,module,Magento_Backend
 "Create Store View","Crear Vista de Tienda",module,Magento_Backend
 Home,Inicio,module,Magento_Backend
 Reset,Reiniciar,module,Magento_Backend
-"Are you sure you want to do this?","¿Está seguro de hacer esto?",module,Magento_Backend
+"Are you sure you want to do this?","¿Está seguro(a) de hacer esto?",module,Magento_Backend
 "Add New Image","Añadir Nueva Imagen",module,Magento_Backend
 "Export block for grid %1 is not defined","No está definida la exportación del bloque para la cuadrícula %1",module,Magento_Backend
 "Reset Filter","Reiniciar Filtro",module,Magento_Backend
@@ -422,7 +422,7 @@ Database,"Base de Datos",module,Magento_Backup
 "Something went wrong while writing to the backup file ""%1"".","Algo no funcionó al escribir el archivo de respaldo ""%1"".",module,Magento_Backup
 "We can't save the Cron expression.","No podemos guardar la expresión de Cron.",module,Magento_Backup
 "You will lose any data created since the backup was made, including admin users, customers and orders.","Perderá todos los datos que se crearon desde que se hizo el respaldo, incluyendo usuarios administrativos, clientes y órdenes.",module,Magento_Backup
-"Are you sure you want to continue?","¿Está seguro de continuar?",module,Magento_Backup
+"Are you sure you want to continue?","¿Está seguro(a) de continuar?",module,Magento_Backup
 "This may take a few moments.","Esto puede tardar unos instantes.",module,Magento_Backup
 "Be sure your store is in maintenance mode during backup.","Asegúrese de que su tienda se encuentre en modo de mantenimiento mientras se respalda.",module,Magento_Backup
 "Backup Name","Nombre del Respaldo",module,Magento_Backup
@@ -666,7 +666,7 @@ Quantity,Cantidad,module,Magento_CatalogInventory
 "Product Name","Nombre de Producto",module,Magento_CatalogInventory
 Qty,Cantidad,module,Magento_CatalogInventory
 "Delete Rule","Borrar Regla",module,Magento_CatalogRule
-"Are you sure you want to do this?","¿Está seguro de hacer esto?",module,Magento_CatalogRule
+"Are you sure you want to do this?","¿Está seguro(a) de hacer esto?",module,Magento_CatalogRule
 Reset,Reiniciar,module,Magento_CatalogRule
 "Save and Apply","Guardar y Aplicar",module,Magento_CatalogRule
 "Save and Continue Edit","Guardar y Continuar Editando",module,Magento_CatalogRule
@@ -845,7 +845,7 @@ Comparable,Comparable,module,Magento_Catalog
 "Add New","Añadir Nuevo",module,Magento_Catalog
 Back,Atrás,module,Magento_Catalog
 Reset,Reiniciar,module,Magento_Catalog
-"You are about to delete all products in this attribute set. Are you sure you want to do that?","Está por borrar todos los productos en este conjunto de atributos. ¿Está seguro de hacer esto?",module,Magento_Catalog
+"You are about to delete all products in this attribute set. Are you sure you want to do that?","Está por borrar todos los productos en este conjunto de atributos. ¿Está seguro(a) de hacer esto?",module,Magento_Catalog
 "New Set Name","Nombre del Conjunto Nuevo",module,Magento_Catalog
 "Edit Attribute Set '%1'","Editar el Conjunto de Atributos '%1'",module,Magento_Catalog
 Empty,Vacío,module,Magento_Catalog
@@ -908,7 +908,7 @@ Cross-sells,"Más Referenciados",module,Magento_Catalog
 "Name in %1","Nombre en %1",module,Magento_Catalog
 Quantity,Cantidad,module,Magento_Catalog
 Edit,Editar,module,Magento_Catalog
-"Are you sure?","¿Está seguro?",module,Magento_Catalog
+"Are you sure?","¿Está seguro(a)?",module,Magento_Catalog
 "Change Status","Cambiar Estado",module,Magento_Catalog
 "Update Attributes","Actualizar Atributos",module,Magento_Catalog
 "start typing to search category","comienze a teclear para buscar categoría",module,Magento_Catalog
@@ -1475,7 +1475,7 @@ Loading...,Cargando...,module,Magento_Checkout
 "Add New Block","Añadir Nuevo Bloque",module,Magento_Cms
 Back,Atrás,module,Magento_Cms
 "Delete Block","Borrar Bloque",module,Magento_Cms
-"Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_Cms
+"Are you sure you want to do this?","¿Está seguro(a) de querer hacer esto?",module,Magento_Cms
 Reset,Reiniciar,module,Magento_Cms
 "Save and Continue Edit","Guardar y Continuar Editando",module,Magento_Cms
 "Save Block","Guardar Bloque",module,Magento_Cms
@@ -1502,8 +1502,8 @@ Preview,"Vista Previa",module,Magento_Cms
 "Delete File","Borrar Archivo",module,Magento_Cms
 "Insert File","Insertar Archivo",module,Magento_Cms
 "New Folder Name:","Nuevo Nombre de Carpeta:",module,Magento_Cms
-"Are you sure you want to delete this folder?","¿Está seguro de querer borrar esta carpeta?",module,Magento_Cms
-"Are you sure you want to delete this file?","¿Está seguro de querer borrar este archivo?",module,Magento_Cms
+"Are you sure you want to delete this folder?","¿Está seguro(a) de querer borrar esta carpeta?",module,Magento_Cms
+"Are you sure you want to delete this file?","¿Está seguro(a) de querer borrar este archivo?",module,Magento_Cms
 "Images (%1)","Imágenes (%1)",module,Magento_Cms
 "Storage Root","Raíz de Almacenamiento",module,Magento_Cms
 Home,Inicio,module,Magento_Cms
@@ -1562,9 +1562,9 @@ Exception,Exception,module,Magento_Cms
 Edit,Editar,module,Magento_Cms
 Delete,Borrar,module,Magento_Cms
 "Delete ${ $.$data.title }","Borrar ${ $.$data.title }",module,Magento_Cms
-"Are you sure you wan't to delete a ${ $.$data.title } record?","¿Está seguro de querer borrar un registro ${ $.$data.title }?",module,Magento_Cms
+"Are you sure you wan't to delete a ${ $.$data.title } record?","¿Está seguro(a) de querer borrar un registro ${ $.$data.title }?",module,Magento_Cms
 "Delete ""${ $.$data.title }""","Borrar ""${ $.$data.title }""",module,Magento_Cms
-"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","¿Está seguro de querer borrar un registro ""${ $.$data.title }""?",module,Magento_Cms
+"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","¿Está seguro(a) de querer borrar un registro ""${ $.$data.title }""?",module,Magento_Cms
 View,Vista,module,Magento_Cms
 px.,px.,module,Magento_Cms
 "No files found","No se encontraron archivos",module,Magento_Cms
@@ -1839,7 +1839,7 @@ region,región,module,Magento_Customer
 "Save Customer","Guardar Cliente",module,Magento_Customer
 "Delete Customer","Borrar Cliente",module,Magento_Customer
 "Reset Password","Reiniciar Contraseña",module,Magento_Customer
-"Are you sure you want to revoke the customer's tokens?","¿Está seguro de revocar los tokens de acceso del cliente?",module,Magento_Customer
+"Are you sure you want to revoke the customer's tokens?","¿Está seguro(a) de revocar los tokens de acceso del cliente?",module,Magento_Customer
 "Force Sign-In","Forzar Ingreso",module,Magento_Customer
 "New Customer","Nuevo Cliente",module,Magento_Customer
 "Save and Continue Edit","Guardar y Continuar Editando",module,Magento_Customer
@@ -1939,7 +1939,7 @@ Download,Descargar,module,Magento_Customer
 "Wrong email.","Email equivocado.",module,Magento_Customer
 "Your password reset link has expired.","Ha expirado el enlace para reiniciar su contraseña.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Debe confirmar su cuenta. Por favor revise su email para recibir su enlace de confirmación o <a href=""%1"">haga click aquí</a> para recibir un enlace nuevo.",module,Magento_Customer
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Ya existe una cuenta con este email. Si está seguro de que este es su email, <a href=""%1"">haga click aquí</a> para obtener su contraseña y acceder a su cuenta.",module,Magento_Customer
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Ya existe una cuenta con este email. Si está seguro(a) de que este es su email, <a href=""%1"">haga click aquí</a> para obtener su contraseña y acceder a su cuenta.",module,Magento_Customer
 "We can't save the customer.","No podemos guardar al cliente.",module,Magento_Customer
 "Please make sure your passwords match.","Por favor asegúrse de que sus contraseñas coincidan.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Si es un cliente registrado con RFC/VAT, por favor <a href=""%1"">haga click aquí</a> para ingresar su dirección de envío para un cálculo de impuesto apropiado.",module,Magento_Customer
@@ -2108,7 +2108,7 @@ Edit,Editar,module,Magento_Customer
 Visitor,Visitante,module,Magento_Customer
 Customer,Cliente,module,Magento_Customer
 "No item specified.","No se especificó elemento.",module,Magento_Customer
-"Are you sure you want to remove this item?","¿Está seguro que quiere remover este elemento?",module,Magento_Customer
+"Are you sure you want to remove this item?","¿Está seguro(a) que quiere remover este elemento?",module,Magento_Customer
 "Personal Information","Información Personal",module,Magento_Customer
 "Last Logged In:","Último Ingreso:",module,Magento_Customer
 "Last Logged In (%1):","Último ingreso (%1):",module,Magento_Customer
@@ -2599,8 +2599,8 @@ City,Ciudad,module,Magento_Email
 Title,Título,module,Magento_Email
 "Load default template","Cargar plantilla por defecto",module,Magento_Email
 Template,Plantilla,module,Magento_Email
-"Are you sure you want to strip tags?","¿Está seguro de que quiere quitar etiquetas?",module,Magento_Email
-"Are you sure you want to delete this template?","¿Está seguro de querer borrar esta plantilla?",module,Magento_Email
+"Are you sure you want to strip tags?","¿Está seguro(a) de que quiere quitar etiquetas?",module,Magento_Email
+"Are you sure you want to delete this template?","¿Está seguro(a) de querer borrar esta plantilla?",module,Magento_Email
 "The template did not load. Please review the log for details.","No se cargó la plantilla. Por favor revise la bitácora para los detalles.",module,Magento_Email
 "Change Encryption Key","Cambiar la Llave de Encriptación",module,Magento_EncryptionKey
 "Encryption Key","Llave de Encriptación",module,Magento_EncryptionKey
@@ -2951,8 +2951,8 @@ Reset,Reiniciar,module,Magento_Integration
 "A token with consumer ID 0 does not exist","No existe un token para el ID de consumidor 0",module,Magento_Integration
 "The integration you selected asks you to approve access to the following:","La integración que seleccionó solicita que se apruebe el acceso a lo siguiente:",module,Magento_Integration
 "No permissions requested","No se solicitaron permisos",module,Magento_Integration
-"Are you sure ?","¿Está seguro?",module,Magento_Integration
-"Are you sure you want to delete this integration? You can't undo this action.","¿Está seguro de querer borrar esta integración? No podrá deshacer esta acción.",module,Magento_Integration
+"Are you sure ?","¿Está seguro(a)?",module,Magento_Integration
+"Are you sure you want to delete this integration? You can't undo this action.","¿Está seguro(a) de querer borrar esta integración? No podrá deshacer esta acción.",module,Magento_Integration
 "Please setup or sign in into your 3rd party account to complete setup of this integration.","Por favor configure o ingrese en la configuración de su cuenta de tercero para configurar esta integración.",module,Magento_Integration
 "Available APIs","APIs disponibles",module,Magento_Integration
 "Resource Access","Accesos de Recurso",module,Magento_Integration
@@ -3204,10 +3204,10 @@ Paused,Pausado,module,Magento_Newsletter
 "Choose Store View:","Elija la vista de tienda:",module,Magento_Newsletter
 "Newsletter Message Preview","Vista Previa de Mensaje de Boletín",module,Magento_Newsletter
 "Add to Queue","Añadir a la Fila",module,Magento_Newsletter
-"Are you sure that you want to strip all tags?","¿Está seguro de querer quitar todas las etiquetas?",module,Magento_Newsletter
+"Are you sure that you want to strip all tags?","¿Está seguro(a) de querer quitar todas las etiquetas?",module,Magento_Newsletter
 "Please enter a new template name.","Por favor ingrese un nuevo nombre de plantilla.",module,Magento_Newsletter
 " Copy"," Copiar",module,Magento_Newsletter
-"Are you sure you want to delete this template?","¿Está seguro de querer borrar esta plantilla?",module,Magento_Newsletter
+"Are you sure you want to delete this template?","¿Está seguro(a) de querer borrar esta plantilla?",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Suscríbase a Nuestro Envío:",module,Magento_Newsletter
 "Enter your email address","Ingrese su email",module,Magento_Newsletter
 Subscribe,Suscribir,module,Magento_Newsletter
@@ -3314,7 +3314,7 @@ Created,Creado,module,Magento_Paypal
 N/A,N/D,module,Magento_Paypal
 Updated,Actualizado,module,Magento_Paypal
 Back,Atrás,module,Magento_Paypal
-"Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_Paypal
+"Are you sure you want to do this?","¿Está seguro(a) de querer hacer esto?",module,Magento_Paypal
 Cancel,Cancelar,module,Magento_Paypal
 "Billing Agreement #%1","Acuerdo de Facturación #%1",module,Magento_Paypal
 "General Information","Información General",module,Magento_Paypal
@@ -3331,7 +3331,7 @@ Purchased,Comprado,module,Magento_Paypal
 "Transaction Information","Información de Transacción",module,Magento_Paypal
 "PayPal Fee Information","Información de Comisión de PayPal",module,Magento_Paypal
 "PayPal Settlement Reports","Reportes de Asentamientos de PayPal",module,Magento_Paypal
-"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Nos estamos conectacdo con el servidor SFTP de PayPal para recuperar nuevos reportes. ¿Está seguro de querer continuar?",module,Magento_Paypal
+"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Nos estamos conectacdo con el servidor SFTP de PayPal para recuperar nuevos reportes. ¿Está seguro(a) de querer continuar?",module,Magento_Paypal
 "Fetch Updates","Obtener Actualizaciones",module,Magento_Paypal
 button_label,button_label,module,Magento_Paypal
 sandbox_button_label,sandbox_button_label,module,Magento_Paypal
@@ -3652,7 +3652,7 @@ Customer,Cliente,module,Magento_Paypal
 "Updated At","Actualizado En",module,Magento_Paypal
 ending,finalizando,module,Magento_Paypal
 expires,expira,module,Magento_Paypal
-"Not sure what PayPal payment method to use? Click ","¿No está seguro de que método de pago PayPay usar? Click ",module,Magento_Paypal
+"Not sure what PayPal payment method to use? Click ","¿No está seguro(a) de que método de pago PayPay usar? Click ",module,Magento_Paypal
 here,aquí,module,Magento_Paypal
 " to learn more."," para enterarse de más.",module,Magento_Paypal
 "Important: ","Importante: ",module,Magento_Paypal
@@ -4009,7 +4009,7 @@ Previous,Anterior,module,Magento_Review
 "Save and Next","Guardar y Siguiente",module,Magento_Review
 Next,Siguiente,module,Magento_Review
 "Delete Review","Borrar Opinión",module,Magento_Review
-"Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_Review
+"Are you sure you want to do this?","¿Está seguro(a) de querer hacer esto?",module,Magento_Review
 "Edit Review '%1'","Editar Opinión '%1'",module,Magento_Review
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
 Administrator,Administrador,module,Magento_Review
@@ -4025,7 +4025,7 @@ SKU,SKU,module,Magento_Review
 Action,Accción,module,Magento_Review
 Edit,Editar,module,Magento_Review
 Delete,BorrarDelete,module,Magento_Review
-"Are you sure?","¿Está seguro?",module,Magento_Review
+"Are you sure?","¿Está seguro(a)?",module,Magento_Review
 "Update Status","Actualizar Estado",module,Magento_Review
 Customer,Cliente,module,Magento_Review
 "Pending Reviews of Customer `%1`","Opiniones Pendientes del Cliente `%1`",module,Magento_Review
@@ -4163,7 +4163,7 @@ Category,Categoría,module,Magento_Rule
 "Cart Price Rules","Reglas de Precio de Carrito",module,Magento_SalesRule
 "Add New Rule","Añadir Nueva Regla",module,Magento_SalesRule
 Delete,Borrar,module,Magento_SalesRule
-"Are you sure you want to delete this?","¿Está seguro de querer hacer esto?",module,Magento_SalesRule
+"Are you sure you want to delete this?","¿Está seguro(a) de querer hacer esto?",module,Magento_SalesRule
 Reset,Reiniciar,module,Magento_SalesRule
 "Save and Continue Edit","Guardar y Continuar Edición",module,Magento_SalesRule
 Save,Guardar,module,Magento_SalesRule
@@ -4190,7 +4190,7 @@ Yes,Sí,module,Magento_SalesRule
 "Times Used","Veces de Uso",module,Magento_SalesRule
 CSV,CSV,module,Magento_SalesRule
 "Excel XML","Excel XML",module,Magento_SalesRule
-"Are you sure you want to delete the selected coupon(s)?","¿Está seguro de querer borrar el/los cupón(es) seleccionado(s)?",module,Magento_SalesRule
+"Are you sure you want to delete the selected coupon(s)?","¿Está seguro(a) de querer borrar el/los cupón(es) seleccionado(s)?",module,Magento_SalesRule
 Labels,Etiquetas,module,Magento_SalesRule
 "Store View Specific Labels","Etiquetas Específicas de Vista de Tienda",module,Magento_SalesRule
 ID,ID,module,Magento_SalesRule
@@ -4297,7 +4297,7 @@ Billing,Facturación,module,Magento_Sales
 "Please correct the parent block for this block.","Por favor corrija el bloque superior de este bloque.",module,Magento_Sales
 "Submit Comment","Enviar Comentario",module,Magento_Sales
 "Submit Order","Enviar Orden",module,Magento_Sales
-"Are you sure you want to cancel this order?","¿Está seguro de querer cancelar esta orden?",module,Magento_Sales
+"Are you sure you want to cancel this order?","¿Está seguro(a) de querer cancelar esta orden?",module,Magento_Sales
 Cancel,Cancelar,module,Magento_Sales
 "Billing Address","Dirección de Facturación",module,Magento_Sales
 "Payment Method","Método de Pago",module,Magento_Sales
@@ -4337,7 +4337,7 @@ Quantity,Cantidad,module,Magento_Sales
 "Shipping Method","Método de Envío",module,Magento_Sales
 "Update Changes","Actualizar Cambios",module,Magento_Sales
 "Shopping Cart","Carrito de Compras",module,Magento_Sales
-"Are you sure you want to delete all items from shopping cart?","¿Está seguro de querer borrar todos los elementos del carrito de compras?",module,Magento_Sales
+"Are you sure you want to delete all items from shopping cart?","¿Está seguro(a) de querer borrar todos los elementos del carrito de compras?",module,Magento_Sales
 "Clear Shopping Cart","Limpiar Carrito de Compras",module,Magento_Sales
 "Products in Comparison List","Productos en Lista de Comparación",module,Magento_Sales
 "Recently Compared Products","Productos Recientemente Comparados",module,Magento_Sales
@@ -4365,7 +4365,7 @@ Refund,Reembolso,module,Magento_Sales
 "Adjustment Refund","Reembolso de Ajuste",module,Magento_Sales
 "Adjustment Fee","Comisión de Ajuste",module,Magento_Sales
 "Send Email","Enviar Email",module,Magento_Sales
-"Are you sure you want to send a credit memo email to customer?","¿Está seguro de querer enviar una nota de crédito por email al cliente?",module,Magento_Sales
+"Are you sure you want to send a credit memo email to customer?","¿Está seguro(a) de querer enviar una nota de crédito por email al cliente?",module,Magento_Sales
 Void,Nulo,module,Magento_Sales
 Print,Imprimir,module,Magento_Sales
 "The credit memo email was sent.","Fue enviado email de nota de crédito.",module,Magento_Sales
@@ -4376,7 +4376,7 @@ Print,Imprimir,module,Magento_Sales
 "New Invoice for Order #%1","Nueva Factura para la Orden #%1",module,Magento_Sales
 "Submit Invoice and Shipment","Enviar Factura y Embarque",module,Magento_Sales
 "Submit Invoice","Enviar Factura",module,Magento_Sales
-"Are you sure you want to send an invoice email to customer?","¿Está seguro de querer enviar un email de factura al cliente?",module,Magento_Sales
+"Are you sure you want to send an invoice email to customer?","¿Está seguro(a) de querer enviar un email de factura al cliente?",module,Magento_Sales
 "Credit Memo","Nota de Crédito",module,Magento_Sales
 Capture,Capturar,module,Magento_Sales
 "The invoice email was sent.","Fue enviado el email de factura.",module,Magento_Sales
@@ -4404,16 +4404,16 @@ Capture,Capturar,module,Magento_Sales
 "Total Refunded","Total Reembolsado",module,Magento_Sales
 "Total Due","Adeudo Total",module,Magento_Sales
 Edit,Editar,module,Magento_Sales
-"Are you sure you want to send an order email to customer?","¿Está seguro de querer enviar un email de orden al cliente?",module,Magento_Sales
+"Are you sure you want to send an order email to customer?","¿Está seguro(a) de querer enviar un email de orden al cliente?",module,Magento_Sales
 "This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Esto creará un reembolso fuera de línea. Para crear un reembolso en línea, abra una factura y cree una nota de crédito para esta. ¿Quiere continuar?",module,Magento_Sales
-"Are you sure you want to void the payment?","¿Está seguro de querer anular el pago?",module,Magento_Sales
+"Are you sure you want to void the payment?","¿Está seguro(a) de querer anular el pago?",module,Magento_Sales
 Hold,Retener,module,Magento_Sales
 hold,retener,module,Magento_Sales
 Unhold,Liberar,module,Magento_Sales
 unhold,liberar,module,Magento_Sales
-"Are you sure you want to accept this payment?","¿Está seguro de querer aceptar este pago?",module,Magento_Sales
+"Are you sure you want to accept this payment?","¿Está seguro(a) de querer aceptar este pago?",module,Magento_Sales
 "Accept Payment","Aceptar Pago",module,Magento_Sales
-"Are you sure you want to deny this payment?","¿Está seguro de querer denegar este pago?",module,Magento_Sales
+"Are you sure you want to deny this payment?","¿Está seguro(a) de querer denegar este pago?",module,Magento_Sales
 "Deny Payment","Denegar Pago",module,Magento_Sales
 "Get Payment Update","Obtener Actualización de Pago",module,Magento_Sales
 "Invoice and Ship","Factura y Envío",module,Magento_Sales
@@ -4422,7 +4422,7 @@ Ship,Envío,module,Magento_Sales
 Reorder,Reordenar,module,Magento_Sales
 "Order # %1 %2 | %3","Orden # %1 %2 | %3",module,Magento_Sales
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Esta orden contiene (%1) elementos y por tanto no puede editarse con la interface de administración. Si desea continuar editando, los (%2) elementos serán removidos, la orden será cancelada y se colocará una nueva orden.",module,Magento_Sales
-"Are you sure? This order will be canceled and a new one will be created instead.","¿Está seguro? Esta orden será cancelada y se creará una nueva en su lugar.",module,Magento_Sales
+"Are you sure? This order will be canceled and a new one will be created instead.","¿Está seguro(a)? Esta orden será cancelada y se creará una nueva en su lugar.",module,Magento_Sales
 "Save Gift Message","Guardar Mensaje de Regalo",module,Magento_Sales
 " [deleted]"," [borrado]",module,Magento_Sales
 "Order Credit Memos","Notas de Crédito de la Orden",module,Magento_Sales
@@ -4910,7 +4910,7 @@ Uses,Usa,module,Magento_Search
 "New Synonym Group","Nuevo Grupo de Sinónimos",module,Magento_Search
 Back,Atrás,module,Magento_Search
 "Delete Synonym Group","Borrar Grupo de Sinónimos",module,Magento_Search
-"Are you sure you want to delete this synonym group?","¿Está seguro de querer borrar este grupo de sinónimos?",module,Magento_Search
+"Are you sure you want to delete this synonym group?","¿Está seguro(a) de querer borrar este grupo de sinónimos?",module,Magento_Search
 Reset,Reiniciar,module,Magento_Search
 "Save and Continue Edit","Guardar y Continuar Editando",module,Magento_Search
 "Save Synonym Group","Guardar Grupo de Sinónimos",module,Magento_Search
@@ -4965,7 +4965,7 @@ Reports,Reportes,module,Magento_Search
 "    All Store Views","    Todas las Vistas de Tienda",module,Magento_Search
 "All Store Views","Todas las Vistas de Tienda",module,Magento_Search
 Delete,Borrar,module,Magento_Search
-"Are you sure you want to delete synonym group with id: %1?","¿Está seguro de querer borrar el grupo de sinónimos con el ID: %1?",module,Magento_Search
+"Are you sure you want to delete synonym group with id: %1?","¿Está seguro(a) de querer borrar el grupo de sinónimos con el ID: %1?",module,Magento_Search
 View/Edit,Ver/Editar,module,Magento_Search
 "Search entire store here...","Buscar en toda la tienda aquí...",module,Magento_Search
 "There are no search terms available.","No hay términos de búsqueda disponibles.",module,Magento_Search
@@ -4987,7 +4987,7 @@ None,Ninguno,module,Magento_Security
 "Concurrent session information:","Información actual de sesión:",module,Magento_Security
 "IP Address","Dirección IP",module,Magento_Security
 "Time of session start","Tiempo de inicio de sesión",module,Magento_Security
-"Are you sure that you want to log out all other sessions?","¿Está seguro de querer cerrar todas las demás sesiones?",module,Magento_Security
+"Are you sure that you want to log out all other sessions?","¿Está seguro(a) de querer cerrar todas las demás sesiones?",module,Magento_Security
 "Log out all other sessions","Cerrar todas las demás sesiones",module,Magento_Security
 "This computer is using IP address %1.","Esta computadora está usando la dirección IP %1.",module,Magento_Security
 "Page not found.","Página no encontrada.",module,Magento_SendFriend
@@ -5033,7 +5033,7 @@ Back,Atrás,module,Magento_SendFriend
 "Custom Value","Valor Personalizado",module,Magento_Shipping
 Add,Añadir,module,Magento_Shipping
 "Send Tracking Information","Enviar Información de Rastreo",module,Magento_Shipping
-"Are you sure you want to send a Shipment email to customer?","¿Está seguro de que quiere enviar un email de Embarque al cliente?",module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?","¿Está seguro(a) de que quiere enviar un email de Embarque al cliente?",module,Magento_Shipping
 Print,Imprimir,module,Magento_Shipping
 "the shipment email was sent","se envío el email de embarque",module,Magento_Shipping
 "the shipment email is not sent","no se envío el email de embarque",module,Magento_Shipping
@@ -5148,7 +5148,7 @@ Carrier,Transportista,module,Magento_Shipping
 Title,Título,module,Magento_Shipping
 Number,Número,module,Magento_Shipping
 Action,Accción,module,Magento_Shipping
-"Are you sure?","¿Está seguro?",module,Magento_Shipping
+"Are you sure?","¿Está seguro(a)?",module,Magento_Shipping
 "Shipping &amp; Handling Information","Información de Envíos y Manejo",module,Magento_Shipping
 "Track Order","Rastrear Orden",module,Magento_Shipping
 "No shipping information available","No hay información del envío",module,Magento_Shipping
@@ -5310,7 +5310,7 @@ Country,País,module,Magento_Tax
 Back,Atrás,module,Magento_Tax
 Reset,Reiniciar,module,Magento_Tax
 "Delete Rate","Borrar Tarifa",module,Magento_Tax
-"Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_Tax
+"Are you sure you want to do this?","¿Está seguro(a) de querer hacer esto?",module,Magento_Tax
 "Save Rate","Guardar Tarifa",module,Magento_Tax
 "Manage Tax Rules","Administrar Reglas de Impuesto",module,Magento_Tax
 "Add New Tax Rule","Añadir Nueva Regla de Impuesto",module,Magento_Tax
@@ -5438,7 +5438,7 @@ Back,Atrás,module,Magento_Theme
 Default,"Por Defecto",module,Magento_Theme
 Themes,Temas,module,Magento_Theme
 "Save and Continue Edit","Guardar y Continuar Editando",module,Magento_Theme
-"Are you sure you want to delete this theme?","¿Está seguro de querer borrar este tema?",module,Magento_Theme
+"Are you sure you want to delete this theme?","¿Está seguro(a) de querer borrar este tema?",module,Magento_Theme
 "Theme: %1","Tema: %1",module,Magento_Theme
 "New Theme","Nuevo Tema",module,Magento_Theme
 "Theme CSS","CSS del Tema",module,Magento_Theme
@@ -5478,8 +5478,8 @@ Theme,Tema,module,Magento_Theme
 "Delete File","Borrar Archivo",module,Magento_Theme
 "Insert File","Insertar Archivo",module,Magento_Theme
 "New Folder Name:","Nuevo Nombre de Carpeta:",module,Magento_Theme
-"Are you sure you want to delete this folder?","¿Está seguro de querer borrar esta carpeta?",module,Magento_Theme
-"Are you sure you want to delete this file?","¿Está seguro de querer borrar este archivo?",module,Magento_Theme
+"Are you sure you want to delete this folder?","¿Está seguro(a) de querer borrar esta carpeta?",module,Magento_Theme
+"Are you sure you want to delete this file?","¿Está seguro(a) de querer borrar este archivo?",module,Magento_Theme
 "Storage Root","Raíz de Almacenamiento",module,Magento_Theme
 welcome,bienvenido,module,Magento_Theme
 Global,Global,module,Magento_Theme
@@ -5674,7 +5674,7 @@ Title,Título,module,Magento_UrlRewrite
 Reset,Reiniciar,module,Magento_UrlRewrite
 Back,Atrás,module,Magento_UrlRewrite
 Delete,Borrar,module,Magento_UrlRewrite
-"Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_UrlRewrite
+"Are you sure you want to do this?","¿Está seguro(a) de querer hacer esto?",module,Magento_UrlRewrite
 Save,Guardar,module,Magento_UrlRewrite
 "Block Information","Información de Bloque",module,Magento_UrlRewrite
 "URL Rewrite Information","Información de Reescritura de URL",module,Magento_UrlRewrite
@@ -5711,7 +5711,7 @@ No,No,module,Magento_UrlRewrite
 Back,Atrás,module,Magento_User
 Reset,Reiniciar,module,Magento_User
 "Delete Role","Borrar Rol",module,Magento_User
-"Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_User
+"Are you sure you want to do this?","¿Está seguro(a) de querer hacer esto?",module,Magento_User
 "Save Role","Guardar Rol",module,Magento_User
 Roles,Roles,module,Magento_User
 "Add New Role","Añadir Nuevo Rol",module,Magento_User
@@ -5734,7 +5734,7 @@ Inactive,Inactivo,module,Magento_User
 Users,Usuarios,module,Magento_User
 "Save User","Guardar Usuario",module,Magento_User
 "Delete User","Borrar Usuario",module,Magento_User
-"Are you sure you want to revoke the user's tokens?","¿Está seguro de querer revocar los tokens del usuario?",module,Magento_User
+"Are you sure you want to revoke the user's tokens?","¿Está seguro(a) de querer revocar los tokens del usuario?",module,Magento_User
 "Force Sign-In","Forzar Ingreso",module,Magento_User
 "Edit User '%1'","Editar Usuario '%1'",module,Magento_User
 "New User","Nuevo Usuario",module,Magento_User
@@ -5816,8 +5816,8 @@ username,"nombre de usuario",module,Magento_User
 Custom,Personalizado,module,Magento_User
 All,Todos,module,Magento_User
 Resources,Recursos,module,Magento_User
-"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","¡Advertencia!\r\nEsta acción removerá a este usuario de un rol ya asignado\r\n¿Está seguro?",module,Magento_User
-"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","¡Advertencia!\r\nEsta acción removerá a estos usuarios de sus roles ya asignados\r\n¿Está seguro?",module,Magento_User
+"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","¡Advertencia!\r\nEsta acción removerá a este usuario de un rol ya asignado\r\n¿Está seguro(a)?",module,Magento_User
+"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","¡Advertencia!\r\nEsta acción removerá a estos usuarios de sus roles ya asignados\r\n¿Está seguro(a)?",module,Magento_User
 "First-Class Mail Large Envelope","First-Class Mail Large Envelope",module,Magento_Usps
 "First-Class Mail Letter","First-Class Mail Letter",module,Magento_Usps
 "First-Class Mail Parcel","First-Class Mail Parcel",module,Magento_Usps
@@ -6098,7 +6098,7 @@ error-message,"mensaje de error",module,Magento_Wishlist
 LocalizedException,LocalizedException,module,Magento_Wishlist
 "Product Exception.","Excepción de Producto.",module,Magento_Wishlist
 "Localized Exception.","Excepción de Localización.",module,Magento_Wishlist
-"Are you sure you want to remove this item?","¿Está seguro de querer remover este elemento?",module,Magento_Wishlist
+"Are you sure you want to remove this item?","¿Está seguro(a) de querer remover este elemento?",module,Magento_Wishlist
 "Share Wish List","Compartir Lista de Deseos",module,Magento_Wishlist
 "Add All to Cart","Añadir Todo al Carrito",module,Magento_Wishlist
 "Update Wish List","Actualizar Lista de Deseos",module,Magento_Wishlist
@@ -6478,8 +6478,8 @@ Shipping,Envío,module,Magento_Checkout
 "Please select attribute(s).","Por favor seleccione atributo(s).",module,Magento_ConfigurableProduct
 "Generate Products","Generar Productos",module,Magento_ConfigurableProduct
 "Something went wrong.","Algo ocurrió.",module,Magento_ConfigurableProduct
-"Are you sure you want to do this?","¿Está seguro de querer hacer esto?",module,Magento_Customer
-"Are you sure you want to delete this address?","¿Está seguro de querer borrar esta dirección?",module,Magento_Customer
+"Are you sure you want to do this?","¿Está seguro(a) de querer hacer esto?",module,Magento_Customer
+"Are you sure you want to delete this address?","¿Está seguro(a) de querer borrar esta dirección?",module,Magento_Customer
 Weak,Débil,module,Magento_Customer
 Medium,Media,module,Magento_Customer
 Strong,Fuerte,module,Magento_Customer
@@ -6840,7 +6840,7 @@ Rollback,Retornar,module,Magento_Backup
 Frequency,Frecuencia,module,Magento_Backup
 "Maintenance Mode","Modo de Mantenimiento",module,Magento_Backup
 Delete,Borrar,module,Magento_Backup
-"Are you sure you want to delete the selected backup(s)?","¿Está seguro de querer borrar el/los respaldo(s) seleccionado(s)?",module,Magento_Backup
+"Are you sure you want to delete the selected backup(s)?","¿Está seguro(a) de querer borrar el/los respaldo(s) seleccionado(s)?",module,Magento_Backup
 Time,Tiempo,module,Magento_Backup
 Name,Nombre,module,Magento_Backup
 Size(bytes),Tamaño(bytes),module,Magento_Backup
@@ -7184,7 +7184,7 @@ Block,Bloque,module,Magento_Cms
 "Enable Block","Habilitar Bloque",module,Magento_Cms
 "Block Title","Título de Bloque",module,Magento_Cms
 "Delete items","Borrar elementos",module,Magento_Cms
-"Are you sure you wan't to delete selected items?","¿Está seguro de querer borrar los elementos seleccionados?",module,Magento_Cms
+"Are you sure you wan't to delete selected items?","¿Está seguro(a) de querer borrar los elementos seleccionados?",module,Magento_Cms
 "Page Information","Información de Página",module,Magento_Cms
 "Enable Page","Habilitar Página",module,Magento_Cms
 Content,Contenido,module,Magento_Cms
@@ -7357,12 +7357,12 @@ CSV,CSV,module,Magento_CustomerImportExport
 Group,Grupo,module,Magento_Customer
 "Add New Customer","Añadir Nuevo Cliente",module,Magento_Customer
 "Delete items","Borrar elementos",module,Magento_Customer
-"Are you sure to delete selected customers?","¿Está seguro de borrar los clientes seleccionados?",module,Magento_Customer
+"Are you sure to delete selected customers?","¿Está seguro(a) de borrar los clientes seleccionados?",module,Magento_Customer
 "Subscribe to Newsletter","Suscribir al Boletín",module,Magento_Customer
 "Unsubscribe from Newsletter","Desuscribir de Boletín",module,Magento_Customer
-"Are you sure to unsubscribe selected customers from newsletter?","¿Está seguro de desuscribir a los clientes seleccionados del boletín?",module,Magento_Customer
+"Are you sure to unsubscribe selected customers from newsletter?","¿Está seguro(a) de desuscribir a los clientes seleccionados del boletín?",module,Magento_Customer
 "Assign a Customer Group","Asignar un Grupo de Clientes",module,Magento_Customer
-"Are you sure to assign selected customers to new group?","¿Está seguro de asignar a los clientes seleccionados al nuevo grupo?",module,Magento_Customer
+"Are you sure to assign selected customers to new group?","¿Está seguro(a) de asignar a los clientes seleccionados al nuevo grupo?",module,Magento_Customer
 Phone,Teléfono,module,Magento_Customer
 ZIP,CP,module,Magento_Customer
 "Customer Since","Cliente Desde",module,Magento_Customer
@@ -7381,7 +7381,7 @@ Type,Tipo,module,Magento_Customer
 "Disable Automatic Group Change Based on VAT ID","Deshabilitar Cambio de Grupo Automático con Base en RFC/VAT ID",module,Magento_Customer
 "Send Welcome Email From","Enviar Email de Bienvenida Desde",module,Magento_Customer
 Addresses,Direcciones,module,Magento_Customer
-"Are you sure you want to delete this item?","¿Está seguro de querer borrar este elemento?",module,Magento_Customer
+"Are you sure you want to delete this item?","¿Está seguro(a) de querer borrar este elemento?",module,Magento_Customer
 "Account Dashboard","Tablero de Cuenta",module,Magento_Customer
 "Edit Account Information","Editar Información de Cuenta",module,Magento_Customer
 "Password forgotten","Olvido de Contraseña",module,Magento_Customer
@@ -8055,9 +8055,9 @@ Action,Acción,module,Magento_Reports
 "Last Credit Memo Created Date","Fecha de Última Creación de Nota de Crédito",module,Magento_Reports
 "First Invoice Created Date","Fecha de Creación de Primera Factura",module,Magento_Reports
 "Refresh Lifetime Statistics","Refrescar las Estadísticas Totales",module,Magento_Reports
-"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","¿Está seguro de querer refrecar todas las estadísticas totales en este momento? Esto puede ralentizar la experiencia de compra de sus clientes.",module,Magento_Reports
+"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","¿Está seguro(a) de querer refrecar todas las estadísticas totales en este momento? Esto puede ralentizar la experiencia de compra de sus clientes.",module,Magento_Reports
 "Refresh Statistics for the Last Day","Refrescar las Estadísticas del Último Día",module,Magento_Reports
-"Are you sure you want to refresh statistics for the last day?","¿Está seguro de querer refrescar las estadísticas del último día?",module,Magento_Reports
+"Are you sure you want to refresh statistics for the last day?","¿Está seguro(a) de querer refrescar las estadísticas del último día?",module,Magento_Reports
 Report,Reporte,module,Magento_Reports
 Description,Descripción,module,Magento_Reports
 undefined,"sin definir",module,Magento_Reports
@@ -8244,7 +8244,7 @@ CSV,CSV,module,Magento_Search
 "Excel XML","Excel XML",module,Magento_Search
 ID,ID,module,Magento_Search
 Hits,Hits,module,Magento_Search
-"Are you sure?","¿Está seguro?",module,Magento_Search
+"Are you sure?","¿Está seguro(a)?",module,Magento_Search
 "Suggested Terms","Términos Sugeridos",module,Magento_Search
 yes,sí,module,Magento_Search
 no,no,module,Magento_Search
@@ -8259,7 +8259,7 @@ Synonyms,Sinónimos,module,Magento_Search
 "Store View","Vista de Tienda",module,Magento_Search
 Website,"Sitio Web",module,Magento_Search
 "Delete items","Borrar elementos",module,Magento_Search
-"Are you sure you want to delete the selected synonym groups?","¿Está seguro de querer borrar los grupos de sinónimos seleccionados?",module,Magento_Search
+"Are you sure you want to delete the selected synonym groups?","¿Está seguro(a) de querer borrar los grupos de sinónimos seleccionados?",module,Magento_Search
 "Admin Account Sharing","Compartir Cuenta de Administración",module,Magento_Security
 "If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Si se fija como Sí, podrá ingresar desde distintos equipos en la misma cuenta. La configuración por defecto (No) mejora la seguridad.",module,Magento_Security
 "Password Reset Protection Type","Tipo de Protección de Reinicio de Contraseña",module,Magento_Security
