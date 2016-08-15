@@ -160,9 +160,9 @@ Delete,Borrar,module,Magento_Backend
 Save,Guardar,module,Magento_Backend
 "Edit Design Change","Editar Cambio de Diseño",module,Magento_Backend
 "New Store Design Change","Nuevo Cambio de Diseño de Tienda",module,Magento_Backend
-"General Settings","Configuración General",module,Magento_Backend
+"General Settings","Configuraciones General",module,Magento_Backend
 Store,Tienda,module,Magento_Backend
-"-- Please Select --","-- Por Favor Seleccione --",module,Magento_Backend
+"-- Please Select --","-- Por favor Seleccione --",module,Magento_Backend
 "Custom Design","Diseño Personalizado",module,Magento_Backend
 "Date From","Desde Fecha",module,Magento_Backend
 "Date To","Hasta Fecha",module,Magento_Backend
@@ -298,7 +298,7 @@ System,Sistema,module,Magento_Backend
 "Current Month","Mes Actual",module,Magento_Backend
 YTD,YTD,module,Magento_Backend
 2YTD,2YTD,module,Magento_Backend
-"Authentication storage is incorrect.","La autenticación de almacenamiento es incorrecta.",module,Magento_Backend
+"Authentication storage is incorrect.","El almacenamiento de autenticación es incorrecto.",module,Magento_Backend
 "You did not sign in correctly or your account is temporarily disabled.","No ingresado correctamente o su cuenta está temporalmente desactivada.",module,Magento_Backend
 "Authentication error occurred.","Ocurrió un error de auntenticación.",module,Magento_Backend
 "Admin session lifetime must be less than or equal to 31536000 seconds (one year)","La caducidad de sesión de la cuenta de administración debe ser menor o igual a 31536000 segundos (un año)",module,Magento_Backend

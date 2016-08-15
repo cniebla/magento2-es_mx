@@ -5,7 +5,7 @@ Status
 100% first translation
 100% normalization
 
-Currently at 1% proofreading - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki
+Currently at 3% proofreading - see [Roadmap](https://github.com/cniebla/magento2-es_mx/wiki/Roadmap) on Wiki
 
 Spanish:
 --------
