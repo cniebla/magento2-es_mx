@@ -3972,7 +3972,7 @@ Statistics,Estadísticas,module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates","Reporte de Impuestos de Orden Agrupado por Tarifas de Impuesto",module,Magento_Reports
 "Total Invoiced VS Paid Report","Total Facturado vs. Reporte de Pagos",module,Magento_Reports
 "Promotion Coupons Usage Report","Reporte de Uso de Cupones de Promoción",module,Magento_Reports
-Bestsellers,"Más Vendidos"",module,Magento_Reports
+Bestsellers,"Más Vendidos",module,Magento_Reports
 "Most Viewed Products Report","Reporte de Productos Más Visitados",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","Ha ocurrido un error al mostrar el reporte de productos más visitados. Por favor revise la bitácora e intente de nuevo.",module,Magento_Reports
 Error,Error,module,Magento_Reports
