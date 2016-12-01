@@ -1786,7 +1786,7 @@ Submit,Enviar,module,Magento_Contact
 "We can't save the cron expression.","No podemos guardar la expresión de cron.",module,Magento_Cron
 Daily,Diariamente,module,Magento_Cron
 Weekly,Semanalmente,module,Magento_Cron
-Monthly,"Cada Mex",module,Magento_Cron
+Monthly,"Cada Mes",module,Magento_Cron
 "Invalid cron expression: %1","Expresión de cron no válida: %1",module,Magento_Cron
 "Invalid cron expression, expecting 'match/modulus': %1","Expresión de cron no válida, esperada 'coincidencia/módulo': %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Expresión de cron no válida, esperando módulo numérico: %1",module,Magento_Cron
@@ -6043,7 +6043,7 @@ Apply,Aplicar,module,Magento_Widget
 Page,Página,module,Magento_Widget
 "Wish List","Lista de Deseos",module,Magento_Wishlist
 "Wish List Sharing","Compartir Lista de Deseos",module,Magento_Wishlist
-"My Wish List","Mi Lista de Deseos,module,Magento_Wishlist
+"My Wish List","Mi Lista de Deseos",module,Magento_Wishlist
 "%1's Wish List","Lista de Deseos de %1",module,Magento_Wishlist
 "Page not found.","Página no encontrada.",module,Magento_Wishlist
 "We can't specify a product.","No podemos especificar un producto.",module,Magento_Wishlist
