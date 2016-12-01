@@ -6043,7 +6043,7 @@ Apply,Aplicar,module,Magento_Widget
 Page,Página,module,Magento_Widget
 "Wish List","Lista de Deseos",module,Magento_Wishlist
 "Wish List Sharing","Compartir Lista de Deseos",module,Magento_Wishlist
-"My Wish List","Mi Lista de Deseos,module,Magento_Wishlist
+"My Wish List","Mi Lista de Deseos",module,Magento_Wishlist
 "%1's Wish List","Lista de Deseos de %1",module,Magento_Wishlist
 "Page not found.","Página no encontrada.",module,Magento_Wishlist
 "We can't specify a product.","No podemos especificar un producto.",module,Magento_Wishlist
