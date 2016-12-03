@@ -1247,7 +1247,7 @@ Groups,Grupos,module,Magento_Catalog
 "Maximum number of characters:","Número máximo de caracteres:",module,Magento_Catalog
 "start typing to search template","Empieze a teclear para buscar la plantilla",module,Magento_Catalog
 "Product online","Producto publicado",module,Magento_Catalog
-"Product offline","Producto sin publicar,module,Magento_Catalog
+"Product offline","Producto sin publicar",module,Magento_Catalog
 "Product online status","Estado de publicación",module,Magento_Catalog
 "Manage Stock","Administrar Existencias",module,Magento_Catalog
 Qty,Cantidad,module,Magento_Catalog
@@ -6888,7 +6888,7 @@ Status,Estado,module,Magento_Braintree
 "Transaction Type","Tipo de Transacción",module,Magento_Braintree
 "PayPal Payment ID","ID de Pago de PayPal",module,Magento_Braintree
 "Transaction ID","ID de Transacción",module,Magento_Braintree
-"Order ID","ID de Order",module,Magento_Braintree
+"Order ID","ID de Orden",module,Magento_Braintree
 "Payment Type","Tipo de Pago",module,Magento_Braintree
 Type,Tipo,module,Magento_Braintree
 "Created At","Creado en",module,Magento_Braintree
