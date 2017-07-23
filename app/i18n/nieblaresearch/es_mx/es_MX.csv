@@ -345,7 +345,7 @@ Minute,Minuto,module,Magento_Backend
 "JavaScript may be disabled in your browser.","Su navegador puede tener desactivado JavaScript.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","Para usar este sitio web primero debe activar JavaScript en su navegador.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Esta es sólo una tienda de muestra. Puede explorar y hacer órdenes, pero nada será procesado.",module,Magento_Backend
-"Report Bugs","Reporte Errores",module,Magento_Backend
+"Report Bugs","Reportar Errores",module,Magento_Backend
 "Store View:","Vista de Tienda:",module,Magento_Backend
 "Stores Configuration","Configuración de Tiendas",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Por favor confirme el cambio del alcance. Todos los datos que no se han guardado se perderán.",module,Magento_Backend
@@ -2325,7 +2325,7 @@ No,No,module,Magento_Downloadable
 "Upload File","Subir Archivo",module,Magento_Downloadable
 URL,URL,module,Magento_Downloadable
 attachment,adjunto,module,Magento_Downloadable
-inline,enlínea,module,Magento_Downloadable
+inline,embebido,module,Magento_Downloadable
 Pending,Pendiente,module,Magento_Downloadable
 Invoiced,Facturado,module,Magento_Downloadable
 "To enable the option set the weight to no","Para habilitar la opción fije el peso en no",module,Magento_Downloadable
@@ -6126,7 +6126,7 @@ Back,Regresar,module,Magento_Wishlist
 "Wish List is empty now.","La Lista de Deseos está limpia ahora.",module,Magento_Wishlist
 "* Required Fields","* Campos Obligatorios",module,Magento_Wishlist
 "Sharing Information","Información de Compartir",module,Magento_Wishlist
-"Email addresses, separated by commas","Emails, separados por comas",module,Magento_Wishlist
+"Email addresses, separated by commas","Emails, separados por comas.",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Seleccione esta casilla para enlazar un feed RSS a su Lista de Deseos.",module,Magento_Wishlist
 "Last Added Items","Elementos Añadidos Recientemente",module,Magento_Wishlist
 "Remove This Item","Remover Este Elemento",module,Magento_Wishlist
@@ -6719,6 +6719,7 @@ Debug,Depurar,module,Magento_Backend
 "Minify CSS Files","Minimizar Archivos CSS",module,Magento_Backend
 "Image Processing Settings","Configuración de Procesamiento de Imagen",module,Magento_Backend
 "Image Adapter","Adaptador de Imagen",module,Magento_Backend
+"When the adapter was changed, please flush Catalog Images Cache.","Cuando el adaptador es cambiado debe limpiar el caché del catálogo de imágenes.",module,Magento_Backend
 "Static Files Settings","Configuración de Archivos Estáticos",module,Magento_Backend
 "Sign Static Files","Firmar Archivos Estáticos",module,Magento_Backend
 "Country Options","Opciones de País",module,Magento_Backend
@@ -6744,10 +6745,13 @@ City,Ciudad,module,Magento_Backend
 "Single-Store Mode","Modo Mono-Tienda",module,Magento_Backend
 "Enable Single-Store Mode","Habilitar Modo Mono-Tienda",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","Esta configuración no será tomada en cuenta si el sistema tiene más de una vista de tienda.",module,Magento_Backend
+"Cron configuration options for group: index","Opciones de configuración de las tareas agendadas para el grupo: index",module,Magento_Backend
+"Cron configuration options for group: default","Opciones de configuración de las tareas agendadas para el grupo: Defecto",module,Magento_Backend
 "Mail Sending Settings","Configuración de Envío de Email",module,Magento_Backend
 "Disable Email Communications","Deshabilitar Comunicaciones de Email",module,Magento_Backend
 Host,Servidor,module,Magento_Backend
 "Port (25)","Puerto (25)",module,Magento_Backend
+"For Windows server only.","Sólo para Servidores Windows.",module,Magento_Backend
 "Set Return-Path","Fijar Dirección-Origen (Return-Path)",module,Magento_Backend
 "Return-Path Email","Email de Origen (Return-Path Email)",module,Magento_Backend
 Admin,Administración,module,Magento_Backend
@@ -6790,6 +6794,7 @@ Web,Web,module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","Puede estar vacío o comenzar con el marcador de posición {{unsecure_base_url}}.",module,Magento_Backend
 "Base URL for User Media Files","URL Base para Archivos de Medios de Usuario",module,Magento_Backend
 "Base URLs (Secure)","URLs Base (Seguros)",module,Magento_Backend
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Cualquiera de los campos permite una dirección terminada en '/'. Ej. https://ejemplo.com/magento/",module,Magento_Backend
 "Secure Base URL","URL Base Seguro",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Especificar URL o {{base_url}}, o marcador de posición {{unsecure_base_url}}.",module,Magento_Backend
 "Secure Base Link URL","Base de Enlace URL Segura",module,Magento_Backend
@@ -6797,9 +6802,13 @@ Web,Web,module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Puede estar vacío o comenzar con {{secure_base_url}}, o marcador de posición {{unsecure_base_url}}.",module,Magento_Backend
 "Secure Base URL for User Media Files","URL Base Seguro para Archivos de Medios de Usuario",module,Magento_Backend
 "Use Secure URLs on Storefront","Usar URLs Seguros en Escaparate",module,Magento_Backend
+"Enter https protocol to use Secure URLs on Storefront.","Ingrese la dirección del escaparate con el protocolo https.",module,Magento_Backend
 "Use Secure URLs in Admin","Usar URLs Seguros en Administración",module,Magento_Backend
+"Enter https protocol to use Secure URLs in Admin.","Ingrese la dirección del administrador con el protocolo https.",module,Magento_Backend
 "Enable HTTP Strict Transport Security (HSTS)","Habilitar Seguridad de Transporte Estricta HTTP (HSTS)",module,Magento_Backend
-"Upgrade Insecure Requests","iMejorar Solicitudes Inseguras",module,Magento_Backend
+"See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","Vea la página <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet"" target=""_blank"">HTTP Strict Transport Security</a> para más detalles.",module,Magento_Backend
+"Upgrade Insecure Requests","Mejorar Solicitudes Inseguras",module,Magento_Backend
+"See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.","Vea la página <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Mejorar Solicitudes Inseguras</a> para más detalles.",module,Magento_Backend
 "Offloader header","Encabezado de liberador de carga",module,Magento_Backend
 "Default Pages","Páginas por Defecto",module,Magento_Backend
 "Default Web URL","URL de Sitio Web por Defecto",module,Magento_Backend
@@ -6931,13 +6940,10 @@ Inventory,Inventario,module,Magento_CatalogInventory
 "Only X left Threshold","Límite para Sólo X disponibles",module,Magento_CatalogInventory
 "Display Products Availability in Stock on Storefront","Mostrar Disponibilidad de Productos en Existencias en Escaparate",module,Magento_CatalogInventory
 "Product Stock Options","Opciones de Existencias de Producto",module,Magento_CatalogInventory
-"
-                    Please note that these settings apply to individual items in the cart, not to the entire cart.
-                ","
-                    Por favor observe que estas configuraciones aplican elementos artículos individuales en el carrito, no al carrito entero.
-                ",module,Magento_CatalogInventory
+"Please note that these settings apply to individual items in the cart, not to the entire cart.","Por favor observe que estas configuraciones aplican elementos artículos individuales en el carrito, no al carrito entero.",module,Magento_CatalogInventory
 "Manage Stock","Administrar Existencias",module,Magento_CatalogInventory
 Backorders,"Pedidos Pendientes",module,Magento_CatalogInventory
+"Changing can take some time due to processing whole catalog.","Cambiar esto puede tardar, debido a que se procesará todo el catálogo.",module,Magento_CatalogInventory
 "Maximum Qty Allowed in Shopping Cart","Cantidad Máxima Permitida en Carrito de Compras",module,Magento_CatalogInventory
 "Out-of-Stock Threshold","Límite de Sin Existencias",module,Magento_CatalogInventory
 "Minimum Qty Allowed in Shopping Cart","Cantidad Mínima Permitida en Carrito de Compras",module,Magento_CatalogInventory
@@ -7001,16 +7007,16 @@ Inventory,Inventario,module,Magento_Catalog
 Storefront,Escaparate,module,Magento_Catalog
 "List Mode","Modo de Lista",module,Magento_Catalog
 "Products per Page on Grid Allowed Values","Valores Permitidos para Productos por Página en Cuadrícula",module,Magento_Catalog
-Comma-separated.,"Separados por comas".,module,Magento_Catalog
+Comma-separated.,"Separados por comas.",module,Magento_Catalog
 "Products per Page on Grid Default Value","Valor por Defecto para Productos por Página en Cuadrícula",module,Magento_Catalog
-"Must be in the allowed values list","Debe estar en la lista de valores permitidos",module,Magento_Catalog
+"Must be in the allowed values list","Debe estar en la lista de valores permitidos.",module,Magento_Catalog
 "Products per Page on List Allowed Values","Valores Permitidos para Productos por Página en Lista",module,Magento_Catalog
 "Products per Page on List Default Value","Valor por Defecto para Productos por Página en Lista",module,Magento_Catalog
 "Use Flat Catalog Category","Usar Categoría de Catálogo Plano",module,Magento_Catalog
 "Use Flat Catalog Product","Usar Producto de Catálogo Plano",module,Magento_Catalog
 "Product Listing Sort by","Ordenamiento de Listado de Productos",module,Magento_Catalog
 "Allow All Products per Page","Permitir Todos los Productos por Página",module,Magento_Catalog
-"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Sí o no mostrar la opción ""Todos"" en ""Mostrar X Por Página"" dropdown",module,Magento_Catalog
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Mostrar la opción ""Todos"" en ""Mostrar X Por Página"" del desplegable",module,Magento_Catalog
 "Allow Dynamic Media URLs in Products and Categories","Permitir URLs de Medios Dinámicos en Productos y Categorías",module,Magento_Catalog
 "E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","Ej. {{media url=""rota/a/imagen.jpg""}} {{skin url=""ruta/a/imagen.gif""}}. El análisis sintático de directivas dinámicas impacta la eficiencia del catálogo.",module,Magento_Catalog
 "Product Image Placeholders","Marcadores de Posición de Imágenes de Producto",module,Magento_Catalog
@@ -7245,7 +7251,7 @@ Comparable,Comparable,module,Magento_ConfigurableProduct
 "Contacts Section","Sección de COntactos",module,Magento_Contact
 Contacts,Contactos,module,Magento_Contact
 "Contact Us",Contáctenos,module,Magento_Contact
-"Enable Contact Us","Habilitar COntáctenos",module,Magento_Contact
+"Enable Contact Us","Habilitar Contáctenos",module,Magento_Contact
 "Email Options","Opciones de Email",module,Magento_Contact
 "Send Emails To","Enviar Emails A",module,Magento_Contact
 "Email Sender","Remitente de Email",module,Magento_Contact
@@ -7256,6 +7262,7 @@ Contacts,Contactos,module,Magento_Contact
 "Cookie Path","Ruta de Cookie",module,Magento_Cookie
 "Cookie Domain","Dominio de Cookie",module,Magento_Cookie
 "Use HTTP Only","Usar Sólo HTTP",module,Magento_Cookie
+"<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">Atención</strong>: Definir como ""No"" puede comprometar la seguridad de los usuarios.",module,Magento_Cookie
 "Cookie Restriction Mode","Modo de Restricción de Cookie",module,Magento_Cookie
 "Cron (Scheduled Tasks)","Cron (Tareas Agendadas)",module,Magento_Cron
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Para que se generen URLs correctas durante la operación de cron asegúrse de que los URLs de Web Seguros e Inseguros estén fijados explícitamente.",module,Magento_Cron
@@ -7317,7 +7324,7 @@ CSV,CSV,module,Magento_CustomerImportExport
 "Reset Password Template","Plantilla de Reiniciar Contraseña",module,Magento_Customer
 "Password Template Email Sender","Remitente de Email de Plantilla de Contraseña",module,Magento_Customer
 "Recovery Link Expiration Period (hours)","Periodo de Expiración de Enlace de Recuperación (horas)",module,Magento_Customer
-"Please enter a number 1 or greater in this field.","Por fafor ingrese un número 1 o superior en este campo.",module,Magento_Customer
+"Please enter a number 1 or greater in this field.","Por favor, ingrese un número 1 o superior en este campo.",module,Magento_Customer
 "Number of Required Character Classes","Número Requerido de Clases de Caracteres",module,Magento_Customer
 "Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Número de diferentes clases de caracteres requeridas en la contraseña: Minúsculas, Mayúsculas, Dígitos, Caracteres Especiales.",module,Magento_Customer
 "Minimum Password Length","Longitud Mínima de Contraseña",module,Magento_Customer
@@ -7330,11 +7337,7 @@ CSV,CSV,module,Magento_CustomerImportExport
 "Show Prefix","Mostrar Prefijo",module,Magento_Customer
 "The title that goes before name (Mr., Mrs., etc.)","El título que va antes del nombre (Sr., Sra., etc.)",module,Magento_Customer
 "Prefix Dropdown Options","Opciones de Prefijo Desplegable",module,Magento_Customer
-"
-                        Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
-                    ","
-                        Valores separados por punto y coma (;).<br/>Coloque un punto y coma al inicio para que la primera opción esté vacía.<br/>Dejar vacío para un campo de texto abierto.
-                    ",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Valores separados por punto y coma (;).<br/>Coloque un punto y coma al inicio para que la primera opción esté vacía.<br/>Dejar vacío para un campo de texto abierto.",module,Magento_Customer
 "Show Middle Name (initial)","Mostrar Nombre (inicial)",module,Magento_Customer
 "Always optional.","Opcional siempre.",module,Magento_Customer
 "Show Suffix","Mostrar Sufijo",module,Magento_Customer
@@ -7389,7 +7392,7 @@ Addresses,Direcciones,module,Magento_Customer
 "You are signed out","Ha salido",module,Magento_Customer
 "Frontend Development Workflow","Flujo de Trabajo de Desarrollo de Escaparate",module,Magento_Developer
 "Workflow type","Tipo de flujo de trabajo",module,Magento_Developer
-"Not available in production mode","No está disponible en modo de producción",module,Magento_Developer
+"Not available in production mode","No está disponible en modo de producción.",module,Magento_Developer
 "Developer Client Restrictions","Restricciones de Cliente de Desarrollo",module,Magento_Developer
 "Allowed IPs (comma separated)","IPs permitidas (separadas por coma)",module,Magento_Developer
 "Leave empty for access from any location.","Dejar vacío para acceder desde cualquier dirección.",module,Magento_Developer
@@ -7421,11 +7424,7 @@ Debug,Depurar,module,Magento_Dhl
 "Currency Setup","Configuración de Moneda",module,Magento_Directory
 "Currency Options","Opciones de Moneda",module,Magento_Directory
 "Base Currency","Moneda Base",module,Magento_Directory
-"
-                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
-                    ","
-                        La moneda base es usada para todas las transacciones de pago en línea. El alcance de la moneda base está definido por el alcance de precio de catálogo (""Catálogo"" > ""Precio"" > ""Alcance de Precio de Catálogo"").
-                    ",module,Magento_Directory
+"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","La moneda base es usada para todas las transacciones de pago en línea. El alcance de la moneda base está definido por el alcance de precio de catálogo (""Catálogo"" > ""Precio"" > ""Alcance de Precio de Catálogo"").",module,Magento_Directory
 "Default Display Currency","Moneda por Defecto para Despliegue",module,Magento_Directory
 "Allowed Currencies","Monedas Permitidas",module,Magento_Directory
 "Yahoo Finance Exchange","Yahoo Finance Exchange",module,Magento_Directory
@@ -7550,11 +7549,16 @@ Updated,Actualizado,module,Magento_Indexer
 Extensions,Extensiones,module,Magento_Integration
 OAuth,OAuth,module,Magento_Integration
 "Cleanup Settings","Limpiar Configuraciones",module,Magento_Integration
-"Cleanup Probability","Limpiar Probabilidad",module,Magento_Integration
+"Cleanup Probability","Probabilidad de Limpieza",module,Magento_Integration
+"Integer. Launch cleanup in X OAuth requests. 0 (not recommended) - to disable cleanup","Número. Realizar limpieza entre X peticiones OAuth. 0 (no recomendado) - para desactivar.",module,Magento_Integration
 "Expiration Period","Periodo de Expiración",module,Magento_Integration
+"Cleanup entries older than X minutes.","Limpiar entradas más antiguas que X minutos.",module,Magento_Integration
 "Consumer Settings","Configuración de Cliente",module,Magento_Integration
 "OAuth consumer credentials HTTP Post maxredirects","Credenciales de cliente OAuth HTTP Post maxredirects",module,Magento_Integration
+"Consumer key/secret will expire if not used within X seconds after Oauth token exchange starts.","Las claves de cliente expirarán si no se usan en X segundos después de que de genere el Token OAuth.",module,Magento_Integration
+"Number of maximum redirects for OAuth consumer credentials Post request.","Número máximo de redirecciones para las peticiones Post del cliente OAuth",module,Magento_Integration
 "OAuth consumer credentials HTTP Post timeout","Credenciales de cliente OAuth HTTP Post timeout",module,Magento_Integration
+"Timeout for OAuth consumer credentials Post request within X seconds.","Tiempo límite para la solicitud Post del cliente OAuth en segundos.",module,Magento_Integration
 "Integrations Configuration","Configuración de Integraciones",module,Magento_Integration
 "Integration configuration file","Archivo de configuración de integraciones",module,Magento_Integration
 "Integrations API Configuration","Configuración de API de Integraciones",module,Magento_Integration
@@ -7578,6 +7582,7 @@ Status,Estado,module,Magento_Integration
 "Environment Update Time","Tiempo de Actualización de Ambiente",module,Magento_MediaStorage
 "Minimum Advertised Price","Precio Mínimo Publicado",module,Magento_Msrp
 "Enable MAP","Habilitar MAP",module,Magento_Msrp
+"<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">¡Atención!</strong> Habilitar MAP por defecto ocultará todos los precios en su vitrina.",module,Magento_Msrp
 "Display Actual Price","Desplegar Precio Actual",module,Magento_Msrp
 "Default Popup Text Message","Mensaje de Texto Emergente por Defecto",module,Magento_Msrp
 "Default ""What's This"" Text Message","Mensaje de Texto ""Qué es Esto"" Por Defecto",module,Magento_Msrp
@@ -7649,6 +7654,8 @@ Unconfirmed,"Sin confirmar",module,Magento_Newsletter
 Store,Tienda,module,Magento_Newsletter
 "Store View","Vista de Tienda",module,Magento_Newsletter
 "Newsletter Subscriptions","Suscripciones al Boletín",module,Magento_Newsletter
+"Stored Payment Methods","Mis Métodos de Pago",module,Magento_OfflinePayments
+"You have no stored payment methods.","Aún no tiene métodos de Pago.",module,Magento_OfflinePayments
 "Check / Money Order","Cheque / Money Order",module,Magento_OfflinePayments
 Enabled,Habilitado,module,Magento_OfflinePayments
 "New Order Status","Nuevo Estado de Orden",module,Magento_OfflinePayments
@@ -7712,12 +7719,16 @@ Manage,Administrar,module,Magento_Paypal
 "Place Order Using Billing Agreements","Colocar Orden Usando Acuerdos de Facturación",module,Magento_Paypal
 "Merchant Location","Localidad del Comerciante",module,Magento_Paypal
 "Merchant Country","País del Comerciante",module,Magento_Paypal
+"Recommended Solutions:","Soluciones Recomendadas:",module,Magento_Paypal
 "If not specified, Default Country from General Config will be used","Si no se especifica, se usará el País por Defecto de la Configuración General",module,Magento_Paypal
 "
                     PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>
                 ","
                     Soluciones de Pago Todo-en-Uno de PayPal&nbsp;&nbsp;<i>Acepte y procese tarjetas de crédito y pagos PayPal.</i>
                 ",module,Magento_Paypal
+"Other PayPal Payment Solutions:","Otras Soluciones de Pago Paypal:",module,Magento_Paypal
+"PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Paypal Todo en Uno&nbsp;<i>Acepte y procese tarjetas de crédito y Crédito Paypal.</i>",module,Magento_Paypal
+"Other Payment Methods:","Otros Métodos de Pago:",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.","Elija una solución integrada segura de pagos para su negocio.",module,Magento_Paypal
 "Payments Pro and Express Checkout","Compras Payments Pro y Express",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro","Configuraciones básicas - PayPal Payments Pro",module,Magento_Paypal
@@ -8075,7 +8086,7 @@ Promotion,Promoción,module,Magento_SalesRule
 "Web Site","Sitio Web",module,Magento_SalesRule
 Priority,Prioridad,module,Magento_SalesRule
 "Cart Price Rule","Regla de Precio de Carrito",module,Magento_SalesRule
-Back,Atrñas,module,Magento_SalesRule
+Back,Atrás,module,Magento_SalesRule
 "Rule Information","Información de Regla",module,Magento_SalesRule
 "Rule Name","Nombre de Regla",module,Magento_SalesRule
 Description,Descripción,module,Magento_SalesRule
@@ -8121,17 +8132,9 @@ General,General,module,Magento_Sales
 "Allow Reorder","Permitir Reordenar",module,Magento_Sales
 "Invoice and Packing Slip Design","Diseño de Facturas y Albaranes",module,Magento_Sales
 "Logo for PDF Print-outs (200x50)","Logotipo para imprimibles PDF (200x50)",module,Magento_Sales
-"
-                        Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
-                    ","
-                        Su logotipo por defecto será usado en documentos PDF y HTML.<br />(jpeg, tiff, png) Si su imagen PDF está distorsionada, intente usar un tamaño más grande de imagen.
-                    ",module,Magento_Sales
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Su logotipo por defecto será usado en documentos PDF y HTML.<br />(jpeg, tiff, png) Si su imagen PDF está distorsionada, intente usar un tamaño más grande de imagen.",module,Magento_Sales
 "Logo for HTML Print View","Logo for HTML Print View",module,Magento_Sales
-"
-                        Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
-                    ","
-                        Logotipo para documentos HTML. Si está vacío, se usará la imagen por defecto.<br />(jpeg, gif, png)
-                    ",module,Magento_Sales
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logotipo para documentos HTML. Si está vacío, se usará la imagen por defecto.<br />(jpeg, gif, png)",module,Magento_Sales
 Address,Dirección,module,Magento_Sales
 "Minimum Order Amount","Cantidad Mínima de Orden",module,Magento_Sales
 Enable,Habilitar,module,Magento_Sales
@@ -8148,6 +8151,7 @@ Enable,Habilitar,module,Magento_Sales
 "We'll use the default error above if you leave this empty.","Usaremos el mensaje de error por defecto arriba si deja esto vacío.",module,Magento_Sales
 Dashboard,Tablero,module,Magento_Sales
 "Use Aggregated Data","Usar Datos Agregados",module,Magento_Sales
+"Improves dashboard performance but provides non-realtime data.","Mejora el rendimiento del Tablero, pero provee datos con retraso.",module,Magento_Sales
 "Orders Cron Settings","Configuraciones de Cron de Orden",module,Magento_Sales
 "Pending Payment Order Lifetime (minutes)","Caducidad de Pago de Orden Pendiente (minutos)",module,Magento_Sales
 "Sales Emails","Emails de Ventas",module,Magento_Sales
@@ -8158,7 +8162,7 @@ Enabled,Habilitado,module,Magento_Sales
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_Sales
 "New Order Confirmation Template for Guest","Plantilla de Confirmación de Nueva Orden para Invitado",module,Magento_Sales
 "Send Order Email Copy To","Enviar Copia de Email de Orden A",module,Magento_Sales
-Comma-separated,"Separados por comas",module,Magento_Sales
+Comma-separated,"Separados por comas.",module,Magento_Sales
 "Send Order Email Copy Method","Método de Envío de Copia de Email de Orden",module,Magento_Sales
 "Order Comment Email Sender","Remitente de Email de Comentario de Orden",module,Magento_Sales
 "Order Comment Email Template","Plantilla de Email de Comentario de Orden",module,Magento_Sales
@@ -8329,6 +8333,7 @@ Layouts,Diseños,module,Magento_Store
 "Database DDL operations","Operaciones de base de datos DDL",module,Magento_Store
 "Results of DDL queries, such as describing tables or indexes","Resultados de consultas DDL, tales como descripciones de tablas o índices",module,Magento_Store
 "Swatches per Product","Muestras por Producto",module,Magento_Swatches
+"Show Swatches in Product List","Muestras en la Lista de Productos",module,Magento_Swatches
 "Swatch Image","Imagen de Muestra",module,Magento_Swatches
 Image,Imagen,module,Magento_Swatches
 "Allowed file types: jpeg, gif, png.","Tipos de archivo permitidos: jpeg, gif, png.",module,Magento_Swatches
@@ -8434,7 +8439,10 @@ Settings,Configuraciones,module,Magento_Theme
 "Translation Strategy","Estrategia de Traducción",module,Magento_Translation
 Translations,Traducciones,module,Magento_Translation
 "Translation files","Archivos de traducción",module,Magento_Translation
+"Please put your store into maintenance mode and redeploy static files after changing strategy","Por favor, ponga su tienda en modo mantenimiento y vuelva a generar los archivos estáticos después de cambiar la estratégia.",module,Magento_Ui
+"If enabled, can be used by functional tests for extended reporting","Si se habilita, puede ser usado por las pruebas funcionales para extender los reportes.",module,Magento_Ui
 "Log JS Errors to Session Storage","Registrar Errores JS en Almacenamiento de Sesión",module,Magento_Ui
+"Use this key to retrieve collected js errors","Utilice esta llave para obtener errores JS de los registros.",module,Magento_Ui
 "Log JS Errors to Session Storage Key","Llave para Registrar Errores JS en Llave de Sesión de Almacenamiento",module,Magento_Ui
 Action,Acción,module,Magento_Ui
 CSV,CSV,module,Magento_Ui
@@ -8484,6 +8492,7 @@ Edit,Editar,module,Magento_UrlRewrite
 "Maximum Login Failures to Lockout Account","Fallas Máximas de Ingreso para Bloquear Cuenta",module,Magento_User
 "We will disable this feature if the value is empty.","Vamos a deshabilitar esta característica si el valor está vacío.",module,Magento_User
 "Lockout Time (minutes)","Tiempo de Bloqueo (minutos)",module,Magento_User
+"Account will be unlocked after provided time.","La cuenta será desbloqueda después de X minutos.",module,Magento_User
 "Password Lifetime (days)","Caducidad de Contraseña (días)",module,Magento_User
 "We will disable this feature if the value is empty. ","Vamos a deshabilitar esta característica si el valor está vacío. ",module,Magento_User
 "Password Change","Cambio de Contraseña",module,Magento_User
@@ -8526,6 +8535,7 @@ Debug,Depurar,module,Magento_Usps
 "Variable ID","ID de Variable",module,Magento_Variable
 Name,Nombre,module,Magento_Variable
 "Web API Security","Seguridad de API de Web",module,Magento_WebapiSecurity
+"This feature applies only to CMS, Catalog and Store APIs. Please consult your developers for details on potential security risks.","Esta función se aplica solamente al administrador de contenido, catálogo y las APIs de la Tienda. Por favor consulte con su desarrollador para obtener más detalles sobre los riezgos de seguridad.",module,Magento_WebapiSecurity
 "Allow Anonymous Guest Access","Permitir Acceso de Invitados Anónimos",module,Magento_WebapiSecurity
 "Manage Customers","Administrar Clientes",module,Magento_Webapi
 "Create Customer","Crear Cliente",module,Magento_Webapi
@@ -8563,10 +8573,12 @@ Conditions,Condiciones,module,Magento_Widget
 "Wish List Section","Sección de Lista de Deseos",module,Magento_Wishlist
 "Share Options","Opciones de Compartir",module,Magento_Wishlist
 "Email Sender","Remitente de Email",module,Magento_Wishlist
-"Email Template","Plantilla de Email Template",module,Magento_Wishlist
+"Email Template","Plantilla de Email",module,Magento_Wishlist
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de Email seleccionada con base en el tema recurrente cuando se selecciona la opción ""Por Defecto"".",module,Magento_Wishlist
 "Max Emails Allowed to be Sent","Máximo Permitido de Emails a Enviar",module,Magento_Wishlist
+"10 by default. Max - 10000","Por defecto 10, Máx. 10000.",module,Magento_Wishlist
 "Email Text Length Limit","Límite de Longitud de Texto de Email",module,Magento_Wishlist
+"255 by default","Por defecto 255.",module,Magento_Wishlist
 "General Options","Opciones Generales",module,Magento_Wishlist
 Enabled,Habilitado,module,Magento_Wishlist
 "My Wish List Link","Enlace a Mi Lista de Deseos",module,Magento_Wishlist
