@@ -6387,14 +6387,14 @@ Footer,Pié,theme,frontend/Magento/luma
 "Invoice for your %store_name order","Facturación para su orden en %store_name",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Su Factura #%invoice_id para la Orden #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","Actualización para su factura en %store_name",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Su coinfirmación de orden en %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Su confirmación de orden en %store_name",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Una vez que su paquete sea enviado le enviaremos un número de rastreo.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Su Orden <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Colocada en <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Actualización para su orden en %store_name",theme,frontend/Magento/luma
 "Your %store_name order has shipped","Su orden en %store_name ha sido enviada",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Si confirmación de envío está abajo. Gracias de nuevo por su preferencia.",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Su confirmación de envío está abajo. Gracias de nuevo por su preferencia.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Su Envío #%shipment_id para la Orden #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Actualización para su envío en %store_name",theme,frontend/Magento/luma
 "Backup options","Opciones de respaldo",lib,lib/web/mage/adminhtml/backup.js
