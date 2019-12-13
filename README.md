@@ -1,5 +1,8 @@
 # magento2-es_mx
 
+ESTE PROYECTO YA NO SE MANTIENE
+Recomiendo ver los forks para ver si sigue el esfuerzo
+
 Status
 --------
 100% first translation
