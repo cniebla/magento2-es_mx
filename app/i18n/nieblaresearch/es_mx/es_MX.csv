@@ -8386,7 +8386,7 @@ Rate,Tarifa,module,Magento_Tax
 "(Incl. Tax)","(Incl. Impuesto)",module,Magento_Tax
 "Order Total Excl. Tax","Total de Orden Excl. Tax",module,Magento_Tax
 "Order Total Incl. Tax","Total de Orden Incl. Tax",module,Magento_Tax
-"Order Total","Total de Order",module,Magento_Tax
+"Order Total","Total de Orden",module,Magento_Tax
 "Your credit card will be charged for","Se cargará a su tarjeta de crédito por",module,Magento_Tax
 Empty,Vacío,module,Magento_Theme
 "1 column","1 columna",module,Magento_Theme
